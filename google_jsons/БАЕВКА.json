@@ -1,0 +1,295 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baevka",
+               "short_name" : "Baevka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nikolayevsky District, Ulyanovsk Oblast",
+               "short_name" : "Nikolayevsky District, Ulyanovsk Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsk Oblast",
+               "short_name" : "Ulyanovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "433826",
+               "short_name" : "433826",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baevka, Ulyanovsk Oblast, Russia, 433826",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.100949,
+                  "lng" : 47.2695219
+               },
+               "southwest" : {
+                  "lat" : 53.083494,
+                  "lng" : 47.2439991
+               }
+            },
+            "location" : {
+               "lat" : 53.0906696,
+               "lng" : 47.2549369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.100949,
+                  "lng" : 47.2695219
+               },
+               "southwest" : {
+                  "lat" : 53.083494,
+                  "lng" : 47.2439991
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baevka",
+               "short_name" : "Baevka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guryevsky District, Kaliningrad Oblast",
+               "short_name" : "Guryevsky District, Kaliningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningradskaya oblast",
+               "short_name" : "Kaliningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238318",
+               "short_name" : "238318",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baevka, Kaliningrad Oblast, Russia, 238318",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.825407,
+                  "lng" : 20.764183
+               },
+               "southwest" : {
+                  "lat" : 54.8219589,
+                  "lng" : 20.7564329
+               }
+            },
+            "location" : {
+               "lat" : 54.823536,
+               "lng" : 20.76
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.825407,
+                  "lng" : 20.764183
+               },
+               "southwest" : {
+                  "lat" : 54.8219589,
+                  "lng" : 20.7564329
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baevka",
+               "short_name" : "Baevka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuzovatovsky District",
+               "short_name" : "Kuzovatovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsk Oblast",
+               "short_name" : "Ulyanovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "433767",
+               "short_name" : "433767",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baevka, Ulyanovsk Oblast, Russia, 433767",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5961154,
+                  "lng" : 47.6095953
+               },
+               "southwest" : {
+                  "lat" : 53.59474179999999,
+                  "lng" : 47.6020435
+               }
+            },
+            "location" : {
+               "lat" : 53.595499,
+               "lng" : 47.6051563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5967775802915,
+                  "lng" : 47.6095953
+               },
+               "southwest" : {
+                  "lat" : 53.5940796197085,
+                  "lng" : 47.6020435
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baevka(Kirillovskiy s/p)",
+               "short_name" : "Baevka(Kirillovskiy s/p)",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stanovlyansky District",
+               "short_name" : "Stanovlyansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "399713",
+               "short_name" : "399713",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baevka(Kirillovskiy s/p), Lipetsk Oblast, Russia, 399713",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.729459,
+                  "lng" : 38.2363931
+               },
+               "southwest" : {
+                  "lat" : 52.7229239,
+                  "lng" : 38.220282
+               }
+            },
+            "location" : {
+               "lat" : 52.72621359999999,
+               "lng" : 38.2262877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.729459,
+                  "lng" : 38.2363931
+               },
+               "southwest" : {
+                  "lat" : 52.7229239,
+                  "lng" : 38.220282
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baevka",
+               "short_name" : "Baevka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Myasnikovsky District",
+               "short_name" : "Myasnikovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346817",
+               "short_name" : "346817",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baevka, Rostov Oblast, Russia, 346817",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.481721,
+                  "lng" : 39.378231
+               },
+               "southwest" : {
+                  "lat" : 47.4782006,
+                  "lng" : 39.373055
+               }
+            },
+            "location" : {
+               "lat" : 47.4799134,
+               "lng" : 39.3760949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.481721,
+                  "lng" : 39.378231
+               },
+               "southwest" : {
+                  "lat" : 47.4782006,
+                  "lng" : 39.373055
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

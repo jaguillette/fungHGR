@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irkutsk",
+               "short_name" : "Irkutsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Irkutsk",
+               "short_name" : "g. Irkutsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irkutskaya",
+               "short_name" : "Irkutskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irkutsk, Irkutsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.387612,
+                  "lng" : 104.4289491
+               },
+               "southwest" : {
+                  "lat" : 52.209059,
+                  "lng" : 104.105367
+               }
+            },
+            "location" : {
+               "lat" : 52.312222,
+               "lng" : 104.295833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.387612,
+                  "lng" : 104.4289491
+               },
+               "southwest" : {
+                  "lat" : 52.209059,
+                  "lng" : 104.105367
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

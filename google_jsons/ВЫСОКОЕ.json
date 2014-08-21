@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vysokoye",
+               "short_name" : "Vysokoye",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Torzhoksky District",
+               "short_name" : "Torzhoksky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172030",
+               "short_name" : "172030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vysokoye, Tver Oblast, Russia, 172030",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.6957,
+               "lng" : 34.9098001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6970489802915,
+                  "lng" : 34.9111490802915
+               },
+               "southwest" : {
+                  "lat" : 56.6943510197085,
+                  "lng" : 34.9084511197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,136 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Germanova",
+               "short_name" : "ul. Germanova",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Staroshcherbinovskaya",
+               "short_name" : "Staroshcherbinovskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shcherbinovsky District",
+               "short_name" : "Shcherbinovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "353620",
+               "short_name" : "353620",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Germanova, Staroshcherbinovskaya, Krasnodar Krai, Russia, 353620",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6416692,
+                  "lng" : 38.6501398
+               },
+               "southwest" : {
+                  "lat" : 46.6255027,
+                  "lng" : 38.6482517
+               }
+            },
+            "location" : {
+               "lat" : 46.6334678,
+               "lng" : 38.6489442
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6416692,
+                  "lng" : 38.65054473029149
+               },
+               "southwest" : {
+                  "lat" : 46.6255027,
+                  "lng" : 38.64784676970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Германов",
+               "short_name" : "Германов",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "16с2",
+               "short_name" : "16с2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Olimpiyskiy prospekt",
+               "short_name" : "Olimpiyskiy pr.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Мещанский",
+               "short_name" : "Мещанский",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "129090",
+               "short_name" : "129090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Германов, Olimpiyskiy prospekt, 16с2, Moscow, Russia, 129090",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.782424,
+               "lng" : 37.626486
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7837729802915,
+                  "lng" : 37.6278349802915
+               },
+               "southwest" : {
+                  "lat" : 55.7810750197085,
+                  "lng" : 37.6251370197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

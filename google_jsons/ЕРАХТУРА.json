@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erakhtur",
+               "short_name" : "Erakhtur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shilovsky District",
+               "short_name" : "Shilovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "391534",
+               "short_name" : "391534",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Erakhtur, Ryazan Oblast, Russia, 391534",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.717629,
+                  "lng" : 41.1575738
+               },
+               "southwest" : {
+                  "lat" : 54.692829,
+                  "lng" : 41.1176189
+               }
+            },
+            "location" : {
+               "lat" : 54.704722,
+               "lng" : 41.135556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.717629,
+                  "lng" : 41.1575738
+               },
+               "southwest" : {
+                  "lat" : 54.692829,
+                  "lng" : 41.1176189
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

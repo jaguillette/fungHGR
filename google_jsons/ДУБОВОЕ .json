@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubove",
+               "short_name" : "Dubove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyachivs'kyi district",
+               "short_name" : "Tyachivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zakarpats'ka oblast",
+               "short_name" : "Zakarpats'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubove, Zakarpats'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.21402200000001,
+                  "lng" : 23.9225091
+               },
+               "southwest" : {
+                  "lat" : 48.15811799999999,
+                  "lng" : 23.872836
+               }
+            },
+            "location" : {
+               "lat" : 48.1731,
+               "lng" : 23.8892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.21402200000001,
+                  "lng" : 23.9225091
+               },
+               "southwest" : {
+                  "lat" : 48.15811799999999,
+                  "lng" : 23.872836
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

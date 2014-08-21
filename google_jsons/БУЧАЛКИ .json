@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buchalki",
+               "short_name" : "Buchalki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kimovsky District",
+               "short_name" : "Kimovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301753",
+               "short_name" : "301753",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Buchalki, Tula Oblast, Russia, 301753",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.776042,
+                  "lng" : 38.7373989
+               },
+               "southwest" : {
+                  "lat" : 53.768178,
+                  "lng" : 38.7234511
+               }
+            },
+            "location" : {
+               "lat" : 53.77121649999999,
+               "lng" : 38.7309539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.776042,
+                  "lng" : 38.7373989
+               },
+               "southwest" : {
+                  "lat" : 53.768178,
+                  "lng" : 38.7234511
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

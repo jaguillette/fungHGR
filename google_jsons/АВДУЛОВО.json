@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avdulovo",
+               "short_name" : "Avdulovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dankovskiy rayon",
+               "short_name" : "Dankovskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "399837",
+               "short_name" : "399837",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avdulovo, Lipetsk Oblast, Russia, 399837",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.305301,
+                  "lng" : 38.6363699
+               },
+               "southwest" : {
+                  "lat" : 53.295158,
+                  "lng" : 38.620759
+               }
+            },
+            "location" : {
+               "lat" : 53.300006,
+               "lng" : 38.6298386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.305301,
+                  "lng" : 38.6363699
+               },
+               "southwest" : {
+                  "lat" : 53.295158,
+                  "lng" : 38.620759
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

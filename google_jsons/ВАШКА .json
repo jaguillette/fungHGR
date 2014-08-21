@@ -1,0 +1,149 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vaška",
+               "short_name" : "Vaška",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Općina Sopje",
+               "short_name" : "Općina Sopje",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virovitica-Podravina County",
+               "short_name" : "Virovitica-Podravina County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vaška, Croatia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8388484,
+                  "lng" : 17.6864075
+               },
+               "southwest" : {
+                  "lat" : 45.7778742,
+                  "lng" : 17.6317266
+               }
+            },
+            "location" : {
+               "lat" : 45.8158346,
+               "lng" : 17.6662657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8388484,
+                  "lng" : 17.6864075
+               },
+               "southwest" : {
+                  "lat" : 45.7778742,
+                  "lng" : 17.6317266
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vashka",
+               "short_name" : "Vashka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pereslavsky District",
+               "short_name" : "Pereslavsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152041",
+               "short_name" : "152041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vashka, Yaroslavl Oblast, Russia, 152041",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.8873,
+               "lng" : 39.097508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.88864898029149,
+                  "lng" : 39.09885698029149
+               },
+               "southwest" : {
+                  "lat" : 56.8859510197085,
+                  "lng" : 39.0961590197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vashka River",
+               "short_name" : "Vashka River",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Leshukonsky District",
+               "short_name" : "Leshukonsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkhangel'skaya oblast",
+               "short_name" : "Arkhangel'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vashka River, Arkhangelsk Oblast, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.912222,
+               "lng" : 45.698611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.91357098029151,
+                  "lng" : 45.6999599802915
+               },
+               "southwest" : {
+                  "lat" : 64.9108730197085,
+                  "lng" : 45.6972620197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

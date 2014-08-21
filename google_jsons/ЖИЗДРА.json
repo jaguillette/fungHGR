@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhizdra",
+               "short_name" : "Zhizdra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhizdrinsky District",
+               "short_name" : "Zhizdrinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhizdra, Kaluga Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7617991,
+                  "lng" : 34.766233
+               },
+               "southwest" : {
+                  "lat" : 53.729314,
+                  "lng" : 34.7100469
+               }
+            },
+            "location" : {
+               "lat" : 53.75027799999999,
+               "lng" : 34.736111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7617991,
+                  "lng" : 34.766233
+               },
+               "southwest" : {
+                  "lat" : 53.729314,
+                  "lng" : 34.7100469
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

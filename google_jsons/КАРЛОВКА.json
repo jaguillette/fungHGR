@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karlivka",
+               "short_name" : "Karlivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karlivs'kyi district",
+               "short_name" : "Karlivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karlivka, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.483031,
+                  "lng" : 35.1595499
+               },
+               "southwest" : {
+                  "lat" : 49.4315753,
+                  "lng" : 35.0577165
+               }
+            },
+            "location" : {
+               "lat" : 49.45,
+               "lng" : 35.133333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.483031,
+                  "lng" : 35.1595499
+               },
+               "southwest" : {
+                  "lat" : 49.4315753,
+                  "lng" : 35.0577165
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

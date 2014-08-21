@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Svetlogorsk-Na-Berezin",
+               "short_name" : "Svetlogorsk-Na-Berezin",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Svietlahorsk",
+               "short_name" : "Svietlahorsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svetlahorsk District",
+               "short_name" : "Svetlahorsk District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Svetlogorsk-Na-Berezin, Svietlahorsk, Belarus",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6305,
+               "lng" : 29.71609999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6318489802915,
+                  "lng" : 29.71744898029149
+               },
+               "southwest" : {
+                  "lat" : 52.6291510197085,
+                  "lng" : 29.71475101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

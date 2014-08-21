@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hadyach",
+               "short_name" : "Hadyach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hadyats'kyi district",
+               "short_name" : "Hadyats'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hadyach, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3975076,
+                  "lng" : 34.014895
+               },
+               "southwest" : {
+                  "lat" : 50.3370178,
+                  "lng" : 33.9461445
+               }
+            },
+            "location" : {
+               "lat" : 50.366667,
+               "lng" : 34
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3975076,
+                  "lng" : 34.014895
+               },
+               "southwest" : {
+                  "lat" : 50.3370178,
+                  "lng" : 33.9461445
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

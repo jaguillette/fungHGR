@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basan'",
+               "short_name" : "Basan'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polohivs'kyi district",
+               "short_name" : "Polohivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zaporiz'ka oblast",
+               "short_name" : "Zaporiz'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basan', Zaporiz'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.447956,
+                  "lng" : 36.270015
+               },
+               "southwest" : {
+                  "lat" : 47.338672,
+                  "lng" : 36.0923229
+               }
+            },
+            "location" : {
+               "lat" : 47.393649,
+               "lng" : 36.159843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.447956,
+                  "lng" : 36.270015
+               },
+               "southwest" : {
+                  "lat" : 47.338672,
+                  "lng" : 36.0923229
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

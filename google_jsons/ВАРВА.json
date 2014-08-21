@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Varva",
+               "short_name" : "Varva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Varvyns'kyi district",
+               "short_name" : "Varvyns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Varva, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.518161,
+                  "lng" : 32.7533554
+               },
+               "southwest" : {
+                  "lat" : 50.4731023,
+                  "lng" : 32.6919435
+               }
+            },
+            "location" : {
+               "lat" : 50.495,
+               "lng" : 32.723611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.518161,
+                  "lng" : 32.7533554
+               },
+               "southwest" : {
+                  "lat" : 50.4731023,
+                  "lng" : 32.6919435
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

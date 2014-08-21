@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Komyshnya",
+               "short_name" : "Komyshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Myrhorods'kyi district",
+               "short_name" : "Myrhorods'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Komyshnya, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.20111499999999,
+                  "lng" : 33.714733
+               },
+               "southwest" : {
+                  "lat" : 50.16550489999999,
+                  "lng" : 33.6588001
+               }
+            },
+            "location" : {
+               "lat" : 50.184352,
+               "lng" : 33.684605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.20111499999999,
+                  "lng" : 33.714733
+               },
+               "southwest" : {
+                  "lat" : 50.16550489999999,
+                  "lng" : 33.6588001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

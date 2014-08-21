@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleksandrova Pustyn'",
+               "short_name" : "Aleksandrova Pustyn'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rybinsky District, Yaroslavl Oblast",
+               "short_name" : "Rybinsky District, Yaroslavl Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152983",
+               "short_name" : "152983",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleksandrova Pustyn', Yaroslavl Oblast, Russia, 152983",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.853237,
+                  "lng" : 39.001592
+               },
+               "southwest" : {
+                  "lat" : 57.85067300000001,
+                  "lng" : 38.9950499
+               }
+            },
+            "location" : {
+               "lat" : 57.8517921,
+               "lng" : 38.9981104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.85330398029151,
+                  "lng" : 39.001592
+               },
+               "southwest" : {
+                  "lat" : 57.85060601970851,
+                  "lng" : 38.9950499
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Verkhovazhskaya IFNS",
+               "short_name" : "Verkhovazhskaya IFNS",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Verkhovazhye",
+               "short_name" : "Verkhovazhye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verkhovazhsky District",
+               "short_name" : "Verkhovazhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162300",
+               "short_name" : "162300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Verkhovazhskaya IFNS, Verkhovazhye, Vologda Oblast, Russia, 162300",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.7414,
+               "lng" : 42.0521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.74274898029151,
+                  "lng" : 42.05344898029149
+               },
+               "southwest" : {
+                  "lat" : 60.7400510197085,
+                  "lng" : 42.05075101970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

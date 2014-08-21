@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baryshivka",
+               "short_name" : "Baryshivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baryshivs'kyi district",
+               "short_name" : "Baryshivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baryshivka, Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.37114219999999,
+                  "lng" : 31.3388873
+               },
+               "southwest" : {
+                  "lat" : 50.3374902,
+                  "lng" : 31.2897922
+               }
+            },
+            "location" : {
+               "lat" : 50.353889,
+               "lng" : 31.316667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.37114219999999,
+                  "lng" : 31.3388873
+               },
+               "southwest" : {
+                  "lat" : 50.3374902,
+                  "lng" : 31.2897922
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

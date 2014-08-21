@@ -1,0 +1,1532 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyjevo-Svyatoshyns'kyi district",
+               "short_name" : "Kyjevo-Svyatoshyns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4642794,
+                  "lng" : 30.1974676
+               },
+               "southwest" : {
+                  "lat" : 50.4466696,
+                  "lng" : 30.1507545
+               }
+            },
+            "location" : {
+               "lat" : 50.4556762,
+               "lng" : 30.1741097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4642794,
+                  "lng" : 30.1974676
+               },
+               "southwest" : {
+                  "lat" : 50.4466696,
+                  "lng" : 30.1507545
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shakhtars'kyi district",
+               "short_name" : "Shakhtars'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Donetsk Oblast",
+               "short_name" : "Donetsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Donetsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.962338,
+                  "lng" : 38.958417
+               },
+               "southwest" : {
+                  "lat" : 47.9060989,
+                  "lng" : 38.91642900000001
+               }
+            },
+            "location" : {
+               "lat" : 47.934167,
+               "lng" : 38.9375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.962338,
+                  "lng" : 38.958417
+               },
+               "southwest" : {
+                  "lat" : 47.9060989,
+                  "lng" : 38.91642900000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tatarbunars'kyi district",
+               "short_name" : "Tatarbunars'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.850656,
+                  "lng" : 29.4966859
+               },
+               "southwest" : {
+                  "lat" : 45.8261739,
+                  "lng" : 29.47200699999999
+               }
+            },
+            "location" : {
+               "lat" : 45.838333,
+               "lng" : 29.484444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.850656,
+                  "lng" : 29.4966859
+               },
+               "southwest" : {
+                  "lat" : 45.8261739,
+                  "lng" : 29.47200699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Petropavlivs'kyi district",
+               "short_name" : "Petropavlivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dnipropetrovsk Oblast",
+               "short_name" : "Dnipropetrovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Dnipropetrovsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.418409,
+                  "lng" : 36.2443162
+               },
+               "southwest" : {
+                  "lat" : 48.347119,
+                  "lng" : 36.1374361
+               }
+            },
+            "location" : {
+               "lat" : 48.388713,
+               "lng" : 36.191774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.418409,
+                  "lng" : 36.2443162
+               },
+               "southwest" : {
+                  "lat" : 48.347119,
+                  "lng" : 36.1374361
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolhrads'kyi district",
+               "short_name" : "Bolhrads'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.988682,
+                  "lng" : 29.0045651
+               },
+               "southwest" : {
+                  "lat" : 45.956203,
+                  "lng" : 28.959558
+               }
+            },
+            "location" : {
+               "lat" : 45.9703068,
+               "lng" : 28.980322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.988682,
+                  "lng" : 29.0045651
+               },
+               "southwest" : {
+                  "lat" : 45.956203,
+                  "lng" : 28.959558
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Znam'yans'kyi district",
+               "short_name" : "Znam'yans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kirovohrads'ka oblast",
+               "short_name" : "Kirovohrads'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Kirovohrads'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8290879,
+                  "lng" : 32.77212590000001
+               },
+               "southwest" : {
+                  "lat" : 48.7583929,
+                  "lng" : 32.669518
+               }
+            },
+            "location" : {
+               "lat" : 48.793611,
+               "lng" : 32.720833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8290879,
+                  "lng" : 32.77212590000001
+               },
+               "southwest" : {
+                  "lat" : 48.7583929,
+                  "lng" : 32.669518
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bakhmats'kyi district",
+               "short_name" : "Bakhmats'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.95100790000001,
+                  "lng" : 32.98489199999999
+               },
+               "southwest" : {
+                  "lat" : 50.9239369,
+                  "lng" : 32.9168791
+               }
+            },
+            "location" : {
+               "lat" : 50.935278,
+               "lng" : 32.948333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.95100790000001,
+                  "lng" : 32.98489199999999
+               },
+               "southwest" : {
+                  "lat" : 50.9239369,
+                  "lng" : 32.9168791
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ochakivs'kyi district",
+               "short_name" : "Ochakivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mykolaivs'ka oblast",
+               "short_name" : "Mykolaivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Mykolaivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.641186,
+                  "lng" : 31.752032
+               },
+               "southwest" : {
+                  "lat" : 46.62652,
+                  "lng" : 31.7179387
+               }
+            },
+            "location" : {
+               "lat" : 46.633889,
+               "lng" : 31.735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.641186,
+                  "lng" : 31.752032
+               },
+               "southwest" : {
+                  "lat" : 46.62652,
+                  "lng" : 31.7179387
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novoaidars'kyi district",
+               "short_name" : "Novoaidars'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Luhans'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.947381,
+                  "lng" : 39.1671611
+               },
+               "southwest" : {
+                  "lat" : 48.904653,
+                  "lng" : 39.13794499999999
+               }
+            },
+            "location" : {
+               "lat" : 48.926111,
+               "lng" : 39.1525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.947381,
+                  "lng" : 39.1671611
+               },
+               "southwest" : {
+                  "lat" : 48.904653,
+                  "lng" : 39.13794499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volnovas'kyi district",
+               "short_name" : "Volnovas'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Donetsk Oblast",
+               "short_name" : "Donetsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Donetsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.558727,
+                  "lng" : 37.531901
+               },
+               "southwest" : {
+                  "lat" : 47.5348661,
+                  "lng" : 37.50463999999999
+               }
+            },
+            "location" : {
+               "lat" : 47.546667,
+               "lng" : 37.518333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.558727,
+                  "lng" : 37.531901
+               },
+               "southwest" : {
+                  "lat" : 47.5348661,
+                  "lng" : 37.50463999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zolotonis'kyi district",
+               "short_name" : "Zolotonis'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cherkas'ka oblast",
+               "short_name" : "Cherkas'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Cherkas'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6910671,
+                  "lng" : 31.8898671
+               },
+               "southwest" : {
+                  "lat" : 49.6261184,
+                  "lng" : 31.815635
+               }
+            },
+            "location" : {
+               "lat" : 49.6725,
+               "lng" : 31.852778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6910671,
+                  "lng" : 31.8898671
+               },
+               "southwest" : {
+                  "lat" : 49.653665,
+                  "lng" : 31.815635
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berdyans'kyi district",
+               "short_name" : "Berdyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zaporiz'ka oblast",
+               "short_name" : "Zaporiz'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Zaporiz'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.863967,
+                  "lng" : 36.594562
+               },
+               "southwest" : {
+                  "lat" : 46.814353,
+                  "lng" : 36.548755
+               }
+            },
+            "location" : {
+               "lat" : 46.845341,
+               "lng" : 36.573367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.863967,
+                  "lng" : 36.594562
+               },
+               "southwest" : {
+                  "lat" : 46.814353,
+                  "lng" : 36.548755
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hoshchans'kyi district",
+               "short_name" : "Hoshchans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rivnens'ka oblast",
+               "short_name" : "Rivnens'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Rivnens'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6385476,
+                  "lng" : 26.4857626
+               },
+               "southwest" : {
+                  "lat" : 50.5996107,
+                  "lng" : 26.4415599
+               }
+            },
+            "location" : {
+               "lat" : 50.620556,
+               "lng" : 26.4675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6385476,
+                  "lng" : 26.4857626
+               },
+               "southwest" : {
+                  "lat" : 50.5996107,
+                  "lng" : 26.4415599
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crimea",
+               "short_name" : "Crimea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4901711,
+                  "lng" : 35.071673
+               },
+               "southwest" : {
+                  "lat" : 45.474207,
+                  "lng" : 35.0452311
+               }
+            },
+            "location" : {
+               "lat" : 45.4806249,
+               "lng" : 35.0582265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4901711,
+                  "lng" : 35.071673
+               },
+               "southwest" : {
+                  "lat" : 45.474207,
+                  "lng" : 35.0452311
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buryns'kyi district",
+               "short_name" : "Buryns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sums'ka oblast",
+               "short_name" : "Sums'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Sums'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0377161,
+                  "lng" : 33.8572439
+               },
+               "southwest" : {
+                  "lat" : 51.0209,
+                  "lng" : 33.8331589
+               }
+            },
+            "location" : {
+               "lat" : 51.029176,
+               "lng" : 33.847866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0377161,
+                  "lng" : 33.8572439
+               },
+               "southwest" : {
+                  "lat" : 51.0209,
+                  "lng" : 33.8331589
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novomoskovs'kyi district",
+               "short_name" : "Novomoskovs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dnipropetrovsk Oblast",
+               "short_name" : "Dnipropetrovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Dnipropetrovsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.736648,
+                  "lng" : 35.153613
+               },
+               "southwest" : {
+                  "lat" : 48.727059,
+                  "lng" : 35.12549
+               }
+            },
+            "location" : {
+               "lat" : 48.73211999999999,
+               "lng" : 35.139747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.736648,
+                  "lng" : 35.153613
+               },
+               "southwest" : {
+                  "lat" : 48.727059,
+                  "lng" : 35.12549
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nikopol's'kyi district",
+               "short_name" : "Nikopol's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dnipropetrovsk Oblast",
+               "short_name" : "Dnipropetrovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Dnipropetrovsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.775294,
+                  "lng" : 34.5343171
+               },
+               "southwest" : {
+                  "lat" : 47.74575,
+                  "lng" : 34.499774
+               }
+            },
+            "location" : {
+               "lat" : 47.76129299999999,
+               "lng" : 34.516668
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.775294,
+                  "lng" : 34.5343171
+               },
+               "southwest" : {
+                  "lat" : 47.74575,
+                  "lng" : 34.499774
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shyshats'kyi district",
+               "short_name" : "Shyshats'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7185417,
+                  "lng" : 33.9978576
+               },
+               "southwest" : {
+                  "lat" : 49.7085313,
+                  "lng" : 33.9840175
+               }
+            },
+            "location" : {
+               "lat" : 49.71321,
+               "lng" : 33.988944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7185417,
+                  "lng" : 33.9978576
+               },
+               "southwest" : {
+                  "lat" : 49.7085313,
+                  "lng" : 33.9840175
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kakhovs'kyi district",
+               "short_name" : "Kakhovs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khersons'ka oblast",
+               "short_name" : "Khersons'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Khersons'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7215771,
+                  "lng" : 33.8341279
+               },
+               "southwest" : {
+                  "lat" : 46.704564,
+                  "lng" : 33.80652
+               }
+            },
+            "location" : {
+               "lat" : 46.71305599999999,
+               "lng" : 33.820278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7215771,
+                  "lng" : 33.8341279
+               },
+               "southwest" : {
+                  "lat" : 46.704564,
+                  "lng" : 33.80652
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blyznyukivs'kyi district",
+               "short_name" : "Blyznyukivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.707916,
+                  "lng" : 36.309916
+               },
+               "southwest" : {
+                  "lat" : 48.69626599999999,
+                  "lng" : 36.292184
+               }
+            },
+            "location" : {
+               "lat" : 48.703566,
+               "lng" : 36.306063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.707916,
+                  "lng" : 36.309916
+               },
+               "southwest" : {
+                  "lat" : 48.69626599999999,
+                  "lng" : 36.292184
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teofipol's'kyi district",
+               "short_name" : "Teofipol's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khmel'nyts'ka oblast",
+               "short_name" : "Khmel'nyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Khmel'nyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.81414090000001,
+                  "lng" : 26.3622399
+               },
+               "southwest" : {
+                  "lat" : 49.801064,
+                  "lng" : 26.332118
+               }
+            },
+            "location" : {
+               "lat" : 49.8075,
+               "lng" : 26.347222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.81414090000001,
+                  "lng" : 26.3622399
+               },
+               "southwest" : {
+                  "lat" : 49.801064,
+                  "lng" : 26.332118
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fastivs'kyi district",
+               "short_name" : "Fastivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0394821,
+                  "lng" : 29.7516133
+               },
+               "southwest" : {
+                  "lat" : 50.015603,
+                  "lng" : 29.7176481
+               }
+            },
+            "location" : {
+               "lat" : 50.0275,
+               "lng" : 29.725278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0394821,
+                  "lng" : 29.7516133
+               },
+               "southwest" : {
+                  "lat" : 50.015603,
+                  "lng" : 29.7176481
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mens'kyi district",
+               "short_name" : "Mens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4998121,
+                  "lng" : 31.8686512
+               },
+               "southwest" : {
+                  "lat" : 51.484651,
+                  "lng" : 31.852703
+               }
+            },
+            "location" : {
+               "lat" : 51.492222,
+               "lng" : 31.860556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4998121,
+                  "lng" : 31.8686512
+               },
+               "southwest" : {
+                  "lat" : 51.484651,
+                  "lng" : 31.852703
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lebedyns'kyi district",
+               "short_name" : "Lebedyns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sums'ka oblast",
+               "short_name" : "Sums'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Sums'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.80077,
+                  "lng" : 34.1833499
+               },
+               "southwest" : {
+                  "lat" : 50.788627,
+                  "lng" : 34.1611
+               }
+            },
+            "location" : {
+               "lat" : 50.79467100000001,
+               "lng" : 34.172065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.80077,
+                  "lng" : 34.1833499
+               },
+               "southwest" : {
+                  "lat" : 50.788627,
+                  "lng" : 34.1611
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berezans'kyi district",
+               "short_name" : "Berezans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mykolaivs'ka oblast",
+               "short_name" : "Mykolaivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Mykolaivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.97056,
+                  "lng" : 31.335259
+               },
+               "southwest" : {
+                  "lat" : 46.9507711,
+                  "lng" : 31.320425
+               }
+            },
+            "location" : {
+               "lat" : 46.95911599999999,
+               "lng" : 31.3317365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.97056,
+                  "lng" : 31.335259
+               },
+               "southwest" : {
+                  "lat" : 46.9507711,
+                  "lng" : 31.320425
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kominternivs'kyi district",
+               "short_name" : "Kominternivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.802839,
+                  "lng" : 31.03666509999999
+               },
+               "southwest" : {
+                  "lat" : 46.7825809,
+                  "lng" : 31.0232231
+               }
+            },
+            "location" : {
+               "lat" : 46.792778,
+               "lng" : 31.03
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.802839,
+                  "lng" : 31.03666509999999
+               },
+               "southwest" : {
+                  "lat" : 46.7825809,
+                  "lng" : 31.0232231
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slov'yans'kyi district",
+               "short_name" : "Slov'yans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Donetsk Oblast",
+               "short_name" : "Donetsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Donetsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7669568,
+                  "lng" : 37.428736
+               },
+               "southwest" : {
+                  "lat" : 48.742691,
+                  "lng" : 37.3317149
+               }
+            },
+            "location" : {
+               "lat" : 48.754722,
+               "lng" : 37.380278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7669568,
+                  "lng" : 37.428736
+               },
+               "southwest" : {
+                  "lat" : 48.742691,
+                  "lng" : 37.3317149
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Komsomol's'ka city council",
+               "short_name" : "Komsomol's'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1225341,
+                  "lng" : 33.6298585
+               },
+               "southwest" : {
+                  "lat" : 49.0870914,
+                  "lng" : 33.5982511
+               }
+            },
+            "location" : {
+               "lat" : 49.105358,
+               "lng" : 33.611342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1225341,
+                  "lng" : 33.6298585
+               },
+               "southwest" : {
+                  "lat" : 49.0870914,
+                  "lng" : 33.5982511
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmytrivka",
+               "short_name" : "Dmytrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Voznesens'kyi district",
+               "short_name" : "Voznesens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mykolaivs'ka oblast",
+               "short_name" : "Mykolaivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dmytrivka, Mykolaivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.437829,
+                  "lng" : 31.4992239
+               },
+               "southwest" : {
+                  "lat" : 47.4200869,
+                  "lng" : 31.468787
+               }
+            },
+            "location" : {
+               "lat" : 47.428889,
+               "lng" : 31.483889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.437829,
+                  "lng" : 31.4992239
+               },
+               "southwest" : {
+                  "lat" : 47.4200869,
+                  "lng" : 31.468787
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voronezh",
+               "short_name" : "Voronezh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Voronezh",
+               "short_name" : "g. Voronezh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voronezh, Voronezh Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.903112,
+                  "lng" : 39.6486971
+               },
+               "southwest" : {
+                  "lat" : 51.4848839,
+                  "lng" : 39.013812
+               }
+            },
+            "location" : {
+               "lat" : 51.6754966,
+               "lng" : 39.2088823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.866494,
+                  "lng" : 39.458517
+               },
+               "southwest" : {
+                  "lat" : 51.4848839,
+                  "lng" : 39.013812
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

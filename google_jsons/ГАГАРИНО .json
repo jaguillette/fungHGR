@@ -1,0 +1,613 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zadonsky District",
+               "short_name" : "Zadonsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "399232",
+               "short_name" : "399232",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Lipetsk Oblast, Russia, 399232",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.7523969,
+                  "lng" : 38.961247
+               },
+               "southwest" : {
+                  "lat" : 52.7417539,
+                  "lng" : 38.947456
+               }
+            },
+            "location" : {
+               "lat" : 52.751389,
+               "lng" : 38.951944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7523969,
+                  "lng" : 38.961247
+               },
+               "southwest" : {
+                  "lat" : 52.7417539,
+                  "lng" : 38.947456
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surkhandarya Province",
+               "short_name" : "Surkhandarya Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uzbekistan",
+               "short_name" : "UZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Uzbekistan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.4435857,
+                  "lng" : 67.0172882
+               },
+               "southwest" : {
+                  "lat" : 37.4110734,
+                  "lng" : 66.9427872
+               }
+            },
+            "location" : {
+               "lat" : 37.4225695,
+               "lng" : 66.98093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4435857,
+                  "lng" : 67.0172882
+               },
+               "southwest" : {
+                  "lat" : 37.4110734,
+                  "lng" : 66.9427872
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lev-Tolstovsky District",
+               "short_name" : "Lev-Tolstovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "399878",
+               "short_name" : "399878",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Lipetsk Oblast, Russia, 399878",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.35433399999999,
+                  "lng" : 39.7240869
+               },
+               "southwest" : {
+                  "lat" : 53.33093599999999,
+                  "lng" : 39.6729563
+               }
+            },
+            "location" : {
+               "lat" : 53.335833,
+               "lng" : 39.701667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.35433399999999,
+                  "lng" : 39.7240869
+               },
+               "southwest" : {
+                  "lat" : 53.33093599999999,
+                  "lng" : 39.6729563
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buysky District",
+               "short_name" : "Buysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostroma Oblast",
+               "short_name" : "Kostroma Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "157031",
+               "short_name" : "157031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Kostroma Oblast, Russia, 157031",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.486525,
+                  "lng" : 41.100235
+               },
+               "southwest" : {
+                  "lat" : 58.4775651,
+                  "lng" : 41.0865058
+               }
+            },
+            "location" : {
+               "lat" : 58.4812214,
+               "lng" : 41.0939063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.486525,
+                  "lng" : 41.100235
+               },
+               "southwest" : {
+                  "lat" : 58.4775651,
+                  "lng" : 41.0865058
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ishimsky District",
+               "short_name" : "Ishimsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tyumenskaya oblast",
+               "short_name" : "Tyumenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Tyumen Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.016461,
+                  "lng" : 69.39959899999999
+               },
+               "southwest" : {
+                  "lat" : 56.002941,
+                  "lng" : 69.35857799999999
+               }
+            },
+            "location" : {
+               "lat" : 56.0068713,
+               "lng" : 69.36851229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.016461,
+                  "lng" : 69.39959899999999
+               },
+               "southwest" : {
+                  "lat" : 56.002941,
+                  "lng" : 69.35857799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prokhorovsky District",
+               "short_name" : "Prokhorovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "309027",
+               "short_name" : "309027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Belgorod Oblast, Russia, 309027",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.985668,
+                  "lng" : 37.03459900000001
+               },
+               "southwest" : {
+                  "lat" : 50.9783929,
+                  "lng" : 37.010686
+               }
+            },
+            "location" : {
+               "lat" : 50.9813956,
+               "lng" : 37.0259013
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.985668,
+                  "lng" : 37.03459900000001
+               },
+               "southwest" : {
+                  "lat" : 50.9783929,
+                  "lng" : 37.010686
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogoroditsky District",
+               "short_name" : "Bogoroditsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301804",
+               "short_name" : "301804",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Tula Oblast, Russia, 301804",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.714381,
+                  "lng" : 38.3915458
+               },
+               "southwest" : {
+                  "lat" : 53.7043481,
+                  "lng" : 38.3790949
+               }
+            },
+            "location" : {
+               "lat" : 53.7097997,
+               "lng" : 38.3857439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.714381,
+                  "lng" : 38.3915458
+               },
+               "southwest" : {
+                  "lat" : 53.7043481,
+                  "lng" : 38.3790949
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Гагарино",
+               "short_name" : "Гагарино",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Navahrudak District",
+               "short_name" : "Navahrudak District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hrodna Province",
+               "short_name" : "Hrodna Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Гагарино, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5851175,
+                  "lng" : 25.6923437
+               },
+               "southwest" : {
+                  "lat" : 53.5780093,
+                  "lng" : 25.6697704
+               }
+            },
+            "location" : {
+               "lat" : 53.58197209999999,
+               "lng" : 25.6808493
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5851175,
+                  "lng" : 25.6923437
+               },
+               "southwest" : {
+                  "lat" : 53.5780093,
+                  "lng" : 25.6697704
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gagarino",
+               "short_name" : "Gagarino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dankovskiy rayon",
+               "short_name" : "Dankovskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "399844",
+               "short_name" : "399844",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gagarino, Lipetsk Oblast, Russia, 399844",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.381926,
+                  "lng" : 39.3709501
+               },
+               "southwest" : {
+                  "lat" : 53.3725941,
+                  "lng" : 39.3466691
+               }
+            },
+            "location" : {
+               "lat" : 53.3774818,
+               "lng" : 39.3623823
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.381926,
+                  "lng" : 39.3709501
+               },
+               "southwest" : {
+                  "lat" : 53.3725941,
+                  "lng" : 39.3466691
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Гагарино",
+               "short_name" : "Гагарино",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akkayin District",
+               "short_name" : "Akkayin District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Kazakhstan Province",
+               "short_name" : "North Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "150000",
+               "short_name" : "150000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Гагарино 150000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2574535,
+                  "lng" : 69.73876489999999
+               },
+               "southwest" : {
+                  "lat" : 54.25223889999999,
+                  "lng" : 69.72743509999999
+               }
+            },
+            "location" : {
+               "lat" : 54.25484789999999,
+               "lng" : 69.7315947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2574535,
+                  "lng" : 69.73876489999999
+               },
+               "southwest" : {
+                  "lat" : 54.25223889999999,
+                  "lng" : 69.72743509999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Гагарино",
+               "short_name" : "Гагарино",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Устье",
+               "short_name" : "Устье",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orsha District",
+               "short_name" : "Orsha District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Гагарино, Устье, Belarus",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.4320155,
+               "lng" : 30.37559869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.43336448029149,
+                  "lng" : 30.37694768029149
+               },
+               "southwest" : {
+                  "lat" : 54.4306665197085,
+                  "lng" : 30.3742497197085
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

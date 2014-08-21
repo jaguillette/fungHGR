@@ -1,0 +1,184 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitayskaya ulitsa",
+               "short_name" : "Kitayskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Volgograd",
+               "short_name" : "Volgograd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Volgograd",
+               "short_name" : "g. Volgograd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volgogradskaya oblast",
+               "short_name" : "Volgogradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400002",
+               "short_name" : "400002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kitayskaya ulitsa, Volgograd, Volgograd Oblast, Russia, 400002",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6736171,
+                  "lng" : 44.4582712
+               },
+               "southwest" : {
+                  "lat" : 48.6706559,
+                  "lng" : 44.4525635
+               }
+            },
+            "location" : {
+               "lat" : 48.6718448,
+               "lng" : 44.4552831
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6736171,
+                  "lng" : 44.4582712
+               },
+               "southwest" : {
+                  "lat" : 48.6706559,
+                  "lng" : 44.4525635
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Kitayskaya",
+               "short_name" : "ul. Kitayskaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kopeysk",
+               "short_name" : "Kopeysk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kopeysk",
+               "short_name" : "g. Kopeysk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chelyabinskaya oblast",
+               "short_name" : "Chelyabinskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Kitayskaya, Kopeysk, Chelyabinsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.101928,
+                  "lng" : 61.599841
+               },
+               "southwest" : {
+                  "lat" : 55.097992,
+                  "lng" : 61.598433
+               }
+            },
+            "location" : {
+               "lat" : 55.099736,
+               "lng" : 61.59904879999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.101928,
+                  "lng" : 61.60048598029152
+               },
+               "southwest" : {
+                  "lat" : 55.097992,
+                  "lng" : 61.5977880197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitayskaya ulitsa",
+               "short_name" : "Kitayskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shakhty",
+               "short_name" : "Shakhty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Shakhty",
+               "short_name" : "g. Shakhty",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kitayskaya ulitsa, Shakhty, Rostov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7059468,
+                  "lng" : 40.235025
+               },
+               "southwest" : {
+                  "lat" : 47.705215,
+                  "lng" : 40.2330256
+               }
+            },
+            "location" : {
+               "lat" : 47.705763,
+               "lng" : 40.2332988
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.70692988029149,
+                  "lng" : 40.2353742802915
+               },
+               "southwest" : {
+                  "lat" : 47.7042319197085,
+                  "lng" : 40.2326763197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

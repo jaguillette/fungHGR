@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Insar, Insarsky District, Republic of Mordovia",
+               "short_name" : "Insar, Insarsky District, Republic of Mordovia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Insarsky District",
+               "short_name" : "Insarsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mordovia",
+               "short_name" : "Mordovia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431430",
+               "short_name" : "431430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Insar, Insarsky District, Republic of Mordovia, Mordovia, Russia, 431430",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.861193,
+               "lng" : 44.376432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0712348,
+                  "lng" : 44.8886696
+               },
+               "southwest" : {
+                  "lat" : 53.65009149999999,
+                  "lng" : 43.8641944
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

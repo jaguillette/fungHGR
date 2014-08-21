@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vovcha river",
+               "short_name" : "Vovcha river",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vovcha river, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.63673800000001,
+                  "lng" : 37.4846271
+               },
+               "southwest" : {
+                  "lat" : 47.9401321,
+                  "lng" : 35.690667
+               }
+            },
+            "location" : {
+               "lat" : 48.398263,
+               "lng" : 35.854205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.63673800000001,
+                  "lng" : 36.017743
+               },
+               "southwest" : {
+                  "lat" : 48.159788,
+                  "lng" : 35.690667
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

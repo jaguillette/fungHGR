@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berniki",
+               "short_name" : "Berniki",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Leninsky District, Tula Oblast",
+               "short_name" : "Leninsky District, Tula Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301119",
+               "short_name" : "301119",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berniki, Tula Oblast, Russia, 301119",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.288909,
+               "lng" : 37.2473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2902579802915,
+                  "lng" : 37.2486489802915
+               },
+               "southwest" : {
+                  "lat" : 54.2875600197085,
+                  "lng" : 37.2459510197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berniki",
+               "short_name" : "Berniki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leninsky District, Tula Oblast",
+               "short_name" : "Leninsky District, Tula Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301119",
+               "short_name" : "301119",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berniki, Tula Oblast, Russia, 301119",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2981239,
+                  "lng" : 37.2785206
+               },
+               "southwest" : {
+                  "lat" : 54.2886126,
+                  "lng" : 37.259799
+               }
+            },
+            "location" : {
+               "lat" : 54.29443329999999,
+               "lng" : 37.2706733
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.2981239,
+                  "lng" : 37.2785206
+               },
+               "southwest" : {
+                  "lat" : 54.2886126,
+                  "lng" : 37.259799
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Берники",
+               "short_name" : "Берники",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Svislach District",
+               "short_name" : "Svislach District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hrodna Province",
+               "short_name" : "Hrodna Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Берники, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9195381,
+                  "lng" : 24.2530276
+               },
+               "southwest" : {
+                  "lat" : 52.9139487,
+                  "lng" : 24.2431354
+               }
+            },
+            "location" : {
+               "lat" : 52.9165354,
+               "lng" : 24.2482317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9195381,
+                  "lng" : 24.2530276
+               },
+               "southwest" : {
+                  "lat" : 52.9139487,
+                  "lng" : 24.2431354
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berniki",
+               "short_name" : "Berniki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selizharovsky District",
+               "short_name" : "Selizharovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172200",
+               "short_name" : "172200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berniki, Tver Oblast, Russia, 172200",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.8856541,
+                  "lng" : 33.44102900000001
+               },
+               "southwest" : {
+                  "lat" : 56.8809439,
+                  "lng" : 33.4339427
+               }
+            },
+            "location" : {
+               "lat" : 56.88358969999999,
+               "lng" : 33.4369758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8856541,
+                  "lng" : 33.44102900000001
+               },
+               "southwest" : {
+                  "lat" : 56.8809439,
+                  "lng" : 33.4339427
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

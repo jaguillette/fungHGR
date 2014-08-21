@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asakovo",
+               "short_name" : "Asakovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Odintsovsky District",
+               "short_name" : "Odintsovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143078",
+               "short_name" : "143078",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Asakovo, Moskovskaya oblast, Russia, 143078",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.542794,
+                  "lng" : 36.63508410000001
+               },
+               "southwest" : {
+                  "lat" : 55.531157,
+                  "lng" : 36.615433
+               }
+            },
+            "location" : {
+               "lat" : 55.537222,
+               "lng" : 36.63
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.542794,
+                  "lng" : 36.63508410000001
+               },
+               "southwest" : {
+                  "lat" : 55.531157,
+                  "lng" : 36.615433
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

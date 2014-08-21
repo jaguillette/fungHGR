@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gzhat River",
+               "short_name" : "Gzhat River",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Gagarinsky District, Smolensk Oblast",
+               "short_name" : "Gagarinsky District, Smolensk Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gzhat River, Smolensk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.720322,
+                  "lng" : 35.0033247
+               },
+               "southwest" : {
+                  "lat" : 55.5480072,
+                  "lng" : 34.828265
+               }
+            },
+            "location" : {
+               "lat" : 55.63416460000001,
+               "lng" : 34.9157949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.720322,
+                  "lng" : 35.0033247
+               },
+               "southwest" : {
+                  "lat" : 55.5480072,
+                  "lng" : 34.828265
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "reka Gzhat'",
+               "short_name" : "r. Gzhat'",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Gagarin, Russia",
+               "short_name" : "Gagarin, Russia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gagarinsky District, Smolensk Oblast",
+               "short_name" : "Gagarinsky District, Smolensk Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "reka Gzhat', Gagarin, Russia, Smolensk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5717046,
+                  "lng" : 34.9856777
+               },
+               "southwest" : {
+                  "lat" : 55.5683774,
+                  "lng" : 34.9727682
+               }
+            },
+            "location" : {
+               "lat" : 55.5693126,
+               "lng" : 34.9796594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5717046,
+                  "lng" : 34.9856777
+               },
+               "southwest" : {
+                  "lat" : 55.5683774,
+                  "lng" : 34.9727682
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

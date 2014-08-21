@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valky",
+               "short_name" : "Valky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valkivs'kyi district",
+               "short_name" : "Valkivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valky, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.857401,
+                  "lng" : 35.657119
+               },
+               "southwest" : {
+                  "lat" : 49.818814,
+                  "lng" : 35.577351
+               }
+            },
+            "location" : {
+               "lat" : 49.833333,
+               "lng" : 35.616667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.857401,
+                  "lng" : 35.657119
+               },
+               "southwest" : {
+                  "lat" : 49.818814,
+                  "lng" : 35.577351
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,348 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunilovo",
+               "short_name" : "Dunilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolsheselsky District",
+               "short_name" : "Bolsheselsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152381",
+               "short_name" : "152381",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunilovo, Yaroslavl Oblast, Russia, 152381",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.7625051,
+                  "lng" : 38.9425827
+               },
+               "southwest" : {
+                  "lat" : 57.747836,
+                  "lng" : 38.9183548
+               }
+            },
+            "location" : {
+               "lat" : 57.754432,
+               "lng" : 38.930301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.7625051,
+                  "lng" : 38.9425827
+               },
+               "southwest" : {
+                  "lat" : 57.747836,
+                  "lng" : 38.9183548
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunilovo",
+               "short_name" : "Dunilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shuysky District",
+               "short_name" : "Shuysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "155922",
+               "short_name" : "155922",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunilovo, Ivanovo Oblast, Russia, 155922",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.0092019,
+                  "lng" : 41.4295678
+               },
+               "southwest" : {
+                  "lat" : 56.9874741,
+                  "lng" : 41.4027657
+               }
+            },
+            "location" : {
+               "lat" : 56.9974407,
+               "lng" : 41.4150796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.0092019,
+                  "lng" : 41.4295678
+               },
+               "southwest" : {
+                  "lat" : 56.9874741,
+                  "lng" : 41.4027657
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunilovo",
+               "short_name" : "Dunilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shakhovskoy District",
+               "short_name" : "Shakhovskoy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143724",
+               "short_name" : "143724",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunilovo, Moskovskaya oblast, Russia, 143724",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8618651,
+                  "lng" : 35.4388297
+               },
+               "southwest" : {
+                  "lat" : 55.8531779,
+                  "lng" : 35.422698
+               }
+            },
+            "location" : {
+               "lat" : 55.8590536,
+               "lng" : 35.4285091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8618651,
+                  "lng" : 35.4388297
+               },
+               "southwest" : {
+                  "lat" : 55.8531779,
+                  "lng" : 35.422698
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunilovo",
+               "short_name" : "Dunilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rzhevsky District",
+               "short_name" : "Rzhevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172358",
+               "short_name" : "172358",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunilovo, Tver Oblast, Russia, 172358",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.379331,
+                  "lng" : 34.419794
+               },
+               "southwest" : {
+                  "lat" : 56.3721091,
+                  "lng" : 34.4141662
+               }
+            },
+            "location" : {
+               "lat" : 56.3753546,
+               "lng" : 34.4171615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.379331,
+                  "lng" : 34.419794
+               },
+               "southwest" : {
+                  "lat" : 56.3721091,
+                  "lng" : 34.4141662
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunilovo",
+               "short_name" : "Dunilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pestovsky District",
+               "short_name" : "Pestovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "174530",
+               "short_name" : "174530",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunilovo, Novgorod Oblast, Russia, 174530",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.63996799999999,
+                  "lng" : 35.6494978
+               },
+               "southwest" : {
+                  "lat" : 58.635304,
+                  "lng" : 35.6363641
+               }
+            },
+            "location" : {
+               "lat" : 58.6370632,
+               "lng" : 35.6412015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.63996799999999,
+                  "lng" : 35.6494978
+               },
+               "southwest" : {
+                  "lat" : 58.635304,
+                  "lng" : 35.6363641
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunilovo",
+               "short_name" : "Dunilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rostovsky District",
+               "short_name" : "Rostovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dunilovo, Yaroslavl Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.2290559,
+                  "lng" : 39.271466
+               },
+               "southwest" : {
+                  "lat" : 57.2270281,
+                  "lng" : 39.260422
+               }
+            },
+            "location" : {
+               "lat" : 57.22805589999999,
+               "lng" : 39.2664963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.2293909802915,
+                  "lng" : 39.271466
+               },
+               "southwest" : {
+                  "lat" : 57.2266930197085,
+                  "lng" : 39.260422
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

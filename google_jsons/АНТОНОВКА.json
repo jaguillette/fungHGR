@@ -1,0 +1,1499 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khersons'ka city council",
+               "short_name" : "Khersons'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Khersons'ka oblast",
+               "short_name" : "Khersons'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Khersons'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.686966,
+                  "lng" : 32.7765492
+               },
+               "southwest" : {
+                  "lat" : 46.660032,
+                  "lng" : 32.657335
+               }
+            },
+            "location" : {
+               "lat" : 46.6792807,
+               "lng" : 32.6902347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.686966,
+                  "lng" : 32.7765492
+               },
+               "southwest" : {
+                  "lat" : 46.660032,
+                  "lng" : 32.657335
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonovka",
+               "short_name" : "Antonovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leninsky District, Moscow Oblast",
+               "short_name" : "Leninsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonovka, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5849071,
+                  "lng" : 37.4113991
+               },
+               "southwest" : {
+                  "lat" : 55.57281500000001,
+                  "lng" : 37.3866571
+               }
+            },
+            "location" : {
+               "lat" : 55.577364,
+               "lng" : 37.3992378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5849071,
+                  "lng" : 37.4113991
+               },
+               "southwest" : {
+                  "lat" : 55.57281500000001,
+                  "lng" : 37.3866571
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Антоновка",
+               "short_name" : "Антоновка",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dobrush District",
+               "short_name" : "Dobrush District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Антоновка, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.25464299999999,
+                  "lng" : 31.2438943
+               },
+               "southwest" : {
+                  "lat" : 52.2482851,
+                  "lng" : 31.23136259999999
+               }
+            },
+            "location" : {
+               "lat" : 52.25072609999999,
+               "lng" : 31.2382409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.25464299999999,
+                  "lng" : 31.2438943
+               },
+               "southwest" : {
+                  "lat" : 52.2482851,
+                  "lng" : 31.23136259999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tomashpil's'kyi district",
+               "short_name" : "Tomashpil's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vinnyts'ka oblast",
+               "short_name" : "Vinnyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Vinnyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.556917,
+                  "lng" : 28.4500121
+               },
+               "southwest" : {
+                  "lat" : 48.500357,
+                  "lng" : 28.4129529
+               }
+            },
+            "location" : {
+               "lat" : 48.528611,
+               "lng" : 28.431389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.556917,
+                  "lng" : 28.4500121
+               },
+               "southwest" : {
+                  "lat" : 48.500357,
+                  "lng" : 28.4129529
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonovka",
+               "short_name" : "Antonovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Millerovsky District",
+               "short_name" : "Millerovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346123",
+               "short_name" : "346123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Antonovka, Rostov Oblast, Russia, 346123",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.79811960000001,
+                  "lng" : 40.719886
+               },
+               "southwest" : {
+                  "lat" : 48.7870389,
+                  "lng" : 40.69824759999999
+               }
+            },
+            "location" : {
+               "lat" : 48.791692,
+               "lng" : 40.705428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.79811960000001,
+                  "lng" : 40.719886
+               },
+               "southwest" : {
+                  "lat" : 48.7870389,
+                  "lng" : 40.69824759999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonovka",
+               "short_name" : "Antonovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gordeyevsky District",
+               "short_name" : "Gordeyevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "243668",
+               "short_name" : "243668",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Antonovka, Bryansk Oblast, Russia, 243668",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.112372,
+                  "lng" : 31.7944089
+               },
+               "southwest" : {
+                  "lat" : 53.09969700000001,
+                  "lng" : 31.76755
+               }
+            },
+            "location" : {
+               "lat" : 53.106944,
+               "lng" : 31.780556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.112372,
+                  "lng" : 31.7944089
+               },
+               "southwest" : {
+                  "lat" : 53.09969700000001,
+                  "lng" : 31.76755
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skadovs'kyi district",
+               "short_name" : "Skadovs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khersons'ka oblast",
+               "short_name" : "Khersons'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Khersons'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1495601,
+                  "lng" : 32.964632
+               },
+               "southwest" : {
+                  "lat" : 46.13624189999999,
+                  "lng" : 32.9435849
+               }
+            },
+            "location" : {
+               "lat" : 46.14277800000001,
+               "lng" : 32.954167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1495601,
+                  "lng" : 32.964632
+               },
+               "southwest" : {
+                  "lat" : 46.13624189999999,
+                  "lng" : 32.9435849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tlumats'kyi district",
+               "short_name" : "Tlumats'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivano-Frankivs'ka oblast",
+               "short_name" : "Ivano-Frankivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Ivano-Frankivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.950866,
+                  "lng" : 25.065646
+               },
+               "southwest" : {
+                  "lat" : 48.94480799999999,
+                  "lng" : 25.0337021
+               }
+            },
+            "location" : {
+               "lat" : 48.947778,
+               "lng" : 25.049722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.950866,
+                  "lng" : 25.065646
+               },
+               "southwest" : {
+                  "lat" : 48.94480799999999,
+                  "lng" : 25.0337021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonovka",
+               "short_name" : "Antonovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karmaskalinsky District",
+               "short_name" : "Karmaskalinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bashkortostan",
+               "short_name" : "Bashkortostan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonovka, Bashkortostan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.284508,
+                  "lng" : 56.205214
+               },
+               "southwest" : {
+                  "lat" : 54.26929999999999,
+                  "lng" : 56.194899
+               }
+            },
+            "location" : {
+               "lat" : 54.278889,
+               "lng" : 56.202222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.284508,
+                  "lng" : 56.205214
+               },
+               "southwest" : {
+                  "lat" : 54.26929999999999,
+                  "lng" : 56.194899
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonovka",
+               "short_name" : "Antonovka",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volodymyrets'kyi district",
+               "short_name" : "Volodymyrets'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rivnens'ka oblast",
+               "short_name" : "Rivnens'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonovka, Antonivka, Rivnens'ka oblast, Ukraine",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3108,
+               "lng" : 26.3032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3121489802915,
+                  "lng" : 26.3045489802915
+               },
+               "southwest" : {
+                  "lat" : 51.3094510197085,
+                  "lng" : 26.3018510197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Антоновка",
+               "short_name" : "Антоновка",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orsha District",
+               "short_name" : "Orsha District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Антоновка, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.41133809999999,
+                  "lng" : 30.4418707
+               },
+               "southwest" : {
+                  "lat" : 54.39809930000001,
+                  "lng" : 30.4204985
+               }
+            },
+            "location" : {
+               "lat" : 54.4030291,
+               "lng" : 30.4324597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.41133809999999,
+                  "lng" : 30.4418707
+               },
+               "southwest" : {
+                  "lat" : 54.39809930000001,
+                  "lng" : 30.4204985
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bereznivs'kyi district",
+               "short_name" : "Bereznivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rivnens'ka oblast",
+               "short_name" : "Rivnens'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Rivnens'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.98897299999999,
+                  "lng" : 26.618182
+               },
+               "southwest" : {
+                  "lat" : 50.971747,
+                  "lng" : 26.549676
+               }
+            },
+            "location" : {
+               "lat" : 50.980278,
+               "lng" : 26.57
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.98897299999999,
+                  "lng" : 26.618182
+               },
+               "southwest" : {
+                  "lat" : 50.971747,
+                  "lng" : 26.549676
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bars'kyi district",
+               "short_name" : "Bars'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vinnyts'ka oblast",
+               "short_name" : "Vinnyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Vinnyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.09314,
+                  "lng" : 27.7901999
+               },
+               "southwest" : {
+                  "lat" : 49.084505,
+                  "lng" : 27.7756869
+               }
+            },
+            "location" : {
+               "lat" : 49.08888899999999,
+               "lng" : 27.786944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.09314,
+                  "lng" : 27.7901999
+               },
+               "southwest" : {
+                  "lat" : 49.084505,
+                  "lng" : 27.7756869
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stavyshchens'kyi district",
+               "short_name" : "Stavyshchens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.39960199999999,
+                  "lng" : 30.2959148
+               },
+               "southwest" : {
+                  "lat" : 49.385785,
+                  "lng" : 30.2243581
+               }
+            },
+            "location" : {
+               "lat" : 49.392778,
+               "lng" : 30.26
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.39960199999999,
+                  "lng" : 30.2959148
+               },
+               "southwest" : {
+                  "lat" : 49.385785,
+                  "lng" : 30.2243581
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novobuz'kyi district",
+               "short_name" : "Novobuz'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mykolaivs'ka oblast",
+               "short_name" : "Mykolaivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Mykolaivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.581373,
+                  "lng" : 32.347764
+               },
+               "southwest" : {
+                  "lat" : 47.570314,
+                  "lng" : 32.336141
+               }
+            },
+            "location" : {
+               "lat" : 47.575833,
+               "lng" : 32.341944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.581373,
+                  "lng" : 32.347764
+               },
+               "southwest" : {
+                  "lat" : 47.570314,
+                  "lng" : 32.336141
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berezivs'kyi district",
+               "short_name" : "Berezivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.28671200000001,
+                  "lng" : 30.4941271
+               },
+               "southwest" : {
+                  "lat" : 47.2688931,
+                  "lng" : 30.4774539
+               }
+            },
+            "location" : {
+               "lat" : 47.2772632,
+               "lng" : 30.4819494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.28671200000001,
+                  "lng" : 30.4941271
+               },
+               "southwest" : {
+                  "lat" : 47.2688931,
+                  "lng" : 30.4774539
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnooknyans'kyi district",
+               "short_name" : "Krasnooknyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5550039,
+                  "lng" : 29.628114
+               },
+               "southwest" : {
+                  "lat" : 47.53439600000001,
+                  "lng" : 29.600385
+               }
+            },
+            "location" : {
+               "lat" : 47.544722,
+               "lng" : 29.614167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5550039,
+                  "lng" : 29.628114
+               },
+               "southwest" : {
+                  "lat" : 47.53439600000001,
+                  "lng" : 29.600385
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Izyaslavs'kyi district",
+               "short_name" : "Izyaslavs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khmel'nyts'ka oblast",
+               "short_name" : "Khmel'nyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Khmel'nyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.257933,
+                  "lng" : 26.4192339
+               },
+               "southwest" : {
+                  "lat" : 50.252091,
+                  "lng" : 26.3848632
+               }
+            },
+            "location" : {
+               "lat" : 50.255,
+               "lng" : 26.401944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.257933,
+                  "lng" : 26.4192339
+               },
+               "southwest" : {
+                  "lat" : 50.252091,
+                  "lng" : 26.3848632
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vil'nyans'kyi district",
+               "short_name" : "Vil'nyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zaporiz'ka oblast",
+               "short_name" : "Zaporiz'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Zaporiz'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.973335,
+                  "lng" : 35.690708
+               },
+               "southwest" : {
+                  "lat" : 47.964759,
+                  "lng" : 35.6649129
+               }
+            },
+            "location" : {
+               "lat" : 47.968669,
+               "lng" : 35.680248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.973335,
+                  "lng" : 35.690708
+               },
+               "southwest" : {
+                  "lat" : 47.964759,
+                  "lng" : 35.6649129
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chemerovets'kyi district",
+               "short_name" : "Chemerovets'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khmel'nyts'ka oblast",
+               "short_name" : "Khmel'nyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Khmel'nyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.951317,
+                  "lng" : 26.5208451
+               },
+               "southwest" : {
+                  "lat" : 48.937902,
+                  "lng" : 26.5087049
+               }
+            },
+            "location" : {
+               "lat" : 48.944722,
+               "lng" : 26.514722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.951317,
+                  "lng" : 26.5208451
+               },
+               "southwest" : {
+                  "lat" : 48.937902,
+                  "lng" : 26.5087049
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Starobil's'kyi district",
+               "short_name" : "Starobil's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Luhans'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3012251,
+                  "lng" : 39.2229909
+               },
+               "southwest" : {
+                  "lat" : 49.28463199999999,
+                  "lng" : 39.201692
+               }
+            },
+            "location" : {
+               "lat" : 49.29305600000001,
+               "lng" : 39.212222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3012251,
+                  "lng" : 39.2229909
+               },
+               "southwest" : {
+                  "lat" : 49.28463199999999,
+                  "lng" : 39.201692
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Domanivs'kyi district",
+               "short_name" : "Domanivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mykolaivs'ka oblast",
+               "short_name" : "Mykolaivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Mykolaivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8402909,
+                  "lng" : 30.8847019
+               },
+               "southwest" : {
+                  "lat" : 47.80913899999999,
+                  "lng" : 30.8486008
+               }
+            },
+            "location" : {
+               "lat" : 47.824722,
+               "lng" : 30.863056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8402909,
+                  "lng" : 30.8847019
+               },
+               "southwest" : {
+                  "lat" : 47.80913899999999,
+                  "lng" : 30.8486008
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonovka",
+               "short_name" : "Antonovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kochenyovsky District",
+               "short_name" : "Kochenyovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirskaya oblast",
+               "short_name" : "Novosibirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "632632",
+               "short_name" : "632632",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Antonovka, Novosibirsk Oblast, Russia, 632632",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8365397,
+                  "lng" : 82.31593119999999
+               },
+               "southwest" : {
+                  "lat" : 54.8246431,
+                  "lng" : 82.28736619999999
+               }
+            },
+            "location" : {
+               "lat" : 54.83008419999999,
+               "lng" : 82.3095917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8365397,
+                  "lng" : 82.31593119999999
+               },
+               "southwest" : {
+                  "lat" : 54.8246431,
+                  "lng" : 82.28736619999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horokhivs'kyi district",
+               "short_name" : "Horokhivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volyns'ka oblast",
+               "short_name" : "Volyns'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Volyns'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.306891,
+                  "lng" : 25.1005281
+               },
+               "southwest" : {
+                  "lat" : 50.2971219,
+                  "lng" : 25.0716731
+               }
+            },
+            "location" : {
+               "lat" : 50.301944,
+               "lng" : 25.086111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.306891,
+                  "lng" : 25.1005281
+               },
+               "southwest" : {
+                  "lat" : 50.2971219,
+                  "lng" : 25.0716731
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonaŭka",
+               "short_name" : "Antonaŭka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Babruysk District",
+               "short_name" : "Babruysk District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mogilev Province",
+               "short_name" : "Mogilev Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonaŭka, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2226339,
+                  "lng" : 29.2157364
+               },
+               "southwest" : {
+                  "lat" : 53.2144498,
+                  "lng" : 29.2038705
+               }
+            },
+            "location" : {
+               "lat" : 53.2178935,
+               "lng" : 29.2102249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2226339,
+                  "lng" : 29.2157364
+               },
+               "southwest" : {
+                  "lat" : 53.2144498,
+                  "lng" : 29.2038705
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunajevets'kyi district",
+               "short_name" : "Dunajevets'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khmel'nyts'ka oblast",
+               "short_name" : "Khmel'nyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Khmel'nyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.85790799999999,
+                  "lng" : 26.9178819
+               },
+               "southwest" : {
+                  "lat" : 48.846199,
+                  "lng" : 26.901979
+               }
+            },
+            "location" : {
+               "lat" : 48.851944,
+               "lng" : 26.91
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.85790799999999,
+                  "lng" : 26.9178819
+               },
+               "southwest" : {
+                  "lat" : 48.846199,
+                  "lng" : 26.901979
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kehychivs'kyi district",
+               "short_name" : "Kehychivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.331383,
+                  "lng" : 35.8112381
+               },
+               "southwest" : {
+                  "lat" : 49.320912,
+                  "lng" : 35.7781349
+               }
+            },
+            "location" : {
+               "lat" : 49.326111,
+               "lng" : 35.805833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.331383,
+                  "lng" : 35.8112381
+               },
+               "southwest" : {
+                  "lat" : 49.320912,
+                  "lng" : 35.7781349
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antonivka",
+               "short_name" : "Antonivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lyubashivs'kyi district",
+               "short_name" : "Lyubashivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antonivka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9222679,
+                  "lng" : 30.274969
+               },
+               "southwest" : {
+                  "lat" : 47.910953,
+                  "lng" : 30.2382488
+               }
+            },
+            "location" : {
+               "lat" : 47.916667,
+               "lng" : 30.256667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9222679,
+                  "lng" : 30.274969
+               },
+               "southwest" : {
+                  "lat" : 47.910953,
+                  "lng" : 30.2382488
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

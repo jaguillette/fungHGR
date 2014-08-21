@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hrun'",
+               "short_name" : "Hrun'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okhtyrs'kyi district",
+               "short_name" : "Okhtyrs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sums'ka oblast",
+               "short_name" : "Sums'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hrun', Sums'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.259739,
+                  "lng" : 34.6278919
+               },
+               "southwest" : {
+                  "lat" : 50.21584199999999,
+                  "lng" : 34.5770761
+               }
+            },
+            "location" : {
+               "lat" : 50.238069,
+               "lng" : 34.607968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.259739,
+                  "lng" : 34.6278919
+               },
+               "southwest" : {
+                  "lat" : 50.21584199999999,
+                  "lng" : 34.5770761
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gruni, Timiș",
+               "short_name" : "Gruni, Timiș",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belint",
+               "short_name" : "Belint",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Timiș County",
+               "short_name" : "TM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gruni, Timiș, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.76761279999999,
+                  "lng" : 21.8197703
+               },
+               "southwest" : {
+                  "lat" : 45.7622838,
+                  "lng" : 21.8029046
+               }
+            },
+            "location" : {
+               "lat" : 45.7651,
+               "lng" : 21.8123
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.76761279999999,
+                  "lng" : 21.8197703
+               },
+               "southwest" : {
+                  "lat" : 45.7622838,
+                  "lng" : 21.8029046
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hrun'",
+               "short_name" : "Hrun'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lebedyns'kyi district",
+               "short_name" : "Lebedyns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sums'ka oblast",
+               "short_name" : "Sums'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hrun', Sums'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.718125,
+                  "lng" : 34.281549
+               },
+               "southwest" : {
+                  "lat" : 50.70006,
+                  "lng" : 34.251379
+               }
+            },
+            "location" : {
+               "lat" : 50.70438,
+               "lng" : 34.263305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.718125,
+                  "lng" : 34.281549
+               },
+               "southwest" : {
+                  "lat" : 50.70006,
+                  "lng" : 34.251379
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

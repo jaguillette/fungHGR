@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voron'kiv",
+               "short_name" : "Voron'kiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boryspil's'kyi district",
+               "short_name" : "Boryspil's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voron'kiv, Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2388121,
+                  "lng" : 30.929406
+               },
+               "southwest" : {
+                  "lat" : 50.19076,
+                  "lng" : 30.8697991
+               }
+            },
+            "location" : {
+               "lat" : 50.221667,
+               "lng" : 30.898056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2388121,
+                  "lng" : 30.929406
+               },
+               "southwest" : {
+                  "lat" : 50.19076,
+                  "lng" : 30.8697991
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kimry",
+               "short_name" : "Kimry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kimry",
+               "short_name" : "g. Kimry",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kimry, Tver Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.898978,
+                  "lng" : 37.4044068
+               },
+               "southwest" : {
+                  "lat" : 56.7958499,
+                  "lng" : 37.30382609999999
+               }
+            },
+            "location" : {
+               "lat" : 56.866667,
+               "lng" : 37.35
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.898978,
+                  "lng" : 37.4044068
+               },
+               "southwest" : {
+                  "lat" : 56.7958499,
+                  "lng" : 37.30382609999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valday, Novgorod Oblast",
+               "short_name" : "Valday, Novgorod Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdaysky District",
+               "short_name" : "Valdaysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valday, Novgorod Oblast, Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.00153599999999,
+                  "lng" : 33.2830272
+               },
+               "southwest" : {
+                  "lat" : 57.96072999999999,
+                  "lng" : 33.2079648
+               }
+            },
+            "location" : {
+               "lat" : 57.979167,
+               "lng" : 33.252778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.00153599999999,
+                  "lng" : 33.2830272
+               },
+               "southwest" : {
+                  "lat" : 57.96072999999999,
+                  "lng" : 33.2079648
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

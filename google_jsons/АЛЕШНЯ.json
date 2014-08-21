@@ -1,0 +1,729 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rybnovsky District",
+               "short_name" : "Rybnovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "391122",
+               "short_name" : "391122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Ryazan Oblast, Russia, 391122",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.661853,
+                  "lng" : 39.3800169
+               },
+               "southwest" : {
+                  "lat" : 54.644704,
+                  "lng" : 39.3288053
+               }
+            },
+            "location" : {
+               "lat" : 54.6523042,
+               "lng" : 39.344399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.661853,
+                  "lng" : 39.3800169
+               },
+               "southwest" : {
+                  "lat" : 54.644704,
+                  "lng" : 39.3288053
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kozelsky District",
+               "short_name" : "Kozelsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249712",
+               "short_name" : "249712",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Kaluga Oblast, Russia, 249712",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.93113899999999,
+                  "lng" : 35.6180131
+               },
+               "southwest" : {
+                  "lat" : 53.91457,
+                  "lng" : 35.6033332
+               }
+            },
+            "location" : {
+               "lat" : 53.9278923,
+               "lng" : 35.6101243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.93113899999999,
+                  "lng" : 35.6180131
+               },
+               "southwest" : {
+                  "lat" : 53.91457,
+                  "lng" : 35.6033332
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubrovsky District",
+               "short_name" : "Dubrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Bryansk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6422929,
+                  "lng" : 33.4810341
+               },
+               "southwest" : {
+                  "lat" : 53.630038,
+                  "lng" : 33.4474421
+               }
+            },
+            "location" : {
+               "lat" : 53.638889,
+               "lng" : 33.451667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6422929,
+                  "lng" : 33.4810341
+               },
+               "southwest" : {
+                  "lat" : 53.630038,
+                  "lng" : 33.4474421
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leninsky District, Tula Oblast",
+               "short_name" : "Leninsky District, Tula Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301126",
+               "short_name" : "301126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Tula Oblast, Russia, 301126",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.252408,
+                  "lng" : 37.26973
+               },
+               "southwest" : {
+                  "lat" : 54.22555999999999,
+                  "lng" : 37.24204
+               }
+            },
+            "location" : {
+               "lat" : 54.2460393,
+               "lng" : 37.2548556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.252408,
+                  "lng" : 37.26973
+               },
+               "southwest" : {
+                  "lat" : 54.22555999999999,
+                  "lng" : 37.24204
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iznoskovsky District",
+               "short_name" : "Iznoskovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249880",
+               "short_name" : "249880",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Kaluga Oblast, Russia, 249880",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.976831,
+                  "lng" : 35.3293959
+               },
+               "southwest" : {
+                  "lat" : 54.968214,
+                  "lng" : 35.316574
+               }
+            },
+            "location" : {
+               "lat" : 54.97269739999999,
+               "lng" : 35.3235871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.976831,
+                  "lng" : 35.3293959
+               },
+               "southwest" : {
+                  "lat" : 54.968214,
+                  "lng" : 35.316574
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kireyevsky District",
+               "short_name" : "Kireyevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301264",
+               "short_name" : "301264",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Tula Oblast, Russia, 301264",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9901525,
+                  "lng" : 37.7172507
+               },
+               "southwest" : {
+                  "lat" : 53.9804541,
+                  "lng" : 37.7071815
+               }
+            },
+            "location" : {
+               "lat" : 53.9853286,
+               "lng" : 37.7108013
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9901525,
+                  "lng" : 37.7172507
+               },
+               "southwest" : {
+                  "lat" : 53.9804541,
+                  "lng" : 37.7071815
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zalegoshchensky District",
+               "short_name" : "Zalegoshchensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303541",
+               "short_name" : "303541",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Oryol Oblast, Russia, 303541",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.017261,
+                  "lng" : 36.5095447
+               },
+               "southwest" : {
+                  "lat" : 53.0072789,
+                  "lng" : 36.489142
+               }
+            },
+            "location" : {
+               "lat" : 53.0115032,
+               "lng" : 36.4981278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.017261,
+                  "lng" : 36.5095447
+               },
+               "southwest" : {
+                  "lat" : 53.0072789,
+                  "lng" : 36.489142
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolkhovsky District",
+               "short_name" : "Bolkhovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Oryol Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5694586,
+                  "lng" : 35.9688473
+               },
+               "southwest" : {
+                  "lat" : 53.5544336,
+                  "lng" : 35.924596
+               }
+            },
+            "location" : {
+               "lat" : 53.55892799999999,
+               "lng" : 35.9442378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5694586,
+                  "lng" : 35.9688473
+               },
+               "southwest" : {
+                  "lat" : 53.5544336,
+                  "lng" : 35.924596
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mtsensky District",
+               "short_name" : "Mtsensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303011",
+               "short_name" : "303011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Oryol Oblast, Russia, 303011",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.134147,
+                  "lng" : 36.6689932
+               },
+               "southwest" : {
+                  "lat" : 53.127962,
+                  "lng" : 36.6567229
+               }
+            },
+            "location" : {
+               "lat" : 53.1299009,
+               "lng" : 36.6633354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.134147,
+                  "lng" : 36.6689932
+               },
+               "southwest" : {
+                  "lat" : 53.127962,
+                  "lng" : 36.6567229
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sarayevsky District",
+               "short_name" : "Sarayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "391953",
+               "short_name" : "391953",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Ryazan Oblast, Russia, 391953",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.923821,
+                  "lng" : 40.968154
+               },
+               "southwest" : {
+                  "lat" : 53.918432,
+                  "lng" : 40.9585209
+               }
+            },
+            "location" : {
+               "lat" : 53.92069309999999,
+               "lng" : 40.96312229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.923821,
+                  "lng" : 40.968154
+               },
+               "southwest" : {
+                  "lat" : 53.918432,
+                  "lng" : 40.9585209
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kholmsky District, Novgorod Oblast",
+               "short_name" : "Kholmsky District, Novgorod Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "175270",
+               "short_name" : "175270",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Novgorod Oblast, Russia, 175270",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.048889,
+               "lng" : 31.101667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.0502379802915,
+                  "lng" : 31.1030159802915
+               },
+               "southwest" : {
+                  "lat" : 57.0475400197085,
+                  "lng" : 31.1003180197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Tula",
+               "short_name" : "Tula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Tula",
+               "short_name" : "g. Tula",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "300022",
+               "short_name" : "300022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Tula, Tula Oblast, Russia, 300022",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.2510759,
+                  "lng" : 37.6353923
+               },
+               "southwest" : {
+                  "lat" : 54.2491741,
+                  "lng" : 37.6346353
+               }
+            },
+            "location" : {
+               "lat" : 54.24941130000001,
+               "lng" : 37.63511829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.25147398029149,
+                  "lng" : 37.63636278029149
+               },
+               "southwest" : {
+                  "lat" : 54.24877601970849,
+                  "lng" : 37.6336648197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aleshnya",
+               "short_name" : "Aleshnya",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Kholmsky District, Novgorod Oblast",
+               "short_name" : "Kholmsky District, Novgorod Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aleshnya, Novgorod Oblast, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.074167,
+               "lng" : 31.091389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.07551598029149,
+                  "lng" : 31.0927379802915
+               },
+               "southwest" : {
+                  "lat" : 57.07281801970849,
+                  "lng" : 31.0900400197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

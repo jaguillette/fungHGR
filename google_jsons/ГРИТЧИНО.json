@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gritchino",
+               "short_name" : "Gritchino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kashirsky District, Moscow Oblast",
+               "short_name" : "Kashirsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142932",
+               "short_name" : "142932",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gritchino, Moskovskaya oblast, Russia, 142932",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.687721,
+                  "lng" : 38.3324389
+               },
+               "southwest" : {
+                  "lat" : 54.67717200000001,
+                  "lng" : 38.3226021
+               }
+            },
+            "location" : {
+               "lat" : 54.6824702,
+               "lng" : 38.3268432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.687721,
+                  "lng" : 38.3324389
+               },
+               "southwest" : {
+                  "lat" : 54.67717200000001,
+                  "lng" : 38.3226021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gritchino",
+               "short_name" : "Gritchino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Venyovsky District",
+               "short_name" : "Venyovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301301",
+               "short_name" : "301301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gritchino, Tula Oblast, Russia, 301301",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.60517100000001,
+                  "lng" : 38.1097839
+               },
+               "southwest" : {
+                  "lat" : 54.5963131,
+                  "lng" : 38.103882
+               }
+            },
+            "location" : {
+               "lat" : 54.5998785,
+               "lng" : 38.1063007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.60517100000001,
+                  "lng" : 38.1097839
+               },
+               "southwest" : {
+                  "lat" : 54.5963131,
+                  "lng" : 38.103882
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

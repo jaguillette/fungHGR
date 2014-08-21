@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Astrakhan",
+               "short_name" : "Astrakhan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Astrakhan'",
+               "short_name" : "g. Astrakhan'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Astrakhanskaya oblast",
+               "short_name" : "Astrakhanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Astrakhan, Astrakhan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4707519,
+                  "lng" : 48.2030049
+               },
+               "southwest" : {
+                  "lat" : 46.249249,
+                  "lng" : 47.91051
+               }
+            },
+            "location" : {
+               "lat" : 46.323611,
+               "lng" : 48.036667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4707519,
+                  "lng" : 48.2030049
+               },
+               "southwest" : {
+                  "lat" : 46.249249,
+                  "lng" : 47.91051
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

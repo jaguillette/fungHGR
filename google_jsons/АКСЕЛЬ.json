@@ -1,0 +1,197 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Axel Heiberg Island",
+               "short_name" : "Axel Heiberg Island",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Baffin, Unorganized",
+               "short_name" : "Baffin, Unorganized",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Baffin Region",
+               "short_name" : "Baffin Region",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nunavut",
+               "short_name" : "NU",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Axel Heiberg Island, Baffin, Unorganized, NU, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 81.3709471,
+                  "lng" : -84.892365
+               },
+               "southwest" : {
+                  "lat" : 78.1326921,
+                  "lng" : -96.72529829999999
+               }
+            },
+            "location" : {
+               "lat" : 79.8286535,
+               "lng" : -91.267883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 81.3709471,
+                  "lng" : -84.892365
+               },
+               "southwest" : {
+                  "lat" : 78.1326921,
+                  "lng" : -96.72529829999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Axcel Lane",
+               "short_name" : "Axcel Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sycamore",
+               "short_name" : "Sycamore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sycamore",
+               "short_name" : "Sycamore",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60178",
+               "short_name" : "60178",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Axcel Lane, Sycamore, IL 60178, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.004205,
+                  "lng" : -88.6994239
+               },
+               "southwest" : {
+                  "lat" : 42.00232800000001,
+                  "lng" : -88.70026299999999
+               }
+            },
+            "location" : {
+               "lat" : 42.003096,
+               "lng" : -88.699828
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.00461548029151,
+                  "lng" : -88.69849446970849
+               },
+               "southwest" : {
+                  "lat" : 42.00191751970851,
+                  "lng" : -88.7011924302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Axel Munthe",
+               "short_name" : "Axel Munthe",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Reina",
+               "short_name" : "La Reina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province, Chile",
+               "short_name" : "Santiago Province, Chile",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Axel Munthe, La Reina, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.4347496,
+                  "lng" : -70.5517966
+               },
+               "southwest" : {
+                  "lat" : -33.4361556,
+                  "lng" : -70.55535259999999
+               }
+            },
+            "location" : {
+               "lat" : -33.4355616,
+               "lng" : -70.55353359999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.4341036197085,
+                  "lng" : -70.5517966
+               },
+               "southwest" : {
+                  "lat" : -33.4368015802915,
+                  "lng" : -70.55535259999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

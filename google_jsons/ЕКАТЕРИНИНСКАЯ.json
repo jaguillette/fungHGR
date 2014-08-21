@@ -1,0 +1,496 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ekaterininskaya ulitsa",
+               "short_name" : "Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Perm",
+               "short_name" : "Perm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Perm'",
+               "short_name" : "g. Perm'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Perm Krai",
+               "short_name" : "Perm Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ekaterininskaya ulitsa, Perm, Perm Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.0158505,
+                  "lng" : 56.264425
+               },
+               "southwest" : {
+                  "lat" : 58.002485,
+                  "lng" : 56.19578689999999
+               }
+            },
+            "location" : {
+               "lat" : 58.0071439,
+               "lng" : 56.230966
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.0158505,
+                  "lng" : 56.264425
+               },
+               "southwest" : {
+                  "lat" : 58.002485,
+                  "lng" : 56.19578689999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ekaterininskaya ulitsa",
+               "short_name" : "Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vyshny Volochyok",
+               "short_name" : "Vyshny Volochyok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Vyshniy Volochek",
+               "short_name" : "g. Vyshniy Volochek",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ekaterininskaya ulitsa, Vyshny Volochyok, Tver Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.5828678,
+                  "lng" : 34.5938565
+               },
+               "southwest" : {
+                  "lat" : 57.5818428,
+                  "lng" : 34.5600141
+               }
+            },
+            "location" : {
+               "lat" : 57.5821936,
+               "lng" : 34.5788406
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.58370428029151,
+                  "lng" : 34.5938565
+               },
+               "southwest" : {
+                  "lat" : 57.58100631970849,
+                  "lng" : 34.5600141
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ekaterininskaya ulitsa",
+               "short_name" : "Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Shakhty",
+               "short_name" : "Shakhty",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346536",
+               "short_name" : "346536",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ekaterininskaya ulitsa, Shakhty, Rostov Oblast, Russia, 346536",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8111285,
+                  "lng" : 40.1127572
+               },
+               "southwest" : {
+                  "lat" : 47.80723709999999,
+                  "lng" : 40.0984682
+               }
+            },
+            "location" : {
+               "lat" : 47.8102337,
+               "lng" : 40.1049332
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8111285,
+                  "lng" : 40.1127572
+               },
+               "southwest" : {
+                  "lat" : 47.80723709999999,
+                  "lng" : 40.0984682
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ekaterininskaya ulitsa",
+               "short_name" : "Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solnechnogorsk",
+               "short_name" : "Solnechnogorsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solnechnogorsky District",
+               "short_name" : "Solnechnogorsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141504",
+               "short_name" : "141504",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ekaterininskaya ulitsa, Solnechnogorsk, Moskovskaya oblast, Russia, 141504",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1847995,
+                  "lng" : 36.9587409
+               },
+               "southwest" : {
+                  "lat" : 56.1815981,
+                  "lng" : 36.9525086
+               }
+            },
+            "location" : {
+               "lat" : 56.1835847,
+               "lng" : 36.9556571
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1847995,
+                  "lng" : 36.9587409
+               },
+               "southwest" : {
+                  "lat" : 56.1815981,
+                  "lng" : 36.9525086
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ekaterininskaya ulitsa",
+               "short_name" : "Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gatchinsky District",
+               "short_name" : "Gatchinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188354",
+               "short_name" : "188354",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ekaterininskaya ulitsa, Leningrad Oblast, Russia, 188354",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.59997629999999,
+                  "lng" : 30.1687382
+               },
+               "southwest" : {
+                  "lat" : 59.5979574,
+                  "lng" : 30.1660499
+               }
+            },
+            "location" : {
+               "lat" : 59.599112,
+               "lng" : 30.1676529
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.6003158302915,
+                  "lng" : 30.1687430302915
+               },
+               "southwest" : {
+                  "lat" : 59.59761786970849,
+                  "lng" : 30.1660450697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ekaterininskaya ulitsa",
+               "short_name" : "Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valday, Novgorod Oblast",
+               "short_name" : "Valday, Novgorod Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdaysky District",
+               "short_name" : "Valdaysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "175402",
+               "short_name" : "175402",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ekaterininskaya ulitsa, Valday, Novgorod Oblast, Novgorod Oblast, Russia, 175402",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.99503739999999,
+                  "lng" : 33.2328885
+               },
+               "southwest" : {
+                  "lat" : 57.9933563,
+                  "lng" : 33.2310827
+               }
+            },
+            "location" : {
+               "lat" : 57.9941775,
+               "lng" : 33.2328714
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.9955458302915,
+                  "lng" : 33.2333345802915
+               },
+               "southwest" : {
+                  "lat" : 57.99284786970848,
+                  "lng" : 33.23063661970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bolshaya Ekaterininskaya ulitsa",
+               "short_name" : "Bolshaya Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Administrative Okrug",
+               "short_name" : "Central Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bolshaya Ekaterininskaya ulitsa, Moscow, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7855894,
+                  "lng" : 37.6238112
+               },
+               "southwest" : {
+                  "lat" : 55.78222599999999,
+                  "lng" : 37.616012
+               }
+            },
+            "location" : {
+               "lat" : 55.7843937,
+               "lng" : 37.6212152
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7855894,
+                  "lng" : 37.6238112
+               },
+               "southwest" : {
+                  "lat" : 55.78222599999999,
+                  "lng" : 37.616012
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malaya Ekaterininskaya ulitsa",
+               "short_name" : "Malaya Ekaterininskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Administrative Okrug",
+               "short_name" : "Central Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "129110",
+               "short_name" : "129110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Malaya Ekaterininskaya ulitsa, Moscow, Russia, 129110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.78644689999999,
+                  "lng" : 37.6255861
+               },
+               "southwest" : {
+                  "lat" : 55.7855929,
+                  "lng" : 37.624953
+               }
+            },
+            "location" : {
+               "lat" : 55.7863013,
+               "lng" : 37.6251227
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.78736888029149,
+                  "lng" : 37.62661853029149
+               },
+               "southwest" : {
+                  "lat" : 55.7846709197085,
+                  "lng" : 37.6239205697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

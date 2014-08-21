@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abzal Bus Stop",
+               "short_name" : "Abzal Bus Stop",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bukhar-Zhyrau Avenue",
+               "short_name" : "Bukhar-Zhyrau Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Novy Gorod",
+               "short_name" : "Novy Gorod",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kazybek Bi District",
+               "short_name" : "Kazybek Bi District",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Karagandy",
+               "short_name" : "Karagandy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bukhar-Zhyrau District",
+               "short_name" : "Bukhar-Zhyrau District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karagandy Province",
+               "short_name" : "Karagandy Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100000",
+               "short_name" : "100000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Abzal Bus Stop, Bukhar-Zhyrau Avenue, Karagandy 100000, Kazakhstan",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.8042101,
+               "lng" : 73.08723449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.80555908029149,
+                  "lng" : 73.08858348029149
+               },
+               "southwest" : {
+                  "lat" : 49.8028611197085,
+                  "lng" : 73.08588551970848
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

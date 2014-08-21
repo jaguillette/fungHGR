@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vyshhorod",
+               "short_name" : "Vyshhorod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vyshhorods'kyi district",
+               "short_name" : "Vyshhorods'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vyshhorod, Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.627689,
+                  "lng" : 30.539323
+               },
+               "southwest" : {
+                  "lat" : 50.54086,
+                  "lng" : 30.449895
+               }
+            },
+            "location" : {
+               "lat" : 50.5904776,
+               "lng" : 30.4831982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.627689,
+                  "lng" : 30.539323
+               },
+               "southwest" : {
+                  "lat" : 50.54086,
+                  "lng" : 30.449895
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

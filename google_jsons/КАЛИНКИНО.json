@@ -1,0 +1,343 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalinkino",
+               "short_name" : "Kalinkino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorodetsky District",
+               "short_name" : "Gorodetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606516",
+               "short_name" : "606516",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalinkino, Nizhny Novgorod Oblast, Russia, 606516",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4733957,
+                  "lng" : 43.9024041
+               },
+               "southwest" : {
+                  "lat" : 56.46986,
+                  "lng" : 43.8945712
+               }
+            },
+            "location" : {
+               "lat" : 56.471051,
+               "lng" : 43.8983279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4733957,
+                  "lng" : 43.9024041
+               },
+               "southwest" : {
+                  "lat" : 56.46986,
+                  "lng" : 43.8945712
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalinkino",
+               "short_name" : "Kalinkino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Myshkinsky District",
+               "short_name" : "Myshkinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152843",
+               "short_name" : "152843",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalinkino, Yaroslavl Oblast, Russia, 152843",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.76697799999999,
+                  "lng" : 38.2087122
+               },
+               "southwest" : {
+                  "lat" : 57.7640859,
+                  "lng" : 38.2018601
+               }
+            },
+            "location" : {
+               "lat" : 57.7655907,
+               "lng" : 38.20552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.76697799999999,
+                  "lng" : 38.2087122
+               },
+               "southwest" : {
+                  "lat" : 57.7640859,
+                  "lng" : 38.2018601
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalinkino",
+               "short_name" : "Kalinkino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taldomsky District",
+               "short_name" : "Taldomsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141912",
+               "short_name" : "141912",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalinkino, Moskovskaya oblast, Russia, 141912",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.727543,
+                  "lng" : 37.7333858
+               },
+               "southwest" : {
+                  "lat" : 56.7200109,
+                  "lng" : 37.7239638
+               }
+            },
+            "location" : {
+               "lat" : 56.7232973,
+               "lng" : 37.73163479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.727543,
+                  "lng" : 37.7333858
+               },
+               "southwest" : {
+                  "lat" : 56.7200109,
+                  "lng" : 37.7239638
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalinkino",
+               "short_name" : "Kalinkino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teykovsky District",
+               "short_name" : "Teykovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "155053",
+               "short_name" : "155053",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalinkino, Ivanovo Oblast, Russia, 155053",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.92712299999999,
+                  "lng" : 40.5951131
+               },
+               "southwest" : {
+                  "lat" : 56.924338,
+                  "lng" : 40.5890182
+               }
+            },
+            "location" : {
+               "lat" : 56.9254323,
+               "lng" : 40.5922273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.92712299999999,
+                  "lng" : 40.5951131
+               },
+               "southwest" : {
+                  "lat" : 56.924338,
+                  "lng" : 40.5890182
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalinkino",
+               "short_name" : "Kalinkino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pereslavsky District",
+               "short_name" : "Pereslavsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152031",
+               "short_name" : "152031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalinkino, Yaroslavl Oblast, Russia, 152031",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.84292499999999,
+                  "lng" : 38.2164
+               },
+               "southwest" : {
+                  "lat" : 56.84078400000001,
+                  "lng" : 38.2105769
+               }
+            },
+            "location" : {
+               "lat" : 56.84171,
+               "lng" : 38.2135296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.84320348029151,
+                  "lng" : 38.2164
+               },
+               "southwest" : {
+                  "lat" : 56.84050551970851,
+                  "lng" : 38.2105769
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalinkino",
+               "short_name" : "Kalinkino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gryazovetsky District",
+               "short_name" : "Gryazovetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162017",
+               "short_name" : "162017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalinkino, Vologda Oblast, Russia, 162017",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.962778,
+               "lng" : 40.19388900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.96412698029151,
+                  "lng" : 40.19523798029151
+               },
+               "southwest" : {
+                  "lat" : 58.9614290197085,
+                  "lng" : 40.19254001970851
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

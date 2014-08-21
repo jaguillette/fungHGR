@@ -1,0 +1,504 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isetskaya ulitsa",
+               "short_name" : "Isetskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dvurechensk",
+               "short_name" : "Dvurechensk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sysertskiy rayon",
+               "short_name" : "Sysertskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "624013",
+               "short_name" : "624013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isetskaya ulitsa, Dvurechensk, Sverdlovsk Oblast, Russia, 624013",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6078556,
+                  "lng" : 61.1138237
+               },
+               "southwest" : {
+                  "lat" : 56.6025563,
+                  "lng" : 61.0932668
+               }
+            },
+            "location" : {
+               "lat" : 56.6026132,
+               "lng" : 61.1037765
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6078556,
+                  "lng" : 61.1138237
+               },
+               "southwest" : {
+                  "lat" : 56.6025563,
+                  "lng" : 61.0932668
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isetskaya ulitsa",
+               "short_name" : "Isetskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kamensk-Uralsky",
+               "short_name" : "Kamensk-Uralsky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kamensk-Uralskiy",
+               "short_name" : "g. Kamensk-Uralskiy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "623406",
+               "short_name" : "623406",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isetskaya ulitsa, Kamensk-Uralsky, Sverdlovsk Oblast, Russia, 623406",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3908435,
+                  "lng" : 61.97591
+               },
+               "southwest" : {
+                  "lat" : 56.37616,
+                  "lng" : 61.9631268
+               }
+            },
+            "location" : {
+               "lat" : 56.38388980000001,
+               "lng" : 61.97315399999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3908435,
+                  "lng" : 61.97591
+               },
+               "southwest" : {
+                  "lat" : 56.37616,
+                  "lng" : 61.9631268
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isetskaya ulitsa",
+               "short_name" : "Isetskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sredneuralsk",
+               "short_name" : "Sredneuralsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Sredneuralsk",
+               "short_name" : "g. Sredneuralsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "624070",
+               "short_name" : "624070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isetskaya ulitsa, Sredneuralsk, Sverdlovsk Oblast, Russia, 624070",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.98518319999999,
+                  "lng" : 60.4609067
+               },
+               "southwest" : {
+                  "lat" : 56.97531129999999,
+                  "lng" : 60.45837199999999
+               }
+            },
+            "location" : {
+               "lat" : 56.9802318,
+               "lng" : 60.4608935
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.98518319999999,
+                  "lng" : 60.4609883302915
+               },
+               "southwest" : {
+                  "lat" : 56.97531129999999,
+                  "lng" : 60.45829036970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isetskaya ulitsa",
+               "short_name" : "Isetskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Koptyaki",
+               "short_name" : "Koptyaki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Sredneuralsk",
+               "short_name" : "g. Sredneuralsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "624070",
+               "short_name" : "624070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isetskaya ulitsa, Koptyaki, Sverdlovsk Oblast, Russia, 624070",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9664752,
+                  "lng" : 60.44084889999999
+               },
+               "southwest" : {
+                  "lat" : 56.96613989999999,
+                  "lng" : 60.43725260000001
+               }
+            },
+            "location" : {
+               "lat" : 56.966272,
+               "lng" : 60.43908939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9676565302915,
+                  "lng" : 60.44084889999999
+               },
+               "southwest" : {
+                  "lat" : 56.9649585697085,
+                  "lng" : 60.43725260000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isetskaya ulitsa",
+               "short_name" : "Isetskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Volgograd",
+               "short_name" : "Volgograd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Volgograd",
+               "short_name" : "g. Volgograd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volgogradskaya oblast",
+               "short_name" : "Volgogradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400048",
+               "short_name" : "400048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isetskaya ulitsa, Volgograd, Volgograd Oblast, Russia, 400048",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7461863,
+                  "lng" : 44.4778623
+               },
+               "southwest" : {
+                  "lat" : 48.7432183,
+                  "lng" : 44.47546699999999
+               }
+            },
+            "location" : {
+               "lat" : 48.74497359999999,
+               "lng" : 44.4763228
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7461863,
+                  "lng" : 44.47801363029149
+               },
+               "southwest" : {
+                  "lat" : 48.7432183,
+                  "lng" : 44.47531566970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isetskaya ulitsa",
+               "short_name" : "Isetskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yekaterinburg",
+               "short_name" : "Yekaterinburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Ekaterinburg",
+               "short_name" : "g. Ekaterinburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "620010",
+               "short_name" : "620010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isetskaya ulitsa, Yekaterinburg, Sverdlovsk Oblast, Russia, 620010",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7608164,
+                  "lng" : 60.6993983
+               },
+               "southwest" : {
+                  "lat" : 56.755558,
+                  "lng" : 60.692776
+               }
+            },
+            "location" : {
+               "lat" : 56.7568899,
+               "lng" : 60.697747
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7608164,
+                  "lng" : 60.6993983
+               },
+               "southwest" : {
+                  "lat" : 56.755558,
+                  "lng" : 60.692776
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isetskaya ulitsa",
+               "short_name" : "Isetskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aramil",
+               "short_name" : "Aramil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sysertskiy rayon",
+               "short_name" : "Sysertskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "624000",
+               "short_name" : "624000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Isetskaya ulitsa, Aramil, Sverdlovsk Oblast, Russia, 624000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6871453,
+                  "lng" : 60.8601401
+               },
+               "southwest" : {
+                  "lat" : 56.6849688,
+                  "lng" : 60.8576655
+               }
+            },
+            "location" : {
+               "lat" : 56.6871313,
+               "lng" : 60.85773630000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.68740603029151,
+                  "lng" : 60.86025178029151
+               },
+               "southwest" : {
+                  "lat" : 56.68470806970851,
+                  "lng" : 60.85755381970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Isetskaya",
+               "short_name" : "ul. Isetskaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kurgan, Kurgan Oblast",
+               "short_name" : "Kurgan, Kurgan Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kurgan",
+               "short_name" : "g. Kurgan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kurganskaya oblast",
+               "short_name" : "Kurganskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Isetskaya, Kurgan, Kurgan Oblast, Kurgan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.42608,
+                  "lng" : 65.3507302
+               },
+               "southwest" : {
+                  "lat" : 55.424528,
+                  "lng" : 65.34817199999999
+               }
+            },
+            "location" : {
+               "lat" : 55.42541,
+               "lng" : 65.3501588
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4266529802915,
+                  "lng" : 65.35080008029151
+               },
+               "southwest" : {
+                  "lat" : 55.4239550197085,
+                  "lng" : 65.34810211970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

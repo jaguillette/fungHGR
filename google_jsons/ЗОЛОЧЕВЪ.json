@@ -1,0 +1,154 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zolochiv",
+               "short_name" : "Zolochiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zolochivs'kyi district",
+               "short_name" : "Zolochivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lviv Oblast",
+               "short_name" : "Lviv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zolochiv, Lviv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8219851,
+                  "lng" : 24.9220051
+               },
+               "southwest" : {
+                  "lat" : 49.789926,
+                  "lng" : 24.8710261
+               }
+            },
+            "location" : {
+               "lat" : 49.80941,
+               "lng" : 24.901371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8219851,
+                  "lng" : 24.9220051
+               },
+               "southwest" : {
+                  "lat" : 49.789926,
+                  "lng" : 24.8710261
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zolochiv",
+               "short_name" : "Zolochiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zolochivs'kyi district",
+               "short_name" : "Zolochivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zolochiv, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3182789,
+                  "lng" : 35.996639
+               },
+               "southwest" : {
+                  "lat" : 50.2475239,
+                  "lng" : 35.942692
+               }
+            },
+            "location" : {
+               "lat" : 50.283333,
+               "lng" : 35.97
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3182789,
+                  "lng" : 35.996639
+               },
+               "southwest" : {
+                  "lat" : 50.2475239,
+                  "lng" : 35.942692
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zolochiv station",
+               "short_name" : "Zolochiv station",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Zolochivs'kyi district",
+               "short_name" : "Zolochivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zolochiv station, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.277003,
+               "lng" : 35.989071
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2783519802915,
+                  "lng" : 35.9904199802915
+               },
+               "southwest" : {
+                  "lat" : 50.2756540197085,
+                  "lng" : 35.9877220197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

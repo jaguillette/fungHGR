@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovo",
+               "short_name" : "Ivanovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Ivanovo",
+               "short_name" : "g. Ivanovo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovo, Ivanovo Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.0703221,
+                  "lng" : 41.0876169
+               },
+               "southwest" : {
+                  "lat" : 56.9420231,
+                  "lng" : 40.8765941
+               }
+            },
+            "location" : {
+               "lat" : 56.9985149,
+               "lng" : 40.9834639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.0703221,
+                  "lng" : 41.0876169
+               },
+               "southwest" : {
+                  "lat" : 56.9420231,
+                  "lng" : 40.8765941
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

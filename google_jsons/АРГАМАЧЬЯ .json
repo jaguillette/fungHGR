@@ -1,0 +1,101 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argamak",
+               "short_name" : "Argamak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dyurtyulinsky District",
+               "short_name" : "Dyurtyulinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bashkortostan",
+               "short_name" : "Bashkortostan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argamak, Bashkortostan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.47127,
+                  "lng" : 54.8945599
+               },
+               "southwest" : {
+                  "lat" : 55.46114499999999,
+                  "lng" : 54.883208
+               }
+            },
+            "location" : {
+               "lat" : 55.4661364,
+               "lng" : 54.8886283
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.47127,
+                  "lng" : 54.8945599
+               },
+               "southwest" : {
+                  "lat" : 55.46114499999999,
+                  "lng" : 54.883208
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argamak",
+               "short_name" : "Argamak",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argamak, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.45087770000001,
+                  "lng" : 54.9139369
+               },
+               "southwest" : {
+                  "lat" : 55.4463667,
+                  "lng" : 54.89763019999999
+               }
+            },
+            "location" : {
+               "lat" : 55.4486222,
+               "lng" : 54.9057836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.45087770000001,
+                  "lng" : 54.9139369
+               },
+               "southwest" : {
+                  "lat" : 55.4463667,
+                  "lng" : 54.89763019999999
+               }
+            }
+         },
+         "types" : [ "park", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

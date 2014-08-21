@@ -1,0 +1,1692 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leninsky District, Moscow Oblast",
+               "short_name" : "Leninsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5677181,
+                  "lng" : 37.6620692
+               },
+               "southwest" : {
+                  "lat" : 55.5584959,
+                  "lng" : 37.6305066
+               }
+            },
+            "location" : {
+               "lat" : 55.5636896,
+               "lng" : 37.6389742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5677181,
+                  "lng" : 37.6620692
+               },
+               "southwest" : {
+                  "lat" : 55.5584959,
+                  "lng" : 37.6305066
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Спортивный Комплекс Цсп Измайлово",
+               "short_name" : "Спортивный Комплекс Цсп Измайлово",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "15А",
+               "short_name" : "15А",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Okruzhnoy proyezd",
+               "short_name" : "Okruzhnoy pr-d",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Соколиная Гора",
+               "short_name" : "Соколиная Гора",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105187",
+               "short_name" : "105187",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Спортивный Комплекс Цсп Измайлово, Okruzhnoy proyezd, 15А, Moscow, Russia, 105187",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.789079,
+               "lng" : 37.740685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7904279802915,
+                  "lng" : 37.7420339802915
+               },
+               "southwest" : {
+                  "lat" : 55.7877300197085,
+                  "lng" : 37.7393360197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo, kliniko-diagnosticheskiy tsentr",
+               "short_name" : "Izmaylovo, kliniko-diagnosticheskiy tsentr",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "58",
+               "short_name" : "58",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Izmaylovskiy bulvar",
+               "short_name" : "Izmaylovskiy b-r",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Измайлово Восточное",
+               "short_name" : "Измайлово Восточное",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105077",
+               "short_name" : "105077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, kliniko-diagnosticheskiy tsentr, Izmaylovskiy bulvar, 58, Moscow, Russia, 105077",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.796295,
+               "lng" : 37.812057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7976439802915,
+                  "lng" : 37.8134059802915
+               },
+               "southwest" : {
+                  "lat" : 55.7949460197085,
+                  "lng" : 37.8107080197085
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmailovo Hotel",
+               "short_name" : "Izmailovo Hotel",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Eastern Administrative Okrug",
+               "short_name" : "Eastern Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105613",
+               "short_name" : "105613",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmailovo Hotel, Moscow, Russia, 105613",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.79000000000001,
+               "lng" : 37.748056
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.79134898029151,
+                  "lng" : 37.74940498029149
+               },
+               "southwest" : {
+                  "lat" : 55.78865101970851,
+                  "lng" : 37.7467070197085
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baryshsky District",
+               "short_name" : "Baryshsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsk Oblast",
+               "short_name" : "Ulyanovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "433721",
+               "short_name" : "433721",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Ulyanovsk Oblast, Russia, 433721",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.708723,
+               "lng" : 47.23511200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7100719802915,
+                  "lng" : 47.23646098029151
+               },
+               "southwest" : {
+                  "lat" : 53.7073740197085,
+                  "lng" : 47.23376301970851
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miloslavsky District",
+               "short_name" : "Miloslavsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Ryazan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6481721,
+                  "lng" : 39.4475701
+               },
+               "southwest" : {
+                  "lat" : 53.63478,
+                  "lng" : 39.4036561
+               }
+            },
+            "location" : {
+               "lat" : 53.64197069999999,
+               "lng" : 39.4211009
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6481721,
+                  "lng" : 39.4475701
+               },
+               "southwest" : {
+                  "lat" : 53.63478,
+                  "lng" : 39.4036561
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taldomsky District",
+               "short_name" : "Taldomsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141915",
+               "short_name" : "141915",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Moskovskaya oblast, Russia, 141915",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.7400371,
+                  "lng" : 37.9724489
+               },
+               "southwest" : {
+                  "lat" : 56.734631,
+                  "lng" : 37.9587969
+               }
+            },
+            "location" : {
+               "lat" : 56.7376113,
+               "lng" : 37.9656633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.7400371,
+                  "lng" : 37.9724489
+               },
+               "southwest" : {
+                  "lat" : 56.734631,
+                  "lng" : 37.9587969
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nekrasovsky District",
+               "short_name" : "Nekrasovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Yaroslavl Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.392438,
+                  "lng" : 40.1582562
+               },
+               "southwest" : {
+                  "lat" : 57.3879661,
+                  "lng" : 40.1493998
+               }
+            },
+            "location" : {
+               "lat" : 57.3902509,
+               "lng" : 40.1534276
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.392438,
+                  "lng" : 40.1582562
+               },
+               "southwest" : {
+                  "lat" : 57.3879661,
+                  "lng" : 40.1493998
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torzhoksky District",
+               "short_name" : "Torzhoksky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172090",
+               "short_name" : "172090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Tver Oblast, Russia, 172090",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.06539610000001,
+                  "lng" : 35.1747
+               },
+               "southwest" : {
+                  "lat" : 57.060054,
+                  "lng" : 35.16519
+               }
+            },
+            "location" : {
+               "lat" : 57.06247740000001,
+               "lng" : 35.1703547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.06539610000001,
+                  "lng" : 35.1747
+               },
+               "southwest" : {
+                  "lat" : 57.060054,
+                  "lng" : 35.16519
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alexandrovsky District, Vladimir Oblast",
+               "short_name" : "Alexandrovsky District, Vladimir Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "601625",
+               "short_name" : "601625",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Vladimir Oblast, Russia, 601625",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.60146100000001,
+                  "lng" : 38.511689
+               },
+               "southwest" : {
+                  "lat" : 56.595183,
+                  "lng" : 38.5023027
+               }
+            },
+            "location" : {
+               "lat" : 56.5981809,
+               "lng" : 38.5065774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.60146100000001,
+                  "lng" : 38.511689
+               },
+               "southwest" : {
+                  "lat" : 56.595183,
+                  "lng" : 38.5023027
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yelninsky District",
+               "short_name" : "Yelninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "216336",
+               "short_name" : "216336",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Smolensk Oblast, Russia, 216336",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.730199,
+                  "lng" : 33.208061
+               },
+               "southwest" : {
+                  "lat" : 54.72661799999999,
+                  "lng" : 33.201063
+               }
+            },
+            "location" : {
+               "lat" : 54.72894300000001,
+               "lng" : 33.2051331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.730199,
+                  "lng" : 33.208061
+               },
+               "southwest" : {
+                  "lat" : 54.72661799999999,
+                  "lng" : 33.201063
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tsentr dosuga «Izmaylovo»",
+               "short_name" : "Tsentr dosuga «Izmaylovo»",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "32",
+               "short_name" : "32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Verkhnyaya Pervomayskaya ulitsa",
+               "short_name" : "Verkhnyaya Pervomayskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastern Administrative Okrug",
+               "short_name" : "Eastern Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105264",
+               "short_name" : "105264",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tsentr dosuga «Izmaylovo», Verkhnyaya Pervomayskaya ulitsa, 32, Moscow, Russia, 105264",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.798607,
+               "lng" : 37.79701900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.79995598029149,
+                  "lng" : 37.79836798029151
+               },
+               "southwest" : {
+                  "lat" : 55.7972580197085,
+                  "lng" : 37.79567001970851
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chukhlomsky District",
+               "short_name" : "Chukhlomsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostroma Oblast",
+               "short_name" : "Kostroma Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "157134",
+               "short_name" : "157134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Kostroma Oblast, Russia, 157134",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.00946800000001,
+                  "lng" : 42.9872691
+               },
+               "southwest" : {
+                  "lat" : 59.0062311,
+                  "lng" : 42.982198
+               }
+            },
+            "location" : {
+               "lat" : 59.0081207,
+               "lng" : 42.9844228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.00946800000001,
+                  "lng" : 42.9872691
+               },
+               "southwest" : {
+                  "lat" : 59.0062311,
+                  "lng" : 42.982198
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalininsky District, Tver Oblast",
+               "short_name" : "Kalininsky District, Tver Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "170547",
+               "short_name" : "170547",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Tver Oblast, Russia, 170547",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.67160209999999,
+                  "lng" : 35.9599032
+               },
+               "southwest" : {
+                  "lat" : 56.66359000000001,
+                  "lng" : 35.947715
+               }
+            },
+            "location" : {
+               "lat" : 56.66832369999999,
+               "lng" : 35.9545222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.67160209999999,
+                  "lng" : 35.9599032
+               },
+               "southwest" : {
+                  "lat" : 56.66359000000001,
+                  "lng" : 35.947715
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pereslavsky District",
+               "short_name" : "Pereslavsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152037",
+               "short_name" : "152037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Yaroslavl Oblast, Russia, 152037",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9023939,
+                  "lng" : 38.5132328
+               },
+               "southwest" : {
+                  "lat" : 56.8955099,
+                  "lng" : 38.5046419
+               }
+            },
+            "location" : {
+               "lat" : 56.8997802,
+               "lng" : 38.5080426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9023939,
+                  "lng" : 38.5132328
+               },
+               "southwest" : {
+                  "lat" : 56.8955099,
+                  "lng" : 38.5046419
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Измайлово",
+               "short_name" : "Измайлово",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orsha District",
+               "short_name" : "Orsha District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Измайлово, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6071233,
+                  "lng" : 30.132966
+               },
+               "southwest" : {
+                  "lat" : 54.6029225,
+                  "lng" : 30.12620709999999
+               }
+            },
+            "location" : {
+               "lat" : 54.6051753,
+               "lng" : 30.1295293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6071233,
+                  "lng" : 30.132966
+               },
+               "southwest" : {
+                  "lat" : 54.6029225,
+                  "lng" : 30.12620709999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klepikovsky District",
+               "short_name" : "Klepikovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "391036",
+               "short_name" : "391036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Ryazan Oblast, Russia, 391036",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.15669399999999,
+                  "lng" : 40.3534632
+               },
+               "southwest" : {
+                  "lat" : 55.153651,
+                  "lng" : 40.3429069
+               }
+            },
+            "location" : {
+               "lat" : 55.1550655,
+               "lng" : 40.3480752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.15669399999999,
+                  "lng" : 40.3534632
+               },
+               "southwest" : {
+                  "lat" : 55.153651,
+                  "lng" : 40.3429069
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trosnyansky District",
+               "short_name" : "Trosnyansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303465",
+               "short_name" : "303465",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Oryol Oblast, Russia, 303465",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3916206,
+                  "lng" : 35.8888422
+               },
+               "southwest" : {
+                  "lat" : 52.38337,
+                  "lng" : 35.8749003
+               }
+            },
+            "location" : {
+               "lat" : 52.3873879,
+               "lng" : 35.8836235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3916206,
+                  "lng" : 35.8888422
+               },
+               "southwest" : {
+                  "lat" : 52.38337,
+                  "lng" : 35.8749003
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ivanovsky District, Ivanovo Oblast",
+               "short_name" : "Ivanovsky District, Ivanovo Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "153507",
+               "short_name" : "153507",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Ivanovo Oblast, Russia, 153507",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.05788099999999,
+                  "lng" : 41.2171102
+               },
+               "southwest" : {
+                  "lat" : 57.053622,
+                  "lng" : 41.2119711
+               }
+            },
+            "location" : {
+               "lat" : 57.0557288,
+               "lng" : 41.215398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.05788099999999,
+                  "lng" : 41.2171102
+               },
+               "southwest" : {
+                  "lat" : 57.053622,
+                  "lng" : 41.2119711
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novosilsky District",
+               "short_name" : "Novosilsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303505",
+               "short_name" : "303505",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Oryol Oblast, Russia, 303505",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.033731,
+                  "lng" : 36.8987942
+               },
+               "southwest" : {
+                  "lat" : 53.025236,
+                  "lng" : 36.889061
+               }
+            },
+            "location" : {
+               "lat" : 53.0308563,
+               "lng" : 36.8936642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.033731,
+                  "lng" : 36.8987942
+               },
+               "southwest" : {
+                  "lat" : 53.025236,
+                  "lng" : 36.889061
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shatkovsky District",
+               "short_name" : "Shatkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Nizhny Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.216113,
+                  "lng" : 43.959793
+               },
+               "southwest" : {
+                  "lat" : 55.212228,
+                  "lng" : 43.9513969
+               }
+            },
+            "location" : {
+               "lat" : 55.2140549,
+               "lng" : 43.9558635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.216113,
+                  "lng" : 43.959793
+               },
+               "southwest" : {
+                  "lat" : 55.212228,
+                  "lng" : 43.9513969
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gavrilovsky District",
+               "short_name" : "Gavrilovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tambovskaya oblast",
+               "short_name" : "Tambovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "393175",
+               "short_name" : "393175",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Tambov Oblast, Russia, 393175",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.803841,
+                  "lng" : 42.55555349999999
+               },
+               "southwest" : {
+                  "lat" : 52.7987639,
+                  "lng" : 42.5453638
+               }
+            },
+            "location" : {
+               "lat" : 52.8017335,
+               "lng" : 42.5508703
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.803841,
+                  "lng" : 42.55555349999999
+               },
+               "southwest" : {
+                  "lat" : 52.7987639,
+                  "lng" : 42.5453638
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryovsky District",
+               "short_name" : "Maryovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "175350",
+               "short_name" : "175350",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Novgorod Oblast, Russia, 175350",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.29114999999999,
+                  "lng" : 32.0044531
+               },
+               "southwest" : {
+                  "lat" : 57.288205,
+                  "lng" : 31.999372
+               }
+            },
+            "location" : {
+               "lat" : 57.2899191,
+               "lng" : 32.0019143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.29114999999999,
+                  "lng" : 32.0044531
+               },
+               "southwest" : {
+                  "lat" : 57.288205,
+                  "lng" : 31.999372
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selizharovsky District",
+               "short_name" : "Selizharovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172235",
+               "short_name" : "172235",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Tver Oblast, Russia, 172235",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.826266,
+                  "lng" : 33.2766441
+               },
+               "southwest" : {
+                  "lat" : 56.823983,
+                  "lng" : 33.2726979
+               }
+            },
+            "location" : {
+               "lat" : 56.8252928,
+               "lng" : 33.2746089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8264734802915,
+                  "lng" : 33.2766441
+               },
+               "southwest" : {
+                  "lat" : 56.8237755197085,
+                  "lng" : 33.2726979
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dmitrovsky District, Moscow Oblast",
+               "short_name" : "Dmitrovsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141822",
+               "short_name" : "141822",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Moskovskaya oblast, Russia, 141822",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.510408,
+                  "lng" : 37.7721819
+               },
+               "southwest" : {
+                  "lat" : 56.5065091,
+                  "lng" : 37.7654068
+               }
+            },
+            "location" : {
+               "lat" : 56.50849419999999,
+               "lng" : 37.7687725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.510408,
+                  "lng" : 37.7721819
+               },
+               "southwest" : {
+                  "lat" : 56.5065091,
+                  "lng" : 37.7654068
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baryshsky District",
+               "short_name" : "Baryshsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsk Oblast",
+               "short_name" : "Ulyanovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "433722",
+               "short_name" : "433722",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Ulyanovsk Oblast, Russia, 433722",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.826485,
+                  "lng" : 47.3215479
+               },
+               "southwest" : {
+                  "lat" : 53.8148115,
+                  "lng" : 47.2796637
+               }
+            },
+            "location" : {
+               "lat" : 53.8209233,
+               "lng" : 47.2835487
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.826485,
+                  "lng" : 47.2868727
+               },
+               "southwest" : {
+                  "lat" : 53.81996179999999,
+                  "lng" : 47.2796637
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vologodsky District",
+               "short_name" : "Vologodsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "160531",
+               "short_name" : "160531",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Vologda Oblast, Russia, 160531",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.3475,
+               "lng" : 39.743611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3488489802915,
+                  "lng" : 39.7449599802915
+               },
+               "southwest" : {
+                  "lat" : 59.34615101970849,
+                  "lng" : 39.7422620197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pervomayskaya ulitsa",
+               "short_name" : "Pervomayskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Восточный АО",
+               "short_name" : "Восточный АО",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105203",
+               "short_name" : "105203",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Pervomayskaya ulitsa, 111, Moscow, Russia, 105203",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.793914,
+               "lng" : 37.814711
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7952629802915,
+                  "lng" : 37.8160599802915
+               },
+               "southwest" : {
+                  "lat" : 55.7925650197085,
+                  "lng" : 37.8133620197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmaylovo",
+               "short_name" : "Izmaylovo",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "41А",
+               "short_name" : "41А",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Izmaylovskiy bulvar",
+               "short_name" : "Izmaylovskiy b-r",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastern Administrative Okrug",
+               "short_name" : "Eastern Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105264",
+               "short_name" : "105264",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Izmaylovo, Izmaylovskiy bulvar, 41А, Moscow, Russia, 105264",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.7982739,
+               "lng" : 37.7969595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7996228802915,
+                  "lng" : 37.7983084802915
+               },
+               "southwest" : {
+                  "lat" : 55.7969249197085,
+                  "lng" : 37.7956105197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

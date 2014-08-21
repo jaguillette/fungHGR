@@ -1,0 +1,1630 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamensky District, Penza Oblast",
+               "short_name" : "Kamensky District, Penza Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Penzenskaya oblast",
+               "short_name" : "Penzenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Penza Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2066149,
+                  "lng" : 44.095566
+               },
+               "southwest" : {
+                  "lat" : 53.15287679999999,
+                  "lng" : 43.955065
+               }
+            },
+            "location" : {
+               "lat" : 53.183333,
+               "lng" : 44.05
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2066149,
+                  "lng" : 44.095566
+               },
+               "southwest" : {
+                  "lat" : 53.15287679999999,
+                  "lng" : 43.955065
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Camenca",
+               "short_name" : "Camenca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Camenca, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.05747359999999,
+                  "lng" : 28.7270165
+               },
+               "southwest" : {
+                  "lat" : 48.0023278,
+                  "lng" : 28.6636949
+               }
+            },
+            "location" : {
+               "lat" : 48.031944,
+               "lng" : 28.697778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.05747359999999,
+                  "lng" : 28.7270165
+               },
+               "southwest" : {
+                  "lat" : 48.0023278,
+                  "lng" : 28.6636949
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanka",
+               "short_name" : "Kam'yanka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kam'yans'kyi district",
+               "short_name" : "Kam'yans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cherkas'ka oblast",
+               "short_name" : "Cherkas'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanka, Cherkas'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.05894199999999,
+                  "lng" : 32.14673990000001
+               },
+               "southwest" : {
+                  "lat" : 49.0032759,
+                  "lng" : 32.0484241
+               }
+            },
+            "location" : {
+               "lat" : 49.0306474,
+               "lng" : 32.1150933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.05894199999999,
+                  "lng" : 32.14673990000001
+               },
+               "southwest" : {
+                  "lat" : 49.0032759,
+                  "lng" : 32.0484241
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sandyktau District",
+               "short_name" : "Sandyktau District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Akmola Province",
+               "short_name" : "Akmola Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "020000",
+               "short_name" : "020000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka 020000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3892992,
+                  "lng" : 69.0714739
+               },
+               "southwest" : {
+                  "lat" : 52.350703,
+                  "lng" : 69.0326786
+               }
+            },
+            "location" : {
+               "lat" : 52.369592,
+               "lng" : 69.048564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3892992,
+                  "lng" : 69.0714739
+               },
+               "southwest" : {
+                  "lat" : 52.350703,
+                  "lng" : 69.0326786
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tausamaly",
+               "short_name" : "Tausamaly",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karasay District",
+               "short_name" : "Karasay District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tausamaly, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2011091,
+                  "lng" : 76.8503953
+               },
+               "southwest" : {
+                  "lat" : 43.1704751,
+                  "lng" : 76.81636329999999
+               }
+            },
+            "location" : {
+               "lat" : 43.1880975,
+               "lng" : 76.8288489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2011091,
+                  "lng" : 76.8503953
+               },
+               "southwest" : {
+                  "lat" : 43.1704751,
+                  "lng" : 76.81636329999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turar Ryskulov District",
+               "short_name" : "Turar Ryskulov District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jambyl Province",
+               "short_name" : "Jambyl Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9202292,
+                  "lng" : 72.8789663
+               },
+               "southwest" : {
+                  "lat" : 42.9063683,
+                  "lng" : 72.8347205
+               }
+            },
+            "location" : {
+               "lat" : 42.9118112,
+               "lng" : 72.8545019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9202292,
+                  "lng" : 72.8789663
+               },
+               "southwest" : {
+                  "lat" : 42.9063683,
+                  "lng" : 72.8347205
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka, Arkhangelsk Oblast",
+               "short_name" : "Kamenka, Arkhangelsk Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mezenskiy rayon",
+               "short_name" : "Mezenskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkhangel'skaya oblast",
+               "short_name" : "Arkhangel'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Arkhangelsk Oblast, Arkhangelsk Oblast, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 65.891667,
+               "lng" : 44.120278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.89301598029151,
+                  "lng" : 44.1216269802915
+               },
+               "southwest" : {
+                  "lat" : 65.89031801970849,
+                  "lng" : 44.1189290197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vyborgsky District, Leningrad Oblast",
+               "short_name" : "Vyborgsky District, Leningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188843",
+               "short_name" : "188843",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Leningrad Oblast, Russia, 188843",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.452766,
+                  "lng" : 29.1029478
+               },
+               "southwest" : {
+                  "lat" : 60.43679499999999,
+                  "lng" : 29.0711731
+               }
+            },
+            "location" : {
+               "lat" : 60.45,
+               "lng" : 29.083333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.452766,
+                  "lng" : 29.1029478
+               },
+               "southwest" : {
+                  "lat" : 60.43679499999999,
+                  "lng" : 29.0711731
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zadonsky District",
+               "short_name" : "Zadonsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "399206",
+               "short_name" : "399206",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Lipetsk Oblast, Russia, 399206",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.388474,
+                  "lng" : 38.77669789999999
+               },
+               "southwest" : {
+                  "lat" : 52.372397,
+                  "lng" : 38.7529998
+               }
+            },
+            "location" : {
+               "lat" : 52.380833,
+               "lng" : 38.768056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.388474,
+                  "lng" : 38.77669789999999
+               },
+               "southwest" : {
+                  "lat" : 52.372397,
+                  "lng" : 38.7529998
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novosibirsky District",
+               "short_name" : "Novosibirsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirskaya oblast",
+               "short_name" : "Novosibirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "630530",
+               "short_name" : "630530",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Novosibirsk Oblast, Russia, 630530",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.110685,
+                  "lng" : 83.07421409999999
+               },
+               "southwest" : {
+                  "lat" : 55.089959,
+                  "lng" : 83.0272559
+               }
+            },
+            "location" : {
+               "lat" : 55.1025909,
+               "lng" : 83.0515327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.110685,
+                  "lng" : 83.07421409999999
+               },
+               "southwest" : {
+                  "lat" : 55.089959,
+                  "lng" : 83.0272559
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnoarmeysky District, Saratov Oblast",
+               "short_name" : "Krasnoarmeysky District, Saratov Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saratovskaya oblast",
+               "short_name" : "Saratovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "412845",
+               "short_name" : "412845",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Saratov Oblast, Russia, 412845",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.690834,
+               "lng" : 45.4193039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6921829802915,
+                  "lng" : 45.4206528802915
+               },
+               "southwest" : {
+                  "lat" : 50.6894850197085,
+                  "lng" : 45.4179549197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tasqala",
+               "short_name" : "Tasqala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taskala District",
+               "short_name" : "Taskala District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Kazakhstan Province",
+               "short_name" : "West Kazakhstan Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tasqala, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1213037,
+                  "lng" : 50.3194427
+               },
+               "southwest" : {
+                  "lat" : 51.0918254,
+                  "lng" : 50.26047699999999
+               }
+            },
+            "location" : {
+               "lat" : 51.10052109999999,
+               "lng" : 50.2869282
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1213037,
+                  "lng" : 50.3194427
+               },
+               "southwest" : {
+                  "lat" : 51.0918254,
+                  "lng" : 50.26047699999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Kamenka",
+               "short_name" : "ul. Kamenka",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kamennyy Brod",
+               "short_name" : "Kamennyy Brod",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rodionovo-Nesvetaysky District",
+               "short_name" : "Rodionovo-Nesvetaysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346599",
+               "short_name" : "346599",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Kamenka, Kamennyy Brod, Rostov Oblast, Russia, 346599",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4398176,
+                  "lng" : 39.8449443
+               },
+               "southwest" : {
+                  "lat" : 47.4312801,
+                  "lng" : 39.8366162
+               }
+            },
+            "location" : {
+               "lat" : 47.4352097,
+               "lng" : 39.8395775
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4398176,
+                  "lng" : 39.8449443
+               },
+               "southwest" : {
+                  "lat" : 47.4312801,
+                  "lng" : 39.8366162
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novonikolayevsky District",
+               "short_name" : "Novonikolayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volgogradskaya oblast",
+               "short_name" : "Volgogradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "403936",
+               "short_name" : "403936",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Volgograd Oblast, Russia, 403936",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8475315,
+                  "lng" : 42.3707212
+               },
+               "southwest" : {
+                  "lat" : 50.8277747,
+                  "lng" : 42.35323349999999
+               }
+            },
+            "location" : {
+               "lat" : 50.83879349999999,
+               "lng" : 42.3593046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8475315,
+                  "lng" : 42.3707212
+               },
+               "southwest" : {
+                  "lat" : 50.8277747,
+                  "lng" : 42.35323349999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chachersk District",
+               "short_name" : "Chachersk District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.95603260000001,
+                  "lng" : 31.0884763
+               },
+               "southwest" : {
+                  "lat" : 52.9435954,
+                  "lng" : 31.0648298
+               }
+            },
+            "location" : {
+               "lat" : 52.94750000000001,
+               "lng" : 31.073889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.95603260000001,
+                  "lng" : 31.0884763
+               },
+               "southwest" : {
+                  "lat" : 52.9435954,
+                  "lng" : 31.0648298
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanka",
+               "short_name" : "Kam'yanka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hlybots'kyi district",
+               "short_name" : "Hlybots'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernivets'ka oblast",
+               "short_name" : "Chernivets'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanka, Chernivets'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0449581,
+                  "lng" : 25.9353159
+               },
+               "southwest" : {
+                  "lat" : 48.00706,
+                  "lng" : 25.8719391
+               }
+            },
+            "location" : {
+               "lat" : 48.026111,
+               "lng" : 25.903611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0449581,
+                  "lng" : 25.9353159
+               },
+               "southwest" : {
+                  "lat" : 48.00706,
+                  "lng" : 25.8719391
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Kamenka",
+               "short_name" : "ul. Kamenka",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zelenogradsky Administrative Okrug",
+               "short_name" : "Zelenogradsky Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Zelenograd",
+               "short_name" : "Zelenograd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "124365",
+               "short_name" : "124365",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Kamenka, Zelenograd, Moscow, Russia, 124365",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9840081,
+                  "lng" : 37.1627365
+               },
+               "southwest" : {
+                  "lat" : 55.9705478,
+                  "lng" : 37.1619925
+               }
+            },
+            "location" : {
+               "lat" : 55.9771928,
+               "lng" : 37.1620169
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9840081,
+                  "lng" : 37.1637134802915
+               },
+               "southwest" : {
+                  "lat" : 55.9705478,
+                  "lng" : 37.16101551970851
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanka",
+               "short_name" : "Kam'yanka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Izmail's'kyi district",
+               "short_name" : "Izmail's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5758569,
+                  "lng" : 28.9024999
+               },
+               "southwest" : {
+                  "lat" : 45.5544881,
+                  "lng" : 28.859778
+               }
+            },
+            "location" : {
+               "lat" : 45.5628982,
+               "lng" : 28.8867564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5758569,
+                  "lng" : 28.9024999
+               },
+               "southwest" : {
+                  "lat" : 45.5544881,
+                  "lng" : 28.859778
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pskovsky District",
+               "short_name" : "Pskovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pskovskaya oblast",
+               "short_name" : "Pskovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "180550",
+               "short_name" : "180550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Pskov Oblast, Russia, 180550",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.045556,
+               "lng" : 28.505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.04690498029151,
+                  "lng" : 28.5063489802915
+               },
+               "southwest" : {
+                  "lat" : 58.04420701970849,
+                  "lng" : 28.5036510197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuznetsky District, Penza Oblast",
+               "short_name" : "Kuznetsky District, Penza Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Penzenskaya oblast",
+               "short_name" : "Penzenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Penza Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0969557,
+                  "lng" : 46.52736820000001
+               },
+               "southwest" : {
+                  "lat" : 53.0767803,
+                  "lng" : 46.5019993
+               }
+            },
+            "location" : {
+               "lat" : 53.08901650000001,
+               "lng" : 46.5126973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0969557,
+                  "lng" : 46.52736820000001
+               },
+               "southwest" : {
+                  "lat" : 53.0767803,
+                  "lng" : 46.5019993
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanka",
+               "short_name" : "Kam'yanka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novopskovs'kyi district",
+               "short_name" : "Novopskovs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanka, Luhans'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.66278399999999,
+                  "lng" : 39.39706779999999
+               },
+               "southwest" : {
+                  "lat" : 49.603973,
+                  "lng" : 39.33354
+               }
+            },
+            "location" : {
+               "lat" : 49.633333,
+               "lng" : 39.360278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.66278399999999,
+                  "lng" : 39.39706779999999
+               },
+               "southwest" : {
+                  "lat" : 49.603973,
+                  "lng" : 39.33354
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Kamenka",
+               "short_name" : "ul. Kamenka",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kamen-Rybolov",
+               "short_name" : "Kamen-Rybolov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khankaysky District",
+               "short_name" : "Khankaysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Primorsky Krai",
+               "short_name" : "Primorsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "692682",
+               "short_name" : "692682",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Kamenka, Kamen-Rybolov, Primorsky Krai, Russia, 692682",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7290305,
+                  "lng" : 132.040588
+               },
+               "southwest" : {
+                  "lat" : 44.7263686,
+                  "lng" : 132.0280914
+               }
+            },
+            "location" : {
+               "lat" : 44.728115,
+               "lng" : 132.0348204
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7290485302915,
+                  "lng" : 132.040588
+               },
+               "southwest" : {
+                  "lat" : 44.7263505697085,
+                  "lng" : 132.0280914
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Camenca, Glodeni",
+               "short_name" : "Camenca, Glodeni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glodeni",
+               "short_name" : "Glodeni",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Moldova",
+               "short_name" : "MD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Camenca, Glodeni, Moldova",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8355426,
+                  "lng" : 27.3787451
+               },
+               "southwest" : {
+                  "lat" : 47.8178808,
+                  "lng" : 27.354069
+               }
+            },
+            "location" : {
+               "lat" : 47.827778,
+               "lng" : 27.364167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8355426,
+                  "lng" : 27.3787451
+               },
+               "southwest" : {
+                  "lat" : 47.8178808,
+                  "lng" : 27.354069
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vetluzhsky District",
+               "short_name" : "Vetluzhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606860",
+               "short_name" : "606860",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Nizhny Novgorod Oblast, Russia, 606860",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.775075,
+                  "lng" : 45.5596987
+               },
+               "southwest" : {
+                  "lat" : 57.76831689999999,
+                  "lng" : 45.536912
+               }
+            },
+            "location" : {
+               "lat" : 57.771111,
+               "lng" : 45.548056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.775075,
+                  "lng" : 45.5596987
+               },
+               "southwest" : {
+                  "lat" : 57.76831689999999,
+                  "lng" : 45.536912
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Kamenka",
+               "short_name" : "ul. Kamenka",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "620907",
+               "short_name" : "620907",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Kamenka, Sverdlovsk Oblast, Russia, 620907",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.9641165,
+                  "lng" : 60.6841409
+               },
+               "southwest" : {
+                  "lat" : 56.9588882,
+                  "lng" : 60.67601810000001
+               }
+            },
+            "location" : {
+               "lat" : 56.9613629,
+               "lng" : 60.6800309
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.9641165,
+                  "lng" : 60.6841409
+               },
+               "southwest" : {
+                  "lat" : 56.9588882,
+                  "lng" : 60.67601810000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krumovgrad",
+               "short_name" : "Krumovgrad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kardzali",
+               "short_name" : "Kardzali",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6918",
+               "short_name" : "6918",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "6918 Kamenka, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4711103,
+                  "lng" : 25.6760557
+               },
+               "southwest" : {
+                  "lat" : 41.4646733,
+                  "lng" : 25.6686177
+               }
+            },
+            "location" : {
+               "lat" : 41.465233,
+               "lng" : 25.6723093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4711103,
+                  "lng" : 25.6760557
+               },
+               "southwest" : {
+                  "lat" : 41.4646733,
+                  "lng" : 25.6686177
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanka",
+               "short_name" : "Kam'yanka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rozdil'nyans'kyi district",
+               "short_name" : "Rozdil'nyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8097581,
+                  "lng" : 30.1193272
+               },
+               "southwest" : {
+                  "lat" : 46.7876,
+                  "lng" : 30.0994711
+               }
+            },
+            "location" : {
+               "lat" : 46.798611,
+               "lng" : 30.109444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8097581,
+                  "lng" : 30.1193272
+               },
+               "southwest" : {
+                  "lat" : 46.7876,
+                  "lng" : 30.0994711
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamenka",
+               "short_name" : "Kamenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamensky District, Voronezh Oblast",
+               "short_name" : "Kamensky District, Voronezh Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamenka, Voronezh Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7285031,
+                  "lng" : 39.4590418
+               },
+               "southwest" : {
+                  "lat" : 50.68563,
+                  "lng" : 39.3912499
+               }
+            },
+            "location" : {
+               "lat" : 50.7125,
+               "lng" : 39.432778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7285031,
+                  "lng" : 39.4590418
+               },
+               "southwest" : {
+                  "lat" : 50.68563,
+                  "lng" : 39.3912499
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanka",
+               "short_name" : "Kam'yanka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bilyaivs'kyi district",
+               "short_name" : "Bilyaivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.64848010000001,
+                  "lng" : 30.254663
+               },
+               "southwest" : {
+                  "lat" : 46.6248329,
+                  "lng" : 30.2157771
+               }
+            },
+            "location" : {
+               "lat" : 46.633333,
+               "lng" : 30.233333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.64848010000001,
+                  "lng" : 30.254663
+               },
+               "southwest" : {
+                  "lat" : 46.6248329,
+                  "lng" : 30.2157771
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kam'yanka",
+               "short_name" : "Kam'yanka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bereznivs'kyi district",
+               "short_name" : "Bereznivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rivnens'ka oblast",
+               "short_name" : "Rivnens'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kam'yanka, Rivnens'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.981101,
+                  "lng" : 26.662387
+               },
+               "southwest" : {
+                  "lat" : 50.9699511,
+                  "lng" : 26.6233679
+               }
+            },
+            "location" : {
+               "lat" : 50.975556,
+               "lng" : 26.642778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.981101,
+                  "lng" : 26.662387
+               },
+               "southwest" : {
+                  "lat" : 50.9699511,
+                  "lng" : 26.6233679
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

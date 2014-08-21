@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glushitskaya ulitsa",
+               "short_name" : "Glushitskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Samara",
+               "short_name" : "Samara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Samara",
+               "short_name" : "g. Samara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Samarskaya oblast",
+               "short_name" : "Samarskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "443028",
+               "short_name" : "443028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glushitskaya ulitsa, Samara, Samara Oblast, Russia, 443028",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2961778,
+                  "lng" : 50.31244359999999
+               },
+               "southwest" : {
+                  "lat" : 53.2946363,
+                  "lng" : 50.30490349999999
+               }
+            },
+            "location" : {
+               "lat" : 53.295399,
+               "lng" : 50.3086171
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2967560302915,
+                  "lng" : 50.31244359999999
+               },
+               "southwest" : {
+                  "lat" : 53.2940580697085,
+                  "lng" : 50.30490349999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

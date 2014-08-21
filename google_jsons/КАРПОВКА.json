@@ -1,0 +1,1602 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Martynovsky District",
+               "short_name" : "Martynovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346677",
+               "short_name" : "346677",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Rostov Oblast, Russia, 346677",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.270924,
+                  "lng" : 41.464345
+               },
+               "southwest" : {
+                  "lat" : 47.261223,
+                  "lng" : 41.4480041
+               }
+            },
+            "location" : {
+               "lat" : 47.266692,
+               "lng" : 41.457303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.270924,
+                  "lng" : 41.464345
+               },
+               "southwest" : {
+                  "lat" : 47.261223,
+                  "lng" : 41.4480041
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagayevsky District",
+               "short_name" : "Bagayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346616",
+               "short_name" : "346616",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Rostov Oblast, Russia, 346616",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.41178800000001,
+                  "lng" : 40.5991371
+               },
+               "southwest" : {
+                  "lat" : 47.395393,
+                  "lng" : 40.572143
+               }
+            },
+            "location" : {
+               "lat" : 47.404716,
+               "lng" : 40.58484199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.41178800000001,
+                  "lng" : 40.5991371
+               },
+               "southwest" : {
+                  "lat" : 47.395393,
+                  "lng" : 40.572143
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chertkovsky District",
+               "short_name" : "Chertkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346114",
+               "short_name" : "346114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Rostov Oblast, Russia, 346114",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1636931,
+                  "lng" : 40.0644414
+               },
+               "southwest" : {
+                  "lat" : 49.1471391,
+                  "lng" : 40.0289456
+               }
+            },
+            "location" : {
+               "lat" : 49.15472200000001,
+               "lng" : 40.041667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1636931,
+                  "lng" : 40.0644414
+               },
+               "southwest" : {
+                  "lat" : 49.1471391,
+                  "lng" : 40.0289456
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shyrokivs'kyi district",
+               "short_name" : "Shyrokivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dnipropetrovsk Oblast",
+               "short_name" : "Dnipropetrovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Dnipropetrovsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.671968,
+                  "lng" : 33.134782
+               },
+               "southwest" : {
+                  "lat" : 47.65988410000001,
+                  "lng" : 33.1062908
+               }
+            },
+            "location" : {
+               "lat" : 47.666007,
+               "lng" : 33.119443
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.671968,
+                  "lng" : 33.134782
+               },
+               "southwest" : {
+                  "lat" : 47.65988410000001,
+                  "lng" : 33.1062908
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Карповка",
+               "short_name" : "Карповка",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loev District",
+               "short_name" : "Loev District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Карповка, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.033496,
+                  "lng" : 30.912223
+               },
+               "southwest" : {
+                  "lat" : 52.009929,
+                  "lng" : 30.8920097
+               }
+            },
+            "location" : {
+               "lat" : 52.02222200000001,
+               "lng" : 30.905833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.033496,
+                  "lng" : 30.912223
+               },
+               "southwest" : {
+                  "lat" : 52.009929,
+                  "lng" : 30.8920097
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slov'yans'kyi district",
+               "short_name" : "Slov'yans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Donetsk Oblast",
+               "short_name" : "Donetsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Donetsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.902629,
+                  "lng" : 37.653831
+               },
+               "southwest" : {
+                  "lat" : 48.891497,
+                  "lng" : 37.6409398
+               }
+            },
+            "location" : {
+               "lat" : 48.896944,
+               "lng" : 37.6475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.902629,
+                  "lng" : 37.653831
+               },
+               "southwest" : {
+                  "lat" : 48.891497,
+                  "lng" : 37.6409398
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rozdil'nyans'kyi district",
+               "short_name" : "Rozdil'nyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Odessa Oblast",
+               "short_name" : "Odessa Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Odessa Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.79805,
+                  "lng" : 30.276029
+               },
+               "southwest" : {
+                  "lat" : 46.779727,
+                  "lng" : 30.2242909
+               }
+            },
+            "location" : {
+               "lat" : 46.788889,
+               "lng" : 30.250278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.79805,
+                  "lng" : 30.276029
+               },
+               "southwest" : {
+                  "lat" : 46.779727,
+                  "lng" : 30.2242909
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorodishchensky District, Volgograd Oblast",
+               "short_name" : "Gorodishchensky District, Volgograd Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volgogradskaya oblast",
+               "short_name" : "Volgogradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "403022",
+               "short_name" : "403022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Volgograd Oblast, Russia, 403022",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.71472809999999,
+                  "lng" : 43.999089
+               },
+               "southwest" : {
+                  "lat" : 48.695255,
+                  "lng" : 43.9614191
+               }
+            },
+            "location" : {
+               "lat" : 48.70475589999999,
+               "lng" : 43.9774129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.71472809999999,
+                  "lng" : 43.999089
+               },
+               "southwest" : {
+                  "lat" : 48.695255,
+                  "lng" : 43.9614191
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mohyliv-Podil's'kyi district",
+               "short_name" : "Mohyliv-Podil's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vinnyts'ka oblast",
+               "short_name" : "Vinnyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Vinnyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.490559,
+                  "lng" : 27.864274
+               },
+               "southwest" : {
+                  "lat" : 48.467017,
+                  "lng" : 27.820186
+               }
+            },
+            "location" : {
+               "lat" : 48.478889,
+               "lng" : 27.842222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.490559,
+                  "lng" : 27.864274
+               },
+               "southwest" : {
+                  "lat" : 48.467017,
+                  "lng" : 27.820186
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kremenchuts'kyi district",
+               "short_name" : "Kremenchuts'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9913949,
+                  "lng" : 33.7937589
+               },
+               "southwest" : {
+                  "lat" : 48.980536,
+                  "lng" : 33.781584
+               }
+            },
+            "location" : {
+               "lat" : 48.983849,
+               "lng" : 33.78743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9913949,
+                  "lng" : 33.7937589
+               },
+               "southwest" : {
+                  "lat" : 48.980536,
+                  "lng" : 33.781584
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oleksandrivs'kyi district",
+               "short_name" : "Oleksandrivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Donetsk Oblast",
+               "short_name" : "Donetsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Donetsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8001651,
+                  "lng" : 36.7429778
+               },
+               "southwest" : {
+                  "lat" : 48.788061,
+                  "lng" : 36.7236603
+               }
+            },
+            "location" : {
+               "lat" : 48.79416699999999,
+               "lng" : 36.733333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8001651,
+                  "lng" : 36.7429778
+               },
+               "southwest" : {
+                  "lat" : 48.788061,
+                  "lng" : 36.7236603
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnolymans'kyi district",
+               "short_name" : "Krasnolymans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Donetsk Oblast",
+               "short_name" : "Donetsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Donetsk Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.186164,
+                  "lng" : 37.7512499
+               },
+               "southwest" : {
+                  "lat" : 49.154543,
+                  "lng" : 37.7072
+               }
+            },
+            "location" : {
+               "lat" : 49.175,
+               "lng" : 37.726111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.186164,
+                  "lng" : 37.7512499
+               },
+               "southwest" : {
+                  "lat" : 49.154543,
+                  "lng" : 37.7072
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pestrechinsky District",
+               "short_name" : "Pestrechinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Tatarstan",
+               "short_name" : "Republic of Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "422775",
+               "short_name" : "422775",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Republic of Tatarstan, Russia, 422775",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.66411799999999,
+                  "lng" : 49.53679109999999
+               },
+               "southwest" : {
+                  "lat" : 55.65278499999999,
+                  "lng" : 49.521847
+               }
+            },
+            "location" : {
+               "lat" : 55.66116359999999,
+               "lng" : 49.5273371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.66411799999999,
+                  "lng" : 49.53679109999999
+               },
+               "southwest" : {
+                  "lat" : 55.65278499999999,
+                  "lng" : 49.521847
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horodnyans'kyi district",
+               "short_name" : "Horodnyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0764249,
+                  "lng" : 31.4025399
+               },
+               "southwest" : {
+                  "lat" : 52.065639,
+                  "lng" : 31.3717271
+               }
+            },
+            "location" : {
+               "lat" : 52.07,
+               "lng" : 31.39
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0764249,
+                  "lng" : 31.4025399
+               },
+               "southwest" : {
+                  "lat" : 52.065639,
+                  "lng" : 31.3717271
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpivka",
+               "short_name" : "Karpivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnohvardiis'kyi district",
+               "short_name" : "Krasnohvardiis'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Crimea",
+               "short_name" : "Crimea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpivka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.52906,
+                  "lng" : 34.08747
+               },
+               "southwest" : {
+                  "lat" : 45.515961,
+                  "lng" : 34.060173
+               }
+            },
+            "location" : {
+               "lat" : 45.5223317,
+               "lng" : 34.0817786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.52906,
+                  "lng" : 34.08747
+               },
+               "southwest" : {
+                  "lat" : 45.515961,
+                  "lng" : 34.060173
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ozyorsky District, Kaliningrad Oblast",
+               "short_name" : "Ozyorsky District, Kaliningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningradskaya oblast",
+               "short_name" : "Kaliningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238122",
+               "short_name" : "238122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Kaliningrad Oblast, Russia, 238122",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.52521309999999,
+                  "lng" : 21.9242267
+               },
+               "southwest" : {
+                  "lat" : 54.522626,
+                  "lng" : 21.9160191
+               }
+            },
+            "location" : {
+               "lat" : 54.5242046,
+               "lng" : 21.9211326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.52526853029149,
+                  "lng" : 21.9242267
+               },
+               "southwest" : {
+                  "lat" : 54.52257056970849,
+                  "lng" : 21.9160191
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yershichsky District",
+               "short_name" : "Yershichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "216591",
+               "short_name" : "216591",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Smolensk Oblast, Russia, 216591",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6543439,
+                  "lng" : 32.5218132
+               },
+               "southwest" : {
+                  "lat" : 53.6489241,
+                  "lng" : 32.5124
+               }
+            },
+            "location" : {
+               "lat" : 53.6518761,
+               "lng" : 32.5166874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6543439,
+                  "lng" : 32.5218132
+               },
+               "southwest" : {
+                  "lat" : 53.6489241,
+                  "lng" : 32.5124
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verkhovsky District",
+               "short_name" : "Verkhovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303727",
+               "short_name" : "303727",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Oryol Oblast, Russia, 303727",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.76969399999999,
+                  "lng" : 37.3587091
+               },
+               "southwest" : {
+                  "lat" : 52.7580329,
+                  "lng" : 37.33609879999999
+               }
+            },
+            "location" : {
+               "lat" : 52.7644765,
+               "lng" : 37.3448543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.76969399999999,
+                  "lng" : 37.3587091
+               },
+               "southwest" : {
+                  "lat" : 52.7580329,
+                  "lng" : 37.33609879999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stanovlyansky District",
+               "short_name" : "Stanovlyansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Lipetsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.93839699999999,
+                  "lng" : 38.0416019
+               },
+               "southwest" : {
+                  "lat" : 52.929875,
+                  "lng" : 38.032369
+               }
+            },
+            "location" : {
+               "lat" : 52.9339893,
+               "lng" : 38.0361977
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.93839699999999,
+                  "lng" : 38.0416019
+               },
+               "southwest" : {
+                  "lat" : 52.929875,
+                  "lng" : 38.032369
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Serdobsky District",
+               "short_name" : "Serdobsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Penzenskaya oblast",
+               "short_name" : "Penzenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "442874",
+               "short_name" : "442874",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Penza Oblast, Russia, 442874",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.48437209999999,
+                  "lng" : 44.0941471
+               },
+               "southwest" : {
+                  "lat" : 52.46711980000001,
+                  "lng" : 44.0588495
+               }
+            },
+            "location" : {
+               "lat" : 52.4733932,
+               "lng" : 44.074243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.48437209999999,
+                  "lng" : 44.0941471
+               },
+               "southwest" : {
+                  "lat" : 52.46711980000001,
+                  "lng" : 44.0588495
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vygonichsky District",
+               "short_name" : "Vygonichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "243342",
+               "short_name" : "243342",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Bryansk Oblast, Russia, 243342",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.07469099999999,
+                  "lng" : 33.6533621
+               },
+               "southwest" : {
+                  "lat" : 53.07002000000001,
+                  "lng" : 33.63133190000001
+               }
+            },
+            "location" : {
+               "lat" : 53.072778,
+               "lng" : 33.643889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.07469099999999,
+                  "lng" : 33.6533621
+               },
+               "southwest" : {
+                  "lat" : 53.07002000000001,
+                  "lng" : 33.63133190000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sovetsky District, Kursk Oblast",
+               "short_name" : "Sovetsky District, Kursk Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "306612",
+               "short_name" : "306612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Kursk Oblast, Russia, 306612",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.898818,
+                  "lng" : 37.7909921
+               },
+               "southwest" : {
+                  "lat" : 51.893626,
+                  "lng" : 37.7777128
+               }
+            },
+            "location" : {
+               "lat" : 51.8957632,
+               "lng" : 37.7843694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.898818,
+                  "lng" : 37.7909921
+               },
+               "southwest" : {
+                  "lat" : 51.893626,
+                  "lng" : 37.7777128
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kinelsky District",
+               "short_name" : "Kinelsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Samarskaya oblast",
+               "short_name" : "Samarskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "446420",
+               "short_name" : "446420",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Samara Oblast, Russia, 446420",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.127329,
+                  "lng" : 51.103276
+               },
+               "southwest" : {
+                  "lat" : 53.121144,
+                  "lng" : 51.09594999999999
+               }
+            },
+            "location" : {
+               "lat" : 53.1243969,
+               "lng" : 51.0999457
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.127329,
+                  "lng" : 51.103276
+               },
+               "southwest" : {
+                  "lat" : 53.121144,
+                  "lng" : 51.09594999999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kimrsky District",
+               "short_name" : "Kimrsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171516",
+               "short_name" : "171516",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Tver Oblast, Russia, 171516",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.12748999999999,
+                  "lng" : 37.2392391
+               },
+               "southwest" : {
+                  "lat" : 57.123963,
+                  "lng" : 37.23029400000001
+               }
+            },
+            "location" : {
+               "lat" : 57.1255423,
+               "lng" : 37.2340093
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.12748999999999,
+                  "lng" : 37.2392391
+               },
+               "southwest" : {
+                  "lat" : 57.123963,
+                  "lng" : 37.23029400000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vorotynsky District",
+               "short_name" : "Vorotynsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606271",
+               "short_name" : "606271",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Nizhny Novgorod Oblast, Russia, 606271",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.112643,
+                  "lng" : 45.7652243
+               },
+               "southwest" : {
+                  "lat" : 56.110376,
+                  "lng" : 45.7585802
+               }
+            },
+            "location" : {
+               "lat" : 56.1117372,
+               "lng" : 45.7624648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1128584802915,
+                  "lng" : 45.7652243
+               },
+               "southwest" : {
+                  "lat" : 56.1101605197085,
+                  "lng" : 45.7585802
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Карповка",
+               "short_name" : "Карповка",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dokshytsy District",
+               "short_name" : "Dokshytsy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Карповка, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9203105,
+                  "lng" : 27.739792
+               },
+               "southwest" : {
+                  "lat" : 54.9165861,
+                  "lng" : 27.7343417
+               }
+            },
+            "location" : {
+               "lat" : 54.9182676,
+               "lng" : 27.7363516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9203105,
+                  "lng" : 27.739792
+               },
+               "southwest" : {
+                  "lat" : 54.9165861,
+                  "lng" : 27.7343417
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokaryovsky District",
+               "short_name" : "Tokaryovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tambovskaya oblast",
+               "short_name" : "Tambovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "393557",
+               "short_name" : "393557",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Tambov Oblast, Russia, 393557",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1355077,
+                  "lng" : 41.2957045
+               },
+               "southwest" : {
+                  "lat" : 52.1286169,
+                  "lng" : 41.2755704
+               }
+            },
+            "location" : {
+               "lat" : 52.13316829999999,
+               "lng" : 41.2873109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1355077,
+                  "lng" : 41.2957045
+               },
+               "southwest" : {
+                  "lat" : 52.1286169,
+                  "lng" : 41.2755704
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karpovka",
+               "short_name" : "Karpovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chitinskiy rayon",
+               "short_name" : "Chitinskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zabaykalsky Krai",
+               "short_name" : "Zabaykalsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karpovka, Zabaykalsky Krai, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.21,
+               "lng" : 113.53
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2113489802915,
+                  "lng" : 113.5313489802915
+               },
+               "southwest" : {
+                  "lat" : 52.2086510197085,
+                  "lng" : 113.5286510197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Карповка",
+               "short_name" : "Карповка",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krupki District",
+               "short_name" : "Krupki District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minsk Province",
+               "short_name" : "Minsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Карповка, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3503912,
+                  "lng" : 29.1366219
+               },
+               "southwest" : {
+                  "lat" : 54.34723959999999,
+                  "lng" : 29.1282104
+               }
+            },
+            "location" : {
+               "lat" : 54.3491424,
+               "lng" : 29.1315767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3503912,
+                  "lng" : 29.1366219
+               },
+               "southwest" : {
+                  "lat" : 54.34723959999999,
+                  "lng" : 29.1282104
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

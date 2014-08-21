@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dukhovshchina, Smolensk Oblast",
+               "short_name" : "Dukhovshchina, Smolensk Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dukhovshchinsky District",
+               "short_name" : "Dukhovshchinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "216200",
+               "short_name" : "216200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dukhovshchina, Smolensk Oblast, Smolensk Oblast, Russia, 216200",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.207939,
+                  "lng" : 32.428809
+               },
+               "southwest" : {
+                  "lat" : 55.18300199999999,
+                  "lng" : 32.3747279
+               }
+            },
+            "location" : {
+               "lat" : 55.1952113,
+               "lng" : 32.4000893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.207939,
+                  "lng" : 32.428809
+               },
+               "southwest" : {
+                  "lat" : 55.18300199999999,
+                  "lng" : 32.3747279
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezniki",
+               "short_name" : "Berezniki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Berezniki",
+               "short_name" : "g. Berezniki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Perm Krai",
+               "short_name" : "Perm Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berezniki, Perm Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.47096,
+                  "lng" : 56.89567880000001
+               },
+               "southwest" : {
+                  "lat" : 59.356316,
+                  "lng" : 56.6870881
+               }
+            },
+            "location" : {
+               "lat" : 59.416667,
+               "lng" : 56.783333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.47096,
+                  "lng" : 56.89567880000001
+               },
+               "southwest" : {
+                  "lat" : 59.356316,
+                  "lng" : 56.6870881
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

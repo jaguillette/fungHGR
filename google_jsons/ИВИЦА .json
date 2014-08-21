@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivica",
+               "short_name" : "Ivica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bugojno",
+               "short_name" : "Bugojno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Central Bosnia Canton",
+               "short_name" : "Central Bosnia Canton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Federation of Bosnia and Herzegovina",
+               "short_name" : "Federation of Bosnia and Herzegovina",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivica, Bosnia and Herzegovina",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.945,
+               "lng" : 17.449722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9530333,
+                  "lng" : 17.4657294
+               },
+               "southwest" : {
+                  "lat" : 43.9369656,
+                  "lng" : 17.4337146
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivitsa",
+               "short_name" : "Ivitsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Korochansky District",
+               "short_name" : "Korochansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivitsa, Belgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.703421,
+                  "lng" : 37.234391
+               },
+               "southwest" : {
+                  "lat" : 50.6908881,
+                  "lng" : 37.1850279
+               }
+            },
+            "location" : {
+               "lat" : 50.693625,
+               "lng" : 37.2079288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.703421,
+                  "lng" : 37.234391
+               },
+               "southwest" : {
+                  "lat" : 50.6908881,
+                  "lng" : 37.1850279
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivica",
+               "short_name" : "Ivica",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ljubinje",
+               "short_name" : "Ljubinje",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Republika Srpska",
+               "short_name" : "Republika Srpska",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bosnia and Herzegovina",
+               "short_name" : "BA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivica, Bosnia and Herzegovina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9405277,
+                  "lng" : 18.2194519
+               },
+               "southwest" : {
+                  "lat" : 42.8793606,
+                  "lng" : 18.1445218
+               }
+            },
+            "location" : {
+               "lat" : 42.9111,
+               "lng" : 18.1844
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9405277,
+                  "lng" : 18.2194519
+               },
+               "southwest" : {
+                  "lat" : 42.8793606,
+                  "lng" : 18.1445218
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivitsa",
+               "short_name" : "Ivitsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rameshkovsky District",
+               "short_name" : "Rameshkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171427",
+               "short_name" : "171427",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivitsa, Tver Oblast, Russia, 171427",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.196619,
+                  "lng" : 36.411857
+               },
+               "southwest" : {
+                  "lat" : 57.193565,
+                  "lng" : 36.3972278
+               }
+            },
+            "location" : {
+               "lat" : 57.19536910000001,
+               "lng" : 36.4036689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.196619,
+                  "lng" : 36.411857
+               },
+               "southwest" : {
+                  "lat" : 57.193565,
+                  "lng" : 36.3972278
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

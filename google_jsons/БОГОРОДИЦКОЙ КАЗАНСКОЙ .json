@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazansko-bogoroditskaya Tserkov'",
+               "short_name" : "Kazansko-bogoroditskaya Tserkov'",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1-ya Vladimirskaya ulitsa",
+               "short_name" : "1-ya Vladimirskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kazan",
+               "short_name" : "Kazan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kazan'",
+               "short_name" : "g. Kazan'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Tatarstan",
+               "short_name" : "Republic of Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "420088",
+               "short_name" : "420088",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kazansko-bogoroditskaya Tserkov', 1-ya Vladimirskaya ulitsa, 42, Kazan, Republic of Tatarstan, Russia, 420088",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.8129363,
+               "lng" : 49.2060933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.81428528029149,
+                  "lng" : 49.2074422802915
+               },
+               "southwest" : {
+                  "lat" : 55.81158731970849,
+                  "lng" : 49.2047443197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kazansko-bogoroditskaya Tserkov'",
+               "short_name" : "Kazansko-bogoroditskaya Tserkov'",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Набережная ул.",
+               "short_name" : "Набережная ул.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bugulma",
+               "short_name" : "Bugulma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bugulminsky District",
+               "short_name" : "Bugulminsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Tatarstan",
+               "short_name" : "Republic of Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "423230",
+               "short_name" : "423230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kazansko-bogoroditskaya Tserkov', Набережная ул., 14, Bugulma, Republic of Tatarstan, Russia, 423230",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.540001,
+               "lng" : 52.821397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.54134998029149,
+                  "lng" : 52.8227459802915
+               },
+               "southwest" : {
+                  "lat" : 54.53865201970849,
+                  "lng" : 52.8200480197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

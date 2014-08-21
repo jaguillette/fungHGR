@@ -1,0 +1,790 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velikoye",
+               "short_name" : "Velikoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gavrilov-Yamsky District",
+               "short_name" : "Gavrilov-Yamsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152250",
+               "short_name" : "152250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Velikoye, Yaroslavl Oblast, Russia, 152250",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.360284,
+                  "lng" : 39.7907269
+               },
+               "southwest" : {
+                  "lat" : 57.34084199999999,
+                  "lng" : 39.756042
+               }
+            },
+            "location" : {
+               "lat" : 57.349444,
+               "lng" : 39.771111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.360284,
+                  "lng" : 39.7907269
+               },
+               "southwest" : {
+                  "lat" : 57.34084199999999,
+                  "lng" : 39.756042
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velykyi",
+               "short_name" : "Velykyi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sokal's'kyi district",
+               "short_name" : "Sokal's'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lviv Oblast",
+               "short_name" : "Lviv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velykyi, Lviv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.409282,
+                  "lng" : 24.272558
+               },
+               "southwest" : {
+                  "lat" : 50.400757,
+                  "lng" : 24.2595642
+               }
+            },
+            "location" : {
+               "lat" : 50.405,
+               "lng" : 24.266111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.409282,
+                  "lng" : 24.272558
+               },
+               "southwest" : {
+                  "lat" : 50.400757,
+                  "lng" : 24.2595642
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velikoye",
+               "short_name" : "Velikoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vyborgsky District, Leningrad Oblast",
+               "short_name" : "Vyborgsky District, Leningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188908",
+               "short_name" : "188908",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Velikoye, Leningrad Oblast, Russia, 188908",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.66794100000001,
+                  "lng" : 28.2329951
+               },
+               "southwest" : {
+                  "lat" : 60.65931500000001,
+                  "lng" : 28.2221777
+               }
+            },
+            "location" : {
+               "lat" : 60.66249999999999,
+               "lng" : 28.227778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.66794100000001,
+                  "lng" : 28.2329951
+               },
+               "southwest" : {
+                  "lat" : 60.65931500000001,
+                  "lng" : 28.2221777
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velyke",
+               "short_name" : "Velyke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vyzhnyts'kyi district",
+               "short_name" : "Vyzhnyts'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernivets'ka oblast",
+               "short_name" : "Chernivets'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velyke, Chernivets'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1685409,
+                  "lng" : 25.455259
+               },
+               "southwest" : {
+                  "lat" : 48.121827,
+                  "lng" : 25.3942279
+               }
+            },
+            "location" : {
+               "lat" : 48.158333,
+               "lng" : 25.414167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1685409,
+                  "lng" : 25.4339531
+               },
+               "southwest" : {
+                  "lat" : 48.147907,
+                  "lng" : 25.3942279
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velyke",
+               "short_name" : "Velyke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kozyatyns'kyi district",
+               "short_name" : "Kozyatyns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vinnyts'ka oblast",
+               "short_name" : "Vinnyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velyke, Vinnyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.80383,
+                  "lng" : 28.9453189
+               },
+               "southwest" : {
+                  "lat" : 49.787588,
+                  "lng" : 28.9213398
+               }
+            },
+            "location" : {
+               "lat" : 49.79583299999999,
+               "lng" : 28.933333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.80383,
+                  "lng" : 28.9453189
+               },
+               "southwest" : {
+                  "lat" : 49.787588,
+                  "lng" : 28.9213398
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velyke",
+               "short_name" : "Velyke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hadyats'kyi district",
+               "short_name" : "Hadyats'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velyke, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.37274499999999,
+                  "lng" : 34.3127929
+               },
+               "southwest" : {
+                  "lat" : 50.36165399999999,
+                  "lng" : 34.283734
+               }
+            },
+            "location" : {
+               "lat" : 50.367597,
+               "lng" : 34.295202
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.37274499999999,
+                  "lng" : 34.3127929
+               },
+               "southwest" : {
+                  "lat" : 50.36165399999999,
+                  "lng" : 34.283734
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velyke",
+               "short_name" : "Velyke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romens'kyi district",
+               "short_name" : "Romens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sums'ka oblast",
+               "short_name" : "Sums'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velyke, Sums'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.69395,
+                  "lng" : 33.734766
+               },
+               "southwest" : {
+                  "lat" : 50.679849,
+                  "lng" : 33.715448
+               }
+            },
+            "location" : {
+               "lat" : 50.68655930000001,
+               "lng" : 33.7282875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.69395,
+                  "lng" : 33.734766
+               },
+               "southwest" : {
+                  "lat" : 50.679849,
+                  "lng" : 33.715448
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velyke",
+               "short_name" : "Velyke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mlynivs'kyi district",
+               "short_name" : "Mlynivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rivnens'ka oblast",
+               "short_name" : "Rivnens'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velyke, Rivnens'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.613923,
+                  "lng" : 25.3291361
+               },
+               "southwest" : {
+                  "lat" : 50.601323,
+                  "lng" : 25.300121
+               }
+            },
+            "location" : {
+               "lat" : 50.60749999999999,
+               "lng" : 25.314722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.613923,
+                  "lng" : 25.3291361
+               },
+               "southwest" : {
+                  "lat" : 50.601323,
+                  "lng" : 25.300121
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velyke",
+               "short_name" : "Velyke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crimea",
+               "short_name" : "Crimea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Velyke",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.31199300000001,
+                  "lng" : 33.3562009
+               },
+               "southwest" : {
+                  "lat" : 45.2997471,
+                  "lng" : 33.3436089
+               }
+            },
+            "location" : {
+               "lat" : 45.3071165,
+               "lng" : 33.3497053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.31199300000001,
+                  "lng" : 33.3562009
+               },
+               "southwest" : {
+                  "lat" : 45.2997471,
+                  "lng" : 33.3436089
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velyke",
+               "short_name" : "Velyke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Starosambirs'kyi district",
+               "short_name" : "Starosambirs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lviv Oblast",
+               "short_name" : "Lviv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velyke, Lviv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.555896,
+                  "lng" : 22.748224
+               },
+               "southwest" : {
+                  "lat" : 49.5405721,
+                  "lng" : 22.728845
+               }
+            },
+            "location" : {
+               "lat" : 49.548333,
+               "lng" : 22.738611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.555896,
+                  "lng" : 22.748224
+               },
+               "southwest" : {
+                  "lat" : 49.5405721,
+                  "lng" : 22.728845
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velikoye",
+               "short_name" : "Velikoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarnogsky District",
+               "short_name" : "Tarnogsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "161563",
+               "short_name" : "161563",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Velikoye, Vologda Oblast, Russia, 161563",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.2,
+               "lng" : 43.87
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.2013489802915,
+                  "lng" : 43.8713489802915
+               },
+               "southwest" : {
+                  "lat" : 60.19865101970849,
+                  "lng" : 43.8686510197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velikoye",
+               "short_name" : "Velikoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaduysky District",
+               "short_name" : "Kaduysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162527",
+               "short_name" : "162527",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Velikoye, Vologda Oblast, Russia, 162527",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.526028,
+               "lng" : 37.021221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.5273769802915,
+                  "lng" : 37.0225699802915
+               },
+               "southwest" : {
+                  "lat" : 59.52467901970849,
+                  "lng" : 37.0198720197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Velikoye",
+               "short_name" : "Velikoye",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Gorokhovetsky District",
+               "short_name" : "Gorokhovetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Velikoye, Vladimir Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3104295,
+                  "lng" : 42.7150395
+               },
+               "southwest" : {
+                  "lat" : 56.3012059,
+                  "lng" : 42.6669485
+               }
+            },
+            "location" : {
+               "lat" : 56.3071108,
+               "lng" : 42.6911207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3104295,
+                  "lng" : 42.7150395
+               },
+               "southwest" : {
+                  "lat" : 56.3012059,
+                  "lng" : 42.6669485
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Великое",
+               "short_name" : "Великое",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Uzunkol District",
+               "short_name" : "Uzunkol District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostanay Province",
+               "short_name" : "Kostanay Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110000",
+               "short_name" : "110000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Великое, 110000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3888045,
+                  "lng" : 66.0631944
+               },
+               "southwest" : {
+                  "lat" : 54.3767581,
+                  "lng" : 66.0462855
+               }
+            },
+            "location" : {
+               "lat" : 54.3814554,
+               "lng" : 66.05518619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3888045,
+                  "lng" : 66.0631944
+               },
+               "southwest" : {
+                  "lat" : 54.3767581,
+                  "lng" : 66.0462855
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Великое",
+               "short_name" : "Великое",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Minsk Province",
+               "short_name" : "Minsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Великое, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.0163081,
+                  "lng" : 28.0605786
+               },
+               "southwest" : {
+                  "lat" : 54.00798640000001,
+                  "lng" : 28.0444802
+               }
+            },
+            "location" : {
+               "lat" : 54.0107678,
+               "lng" : 28.051377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0163081,
+                  "lng" : 28.0605786
+               },
+               "southwest" : {
+                  "lat" : 54.00798640000001,
+                  "lng" : 28.0444802
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

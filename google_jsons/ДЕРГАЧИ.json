@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Derhachi",
+               "short_name" : "Derhachi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Derhachivs'kyi district",
+               "short_name" : "Derhachivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Derhachi, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.14226499999999,
+                  "lng" : 36.1540601
+               },
+               "southwest" : {
+                  "lat" : 50.081195,
+                  "lng" : 36.043502
+               }
+            },
+            "location" : {
+               "lat" : 50.1097212,
+               "lng" : 36.1155026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.14226499999999,
+                  "lng" : 36.1540601
+               },
+               "southwest" : {
+                  "lat" : 50.081195,
+                  "lng" : 36.043502
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

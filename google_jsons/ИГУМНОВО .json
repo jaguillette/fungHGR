@@ -1,0 +1,1024 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ustyuzhensky District",
+               "short_name" : "Ustyuzhensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162840",
+               "short_name" : "162840",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Vologda Oblast, Russia, 162840",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.842315,
+                  "lng" : 36.5041333
+               },
+               "southwest" : {
+                  "lat" : 58.8343561,
+                  "lng" : 36.4942769
+               }
+            },
+            "location" : {
+               "lat" : 58.839167,
+               "lng" : 36.498611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.842315,
+                  "lng" : 36.5041333
+               },
+               "southwest" : {
+                  "lat" : 58.8343561,
+                  "lng" : 36.4942769
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Dzerzhinsk",
+               "short_name" : "g. Dzerzhinsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Nizhny Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2304189,
+                  "lng" : 43.62777
+               },
+               "southwest" : {
+                  "lat" : 56.220248,
+                  "lng" : 43.5918219
+               }
+            },
+            "location" : {
+               "lat" : 56.22583299999999,
+               "lng" : 43.60666699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2304189,
+                  "lng" : 43.62777
+               },
+               "southwest" : {
+                  "lat" : 56.220248,
+                  "lng" : 43.5918219
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novosilsky District",
+               "short_name" : "Novosilsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303506",
+               "short_name" : "303506",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Oryol Oblast, Russia, 303506",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1148304,
+                  "lng" : 36.9826041
+               },
+               "southwest" : {
+                  "lat" : 53.1005979,
+                  "lng" : 36.9468285
+               }
+            },
+            "location" : {
+               "lat" : 53.10410779999999,
+               "lng" : 36.965129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1148304,
+                  "lng" : 36.9826041
+               },
+               "southwest" : {
+                  "lat" : 53.1005979,
+                  "lng" : 36.9468285
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buysky District",
+               "short_name" : "Buysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostroma Oblast",
+               "short_name" : "Kostroma Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "157050",
+               "short_name" : "157050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Kostroma Oblast, Russia, 157050",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.4913711,
+                  "lng" : 41.443743
+               },
+               "southwest" : {
+                  "lat" : 58.47919700000001,
+                  "lng" : 41.419704
+               }
+            },
+            "location" : {
+               "lat" : 58.4847492,
+               "lng" : 41.4319313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.4913711,
+                  "lng" : 41.443743
+               },
+               "southwest" : {
+                  "lat" : 58.47919700000001,
+                  "lng" : 41.419704
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Serpukhovsky District",
+               "short_name" : "Serpukhovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142275",
+               "short_name" : "142275",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Moskovskaya oblast, Russia, 142275",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.896473,
+                  "lng" : 37.7866419
+               },
+               "southwest" : {
+                  "lat" : 54.888313,
+                  "lng" : 37.768442
+               }
+            },
+            "location" : {
+               "lat" : 54.89444400000001,
+               "lng" : 37.773611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.896473,
+                  "lng" : 37.7866419
+               },
+               "southwest" : {
+                  "lat" : 54.888313,
+                  "lng" : 37.768442
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramensky District",
+               "short_name" : "Ramensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "140124",
+               "short_name" : "140124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Moskovskaya oblast, Russia, 140124",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.62893,
+                  "lng" : 38.3120509
+               },
+               "southwest" : {
+                  "lat" : 55.610003,
+                  "lng" : 38.2916491
+               }
+            },
+            "location" : {
+               "lat" : 55.6212883,
+               "lng" : 38.3022798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.62893,
+                  "lng" : 38.3120509
+               },
+               "southwest" : {
+                  "lat" : 55.610003,
+                  "lng" : 38.2916491
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mozhaysky District, Moscow Oblast",
+               "short_name" : "Mozhaysky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143200",
+               "short_name" : "143200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Moskovskaya oblast, Russia, 143200",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.54158899999999,
+                  "lng" : 36.0422771
+               },
+               "southwest" : {
+                  "lat" : 55.53681,
+                  "lng" : 36.0242318
+               }
+            },
+            "location" : {
+               "lat" : 55.54005069999999,
+               "lng" : 36.0349344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.54158899999999,
+                  "lng" : 36.0422771
+               },
+               "southwest" : {
+                  "lat" : 55.53681,
+                  "lng" : 36.0242318
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taldomsky District",
+               "short_name" : "Taldomsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141921",
+               "short_name" : "141921",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Moskovskaya oblast, Russia, 141921",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.84689299999999,
+                  "lng" : 37.6844652
+               },
+               "southwest" : {
+                  "lat" : 56.839055,
+                  "lng" : 37.6668018
+               }
+            },
+            "location" : {
+               "lat" : 56.8426427,
+               "lng" : 37.6750352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.84689299999999,
+                  "lng" : 37.6844652
+               },
+               "southwest" : {
+                  "lat" : 56.839055,
+                  "lng" : 37.6668018
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Venyovsky District",
+               "short_name" : "Venyovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301305",
+               "short_name" : "301305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Tula Oblast, Russia, 301305",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6232481,
+                  "lng" : 38.423646
+               },
+               "southwest" : {
+                  "lat" : 54.6208001,
+                  "lng" : 38.4021879
+               }
+            },
+            "location" : {
+               "lat" : 54.6226184,
+               "lng" : 38.41244
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.62337308029149,
+                  "lng" : 38.423646
+               },
+               "southwest" : {
+                  "lat" : 54.6206751197085,
+                  "lng" : 38.4021879
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klinsky District",
+               "short_name" : "Klinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141651",
+               "short_name" : "141651",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Moskovskaya oblast, Russia, 141651",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.399642,
+                  "lng" : 36.3105131
+               },
+               "southwest" : {
+                  "lat" : 56.3926609,
+                  "lng" : 36.302448
+               }
+            },
+            "location" : {
+               "lat" : 56.3949843,
+               "lng" : 36.3053507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.399642,
+                  "lng" : 36.3105131
+               },
+               "southwest" : {
+                  "lat" : 56.3926609,
+                  "lng" : 36.302448
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kimrsky District",
+               "short_name" : "Kimrsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Tver Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.141996,
+                  "lng" : 37.2952189
+               },
+               "southwest" : {
+                  "lat" : 57.13888499999999,
+                  "lng" : 37.2894209
+               }
+            },
+            "location" : {
+               "lat" : 57.141084,
+               "lng" : 37.2925353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.141996,
+                  "lng" : 37.2952189
+               },
+               "southwest" : {
+                  "lat" : 57.13888499999999,
+                  "lng" : 37.2894209
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kovrovsky District",
+               "short_name" : "Kovrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "601958",
+               "short_name" : "601958",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Vladimir Oblast, Russia, 601958",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3640431,
+                  "lng" : 41.42041810000001
+               },
+               "southwest" : {
+                  "lat" : 56.36107790000001,
+                  "lng" : 41.40919
+               }
+            },
+            "location" : {
+               "lat" : 56.3630533,
+               "lng" : 41.4181767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3640431,
+                  "lng" : 41.42041810000001
+               },
+               "southwest" : {
+                  "lat" : 56.36107790000001,
+                  "lng" : 41.40919
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kstovsky District",
+               "short_name" : "Kstovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607699",
+               "short_name" : "607699",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Nizhny Novgorod Oblast, Russia, 607699",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.95448,
+                  "lng" : 44.734093
+               },
+               "southwest" : {
+                  "lat" : 55.9424679,
+                  "lng" : 44.6988421
+               }
+            },
+            "location" : {
+               "lat" : 55.947222,
+               "lng" : 44.722222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.95448,
+                  "lng" : 44.734093
+               },
+               "southwest" : {
+                  "lat" : 55.9424679,
+                  "lng" : 44.6988421
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Myshkinsky District",
+               "short_name" : "Myshkinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152847",
+               "short_name" : "152847",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Yaroslavl Oblast, Russia, 152847",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.674692,
+                  "lng" : 37.770322
+               },
+               "southwest" : {
+                  "lat" : 57.67174009999999,
+                  "lng" : 37.7640121
+               }
+            },
+            "location" : {
+               "lat" : 57.6733235,
+               "lng" : 37.7676724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.674692,
+                  "lng" : 37.770322
+               },
+               "southwest" : {
+                  "lat" : 57.67174009999999,
+                  "lng" : 37.7640121
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gryazovetsky District",
+               "short_name" : "Gryazovetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162001",
+               "short_name" : "162001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Vologda Oblast, Russia, 162001",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.866389,
+               "lng" : 40.138889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.8677379802915,
+                  "lng" : 40.1402379802915
+               },
+               "southwest" : {
+                  "lat" : 58.86504001970849,
+                  "lng" : 40.1375400197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sokolsky District, Nizhny Novgorod Oblast",
+               "short_name" : "Sokolsky District, Nizhny Novgorod Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606689",
+               "short_name" : "606689",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Nizhny Novgorod Oblast, Russia, 606689",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.144473,
+                  "lng" : 43.2567592
+               },
+               "southwest" : {
+                  "lat" : 57.13911700000001,
+                  "lng" : 43.246274
+               }
+            },
+            "location" : {
+               "lat" : 57.14185699999999,
+               "lng" : 43.2514608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.144473,
+                  "lng" : 43.2567592
+               },
+               "southwest" : {
+                  "lat" : 57.13911700000001,
+                  "lng" : 43.246274
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chekhovsky District",
+               "short_name" : "Chekhovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142323",
+               "short_name" : "142323",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Moskovskaya oblast, Russia, 142323",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1776056,
+                  "lng" : 37.2922742
+               },
+               "southwest" : {
+                  "lat" : 55.171752,
+                  "lng" : 37.2828499
+               }
+            },
+            "location" : {
+               "lat" : 55.1750628,
+               "lng" : 37.2874148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1776056,
+                  "lng" : 37.2922742
+               },
+               "southwest" : {
+                  "lat" : 55.171752,
+                  "lng" : 37.2828499
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igumnovo",
+               "short_name" : "Igumnovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iznoskovsky District",
+               "short_name" : "Iznoskovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Igumnovo, Kaluga Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.10626,
+                  "lng" : 35.345732
+               },
+               "southwest" : {
+                  "lat" : 55.103342,
+                  "lng" : 35.3358251
+               }
+            },
+            "location" : {
+               "lat" : 55.10504220000001,
+               "lng" : 35.3401944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.10626,
+                  "lng" : 35.345732
+               },
+               "southwest" : {
+                  "lat" : 55.103342,
+                  "lng" : 35.3358251
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

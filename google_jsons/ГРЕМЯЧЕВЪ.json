@@ -1,0 +1,353 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gremyachevo",
+               "short_name" : "Gremyachevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kulebaksky District",
+               "short_name" : "Kulebaksky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607023",
+               "short_name" : "607023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gremyachevo, Nizhny Novgorod Oblast, Russia, 607023",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.404679,
+                  "lng" : 43.071152
+               },
+               "southwest" : {
+                  "lat" : 55.377821,
+                  "lng" : 42.99696300000001
+               }
+            },
+            "location" : {
+               "lat" : 55.390833,
+               "lng" : 43.038056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.404679,
+                  "lng" : 43.071152
+               },
+               "southwest" : {
+                  "lat" : 55.377821,
+                  "lng" : 42.99696300000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gremyachevo",
+               "short_name" : "Gremyachevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peremyshlsky District",
+               "short_name" : "Peremyshlsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249121",
+               "short_name" : "249121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gremyachevo, Kaluga Oblast, Russia, 249121",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.24697099999999,
+                  "lng" : 36.2660188
+               },
+               "southwest" : {
+                  "lat" : 54.23667390000001,
+                  "lng" : 36.234865
+               }
+            },
+            "location" : {
+               "lat" : 54.2410244,
+               "lng" : 36.2496535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.24697099999999,
+                  "lng" : 36.2660188
+               },
+               "southwest" : {
+                  "lat" : 54.23667390000001,
+                  "lng" : 36.234865
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gremyachevo",
+               "short_name" : "Gremyachevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leninsky District, Tula Oblast",
+               "short_name" : "Leninsky District, Tula Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301119",
+               "short_name" : "301119",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gremyachevo, Tula Oblast, Russia, 301119",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.315651,
+                  "lng" : 37.307418
+               },
+               "southwest" : {
+                  "lat" : 54.3065471,
+                  "lng" : 37.2980601
+               }
+            },
+            "location" : {
+               "lat" : 54.3120176,
+               "lng" : 37.3035738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.315651,
+                  "lng" : 37.307418
+               },
+               "southwest" : {
+                  "lat" : 54.3065471,
+                  "lng" : 37.2980601
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gremyachevo",
+               "short_name" : "Gremyachevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zaraysky District",
+               "short_name" : "Zaraysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "140618",
+               "short_name" : "140618",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gremyachevo, Moskovskaya oblast, Russia, 140618",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.75031999999999,
+                  "lng" : 38.5870341
+               },
+               "southwest" : {
+                  "lat" : 54.743435,
+                  "lng" : 38.5792138
+               }
+            },
+            "location" : {
+               "lat" : 54.74644840000001,
+               "lng" : 38.5827861
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.75031999999999,
+                  "lng" : 38.5870341
+               },
+               "southwest" : {
+                  "lat" : 54.743435,
+                  "lng" : 38.5792138
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gremyachevo",
+               "short_name" : "Gremyachevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chuchkovsky District",
+               "short_name" : "Chuchkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "391400",
+               "short_name" : "391400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gremyachevo, Ryazan Oblast, Russia, 391400",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.249899,
+                  "lng" : 41.6292571
+               },
+               "southwest" : {
+                  "lat" : 54.237146,
+                  "lng" : 41.6135811
+               }
+            },
+            "location" : {
+               "lat" : 54.2439408,
+               "lng" : 41.6208395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.249899,
+                  "lng" : 41.6292571
+               },
+               "southwest" : {
+                  "lat" : 54.237146,
+                  "lng" : 41.6135811
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gremyachevo",
+               "short_name" : "Gremyachevo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plavsky District",
+               "short_name" : "Plavsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301483",
+               "short_name" : "301483",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gremyachevo, Tula Oblast, Russia, 301483",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.462909,
+                  "lng" : 37.2866461
+               },
+               "southwest" : {
+                  "lat" : 53.451404,
+                  "lng" : 37.268508
+               }
+            },
+            "location" : {
+               "lat" : 53.4561967,
+               "lng" : 37.2777829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.462909,
+                  "lng" : 37.2866461
+               },
+               "southwest" : {
+                  "lat" : 53.451404,
+                  "lng" : 37.268508
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

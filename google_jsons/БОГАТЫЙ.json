@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogatyy pereulok",
+               "short_name" : "Bogatyy per.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rostov-on-Don",
+               "short_name" : "Rostov-on-Don",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Rostov-na-Donu",
+               "short_name" : "g. Rostov-na-Donu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogatyy pereulok, Rostov-on-Don, Rostov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2213691,
+                  "lng" : 39.6108844
+               },
+               "southwest" : {
+                  "lat" : 47.2204446,
+                  "lng" : 39.6100001
+               }
+            },
+            "location" : {
+               "lat" : 47.2208616,
+               "lng" : 39.6104651
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2222558302915,
+                  "lng" : 39.6117912302915
+               },
+               "southwest" : {
+                  "lat" : 47.2195578697085,
+                  "lng" : 39.6090932697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogatyy",
+               "short_name" : "Bogatyy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chernsky District",
+               "short_name" : "Chernsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301089",
+               "short_name" : "301089",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bogatyy, Tula Oblast, Russia, 301089",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.502614,
+                  "lng" : 36.8911289
+               },
+               "southwest" : {
+                  "lat" : 53.494946,
+                  "lng" : 36.87922
+               }
+            },
+            "location" : {
+               "lat" : 53.49857369999999,
+               "lng" : 36.8845259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.502614,
+                  "lng" : 36.8911289
+               },
+               "southwest" : {
+                  "lat" : 53.494946,
+                  "lng" : 36.87922
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yepifan",
+               "short_name" : "Yepifan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kimovsky District",
+               "short_name" : "Kimovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301740",
+               "short_name" : "301740",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yepifan, Tula Oblast, Russia, 301740",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8370689,
+                  "lng" : 38.57204189999999
+               },
+               "southwest" : {
+                  "lat" : 53.81332099999999,
+                  "lng" : 38.5276879
+               }
+            },
+            "location" : {
+               "lat" : 53.8230072,
+               "lng" : 38.55722840000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8370689,
+                  "lng" : 38.57204189999999
+               },
+               "southwest" : {
+                  "lat" : 53.81332099999999,
+                  "lng" : 38.5276879
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Епифань",
+               "short_name" : "Епифань",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gomel District",
+               "short_name" : "Gomel District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Епифань, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1942844,
+                  "lng" : 31.050775
+               },
+               "southwest" : {
+                  "lat" : 52.1916142,
+                  "lng" : 31.0421704
+               }
+            },
+            "location" : {
+               "lat" : 52.1933187,
+               "lng" : 31.0459869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1942982802915,
+                  "lng" : 31.050775
+               },
+               "southwest" : {
+                  "lat" : 52.1916003197085,
+                  "lng" : 31.0421704
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

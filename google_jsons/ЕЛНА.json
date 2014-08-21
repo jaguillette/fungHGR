@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Елна",
+               "short_name" : "Елна",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Slonim District",
+               "short_name" : "Slonim District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hrodna Province",
+               "short_name" : "Hrodna Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Елна, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1919955,
+                  "lng" : 25.1016248
+               },
+               "southwest" : {
+                  "lat" : 53.1854582,
+                  "lng" : 25.0980783
+               }
+            },
+            "location" : {
+               "lat" : 53.1887268,
+               "lng" : 25.0998516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.202096,
+                  "lng" : 25.1318664
+               },
+               "southwest" : {
+                  "lat" : 53.1753534,
+                  "lng" : 25.0678368
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

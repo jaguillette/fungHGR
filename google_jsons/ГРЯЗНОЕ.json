@@ -1,0 +1,338 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gryaznoye",
+               "short_name" : "Gryaznoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sovetsky District, Kursk Oblast",
+               "short_name" : "Sovetsky District, Kursk Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "306628",
+               "short_name" : "306628",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gryaznoye, Kursk Oblast, Russia, 306628",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7066025,
+                  "lng" : 37.6622951
+               },
+               "southwest" : {
+                  "lat" : 51.670001,
+                  "lng" : 37.6385879
+               }
+            },
+            "location" : {
+               "lat" : 51.68518090000001,
+               "lng" : 37.6497831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7066025,
+                  "lng" : 37.6622951
+               },
+               "southwest" : {
+                  "lat" : 51.670001,
+                  "lng" : 37.6385879
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gryaznoye",
+               "short_name" : "Gryaznoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mikhaylovsky District, Ryazan Oblast",
+               "short_name" : "Mikhaylovsky District, Ryazan Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "391730",
+               "short_name" : "391730",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gryaznoye, Ryazan Oblast, Russia, 391730",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.047835,
+                  "lng" : 39.131709
+               },
+               "southwest" : {
+                  "lat" : 54.03326509999999,
+                  "lng" : 39.0972777
+               }
+            },
+            "location" : {
+               "lat" : 54.04,
+               "lng" : 39.12
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.047835,
+                  "lng" : 39.131709
+               },
+               "southwest" : {
+                  "lat" : 54.03326509999999,
+                  "lng" : 39.0972777
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gryaznoye",
+               "short_name" : "Gryaznoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lipetsky District",
+               "short_name" : "Lipetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "398523",
+               "short_name" : "398523",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gryaznoye, Lipetsk Oblast, Russia, 398523",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.376015,
+                  "lng" : 39.407528
+               },
+               "southwest" : {
+                  "lat" : 52.336409,
+                  "lng" : 39.3640391
+               }
+            },
+            "location" : {
+               "lat" : 52.361944,
+               "lng" : 39.381111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.376015,
+                  "lng" : 39.407528
+               },
+               "southwest" : {
+                  "lat" : 52.336409,
+                  "lng" : 39.3640391
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gryaznoye",
+               "short_name" : "Gryaznoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shchigrovsky District",
+               "short_name" : "Shchigrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gryaznoye, Kursk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.990697,
+                  "lng" : 36.7622342
+               },
+               "southwest" : {
+                  "lat" : 51.980209,
+                  "lng" : 36.7522369
+               }
+            },
+            "location" : {
+               "lat" : 51.98644549999999,
+               "lng" : 36.7559514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.990697,
+                  "lng" : 36.7622342
+               },
+               "southwest" : {
+                  "lat" : 51.980209,
+                  "lng" : 36.7522369
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gryaznoye",
+               "short_name" : "Gryaznoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Prokhorovsky District",
+               "short_name" : "Prokhorovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "309031",
+               "short_name" : "309031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gryaznoye, Belgorod Oblast, Russia, 309031",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.991667,
+               "lng" : 36.516667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9930159802915,
+                  "lng" : 36.5180159802915
+               },
+               "southwest" : {
+                  "lat" : 50.9903180197085,
+                  "lng" : 36.5153180197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gryaznoye",
+               "short_name" : "Gryaznoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pokrovsky District",
+               "short_name" : "Pokrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303177",
+               "short_name" : "303177",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gryaznoye, Oryol Oblast, Russia, 303177",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6691758,
+                  "lng" : 36.6553045
+               },
+               "southwest" : {
+                  "lat" : 52.6516396,
+                  "lng" : 36.6157036
+               }
+            },
+            "location" : {
+               "lat" : 52.6545143,
+               "lng" : 36.6472539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6691758,
+                  "lng" : 36.6553045
+               },
+               "southwest" : {
+                  "lat" : 52.6516396,
+                  "lng" : 36.6157036
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

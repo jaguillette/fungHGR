@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vereya",
+               "short_name" : "Vereya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naro-Fominsky District",
+               "short_name" : "Naro-Fominsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143330",
+               "short_name" : "143330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vereya, Moskovskaya oblast, Russia, 143330",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3621991,
+                  "lng" : 36.2223
+               },
+               "southwest" : {
+                  "lat" : 55.3299001,
+                  "lng" : 36.1541151
+               }
+            },
+            "location" : {
+               "lat" : 55.34999999999999,
+               "lng" : 36.183333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3621991,
+                  "lng" : 36.2223
+               },
+               "southwest" : {
+                  "lat" : 55.3299001,
+                  "lng" : 36.1541151
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

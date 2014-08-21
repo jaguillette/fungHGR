@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yesca",
+               "short_name" : "Yesca",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tepic",
+               "short_name" : "Tepic",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nayarit",
+               "short_name" : "NAY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yesca, Tepic, Nayarit, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.5049623,
+                  "lng" : -104.9072871
+               },
+               "southwest" : {
+                  "lat" : 21.4997889,
+                  "lng" : -104.9103389
+               }
+            },
+            "location" : {
+               "lat" : 21.5024273,
+               "lng" : -104.9088318
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.5049623,
+                  "lng" : -104.9072871
+               },
+               "southwest" : {
+                  "lat" : 21.4997889,
+                  "lng" : -104.9103389
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yesca",
+               "short_name" : "Yesca",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tijuanita",
+               "short_name" : "Tijuanita",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ruiz",
+               "short_name" : "Ruiz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nayarit",
+               "short_name" : "NAY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63600",
+               "short_name" : "63600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yesca, Tijuanita, 63600 Ruiz, Nayarit, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.9597056,
+                  "lng" : -105.1258843
+               },
+               "southwest" : {
+                  "lat" : 21.9539651,
+                  "lng" : -105.1270732
+               }
+            },
+            "location" : {
+               "lat" : 21.9563048,
+               "lng" : -105.1263561
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.9597056,
+                  "lng" : -105.1251297697085
+               },
+               "southwest" : {
+                  "lat" : 21.9539651,
+                  "lng" : -105.1278277302915
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

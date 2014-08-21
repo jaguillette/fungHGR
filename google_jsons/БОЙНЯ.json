@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Boynya",
+               "short_name" : "ul. Boynya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South-Eastern Administrative District",
+               "short_name" : "South-Eastern Administrative District",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "109029",
+               "short_name" : "109029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Boynya, Moscow, Russia, 109029",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7293537,
+                  "lng" : 37.700704
+               },
+               "southwest" : {
+                  "lat" : 55.72768,
+                  "lng" : 37.6936896
+               }
+            },
+            "location" : {
+               "lat" : 55.7284344,
+               "lng" : 37.6938837
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.72986583029149,
+                  "lng" : 37.700704
+               },
+               "southwest" : {
+                  "lat" : 55.7271678697085,
+                  "lng" : 37.6936896
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "reka Boynya",
+               "short_name" : "r. Boynya",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Rzhevsky District",
+               "short_name" : "Rzhevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "reka Boynya, Tver Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3018514,
+                  "lng" : 34.4765458
+               },
+               "southwest" : {
+                  "lat" : 56.2552458,
+                  "lng" : 34.4347731
+               }
+            },
+            "location" : {
+               "lat" : 56.2785486,
+               "lng" : 34.4556594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3018514,
+                  "lng" : 34.4765458
+               },
+               "southwest" : {
+                  "lat" : 56.2552458,
+                  "lng" : 34.4347731
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

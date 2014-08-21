@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horki",
+               "short_name" : "Horki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horki District",
+               "short_name" : "Horki District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mogilev Province",
+               "short_name" : "Mogilev Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horki, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.3087248,
+                  "lng" : 31.02667809999999
+               },
+               "southwest" : {
+                  "lat" : 54.2510104,
+                  "lng" : 30.9581851
+               }
+            },
+            "location" : {
+               "lat" : 54.283333,
+               "lng" : 30.983333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.3087248,
+                  "lng" : 31.02667809999999
+               },
+               "southwest" : {
+                  "lat" : 54.2510104,
+                  "lng" : 30.9581851
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

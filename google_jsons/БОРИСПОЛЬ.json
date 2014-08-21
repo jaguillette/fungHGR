@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyiv Boryspil International Airport",
+               "short_name" : "KBP",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Boryspil'",
+               "short_name" : "Boryspil'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kyiv Boryspil International Airport (KBP), Boryspil', Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3694648,
+                  "lng" : 30.9243137
+               },
+               "southwest" : {
+                  "lat" : 50.3151649,
+                  "lng" : 30.8741625
+               }
+            },
+            "location" : {
+               "lat" : 50.33822199999999,
+               "lng" : 30.8939274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3694648,
+                  "lng" : 30.9243137
+               },
+               "southwest" : {
+                  "lat" : 50.3151649,
+                  "lng" : 30.8741625
+               }
+            }
+         },
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

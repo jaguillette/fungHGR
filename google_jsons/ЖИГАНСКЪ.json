@@ -1,0 +1,48 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhigansk",
+               "short_name" : "Zhigansk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhigansky District",
+               "short_name" : "Zhigansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sakha Republic",
+               "short_name" : "Sakha Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhigansk, Sakha Republic, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 66.766667,
+               "lng" : 123.4
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 66.76801598029149,
+                  "lng" : 123.4013489802915
+               },
+               "southwest" : {
+                  "lat" : 66.76531801970849,
+                  "lng" : 123.3986510197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

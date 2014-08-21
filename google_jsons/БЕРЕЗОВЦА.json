@@ -1,0 +1,888 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galichsky District",
+               "short_name" : "Galichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostroma Oblast",
+               "short_name" : "Kostroma Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "157222",
+               "short_name" : "157222",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Kostroma Oblast, Russia, 157222",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.640045,
+                  "lng" : 42.2791582
+               },
+               "southwest" : {
+                  "lat" : 58.62915100000001,
+                  "lng" : 42.2589851
+               }
+            },
+            "location" : {
+               "lat" : 58.6340011,
+               "lng" : 42.2685942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.640045,
+                  "lng" : 42.2791582
+               },
+               "southwest" : {
+                  "lat" : 58.62915100000001,
+                  "lng" : 42.2589851
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ponyrovsky District",
+               "short_name" : "Ponyrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "306005",
+               "short_name" : "306005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Kursk Oblast, Russia, 306005",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.274559,
+                  "lng" : 36.3830931
+               },
+               "southwest" : {
+                  "lat" : 52.22716399999999,
+                  "lng" : 36.3275211
+               }
+            },
+            "location" : {
+               "lat" : 52.2566153,
+               "lng" : 36.3603335
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.274559,
+                  "lng" : 36.3830931
+               },
+               "southwest" : {
+                  "lat" : 52.22716399999999,
+                  "lng" : 36.3275211
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Berezovets",
+               "short_name" : "ul. Berezovets",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dmitrov",
+               "short_name" : "Dmitrov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dmitrovsky District, Moscow Oblast",
+               "short_name" : "Dmitrovsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141802",
+               "short_name" : "141802",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Berezovets, Dmitrov, Moskovskaya oblast, Russia, 141802",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3482797,
+                  "lng" : 37.5424078
+               },
+               "southwest" : {
+                  "lat" : 56.3465049,
+                  "lng" : 37.5419253
+               }
+            },
+            "location" : {
+               "lat" : 56.347415,
+               "lng" : 37.542218
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3487412802915,
+                  "lng" : 37.54351553029149
+               },
+               "southwest" : {
+                  "lat" : 56.3460433197085,
+                  "lng" : 37.54081756970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Беразавец",
+               "short_name" : "Беразавец",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karelichy District",
+               "short_name" : "Karelichy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hrodna Province",
+               "short_name" : "Hrodna Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Беразавец, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5266612,
+                  "lng" : 26.1747551
+               },
+               "southwest" : {
+                  "lat" : 53.5180888,
+                  "lng" : 26.1641551
+               }
+            },
+            "location" : {
+               "lat" : 53.5238508,
+               "lng" : 26.1683771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5266612,
+                  "lng" : 26.1747551
+               },
+               "southwest" : {
+                  "lat" : 53.5180888,
+                  "lng" : 26.1641551
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Konyshyovsky District",
+               "short_name" : "Konyshyovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Kursk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.894383,
+                  "lng" : 35.5025671
+               },
+               "southwest" : {
+                  "lat" : 51.8845829,
+                  "lng" : 35.483372
+               }
+            },
+            "location" : {
+               "lat" : 51.8886462,
+               "lng" : 35.4932176
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.894383,
+                  "lng" : 35.5025671
+               },
+               "southwest" : {
+                  "lat" : 51.8845829,
+                  "lng" : 35.483372
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verkhovsky District",
+               "short_name" : "Verkhovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303730",
+               "short_name" : "303730",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Oryol Oblast, Russia, 303730",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.566966,
+                  "lng" : 37.4554959
+               },
+               "southwest" : {
+                  "lat" : 52.55742499999999,
+                  "lng" : 37.4301459
+               }
+            },
+            "location" : {
+               "lat" : 52.5619171,
+               "lng" : 37.4445038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.566966,
+                  "lng" : 37.4554959
+               },
+               "southwest" : {
+                  "lat" : 52.55742499999999,
+                  "lng" : 37.4301459
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnobakovsky District",
+               "short_name" : "Krasnobakovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606717",
+               "short_name" : "606717",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Nizhny Novgorod Oblast, Russia, 606717",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.068861,
+                  "lng" : 45.09269399999999
+               },
+               "southwest" : {
+                  "lat" : 57.06213899999999,
+                  "lng" : 45.0827977
+               }
+            },
+            "location" : {
+               "lat" : 57.0652972,
+               "lng" : 45.088227
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.068861,
+                  "lng" : 45.09269399999999
+               },
+               "southwest" : {
+                  "lat" : 57.06213899999999,
+                  "lng" : 45.0827977
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zalegoshchensky District",
+               "short_name" : "Zalegoshchensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303569",
+               "short_name" : "303569",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Oryol Oblast, Russia, 303569",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.88696119999999,
+                  "lng" : 36.8282956
+               },
+               "southwest" : {
+                  "lat" : 52.86975090000001,
+                  "lng" : 36.7819256
+               }
+            },
+            "location" : {
+               "lat" : 52.8772408,
+               "lng" : 36.8039051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.88696119999999,
+                  "lng" : 36.8282956
+               },
+               "southwest" : {
+                  "lat" : 52.86975090000001,
+                  "lng" : 36.7819256
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kesovogorsky District",
+               "short_name" : "Kesovogorsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171480",
+               "short_name" : "171480",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Tver Oblast, Russia, 171480",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.569717,
+                  "lng" : 37.4383491
+               },
+               "southwest" : {
+                  "lat" : 57.5664739,
+                  "lng" : 37.431223
+               }
+            },
+            "location" : {
+               "lat" : 57.5681638,
+               "lng" : 37.4351187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.569717,
+                  "lng" : 37.4383491
+               },
+               "southwest" : {
+                  "lat" : 57.5664739,
+                  "lng" : 37.431223
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pokrovsky District",
+               "short_name" : "Pokrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Oryol Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.52413379999999,
+                  "lng" : 37.062027
+               },
+               "southwest" : {
+                  "lat" : 52.51284099999999,
+                  "lng" : 37.045755
+               }
+            },
+            "location" : {
+               "lat" : 52.5196683,
+               "lng" : 37.0543255
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.52413379999999,
+                  "lng" : 37.062027
+               },
+               "southwest" : {
+                  "lat" : 52.51284099999999,
+                  "lng" : 37.045755
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kadyysky District",
+               "short_name" : "Kadyysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostroma Oblast",
+               "short_name" : "Kostroma Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "157992",
+               "short_name" : "157992",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Kostroma Oblast, Russia, 157992",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.581143,
+                  "lng" : 43.173764
+               },
+               "southwest" : {
+                  "lat" : 57.574119,
+                  "lng" : 43.164325
+               }
+            },
+            "location" : {
+               "lat" : 57.5777205,
+               "lng" : 43.1688495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.581143,
+                  "lng" : 43.173764
+               },
+               "southwest" : {
+                  "lat" : 57.574119,
+                  "lng" : 43.164325
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rameshkovsky District",
+               "short_name" : "Rameshkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171427",
+               "short_name" : "171427",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Tver Oblast, Russia, 171427",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.14470300000001,
+                  "lng" : 36.3646677
+               },
+               "southwest" : {
+                  "lat" : 57.1405939,
+                  "lng" : 36.35474019999999
+               }
+            },
+            "location" : {
+               "lat" : 57.1425273,
+               "lng" : 36.3601439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.14470300000001,
+                  "lng" : 36.3646677
+               },
+               "southwest" : {
+                  "lat" : 57.1405939,
+                  "lng" : 36.35474019999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Babayevsky District",
+               "short_name" : "Babayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162454",
+               "short_name" : "162454",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Vologda Oblast, Russia, 162454",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.394642,
+               "lng" : 35.743653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.39599098029151,
+                  "lng" : 35.7450019802915
+               },
+               "southwest" : {
+                  "lat" : 59.3932930197085,
+                  "lng" : 35.7423040197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Komarichsky District",
+               "short_name" : "Komarichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Bryansk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2652893,
+                  "lng" : 34.7120286
+               },
+               "southwest" : {
+                  "lat" : 52.2517893,
+                  "lng" : 34.6829784
+               }
+            },
+            "location" : {
+               "lat" : 52.2592023,
+               "lng" : 34.6964143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2652893,
+                  "lng" : 34.7120286
+               },
+               "southwest" : {
+                  "lat" : 52.2517893,
+                  "lng" : 34.6829784
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berezovets",
+               "short_name" : "Berezovets",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Dmitrov",
+               "short_name" : "Dmitrov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dmitrovsky District, Moscow Oblast",
+               "short_name" : "Dmitrovsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berezovets, Dmitrov, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.36263899999999,
+               "lng" : 37.514556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3639879802915,
+                  "lng" : 37.5159049802915
+               },
+               "southwest" : {
+                  "lat" : 56.3612900197085,
+                  "lng" : 37.5132070197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beryozovets",
+               "short_name" : "Beryozovets",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Berezovka",
+               "short_name" : "Berezovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Terbunsky District",
+               "short_name" : "Terbunsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beryozovets, Berezovka, Lipetsk Oblast, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.01008299999999,
+               "lng" : 38.316528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.01143198029149,
+                  "lng" : 38.3178769802915
+               },
+               "southwest" : {
+                  "lat" : 52.00873401970849,
+                  "lng" : 38.3151790197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

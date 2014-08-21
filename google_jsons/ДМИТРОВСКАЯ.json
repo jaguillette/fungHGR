@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dmitrovskaya",
+               "short_name" : "Dmitrovskaya",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "North-Eastern Administrative Okrug",
+               "short_name" : "North-Eastern Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "127015",
+               "short_name" : "127015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dmitrovskaya, Moscow, Russia, 127015",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.807993,
+               "lng" : 37.581176
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8093419802915,
+                  "lng" : 37.5825249802915
+               },
+               "southwest" : {
+                  "lat" : 55.8066440197085,
+                  "lng" : 37.5798270197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

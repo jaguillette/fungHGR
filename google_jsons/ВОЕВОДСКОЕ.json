@@ -1,0 +1,260 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vojevods'ke",
+               "short_name" : "Vojevods'ke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Troits'kyi district",
+               "short_name" : "Troits'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vojevods'ke, Luhans'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9481591,
+                  "lng" : 38.5540089
+               },
+               "southwest" : {
+                  "lat" : 49.93624399999999,
+                  "lng" : 38.5293339
+               }
+            },
+            "location" : {
+               "lat" : 49.942222,
+               "lng" : 38.541667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9481591,
+                  "lng" : 38.5540089
+               },
+               "southwest" : {
+                  "lat" : 49.93624399999999,
+                  "lng" : 38.5293339
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vojevods'ke",
+               "short_name" : "Vojevods'ke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arbuzyns'kyi district",
+               "short_name" : "Arbuzyns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mykolaivs'ka oblast",
+               "short_name" : "Mykolaivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vojevods'ke, Mykolaivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0967771,
+                  "lng" : 31.244852
+               },
+               "southwest" : {
+                  "lat" : 48.0398331,
+                  "lng" : 31.2177689
+               }
+            },
+            "location" : {
+               "lat" : 48.068333,
+               "lng" : 31.231389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0967771,
+                  "lng" : 31.244852
+               },
+               "southwest" : {
+                  "lat" : 48.0398331,
+                  "lng" : 31.2177689
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voyevodskoye",
+               "short_name" : "Voyevodskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kochkurovsky District",
+               "short_name" : "Kochkurovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mordovia",
+               "short_name" : "Mordovia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431582",
+               "short_name" : "431582",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voyevodskoye, Mordovia, Russia, 431582",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.965796,
+               "lng" : 45.24782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9671449802915,
+                  "lng" : 45.24916898029149
+               },
+               "southwest" : {
+                  "lat" : 53.9644470197085,
+                  "lng" : 45.24647101970849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voyevodskoye",
+               "short_name" : "Voyevodskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tselinny District, Altai Krai",
+               "short_name" : "Tselinny District, Altai Krai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Altayskiy kray",
+               "short_name" : "Altayskiy kray",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "659444",
+               "short_name" : "659444",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voyevodskoye, Altayskiy kray, Russia, 659444",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.795237,
+               "lng" : 85.60302799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.7965859802915,
+                  "lng" : 85.60437698029151
+               },
+               "southwest" : {
+                  "lat" : 52.7938880197085,
+                  "lng" : 85.60167901970848
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voyevodskoye",
+               "short_name" : "Voyevodskoye",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Semiley",
+               "short_name" : "Semiley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kochkurovsky District",
+               "short_name" : "Kochkurovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mordovia",
+               "short_name" : "Mordovia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "431592",
+               "short_name" : "431592",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voyevodskoye, Semiley, Mordovia, Russia, 431592",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.94950000000001,
+               "lng" : 45.3778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.95084898029151,
+                  "lng" : 45.3791489802915
+               },
+               "southwest" : {
+                  "lat" : 53.94815101970851,
+                  "lng" : 45.3764510197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

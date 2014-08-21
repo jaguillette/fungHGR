@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zubtsov",
+               "short_name" : "Zubtsov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zubtsovsky District",
+               "short_name" : "Zubtsovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172318",
+               "short_name" : "172318",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zubtsov, Tver Oblast, Russia, 172318",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1843181,
+                  "lng" : 34.6096488
+               },
+               "southwest" : {
+                  "lat" : 56.1566931,
+                  "lng" : 34.545994
+               }
+            },
+            "location" : {
+               "lat" : 56.166667,
+               "lng" : 34.583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1843181,
+                  "lng" : 34.6096488
+               },
+               "southwest" : {
+                  "lat" : 56.1566931,
+                  "lng" : 34.545994
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

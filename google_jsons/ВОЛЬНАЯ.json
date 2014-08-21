@@ -1,0 +1,1777 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastern Administrative Okrug",
+               "short_name" : "Eastern Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Moscow, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.779065,
+                  "lng" : 37.7433323
+               },
+               "southwest" : {
+                  "lat" : 55.774674,
+                  "lng" : 37.7231769
+               }
+            },
+            "location" : {
+               "lat" : 55.77697939999999,
+               "lng" : 37.7336487
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.779065,
+                  "lng" : 37.7433323
+               },
+               "southwest" : {
+                  "lat" : 55.774674,
+                  "lng" : 37.7231769
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ust-Labinsk",
+               "short_name" : "Ust-Labinsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ust-Labinsky District",
+               "short_name" : "Ust-Labinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Ust-Labinsk, Krasnodar Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.233627,
+                  "lng" : 39.7280094
+               },
+               "southwest" : {
+                  "lat" : 45.2175854,
+                  "lng" : 39.718702
+               }
+            },
+            "location" : {
+               "lat" : 45.225342,
+               "lng" : 39.7217653
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.233627,
+                  "lng" : 39.7280094
+               },
+               "southwest" : {
+                  "lat" : 45.2175854,
+                  "lng" : 39.718702
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Volnaya",
+               "short_name" : "ul. Volnaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kochubeyevskoye",
+               "short_name" : "Kochubeyevskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kochubeevskiy rayon",
+               "short_name" : "Kochubeevskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Stavropol Krai",
+               "short_name" : "Stavropol Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Volnaya, Kochubeyevskoye, Stavropol Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.680645,
+                  "lng" : 41.83121
+               },
+               "southwest" : {
+                  "lat" : 44.676656,
+                  "lng" : 41.8248428
+               }
+            },
+            "location" : {
+               "lat" : 44.679136,
+               "lng" : 41.82747080000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.680645,
+                  "lng" : 41.83121
+               },
+               "southwest" : {
+                  "lat" : 44.676656,
+                  "lng" : 41.8248428
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lenina",
+               "short_name" : "Lenina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Krasnodar",
+               "short_name" : "g. Krasnodar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "350037",
+               "short_name" : "350037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Lenina, Krasnodar Krai, Russia, 350037",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0205084,
+                  "lng" : 39.2074021
+               },
+               "southwest" : {
+                  "lat" : 45.0158686,
+                  "lng" : 39.1885687
+               }
+            },
+            "location" : {
+               "lat" : 45.0173172,
+               "lng" : 39.1978489
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0205084,
+                  "lng" : 39.2074021
+               },
+               "southwest" : {
+                  "lat" : 45.0158686,
+                  "lng" : 39.1885687
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Volnaya",
+               "short_name" : "ul. Volnaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grozny",
+               "short_name" : "Grozny",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Groznyy",
+               "short_name" : "g. Groznyy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chechenskaya Republits",
+               "short_name" : "Chechenskaya Resp.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Volnaya, Grozny, Chechenskaya Republits, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.294379,
+                  "lng" : 45.7067779
+               },
+               "southwest" : {
+                  "lat" : 43.285438,
+                  "lng" : 45.69682
+               }
+            },
+            "location" : {
+               "lat" : 43.289931,
+               "lng" : 45.7017772
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.294379,
+                  "lng" : 45.7067779
+               },
+               "southwest" : {
+                  "lat" : 43.285438,
+                  "lng" : 45.69682
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tuapse",
+               "short_name" : "Tuapse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuapsinsky District",
+               "short_name" : "Tuapsinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "352800",
+               "short_name" : "352800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Tuapse, Krasnodar Krai, Russia, 352800",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.11571199999999,
+                  "lng" : 39.081643
+               },
+               "southwest" : {
+                  "lat" : 44.1091769,
+                  "lng" : 39.0767293
+               }
+            },
+            "location" : {
+               "lat" : 44.1123573,
+               "lng" : 39.0781085
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.11571199999999,
+                  "lng" : 39.081643
+               },
+               "southwest" : {
+                  "lat" : 44.1091769,
+                  "lng" : 39.0767293
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yuryevets",
+               "short_name" : "Yuryevets",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suzdalsky District",
+               "short_name" : "Suzdalsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600901",
+               "short_name" : "600901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Yuryevets, Vladimir Oblast, Russia, 600901",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1066766,
+                  "lng" : 40.262098
+               },
+               "southwest" : {
+                  "lat" : 56.1008054,
+                  "lng" : 40.258479
+               }
+            },
+            "location" : {
+               "lat" : 56.1041311,
+               "lng" : 40.2594965
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1066766,
+                  "lng" : 40.262098
+               },
+               "southwest" : {
+                  "lat" : 56.1008054,
+                  "lng" : 40.258479
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khomutovskaya",
+               "short_name" : "Khomutovskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kagalnitsky District",
+               "short_name" : "Kagalnitsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "347707",
+               "short_name" : "347707",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Khomutovskaya, Rostov Oblast, Russia, 347707",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0463759,
+                  "lng" : 40.0742741
+               },
+               "southwest" : {
+                  "lat" : 47.0402329,
+                  "lng" : 40.0713775
+               }
+            },
+            "location" : {
+               "lat" : 47.0436418,
+               "lng" : 40.0727629
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0463759,
+                  "lng" : 40.0742741
+               },
+               "southwest" : {
+                  "lat" : 47.0402329,
+                  "lng" : 40.0713775
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Voronezh",
+               "short_name" : "Voronezh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Voronezh",
+               "short_name" : "g. Voronezh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "394019",
+               "short_name" : "394019",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Voronezh, Voronezh Oblast, Russia, 394019",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.67548379999999,
+                  "lng" : 39.166535
+               },
+               "southwest" : {
+                  "lat" : 51.6727578,
+                  "lng" : 39.1589959
+               }
+            },
+            "location" : {
+               "lat" : 51.673717,
+               "lng" : 39.1637484
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.67548379999999,
+                  "lng" : 39.166535
+               },
+               "southwest" : {
+                  "lat" : 51.6727578,
+                  "lng" : 39.1589959
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Volnaya",
+               "short_name" : "ul. Volnaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kemerovo",
+               "short_name" : "Kemerovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kemerovo",
+               "short_name" : "g. Kemerovo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kemerovskaya oblast",
+               "short_name" : "Kemerovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Volnaya, Kemerovo, Kemerovo Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.30587999999999,
+                  "lng" : 86.07100609999999
+               },
+               "southwest" : {
+                  "lat" : 55.30287999999999,
+                  "lng" : 86.06628789999999
+               }
+            },
+            "location" : {
+               "lat" : 55.30483599999999,
+               "lng" : 86.0669741
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.30587999999999,
+                  "lng" : 86.07100609999999
+               },
+               "southwest" : {
+                  "lat" : 55.30287999999999,
+                  "lng" : 86.06628789999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lipetsk",
+               "short_name" : "Lipetsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Lipetsk",
+               "short_name" : "g. Lipetsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "398037",
+               "short_name" : "398037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Lipetsk, Lipetsk Oblast, Russia, 398037",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6316084,
+                  "lng" : 39.581995
+               },
+               "southwest" : {
+                  "lat" : 52.6277746,
+                  "lng" : 39.581466
+               }
+            },
+            "location" : {
+               "lat" : 52.6297552,
+               "lng" : 39.5817357
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6316084,
+                  "lng" : 39.5830794802915
+               },
+               "southwest" : {
+                  "lat" : 52.6277746,
+                  "lng" : 39.5803815197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "gorod Volgograd",
+               "short_name" : "g. Volgograd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volgogradskaya oblast",
+               "short_name" : "Volgogradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400038",
+               "short_name" : "400038",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Volgograd Oblast, Russia, 400038",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.633258,
+                  "lng" : 44.3001967
+               },
+               "southwest" : {
+                  "lat" : 48.6319404,
+                  "lng" : 44.2931012
+               }
+            },
+            "location" : {
+               "lat" : 48.6325101,
+               "lng" : 44.2965922
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6339481802915,
+                  "lng" : 44.3001967
+               },
+               "southwest" : {
+                  "lat" : 48.6312502197085,
+                  "lng" : 44.2931012
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Usman",
+               "short_name" : "Usman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagayevsky District",
+               "short_name" : "Bagayevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "346609",
+               "short_name" : "346609",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Usman, Rostov Oblast, Russia, 346609",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1632389,
+                  "lng" : 40.3187322
+               },
+               "southwest" : {
+                  "lat" : 47.1402154,
+                  "lng" : 40.2742044
+               }
+            },
+            "location" : {
+               "lat" : 47.1480853,
+               "lng" : 40.2910544
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1632389,
+                  "lng" : 40.3187322
+               },
+               "southwest" : {
+                  "lat" : 47.1402154,
+                  "lng" : 40.2742044
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulkevichi",
+               "short_name" : "Gulkevichi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gulkevichsky District",
+               "short_name" : "Gulkevichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "352190",
+               "short_name" : "352190",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Gulkevichi, Krasnodar Krai, Russia, 352190",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3682955,
+                  "lng" : 40.6801347
+               },
+               "southwest" : {
+                  "lat" : 45.3652396,
+                  "lng" : 40.6758138
+               }
+            },
+            "location" : {
+               "lat" : 45.3682955,
+               "lng" : 40.679997
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3682955,
+                  "lng" : 40.6801347
+               },
+               "southwest" : {
+                  "lat" : 45.3652396,
+                  "lng" : 40.6758138
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belgorodsky District",
+               "short_name" : "Belgorodsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "308031",
+               "short_name" : "308031",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Belgorod Oblast, Russia, 308031",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5499742,
+                  "lng" : 36.5498701
+               },
+               "southwest" : {
+                  "lat" : 50.54663919999999,
+                  "lng" : 36.548313
+               }
+            },
+            "location" : {
+               "lat" : 50.5499742,
+               "lng" : 36.548313
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5499742,
+                  "lng" : 36.5504405302915
+               },
+               "southwest" : {
+                  "lat" : 50.54663919999999,
+                  "lng" : 36.5477425697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ulyanovsk",
+               "short_name" : "Ulyanovsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Ulyanovsk",
+               "short_name" : "g. Ulyanovsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsk Oblast",
+               "short_name" : "Ulyanovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "432023",
+               "short_name" : "432023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Ulyanovsk, Ulyanovsk Oblast, Russia, 432023",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.25540119999999,
+                  "lng" : 48.3099897
+               },
+               "southwest" : {
+                  "lat" : 54.2441958,
+                  "lng" : 48.2966224
+               }
+            },
+            "location" : {
+               "lat" : 54.2496867,
+               "lng" : 48.3038605
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.25540119999999,
+                  "lng" : 48.3099897
+               },
+               "southwest" : {
+                  "lat" : 54.2441958,
+                  "lng" : 48.2966224
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ladozhskaya",
+               "short_name" : "Ladozhskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ust-Labinsky District",
+               "short_name" : "Ust-Labinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "352321",
+               "short_name" : "352321",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Ladozhskaya, Krasnodar Krai, Russia, 352321",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3281341,
+                  "lng" : 39.96385890000001
+               },
+               "southwest" : {
+                  "lat" : 45.3193202,
+                  "lng" : 39.948556
+               }
+            },
+            "location" : {
+               "lat" : 45.3228929,
+               "lng" : 39.9549748
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3281341,
+                  "lng" : 39.96385890000001
+               },
+               "southwest" : {
+                  "lat" : 45.3193202,
+                  "lng" : 39.948556
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Balakhna",
+               "short_name" : "Balakhna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Balakhninsky District",
+               "short_name" : "Balakhninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606400",
+               "short_name" : "606400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Balakhna, Nizhny Novgorod Oblast, Russia, 606400",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.4832782,
+                  "lng" : 43.6250226
+               },
+               "southwest" : {
+                  "lat" : 56.4781411,
+                  "lng" : 43.607932
+               }
+            },
+            "location" : {
+               "lat" : 56.4806849,
+               "lng" : 43.6165497
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.4832782,
+                  "lng" : 43.6250226
+               },
+               "southwest" : {
+                  "lat" : 56.4781411,
+                  "lng" : 43.607932
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kursk",
+               "short_name" : "Kursk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kursk",
+               "short_name" : "g. Kursk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Kursk, Kursk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7265019,
+                  "lng" : 36.1143461
+               },
+               "southwest" : {
+                  "lat" : 51.7179613,
+                  "lng" : 36.1117394
+               }
+            },
+            "location" : {
+               "lat" : 51.7220047,
+               "lng" : 36.1127051
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7265019,
+                  "lng" : 36.11439173029149
+               },
+               "southwest" : {
+                  "lat" : 51.7179613,
+                  "lng" : 36.11169376970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Poltavskaya",
+               "short_name" : "Poltavskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnoarmeysky District, Krasnodar Krai",
+               "short_name" : "Krasnoarmeysky District, Krasnodar Krai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "353801",
+               "short_name" : "353801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Poltavskaya, Krasnodar Krai, Russia, 353801",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3834805,
+                  "lng" : 38.238364
+               },
+               "southwest" : {
+                  "lat" : 45.3723407,
+                  "lng" : 38.23592
+               }
+            },
+            "location" : {
+               "lat" : 45.3778359,
+               "lng" : 38.2371755
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3834805,
+                  "lng" : 38.2384909802915
+               },
+               "southwest" : {
+                  "lat" : 45.3723407,
+                  "lng" : 38.2357930197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kanevskaya",
+               "short_name" : "Kanevskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanevskiy rayon",
+               "short_name" : "Kanevskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "353730",
+               "short_name" : "353730",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Kanevskaya, Krasnodar Krai, Russia, 353730",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0822929,
+                  "lng" : 39.0079607
+               },
+               "southwest" : {
+                  "lat" : 46.0783041,
+                  "lng" : 39.001436
+               }
+            },
+            "location" : {
+               "lat" : 46.0806954,
+               "lng" : 39.0024889
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0822929,
+                  "lng" : 39.0079607
+               },
+               "southwest" : {
+                  "lat" : 46.0783041,
+                  "lng" : 39.001436
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vil'na",
+               "short_name" : "Vil'na",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monastyryshchens'kyi district",
+               "short_name" : "Monastyryshchens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cherkas'ka oblast",
+               "short_name" : "Cherkas'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vil'na, Cherkas'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.036957,
+                  "lng" : 29.713982
+               },
+               "southwest" : {
+                  "lat" : 49.026616,
+                  "lng" : 29.7019079
+               }
+            },
+            "location" : {
+               "lat" : 49.031667,
+               "lng" : 29.708056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.036957,
+                  "lng" : 29.713982
+               },
+               "southwest" : {
+                  "lat" : 49.026616,
+                  "lng" : 29.7019079
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medvedovskaya",
+               "short_name" : "Medvedovskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Timashyovsky District",
+               "short_name" : "Timashyovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "352722",
+               "short_name" : "352722",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Medvedovskaya, Krasnodar Krai, Russia, 352722",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4675873,
+                  "lng" : 39.0439177
+               },
+               "southwest" : {
+                  "lat" : 45.4646757,
+                  "lng" : 39.0344994
+               }
+            },
+            "location" : {
+               "lat" : 45.4660211,
+               "lng" : 39.0391337
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4675873,
+                  "lng" : 39.0439177
+               },
+               "southwest" : {
+                  "lat" : 45.4646757,
+                  "lng" : 39.0344994
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Volnaya",
+               "short_name" : "ul. Volnaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Novyy Kumak",
+               "short_name" : "Nov. Kumak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Orsk",
+               "short_name" : "g. Orsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Orenburgskaya oblast",
+               "short_name" : "Orenburgskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Volnaya, Novyy Kumak, Orenburg Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.242418,
+                  "lng" : 58.68713990000001
+               },
+               "southwest" : {
+                  "lat" : 51.240384,
+                  "lng" : 58.6799302
+               }
+            },
+            "location" : {
+               "lat" : 51.241256,
+               "lng" : 58.684131
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2427499802915,
+                  "lng" : 58.68713990000001
+               },
+               "southwest" : {
+                  "lat" : 51.2400520197085,
+                  "lng" : 58.6799302
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Volnaya",
+               "short_name" : "ul. Volnaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Petrozavodsk",
+               "short_name" : "Petrozavodsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Petrozavodsk",
+               "short_name" : "g. Petrozavodsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Karelia",
+               "short_name" : "Republic of Karelia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Volnaya, Petrozavodsk, Republic of Karelia, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.795608,
+                  "lng" : 34.3646521
+               },
+               "southwest" : {
+                  "lat" : 61.79292,
+                  "lng" : 34.3496138
+               }
+            },
+            "location" : {
+               "lat" : 61.794179,
+               "lng" : 34.3570961
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.79561298029149,
+                  "lng" : 34.3646521
+               },
+               "southwest" : {
+                  "lat" : 61.79291501970848,
+                  "lng" : 34.3496138
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Malaya Tsarevshchina",
+               "short_name" : "Malaya Tsarevshchina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarsky District, Samara Oblast",
+               "short_name" : "Krasnoyarsky District, Samara Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Samarskaya oblast",
+               "short_name" : "Samarskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "446397",
+               "short_name" : "446397",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Malaya Tsarevshchina, Samara Oblast, Russia, 446397",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4422334,
+                  "lng" : 50.18242919999999
+               },
+               "southwest" : {
+                  "lat" : 53.4418149,
+                  "lng" : 50.175709
+               }
+            },
+            "location" : {
+               "lat" : 53.4420053,
+               "lng" : 50.1791175
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4433731302915,
+                  "lng" : 50.18242919999999
+               },
+               "southwest" : {
+                  "lat" : 53.4406751697085,
+                  "lng" : 50.175709
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Volgodonsk",
+               "short_name" : "Volgodonsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Volgodonsk",
+               "short_name" : "g. Volgodonsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "347375",
+               "short_name" : "347375",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Volgodonsk, Rostov Oblast, Russia, 347375",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5356064,
+                  "lng" : 42.1844481
+               },
+               "southwest" : {
+                  "lat" : 47.5330008,
+                  "lng" : 42.1795634
+               }
+            },
+            "location" : {
+               "lat" : 47.5348958,
+               "lng" : 42.1823984
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5356525802915,
+                  "lng" : 42.1844481
+               },
+               "southwest" : {
+                  "lat" : 47.5329546197085,
+                  "lng" : 42.1795634
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Starokucherganovka",
+               "short_name" : "Starokucherganovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Narimanovsky District",
+               "short_name" : "Narimanovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Astrakhanskaya oblast",
+               "short_name" : "Astrakhanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "416101",
+               "short_name" : "416101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Starokucherganovka, Astrakhan Oblast, Russia, 416101",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.327739,
+                  "lng" : 47.9682849
+               },
+               "southwest" : {
+                  "lat" : 46.326345,
+                  "lng" : 47.96291369999999
+               }
+            },
+            "location" : {
+               "lat" : 46.3270469,
+               "lng" : 47.9656189
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3283909802915,
+                  "lng" : 47.9682849
+               },
+               "southwest" : {
+                  "lat" : 46.3256930197085,
+                  "lng" : 47.96291369999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volnaya ulitsa",
+               "short_name" : "Volnaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ertil, Voronezh Oblast",
+               "short_name" : "Ertil, Voronezh Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ertilsky District",
+               "short_name" : "Ertilsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "397030",
+               "short_name" : "397030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volnaya ulitsa, Ertil, Voronezh Oblast, Voronezh Oblast, Russia, 397030",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8244561,
+                  "lng" : 40.8067151
+               },
+               "southwest" : {
+                  "lat" : 51.8232402,
+                  "lng" : 40.7999599
+               }
+            },
+            "location" : {
+               "lat" : 51.8239063,
+               "lng" : 40.8033039
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.82519713029151,
+                  "lng" : 40.8067151
+               },
+               "southwest" : {
+                  "lat" : 51.82249916970851,
+                  "lng" : 40.7999599
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

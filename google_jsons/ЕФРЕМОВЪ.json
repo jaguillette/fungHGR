@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yefremov",
+               "short_name" : "Yefremov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yefremovsky District",
+               "short_name" : "Yefremovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yefremov, Tula Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.176679,
+                  "lng" : 38.14961
+               },
+               "southwest" : {
+                  "lat" : 53.122661,
+                  "lng" : 38.0499359
+               }
+            },
+            "location" : {
+               "lat" : 53.15309999999999,
+               "lng" : 38.0947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.176679,
+                  "lng" : 38.14961
+               },
+               "southwest" : {
+                  "lat" : 53.122661,
+                  "lng" : 38.0499359
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

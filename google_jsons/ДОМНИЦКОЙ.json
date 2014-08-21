@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Domnitska Street",
+               "short_name" : "Domnitska Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mens'kyi district",
+               "short_name" : "Mens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Domnitska Street, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5747203,
+                  "lng" : 31.7931998
+               },
+               "southwest" : {
+                  "lat" : 51.5528937,
+                  "lng" : 31.7850477
+               }
+            },
+            "location" : {
+               "lat" : 51.5654265,
+               "lng" : 31.7913544
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5747203,
+                  "lng" : 31.7931998
+               },
+               "southwest" : {
+                  "lat" : 51.5528937,
+                  "lng" : 31.7850477
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

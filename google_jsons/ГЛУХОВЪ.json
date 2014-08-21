@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hlukhiv",
+               "short_name" : "Hlukhiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hlukhivs'ka city council",
+               "short_name" : "Hlukhivs'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sums'ka oblast",
+               "short_name" : "Sums'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hlukhiv, Sums'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.70537179999999,
+                  "lng" : 33.9592338
+               },
+               "southwest" : {
+                  "lat" : 51.6433766,
+                  "lng" : 33.8713
+               }
+            },
+            "location" : {
+               "lat" : 51.678611,
+               "lng" : 33.911389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.70537179999999,
+                  "lng" : 33.9592338
+               },
+               "southwest" : {
+                  "lat" : 51.6433766,
+                  "lng" : 33.8713
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

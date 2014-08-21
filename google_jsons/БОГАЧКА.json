@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bahachka",
+               "short_name" : "Bahachka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Troits'kyi district",
+               "short_name" : "Troits'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luhans'ka oblast",
+               "short_name" : "Luhans'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bahachka, Luhans'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.991439,
+                  "lng" : 38.398941
+               },
+               "southwest" : {
+                  "lat" : 49.975154,
+                  "lng" : 38.3573669
+               }
+            },
+            "location" : {
+               "lat" : 49.98333299999999,
+               "lng" : 38.378056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.991439,
+                  "lng" : 38.398941
+               },
+               "southwest" : {
+                  "lat" : 49.975154,
+                  "lng" : 38.3573669
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

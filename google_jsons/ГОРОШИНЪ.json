@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horoshyne",
+               "short_name" : "Horoshyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Semenivs'kyi district",
+               "short_name" : "Semenivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horoshyne, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.6677528,
+                  "lng" : 32.7757679
+               },
+               "southwest" : {
+                  "lat" : 49.6452841,
+                  "lng" : 32.7316511
+               }
+            },
+            "location" : {
+               "lat" : 49.6568994,
+               "lng" : 32.7589819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6677528,
+                  "lng" : 32.7757679
+               },
+               "southwest" : {
+                  "lat" : 49.6452841,
+                  "lng" : 32.7316511
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

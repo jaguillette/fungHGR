@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zaraysk",
+               "short_name" : "Zaraysk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zaraysky District",
+               "short_name" : "Zaraysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zaraysk, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.796496,
+                  "lng" : 38.913405
+               },
+               "southwest" : {
+                  "lat" : 54.7368399,
+                  "lng" : 38.8531301
+               }
+            },
+            "location" : {
+               "lat" : 54.758532,
+               "lng" : 38.8817871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.796496,
+                  "lng" : 38.913405
+               },
+               "southwest" : {
+                  "lat" : 54.7368399,
+                  "lng" : 38.8531301
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

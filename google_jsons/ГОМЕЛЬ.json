@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gomel",
+               "short_name" : "Gomel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gomel District",
+               "short_name" : "Gomel District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gomel, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.5064264,
+                  "lng" : 31.0903216
+               },
+               "southwest" : {
+                  "lat" : 52.344254,
+                  "lng" : 30.8279798
+               }
+            },
+            "location" : {
+               "lat" : 52.44527799999999,
+               "lng" : 30.984167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5064264,
+                  "lng" : 31.0903216
+               },
+               "southwest" : {
+                  "lat" : 52.344254,
+                  "lng" : 30.8279798
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

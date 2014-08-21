@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horodnya",
+               "short_name" : "Horodnya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horodnyans'kyi district",
+               "short_name" : "Horodnyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horodnya, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.910711,
+                  "lng" : 31.631311
+               },
+               "southwest" : {
+                  "lat" : 51.87520989999999,
+                  "lng" : 31.55795909999999
+               }
+            },
+            "location" : {
+               "lat" : 51.890556,
+               "lng" : 31.593611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.910711,
+                  "lng" : 31.631311
+               },
+               "southwest" : {
+                  "lat" : 51.87520989999999,
+                  "lng" : 31.55795909999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

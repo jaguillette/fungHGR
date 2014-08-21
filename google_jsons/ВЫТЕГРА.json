@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vytegra",
+               "short_name" : "Vytegra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vytegorskiy rayon",
+               "short_name" : "Vytegorskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vytegra, Vologda Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.0262371,
+                  "lng" : 36.4717179
+               },
+               "southwest" : {
+                  "lat" : 60.9955021,
+                  "lng" : 36.3977111
+               }
+            },
+            "location" : {
+               "lat" : 61.0076566,
+               "lng" : 36.4357397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.0262371,
+                  "lng" : 36.4717179
+               },
+               "southwest" : {
+                  "lat" : 60.9955021,
+                  "lng" : 36.3977111
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

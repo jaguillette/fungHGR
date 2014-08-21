@@ -1,0 +1,419 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iza",
+               "short_name" : "Iza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boyaca",
+               "short_name" : "Boyaca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iza, Boyaca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.644159999999999,
+                  "lng" : -72.97995
+               },
+               "southwest" : {
+                  "lat" : 5.61511,
+                  "lng" : -72.98958
+               }
+            },
+            "location" : {
+               "lat" : 5.63309,
+               "lng" : -72.98572
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.644159999999999,
+                  "lng" : -72.97995
+               },
+               "southwest" : {
+                  "lat" : 5.61511,
+                  "lng" : -72.98958
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isa",
+               "short_name" : "Isa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kagoshima Prefecture",
+               "short_name" : "Kagoshima Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isa, Kagoshima Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.1876124,
+                  "lng" : 130.7212686
+               },
+               "southwest" : {
+                  "lat" : 31.9347135,
+                  "lng" : 130.4753314
+               }
+            },
+            "location" : {
+               "lat" : 32.0572252,
+               "lng" : 130.6131048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1876124,
+                  "lng" : 130.7212686
+               },
+               "southwest" : {
+                  "lat" : 31.9347135,
+                  "lng" : 130.4753314
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isa",
+               "short_name" : "Isa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ginowan",
+               "short_name" : "Ginowan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okinawa Prefecture",
+               "short_name" : "Okinawa Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isa, Ginowan, Okinawa Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2956933,
+                  "lng" : 127.7598368
+               },
+               "southwest" : {
+                  "lat" : 26.2830551,
+                  "lng" : 127.7504171
+               }
+            },
+            "location" : {
+               "lat" : 26.2933823,
+               "lng" : 127.757327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2956933,
+                  "lng" : 127.7598368
+               },
+               "southwest" : {
+                  "lat" : 26.2830551,
+                  "lng" : 127.7504171
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isa",
+               "short_name" : "Isa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fukuchiyama",
+               "short_name" : "Fukuchiyama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isa, Fukuchiyama, Kyoto Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3026404,
+                  "lng" : 135.1846847
+               },
+               "southwest" : {
+                  "lat" : 35.2951413,
+                  "lng" : 135.1708904
+               }
+            },
+            "location" : {
+               "lat" : 35.3008565,
+               "lng" : 135.1819133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3026404,
+                  "lng" : 135.1846847
+               },
+               "southwest" : {
+                  "lat" : 35.2951413,
+                  "lng" : 135.1708904
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iza",
+               "short_name" : "Iza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iza, Spain",
+               "short_name" : "Iza, Spain",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Navarre",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Navarre",
+               "short_name" : "Navarre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "31170",
+               "short_name" : "31170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "31170 Iza, Navarre, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8388475,
+                  "lng" : -1.7275262
+               },
+               "southwest" : {
+                  "lat" : 42.83454529999999,
+                  "lng" : -1.7316212
+               }
+            },
+            "location" : {
+               "lat" : 42.83693239999999,
+               "lng" : -1.7294849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8388475,
+                  "lng" : -1.7275262
+               },
+               "southwest" : {
+                  "lat" : 42.83454529999999,
+                  "lng" : -1.7316212
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isa",
+               "short_name" : "Isa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fukuchiyama",
+               "short_name" : "Fukuchiyama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isa, Fukuchiyama, Kyoto Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.30800079999999,
+                  "lng" : 135.1898779
+               },
+               "southwest" : {
+                  "lat" : 35.2896886,
+                  "lng" : 135.1727424
+               }
+            },
+            "location" : {
+               "lat" : 35.3034227,
+               "lng" : 135.1772941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.30800079999999,
+                  "lng" : 135.1898779
+               },
+               "southwest" : {
+                  "lat" : 35.2896886,
+                  "lng" : 135.1727424
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isa",
+               "short_name" : "Isa",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ginowan",
+               "short_name" : "Ginowan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okinawa Prefecture",
+               "short_name" : "Okinawa Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isa, Ginowan, Okinawa Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2937951,
+                  "lng" : 127.7603144
+               },
+               "southwest" : {
+                  "lat" : 26.2807867,
+                  "lng" : 127.755292
+               }
+            },
+            "location" : {
+               "lat" : 26.2862883,
+               "lng" : 127.7587912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2937951,
+                  "lng" : 127.7603144
+               },
+               "southwest" : {
+                  "lat" : 26.2853419,
+                  "lng" : 127.755292
+               }
+            }
+         },
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isa",
+               "short_name" : "Isa",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Selemdzhinsky District",
+               "short_name" : "Selemdzhinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amurskaya oblast",
+               "short_name" : "Amurskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isa, Amur Oblast, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.8420188,
+               "lng" : 130.9900389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.84336778029149,
+                  "lng" : 130.9913878802915
+               },
+               "southwest" : {
+                  "lat" : 51.8406698197085,
+                  "lng" : 130.9886899197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

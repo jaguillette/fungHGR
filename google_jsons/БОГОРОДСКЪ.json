@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogorodsk",
+               "short_name" : "Bogorodsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogorodsky District, Nizhny Novgorod Oblast",
+               "short_name" : "Bogorodsky District, Nizhny Novgorod Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bogorodsk, Nizhny Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.128889,
+                  "lng" : 43.5671689
+               },
+               "southwest" : {
+                  "lat" : 56.08634989999999,
+                  "lng" : 43.4598421
+               }
+            },
+            "location" : {
+               "lat" : 56.103333,
+               "lng" : 43.515833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.128889,
+                  "lng" : 43.5671689
+               },
+               "southwest" : {
+                  "lat" : 56.08634989999999,
+                  "lng" : 43.4598421
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

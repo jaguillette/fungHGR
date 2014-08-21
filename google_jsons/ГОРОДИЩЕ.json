@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horodyshche",
+               "short_name" : "Horodyshche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horodyshchens'kyi district",
+               "short_name" : "Horodyshchens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cherkas'ka oblast",
+               "short_name" : "Cherkas'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horodyshche, Cherkas'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.328671,
+                  "lng" : 31.506371
+               },
+               "southwest" : {
+                  "lat" : 49.256305,
+                  "lng" : 31.4097449
+               }
+            },
+            "location" : {
+               "lat" : 49.2925,
+               "lng" : 31.458056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.328671,
+                  "lng" : 31.506371
+               },
+               "southwest" : {
+                  "lat" : 49.256305,
+                  "lng" : 31.4097449
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

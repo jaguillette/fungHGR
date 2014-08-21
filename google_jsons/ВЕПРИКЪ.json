@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vepryk",
+               "short_name" : "Vepryk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fastivs'kyi district",
+               "short_name" : "Fastivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kyivs'ka oblast",
+               "short_name" : "Kyivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vepryk, Kyivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.120996,
+                  "lng" : 29.8256311
+               },
+               "southwest" : {
+                  "lat" : 50.0922439,
+                  "lng" : 29.786158
+               }
+            },
+            "location" : {
+               "lat" : 50.11,
+               "lng" : 29.81
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.120996,
+                  "lng" : 29.8256311
+               },
+               "southwest" : {
+                  "lat" : 50.0922439,
+                  "lng" : 29.786158
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vepryk",
+               "short_name" : "Vepryk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hadyats'kyi district",
+               "short_name" : "Hadyats'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vepryk, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.390628,
+                  "lng" : 34.1971328
+               },
+               "southwest" : {
+                  "lat" : 50.358056,
+                  "lng" : 34.1323139
+               }
+            },
+            "location" : {
+               "lat" : 50.36956199999999,
+               "lng" : 34.1765411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.390628,
+                  "lng" : 34.1971328
+               },
+               "southwest" : {
+                  "lat" : 50.358056,
+                  "lng" : 34.1323139
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vepryk",
+               "short_name" : "Vepryk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bobrovyts'kyi district",
+               "short_name" : "Bobrovyts'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vepryk, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6961779,
+                  "lng" : 31.641661
+               },
+               "southwest" : {
+                  "lat" : 50.65908,
+                  "lng" : 31.5991569
+               }
+            },
+            "location" : {
+               "lat" : 50.6765246,
+               "lng" : 31.6198033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6961779,
+                  "lng" : 31.641661
+               },
+               "southwest" : {
+                  "lat" : 50.65908,
+                  "lng" : 31.5991569
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vepryk",
+               "short_name" : "Vepryk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ichnyans'kyi district",
+               "short_name" : "Ichnyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vepryk, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.793705,
+                  "lng" : 32.1221299
+               },
+               "southwest" : {
+                  "lat" : 50.784175,
+                  "lng" : 32.1093329
+               }
+            },
+            "location" : {
+               "lat" : 50.78925899999999,
+               "lng" : 32.118968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.793705,
+                  "lng" : 32.1221299
+               },
+               "southwest" : {
+                  "lat" : 50.784175,
+                  "lng" : 32.1093329
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

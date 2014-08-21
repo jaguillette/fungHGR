@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burimka",
+               "short_name" : "Burimka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ichnyans'kyi district",
+               "short_name" : "Ichnyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burimka, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9297421,
+                  "lng" : 32.3787961
+               },
+               "southwest" : {
+                  "lat" : 50.8969491,
+                  "lng" : 32.333339
+               }
+            },
+            "location" : {
+               "lat" : 50.912642,
+               "lng" : 32.357322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9297421,
+                  "lng" : 32.3787961
+               },
+               "southwest" : {
+                  "lat" : 50.8969491,
+                  "lng" : 32.333339
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burimka",
+               "short_name" : "Burimka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Semenivs'kyi district",
+               "short_name" : "Semenivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burimka, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.531948,
+                  "lng" : 32.987086
+               },
+               "southwest" : {
+                  "lat" : 49.516468,
+                  "lng" : 32.938997
+               }
+            },
+            "location" : {
+               "lat" : 49.526719,
+               "lng" : 32.963327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.531948,
+                  "lng" : 32.987086
+               },
+               "southwest" : {
+                  "lat" : 49.516468,
+                  "lng" : 32.938997
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

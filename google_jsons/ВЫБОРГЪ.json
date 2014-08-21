@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vyborg",
+               "short_name" : "Vyborg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vyborgsky District, Leningrad Oblast",
+               "short_name" : "Vyborgsky District, Leningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vyborg, Leningrad Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.739473,
+                  "lng" : 28.818745
+               },
+               "southwest" : {
+                  "lat" : 60.68630299999999,
+                  "lng" : 28.68547959999999
+               }
+            },
+            "location" : {
+               "lat" : 60.7139529,
+               "lng" : 28.75715709999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.739473,
+                  "lng" : 28.818745
+               },
+               "southwest" : {
+                  "lat" : 60.68630299999999,
+                  "lng" : 28.68547959999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

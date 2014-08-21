@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igrishchi",
+               "short_name" : "Igrishchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kstovsky District",
+               "short_name" : "Kstovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607699",
+               "short_name" : "607699",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igrishchi, Nizhny Novgorod Oblast, Russia, 607699",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.003396,
+                  "lng" : 44.57947799999999
+               },
+               "southwest" : {
+                  "lat" : 55.9967829,
+                  "lng" : 44.5697239
+               }
+            },
+            "location" : {
+               "lat" : 56.0002395,
+               "lng" : 44.573216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.003396,
+                  "lng" : 44.57947799999999
+               },
+               "southwest" : {
+                  "lat" : 55.9967829,
+                  "lng" : 44.5697239
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igrishchi",
+               "short_name" : "Igrishchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolsheselsky District",
+               "short_name" : "Bolsheselsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152360",
+               "short_name" : "152360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igrishchi, Yaroslavl Oblast, Russia, 152360",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.71601,
+                  "lng" : 38.980498
+               },
+               "southwest" : {
+                  "lat" : 57.709145,
+                  "lng" : 38.965442
+               }
+            },
+            "location" : {
+               "lat" : 57.7137,
+               "lng" : 38.9719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71601,
+                  "lng" : 38.980498
+               },
+               "southwest" : {
+                  "lat" : 57.709145,
+                  "lng" : 38.965442
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igrishchi",
+               "short_name" : "Igrishchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ilyinsky District, Ivanovo Oblast",
+               "short_name" : "Ilyinsky District, Ivanovo Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "155060",
+               "short_name" : "155060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igrishchi, Ivanovo Oblast, Russia, 155060",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.846221,
+                  "lng" : 39.8674759
+               },
+               "southwest" : {
+                  "lat" : 56.8378409,
+                  "lng" : 39.84275299999999
+               }
+            },
+            "location" : {
+               "lat" : 56.8431104,
+               "lng" : 39.8598669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.846221,
+                  "lng" : 39.8674759
+               },
+               "southwest" : {
+                  "lat" : 56.8378409,
+                  "lng" : 39.84275299999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Igrishchi",
+               "short_name" : "Igrishchi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Furmanovsky District",
+               "short_name" : "Furmanovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "155506",
+               "short_name" : "155506",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Igrishchi, Ivanovo Oblast, Russia, 155506",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.30241899999999,
+                  "lng" : 40.8232169
+               },
+               "southwest" : {
+                  "lat" : 57.296649,
+                  "lng" : 40.8160069
+               }
+            },
+            "location" : {
+               "lat" : 57.2986093,
+               "lng" : 40.8194184
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.30241899999999,
+                  "lng" : 40.8232169
+               },
+               "southwest" : {
+                  "lat" : 57.296649,
+                  "lng" : 40.8160069
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1715 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pereslavsky District",
+               "short_name" : "Pereslavsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152044",
+               "short_name" : "152044",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Yaroslavl Oblast, Russia, 152044",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.81326499999999,
+                  "lng" : 39.011333
+               },
+               "southwest" : {
+                  "lat" : 56.806331,
+                  "lng" : 38.9997
+               }
+            },
+            "location" : {
+               "lat" : 56.809994,
+               "lng" : 39.0081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.81326499999999,
+                  "lng" : 39.011333
+               },
+               "southwest" : {
+                  "lat" : 56.806331,
+                  "lng" : 38.9997
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rylsky District",
+               "short_name" : "Rylsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Kursk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.63337199999999,
+                  "lng" : 34.9716399
+               },
+               "southwest" : {
+                  "lat" : 51.59316399999999,
+                  "lng" : 34.89085290000001
+               }
+            },
+            "location" : {
+               "lat" : 51.61388900000001,
+               "lng" : 34.953889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.63337199999999,
+                  "lng" : 34.9716399
+               },
+               "southwest" : {
+                  "lat" : 51.59316399999999,
+                  "lng" : 34.89085290000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye shosse",
+               "short_name" : "Ivanovskoye sh.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Balakovo",
+               "short_name" : "Balakovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Balakovo",
+               "short_name" : "g. Balakovo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saratovskaya oblast",
+               "short_name" : "Saratovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye shosse, Balakovo, Saratov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.00891559999999,
+                  "lng" : 47.78345729999999
+               },
+               "southwest" : {
+                  "lat" : 51.99463979999999,
+                  "lng" : 47.7478642
+               }
+            },
+            "location" : {
+               "lat" : 52.0019697,
+               "lng" : 47.7667106
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.00891559999999,
+                  "lng" : 47.78345729999999
+               },
+               "southwest" : {
+                  "lat" : 51.99463979999999,
+                  "lng" : 47.7478642
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azat",
+               "short_name" : "Azat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akkol District",
+               "short_name" : "Akkol District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Akmola Province",
+               "short_name" : "Akmola Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "020000",
+               "short_name" : "020000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Azat 020000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.11256729999999,
+                  "lng" : 71.5470887
+               },
+               "southwest" : {
+                  "lat" : 52.0860991,
+                  "lng" : 71.50975219999999
+               }
+            },
+            "location" : {
+               "lat" : 52.09849999999999,
+               "lng" : 71.528903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.11256729999999,
+                  "lng" : 71.5470887
+               },
+               "southwest" : {
+                  "lat" : 52.0860991,
+                  "lng" : 71.50975219999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stupinsky District",
+               "short_name" : "Stupinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142845",
+               "short_name" : "142845",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia, 142845",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.08365389999999,
+                  "lng" : 37.8567511
+               },
+               "southwest" : {
+                  "lat" : 55.070531,
+                  "lng" : 37.8242508
+               }
+            },
+            "location" : {
+               "lat" : 55.07603710000001,
+               "lng" : 37.8402894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.08365389999999,
+                  "lng" : 37.8567511
+               },
+               "southwest" : {
+                  "lat" : 55.070531,
+                  "lng" : 37.8242508
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kochubeevskiy rayon",
+               "short_name" : "Kochubeevskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Stavropol Krai",
+               "short_name" : "Stavropol Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Stavropol Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.601904,
+                  "lng" : 41.9009
+               },
+               "southwest" : {
+                  "lat" : 44.562768,
+                  "lng" : 41.85501199999999
+               }
+            },
+            "location" : {
+               "lat" : 44.577222,
+               "lng" : 41.869722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.601904,
+                  "lng" : 41.9009
+               },
+               "southwest" : {
+                  "lat" : 44.562768,
+                  "lng" : 41.85501199999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sharyinsky District",
+               "short_name" : "Sharyinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kostroma Oblast",
+               "short_name" : "Kostroma Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "157541",
+               "short_name" : "157541",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Kostroma Oblast, Russia, 157541",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.15385300000001,
+                  "lng" : 45.5769679
+               },
+               "southwest" : {
+                  "lat" : 58.14312099999999,
+                  "lng" : 45.560357
+               }
+            },
+            "location" : {
+               "lat" : 58.1474206,
+               "lng" : 45.5695991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.15385300000001,
+                  "lng" : 45.5769679
+               },
+               "southwest" : {
+                  "lat" : 58.14312099999999,
+                  "lng" : 45.560357
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Starozhilovsky District",
+               "short_name" : "Starozhilovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Ryazan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.245105,
+                  "lng" : 39.8671857
+               },
+               "southwest" : {
+                  "lat" : 54.225441,
+                  "lng" : 39.822577
+               }
+            },
+            "location" : {
+               "lat" : 54.2363994,
+               "lng" : 39.8447267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.245105,
+                  "lng" : 39.8671857
+               },
+               "southwest" : {
+                  "lat" : 54.225441,
+                  "lng" : 39.822577
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volokolamsky District",
+               "short_name" : "Volokolamsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143602",
+               "short_name" : "143602",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia, 143602",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.068105,
+                  "lng" : 35.9189619
+               },
+               "southwest" : {
+                  "lat" : 56.060421,
+                  "lng" : 35.8987849
+               }
+            },
+            "location" : {
+               "lat" : 56.063889,
+               "lng" : 35.902778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.068105,
+                  "lng" : 35.9189619
+               },
+               "southwest" : {
+                  "lat" : 56.060421,
+                  "lng" : 35.8987849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borskiy rayon",
+               "short_name" : "Borskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606489",
+               "short_name" : "606489",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Nizhny Novgorod Oblast, Russia, 606489",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.15664899999999,
+                  "lng" : 44.87594499999999
+               },
+               "southwest" : {
+                  "lat" : 56.138937,
+                  "lng" : 44.849469
+               }
+            },
+            "location" : {
+               "lat" : 56.1469736,
+               "lng" : 44.8661081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.15664899999999,
+                  "lng" : 44.87594499999999
+               },
+               "southwest" : {
+                  "lat" : 56.138937,
+                  "lng" : 44.849469
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnogorsky District, Moscow Oblast",
+               "short_name" : "Krasnogorsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8123979,
+                  "lng" : 37.314044
+               },
+               "southwest" : {
+                  "lat" : 55.804616,
+                  "lng" : 37.298513
+               }
+            },
+            "location" : {
+               "lat" : 55.8087574,
+               "lng" : 37.3071544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8123979,
+                  "lng" : 37.314044
+               },
+               "southwest" : {
+                  "lat" : 55.804616,
+                  "lng" : 37.298513
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istrinsky District",
+               "short_name" : "Istrinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143581",
+               "short_name" : "143581",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia, 143581",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.793015,
+                  "lng" : 37.10657
+               },
+               "southwest" : {
+                  "lat" : 55.78507099999999,
+                  "lng" : 37.0945837
+               }
+            },
+            "location" : {
+               "lat" : 55.7888651,
+               "lng" : 37.0993055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.793015,
+                  "lng" : 37.10657
+               },
+               "southwest" : {
+                  "lat" : 55.78507099999999,
+                  "lng" : 37.0945837
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iznoskovsky District",
+               "short_name" : "Iznoskovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249890",
+               "short_name" : "249890",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Kaluga Oblast, Russia, 249890",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.01402100000001,
+                  "lng" : 35.13806090000001
+               },
+               "southwest" : {
+                  "lat" : 54.996844,
+                  "lng" : 35.1231492
+               }
+            },
+            "location" : {
+               "lat" : 55.0074196,
+               "lng" : 35.1333594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.01402100000001,
+                  "lng" : 35.13806090000001
+               },
+               "southwest" : {
+                  "lat" : 54.996844,
+                  "lng" : 35.1231492
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zelenodolsky District",
+               "short_name" : "Zelenodolsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Tatarstan",
+               "short_name" : "Republic of Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "422524",
+               "short_name" : "422524",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Republic of Tatarstan, Russia, 422524",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.965629,
+                  "lng" : 48.858085
+               },
+               "southwest" : {
+                  "lat" : 55.9567,
+                  "lng" : 48.840947
+               }
+            },
+            "location" : {
+               "lat" : 55.9613867,
+               "lng" : 48.8519084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.965629,
+                  "lng" : 48.858085
+               },
+               "southwest" : {
+                  "lat" : 55.9567,
+                  "lng" : 48.840947
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istrinsky District",
+               "short_name" : "Istrinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.86229299999999,
+                  "lng" : 36.92511
+               },
+               "southwest" : {
+                  "lat" : 55.8563929,
+                  "lng" : 36.9010097
+               }
+            },
+            "location" : {
+               "lat" : 55.859633,
+               "lng" : 36.9157731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.86229299999999,
+                  "lng" : 36.92511
+               },
+               "southwest" : {
+                  "lat" : 55.8563929,
+                  "lng" : 36.9010097
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novoduginsky District",
+               "short_name" : "Novoduginsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "215153",
+               "short_name" : "215153",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Smolensk Oblast, Russia, 215153",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4775151,
+                  "lng" : 33.9088528
+               },
+               "southwest" : {
+                  "lat" : 55.470282,
+                  "lng" : 33.8993712
+               }
+            },
+            "location" : {
+               "lat" : 55.473889,
+               "lng" : 33.904722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4775151,
+                  "lng" : 33.9088528
+               },
+               "southwest" : {
+                  "lat" : 55.470282,
+                  "lng" : 33.8993712
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borisoglebsky District, Yaroslavl Oblast",
+               "short_name" : "Borisoglebsky District, Yaroslavl Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152190",
+               "short_name" : "152190",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Yaroslavl Oblast, Russia, 152190",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.311678,
+                  "lng" : 38.9371699
+               },
+               "southwest" : {
+                  "lat" : 57.305429,
+                  "lng" : 38.926164
+               }
+            },
+            "location" : {
+               "lat" : 57.3091968,
+               "lng" : 38.932257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.311678,
+                  "lng" : 38.9371699
+               },
+               "southwest" : {
+                  "lat" : 57.305429,
+                  "lng" : 38.926164
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volokolamsky District",
+               "short_name" : "Volokolamsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143642",
+               "short_name" : "143642",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia, 143642",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.910309,
+                  "lng" : 35.8028691
+               },
+               "southwest" : {
+                  "lat" : 55.905143,
+                  "lng" : 35.7918601
+               }
+            },
+            "location" : {
+               "lat" : 55.907608,
+               "lng" : 35.798003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.910309,
+                  "lng" : 35.8028691
+               },
+               "southwest" : {
+                  "lat" : 55.905143,
+                  "lng" : 35.7918601
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivs'ke",
+               "short_name" : "Ivanivs'ke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novomykolaivs'kyi district",
+               "short_name" : "Novomykolaivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zaporiz'ka oblast",
+               "short_name" : "Zaporiz'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivs'ke, Zaporiz'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.046882,
+                  "lng" : 35.886787
+               },
+               "southwest" : {
+                  "lat" : 48.034919,
+                  "lng" : 35.858955
+               }
+            },
+            "location" : {
+               "lat" : 48.040045,
+               "lng" : 35.872064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.046882,
+                  "lng" : 35.886787
+               },
+               "southwest" : {
+                  "lat" : 48.034919,
+                  "lng" : 35.858955
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lomonosovsky District, Leningrad Oblast",
+               "short_name" : "Lomonosovsky District, Leningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188525",
+               "short_name" : "188525",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Leningrad Oblast, Russia, 188525",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.705682,
+                  "lng" : 29.0180358
+               },
+               "southwest" : {
+                  "lat" : 59.69609800000001,
+                  "lng" : 28.9910258
+               }
+            },
+            "location" : {
+               "lat" : 59.70068180000001,
+               "lng" : 29.0021419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.705682,
+                  "lng" : 29.0180358
+               },
+               "southwest" : {
+                  "lat" : 59.69609800000001,
+                  "lng" : 28.9910258
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dmitrovsky District, Moscow Oblast",
+               "short_name" : "Dmitrovsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141880",
+               "short_name" : "141880",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia, 141880",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.399651,
+                  "lng" : 37.134698
+               },
+               "southwest" : {
+                  "lat" : 56.391441,
+                  "lng" : 37.1224919
+               }
+            },
+            "location" : {
+               "lat" : 56.395861,
+               "lng" : 37.12807
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.399651,
+                  "lng" : 37.134698
+               },
+               "southwest" : {
+                  "lat" : 56.391441,
+                  "lng" : 37.1224919
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novoduginsky District",
+               "short_name" : "Novoduginsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "215226",
+               "short_name" : "215226",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Smolensk Oblast, Russia, 215226",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.58449299999999,
+                  "lng" : 33.8578071
+               },
+               "southwest" : {
+                  "lat" : 55.575627,
+                  "lng" : 33.8403849
+               }
+            },
+            "location" : {
+               "lat" : 55.579722,
+               "lng" : 33.852778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.58449299999999,
+                  "lng" : 33.8578071
+               },
+               "southwest" : {
+                  "lat" : 55.575627,
+                  "lng" : 33.8403849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye shosse",
+               "short_name" : "Ivanovskoye sh.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reutov",
+               "short_name" : "Reutov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Reutov",
+               "short_name" : "g. Reutov",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143969",
+               "short_name" : "143969",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye shosse, Reutov, Moskovskaya oblast, Russia, 143969",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7536693,
+                  "lng" : 37.8857888
+               },
+               "southwest" : {
+                  "lat" : 55.7528212,
+                  "lng" : 37.8833136
+               }
+            },
+            "location" : {
+               "lat" : 55.7536693,
+               "lng" : 37.8833136
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7545942302915,
+                  "lng" : 37.8859001802915
+               },
+               "southwest" : {
+                  "lat" : 55.7518962697085,
+                  "lng" : 37.8832022197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alexandrovsky District, Vladimir Oblast",
+               "short_name" : "Alexandrovsky District, Vladimir Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "601605",
+               "short_name" : "601605",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Vladimir Oblast, Russia, 601605",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.270759,
+                  "lng" : 38.5116032
+               },
+               "southwest" : {
+                  "lat" : 56.26146499999999,
+                  "lng" : 38.4945759
+               }
+            },
+            "location" : {
+               "lat" : 56.2653957,
+               "lng" : 38.5029709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.270759,
+                  "lng" : 38.5116032
+               },
+               "southwest" : {
+                  "lat" : 56.26146499999999,
+                  "lng" : 38.4945759
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tosnensky District",
+               "short_name" : "Tosnensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "187047",
+               "short_name" : "187047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Leningrad Oblast, Russia, 187047",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.5184631,
+                  "lng" : 31.2692888
+               },
+               "southwest" : {
+                  "lat" : 59.51229,
+                  "lng" : 31.2645629
+               }
+            },
+            "location" : {
+               "lat" : 59.5138499,
+               "lng" : 31.2671815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.5184631,
+                  "lng" : 31.2692888
+               },
+               "southwest" : {
+                  "lat" : 59.51229,
+                  "lng" : 31.2645629
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istrinsky District",
+               "short_name" : "Istrinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143511",
+               "short_name" : "143511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Moskovskaya oblast, Russia, 143511",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.92980900000001,
+                  "lng" : 36.9647259
+               },
+               "southwest" : {
+                  "lat" : 55.92513899999999,
+                  "lng" : 36.954443
+               }
+            },
+            "location" : {
+               "lat" : 55.92803000000001,
+               "lng" : 36.95993989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.92980900000001,
+                  "lng" : 36.9647259
+               },
+               "southwest" : {
+                  "lat" : 55.92513899999999,
+                  "lng" : 36.954443
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roslavlsky District",
+               "short_name" : "Roslavlsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "216535",
+               "short_name" : "216535",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Smolensk Oblast, Russia, 216535",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.0380969,
+                  "lng" : 33.400013
+               },
+               "southwest" : {
+                  "lat" : 54.0291969,
+                  "lng" : 33.376524
+               }
+            },
+            "location" : {
+               "lat" : 54.0325015,
+               "lng" : 33.3892816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0380969,
+                  "lng" : 33.400013
+               },
+               "southwest" : {
+                  "lat" : 54.0291969,
+                  "lng" : 33.376524
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roslavlsky District",
+               "short_name" : "Roslavlsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "216521",
+               "short_name" : "216521",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Smolensk Oblast, Russia, 216521",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.925617,
+                  "lng" : 32.7391509
+               },
+               "southwest" : {
+                  "lat" : 53.9168739,
+                  "lng" : 32.72308
+               }
+            },
+            "location" : {
+               "lat" : 53.919444,
+               "lng" : 32.732222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.925617,
+                  "lng" : 32.7391509
+               },
+               "southwest" : {
+                  "lat" : 53.9168739,
+                  "lng" : 32.72308
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orlovsky District, Oryol Oblast",
+               "short_name" : "Orlovsky District, Oryol Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Oryol Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.09231399999999,
+                  "lng" : 36.25763999999999
+               },
+               "southwest" : {
+                  "lat" : 53.0663011,
+                  "lng" : 36.231092
+               }
+            },
+            "location" : {
+               "lat" : 53.0814533,
+               "lng" : 36.2434066
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.09231399999999,
+                  "lng" : 36.25763999999999
+               },
+               "southwest" : {
+                  "lat" : 53.0663011,
+                  "lng" : 36.231092
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovskoye",
+               "short_name" : "Ivanovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bolshemurashkinsky District",
+               "short_name" : "Bolshemurashkinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606366",
+               "short_name" : "606366",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ivanovskoye, Nizhny Novgorod Oblast, Russia, 606366",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.90526209999999,
+                  "lng" : 44.8858069
+               },
+               "southwest" : {
+                  "lat" : 55.89161199999999,
+                  "lng" : 44.8702021
+               }
+            },
+            "location" : {
+               "lat" : 55.897222,
+               "lng" : 44.881944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.90526209999999,
+                  "lng" : 44.8858069
+               },
+               "southwest" : {
+                  "lat" : 55.89161199999999,
+                  "lng" : 44.8702021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

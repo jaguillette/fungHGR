@@ -1,0 +1,164 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boryatino",
+               "short_name" : "Boryatino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volovsky District, Tula Oblast",
+               "short_name" : "Volovsky District, Tula Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boryatino, Tula Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.417185,
+                  "lng" : 38.1627362
+               },
+               "southwest" : {
+                  "lat" : 53.4073149,
+                  "lng" : 38.1541299
+               }
+            },
+            "location" : {
+               "lat" : 53.4123929,
+               "lng" : 38.1579657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.417185,
+                  "lng" : 38.1627362
+               },
+               "southwest" : {
+                  "lat" : 53.4073149,
+                  "lng" : 38.1541299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boryatino",
+               "short_name" : "Boryatino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kletnyansky District",
+               "short_name" : "Kletnyansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "242834",
+               "short_name" : "242834",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boryatino, Bryansk Oblast, Russia, 242834",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4569391,
+                  "lng" : 33.0166999
+               },
+               "southwest" : {
+                  "lat" : 53.4473297,
+                  "lng" : 32.9870297
+               }
+            },
+            "location" : {
+               "lat" : 53.4538873,
+               "lng" : 33.0001687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4569391,
+                  "lng" : 33.0166999
+               },
+               "southwest" : {
+                  "lat" : 53.4473297,
+                  "lng" : 32.9870297
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boryatino",
+               "short_name" : "Boryatino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheksninsky District",
+               "short_name" : "Sheksninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162585",
+               "short_name" : "162585",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boryatino, Vologda Oblast, Russia, 162585",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.110556,
+               "lng" : 38.825556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.11190498029151,
+                  "lng" : 38.8269049802915
+               },
+               "southwest" : {
+                  "lat" : 59.10920701970849,
+                  "lng" : 38.8242070197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

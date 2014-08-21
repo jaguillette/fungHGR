@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dagda",
+               "short_name" : "Dagda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dagdas pilsēta",
+               "short_name" : "Dagdas pilsēta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dagdas novads",
+               "short_name" : "Dagdas novads",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Latvia",
+               "short_name" : "LV",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dagda, Dagdas pilsēta, Latvia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.10994789999999,
+                  "lng" : 27.5485907
+               },
+               "southwest" : {
+                  "lat" : 56.0848629,
+                  "lng" : 27.5170529
+               }
+            },
+            "location" : {
+               "lat" : 56.09560889999999,
+               "lng" : 27.532459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.10994789999999,
+                  "lng" : 27.5485907
+               },
+               "southwest" : {
+                  "lat" : 56.0848629,
+                  "lng" : 27.5170529
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

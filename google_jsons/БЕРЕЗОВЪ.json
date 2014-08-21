@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bereziv",
+               "short_name" : "Bereziv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Starosambirs'kyi district",
+               "short_name" : "Starosambirs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lviv Oblast",
+               "short_name" : "Lviv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bereziv, Lviv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.528527,
+                  "lng" : 22.9135351
+               },
+               "southwest" : {
+                  "lat" : 49.513574,
+                  "lng" : 22.8947471
+               }
+            },
+            "location" : {
+               "lat" : 49.521111,
+               "lng" : 22.904167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.528527,
+                  "lng" : 22.9135351
+               },
+               "southwest" : {
+                  "lat" : 49.513574,
+                  "lng" : 22.8947471
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Бярозы",
+               "short_name" : "Бярозы",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Smarhon District",
+               "short_name" : "Smarhon District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hrodna Province",
+               "short_name" : "Hrodna Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Бярозы, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.56176749999999,
+                  "lng" : 26.5193763
+               },
+               "southwest" : {
+                  "lat" : 54.5483221,
+                  "lng" : 26.5003001
+               }
+            },
+            "location" : {
+               "lat" : 54.55500000000001,
+               "lng" : 26.508333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.56176749999999,
+                  "lng" : 26.5193763
+               },
+               "southwest" : {
+                  "lat" : 54.5483221,
+                  "lng" : 26.5003001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

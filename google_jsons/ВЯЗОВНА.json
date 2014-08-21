@@ -1,0 +1,179 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vyazovna",
+               "short_name" : "Vyazovna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belyovsky District",
+               "short_name" : "Belyovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301546",
+               "short_name" : "301546",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vyazovna, Tula Oblast, Russia, 301546",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.9200381,
+                  "lng" : 36.4487122
+               },
+               "southwest" : {
+                  "lat" : 53.9137719,
+                  "lng" : 36.42442
+               }
+            },
+            "location" : {
+               "lat" : 53.9181477,
+               "lng" : 36.4370863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9200381,
+                  "lng" : 36.4487122
+               },
+               "southwest" : {
+                  "lat" : 53.9137719,
+                  "lng" : 36.42442
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vyazovna",
+               "short_name" : "Vyazovna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Babyninsky District",
+               "short_name" : "Babyninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249223",
+               "short_name" : "249223",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vyazovna, Kaluga Oblast, Russia, 249223",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4937201,
+                  "lng" : 35.681104
+               },
+               "southwest" : {
+                  "lat" : 54.484964,
+                  "lng" : 35.657249
+               }
+            },
+            "location" : {
+               "lat" : 54.4896165,
+               "lng" : 35.6634694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4937201,
+                  "lng" : 35.681104
+               },
+               "southwest" : {
+                  "lat" : 54.484964,
+                  "lng" : 35.657249
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vyazovna",
+               "short_name" : "Vyazovna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsky District, Kaluga Oblast",
+               "short_name" : "Ulyanovsky District, Kaluga Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249773",
+               "short_name" : "249773",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vyazovna, Kaluga Oblast, Russia, 249773",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7699379,
+                  "lng" : 35.3724661
+               },
+               "southwest" : {
+                  "lat" : 53.76160300000001,
+                  "lng" : 35.356594
+               }
+            },
+            "location" : {
+               "lat" : 53.7660601,
+               "lng" : 35.3620109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7699379,
+                  "lng" : 35.3724661
+               },
+               "southwest" : {
+                  "lat" : 53.76160300000001,
+                  "lng" : 35.356594
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

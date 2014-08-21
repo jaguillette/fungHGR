@@ -1,0 +1,1311 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya",
+               "short_name" : "Voznesenskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maykopsky District",
+               "short_name" : "Maykopsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adygea",
+               "short_name" : "Adygea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "385740",
+               "short_name" : "385740",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya, Adygea, Russia, 385740",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.548056,
+               "lng" : 40.029444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5560073,
+                  "lng" : 40.0454514
+               },
+               "southwest" : {
+                  "lat" : 44.54010359999999,
+                  "lng" : 40.0134366
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya",
+               "short_name" : "Voznesenskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Labinsky District",
+               "short_name" : "Labinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya, Krasnodar Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.582659,
+                  "lng" : 41.0548
+               },
+               "southwest" : {
+                  "lat" : 44.5141319,
+                  "lng" : 41.006657
+               }
+            },
+            "location" : {
+               "lat" : 44.54831189999999,
+               "lng" : 41.0350393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.582659,
+                  "lng" : 41.0548
+               },
+               "southwest" : {
+                  "lat" : 44.5141319,
+                  "lng" : 41.006657
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yoshkar-Ola",
+               "short_name" : "Yoshkar-Ola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Yoshkar-Ola",
+               "short_name" : "g. Yoshkar-Ola",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mari El Republic",
+               "short_name" : "Mari El Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Yoshkar-Ola, Mari El Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.6437918,
+                  "lng" : 47.9059426
+               },
+               "southwest" : {
+                  "lat" : 56.6292408,
+                  "lng" : 47.895183
+               }
+            },
+            "location" : {
+               "lat" : 56.636331,
+               "lng" : 47.9011388
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.6437918,
+                  "lng" : 47.9059426
+               },
+               "southwest" : {
+                  "lat" : 56.6292408,
+                  "lng" : 47.895183
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Labinsk",
+               "short_name" : "Labinsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Labinsky District",
+               "short_name" : "Labinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "352507",
+               "short_name" : "352507",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Labinsk, Krasnodar Krai, Russia, 352507",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6237504,
+                  "lng" : 40.7570401
+               },
+               "southwest" : {
+                  "lat" : 44.6184526,
+                  "lng" : 40.7470936
+               }
+            },
+            "location" : {
+               "lat" : 44.6219309,
+               "lng" : 40.7522014
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6237504,
+                  "lng" : 40.7570401
+               },
+               "southwest" : {
+                  "lat" : 44.6184526,
+                  "lng" : 40.7470936
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sergiev Posad",
+               "short_name" : "Sergiev Posad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sergiyevo-Posadsky District",
+               "short_name" : "Sergiyevo-Posadsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Sergiev Posad, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.309853,
+                  "lng" : 38.136791
+               },
+               "southwest" : {
+                  "lat" : 56.2924151,
+                  "lng" : 38.127502
+               }
+            },
+            "location" : {
+               "lat" : 56.3008537,
+               "lng" : 38.133482
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.309853,
+                  "lng" : 38.136791
+               },
+               "southwest" : {
+                  "lat" : 56.2924151,
+                  "lng" : 38.127502
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Voznesenskaya",
+               "short_name" : "ul. Voznesenskaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Magnitogorsk",
+               "short_name" : "Magnitogorsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Magnitogorsk",
+               "short_name" : "g. Magnitogorsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chelyabinskaya oblast",
+               "short_name" : "Chelyabinskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Voznesenskaya, Magnitogorsk, Chelyabinsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.392307,
+                  "lng" : 58.9957499
+               },
+               "southwest" : {
+                  "lat" : 53.379103,
+                  "lng" : 58.992043
+               }
+            },
+            "location" : {
+               "lat" : 53.385054,
+               "lng" : 58.995653
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.392307,
+                  "lng" : 58.9957499
+               },
+               "southwest" : {
+                  "lat" : 53.379103,
+                  "lng" : 58.992043
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sochi",
+               "short_name" : "Sochi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod-kurort Sochi",
+               "short_name" : "gorod-kurort Sochi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "354392",
+               "short_name" : "354392",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Sochi, Krasnodar Krai, Russia, 354392",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6808354,
+                  "lng" : 40.2122338
+               },
+               "southwest" : {
+                  "lat" : 43.6727018,
+                  "lng" : 40.1974576
+               }
+            },
+            "location" : {
+               "lat" : 43.6775083,
+               "lng" : 40.2045565
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6808354,
+                  "lng" : 40.2122338
+               },
+               "southwest" : {
+                  "lat" : 43.6727018,
+                  "lng" : 40.1974576
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saratov",
+               "short_name" : "Saratov",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Saratov",
+               "short_name" : "g. Saratov",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saratovskaya oblast",
+               "short_name" : "Saratovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Saratov, Saratov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.54117,
+                  "lng" : 46.0549419
+               },
+               "southwest" : {
+                  "lat" : 51.53094670000001,
+                  "lng" : 46.04837500000001
+               }
+            },
+            "location" : {
+               "lat" : 51.5356894,
+               "lng" : 46.0513256
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.54117,
+                  "lng" : 46.0549419
+               },
+               "southwest" : {
+                  "lat" : 51.53094670000001,
+                  "lng" : 46.04837500000001
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ryazan",
+               "short_name" : "Ryazan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Ryazan'",
+               "short_name" : "g. Ryazan'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Ryazan, Ryazan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6312311,
+                  "lng" : 39.7654834
+               },
+               "southwest" : {
+                  "lat" : 54.6208986,
+                  "lng" : 39.7470034
+               }
+            },
+            "location" : {
+               "lat" : 54.62599299999999,
+               "lng" : 39.7559908
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6312311,
+                  "lng" : 39.7654834
+               },
+               "southwest" : {
+                  "lat" : 54.6208986,
+                  "lng" : 39.7470034
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Koltsovo",
+               "short_name" : "Koltsovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novosibirsky District",
+               "short_name" : "Novosibirsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirskaya oblast",
+               "short_name" : "Novosibirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "630559",
+               "short_name" : "630559",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Koltsovo, Novosibirsk Oblast, Russia, 630559",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.9385979,
+                  "lng" : 83.1905479
+               },
+               "southwest" : {
+                  "lat" : 54.9351939,
+                  "lng" : 83.18792549999999
+               }
+            },
+            "location" : {
+               "lat" : 54.9370335,
+               "lng" : 83.1896498
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.9385979,
+                  "lng" : 83.19058568029151
+               },
+               "southwest" : {
+                  "lat" : 54.9351939,
+                  "lng" : 83.18788771970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Voznesenskaya",
+               "short_name" : "ul. Voznesenskaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ufa",
+               "short_name" : "Ufa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ufimsky District",
+               "short_name" : "Ufimsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bashkortostan",
+               "short_name" : "Bashkortostan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Voznesenskaya, Ufa, Bashkortostan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.68325,
+                  "lng" : 55.977295
+               },
+               "southwest" : {
+                  "lat" : 54.67954899999999,
+                  "lng" : 55.974372
+               }
+            },
+            "location" : {
+               "lat" : 54.68104899999999,
+               "lng" : 55.974884
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.68325,
+                  "lng" : 55.977295
+               },
+               "southwest" : {
+                  "lat" : 54.67954899999999,
+                  "lng" : 55.974372
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Biryuch",
+               "short_name" : "Biryuch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnogvardeysky District, Belgorod Oblast",
+               "short_name" : "Krasnogvardeysky District, Belgorod Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "309920",
+               "short_name" : "309920",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Biryuch, Belgorod Oblast, Russia, 309920",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6478164,
+                  "lng" : 38.3968306
+               },
+               "southwest" : {
+                  "lat" : 50.6458462,
+                  "lng" : 38.3905295
+               }
+            },
+            "location" : {
+               "lat" : 50.6468272,
+               "lng" : 38.3935559
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6481802802915,
+                  "lng" : 38.3968306
+               },
+               "southwest" : {
+                  "lat" : 50.6454823197085,
+                  "lng" : 38.3905295
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bogorodsk",
+               "short_name" : "Bogorodsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogorodsky District, Nizhny Novgorod Oblast",
+               "short_name" : "Bogorodsky District, Nizhny Novgorod Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607600",
+               "short_name" : "607600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Bogorodsk, Nizhny Novgorod Oblast, Russia, 607600",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.09871889999999,
+                  "lng" : 43.4961863
+               },
+               "southwest" : {
+                  "lat" : 56.0959522,
+                  "lng" : 43.4820663
+               }
+            },
+            "location" : {
+               "lat" : 56.09703159999999,
+               "lng" : 43.4891392
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.09871889999999,
+                  "lng" : 43.4961863
+               },
+               "southwest" : {
+                  "lat" : 56.0959522,
+                  "lng" : 43.4820663
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sovietsk",
+               "short_name" : "Sovietsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sovetsky District, Kirov Oblast",
+               "short_name" : "Sovetsky District, Kirov Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kirovskaya oblast",
+               "short_name" : "Kirovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "613341",
+               "short_name" : "613341",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Sovetsk, Kirov Oblast, Russia, 613341",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.59873320000001,
+                  "lng" : 48.9354012
+               },
+               "southwest" : {
+                  "lat" : 57.59562930000001,
+                  "lng" : 48.9273074
+               }
+            },
+            "location" : {
+               "lat" : 57.5971833,
+               "lng" : 48.9309916
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.59873320000001,
+                  "lng" : 48.9354012
+               },
+               "southwest" : {
+                  "lat" : 57.59562930000001,
+                  "lng" : 48.9273074
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "poselok Voznesenskoye (Kazan', Sovetskiy r-n)",
+               "short_name" : "p. Voznesenskoye (Kazan', Sovetskiy r-n)",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kazan",
+               "short_name" : "Kazan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kazan'",
+               "short_name" : "g. Kazan'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Tatarstan",
+               "short_name" : "Republic of Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "420140",
+               "short_name" : "420140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Kazan, Republic of Tatarstan, Russia, 420140",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.77439709999999,
+                  "lng" : 49.269554
+               },
+               "southwest" : {
+                  "lat" : 55.773887,
+                  "lng" : 49.2612053
+               }
+            },
+            "location" : {
+               "lat" : 55.7741917,
+               "lng" : 49.2649864
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7754910302915,
+                  "lng" : 49.269554
+               },
+               "southwest" : {
+                  "lat" : 55.7727930697085,
+                  "lng" : 49.2612053
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stary Oskol",
+               "short_name" : "Stary Oskol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Starooskolskiy rayon",
+               "short_name" : "Starooskolskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "309503",
+               "short_name" : "309503",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Stary Oskol, Belgorod Oblast, Russia, 309503",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3283177,
+                  "lng" : 37.9296219
+               },
+               "southwest" : {
+                  "lat" : 51.3257847,
+                  "lng" : 37.9215986
+               }
+            },
+            "location" : {
+               "lat" : 51.3260592,
+               "lng" : 37.9254407
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3284001802915,
+                  "lng" : 37.9296219
+               },
+               "southwest" : {
+                  "lat" : 51.3257022197085,
+                  "lng" : 37.9215986
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vladimir",
+               "short_name" : "Vladimir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Vladimir",
+               "short_name" : "g. Vladimir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600000",
+               "short_name" : "600000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Vladimir, Vladimir Oblast, Russia, 600000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1239996,
+                  "lng" : 40.3996945
+               },
+               "southwest" : {
+                  "lat" : 56.120579,
+                  "lng" : 40.39553799999999
+               }
+            },
+            "location" : {
+               "lat" : 56.12258629999999,
+               "lng" : 40.3973989
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1239996,
+                  "lng" : 40.3996945
+               },
+               "southwest" : {
+                  "lat" : 56.120579,
+                  "lng" : 40.39553799999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Voznesenskaya",
+               "short_name" : "ul. Voznesenskaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tyumen",
+               "short_name" : "Tyumen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Tyumen'",
+               "short_name" : "g. Tyumen'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tyumenskaya oblast",
+               "short_name" : "Tyumenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Voznesenskaya, Tyumen, Tyumen Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.09393,
+                  "lng" : 65.61751099999999
+               },
+               "southwest" : {
+                  "lat" : 57.090573,
+                  "lng" : 65.61431209999999
+               }
+            },
+            "location" : {
+               "lat" : 57.09226,
+               "lng" : 65.6158781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.09393,
+                  "lng" : 65.61751099999999
+               },
+               "southwest" : {
+                  "lat" : 57.090573,
+                  "lng" : 65.61431209999999
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Voznesenskaya",
+               "short_name" : "ul. Voznesenskaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk",
+               "short_name" : "Krasnoyarsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Krasnoyarsk",
+               "short_name" : "g. Krasnoyarsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Voznesenskaya, Krasnoyarsk, Krasnoyarsk Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.980805,
+                  "lng" : 92.7453982
+               },
+               "southwest" : {
+                  "lat" : 55.980187,
+                  "lng" : 92.741517
+               }
+            },
+            "location" : {
+               "lat" : 55.98058,
+               "lng" : 92.74350819999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9818449802915,
+                  "lng" : 92.7453982
+               },
+               "southwest" : {
+                  "lat" : 55.9791470197085,
+                  "lng" : 92.741517
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Volgograd",
+               "short_name" : "Volgograd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Volgograd",
+               "short_name" : "g. Volgograd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volgogradskaya oblast",
+               "short_name" : "Volgogradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "400120",
+               "short_name" : "400120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Volgograd, Volgograd Oblast, Russia, 400120",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.7080182,
+                  "lng" : 44.4373094
+               },
+               "southwest" : {
+                  "lat" : 48.70763710000001,
+                  "lng" : 44.4341781
+               }
+            },
+            "location" : {
+               "lat" : 48.7078528,
+               "lng" : 44.4359646
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7091766302915,
+                  "lng" : 44.4373094
+               },
+               "southwest" : {
+                  "lat" : 48.7064786697085,
+                  "lng" : 44.4341781
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya",
+               "short_name" : "Voznesenskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malgobeksky District",
+               "short_name" : "Malgobeksky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ingushetiya Republits",
+               "short_name" : "Resp. Ingushetiya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya, Ingushetiya Republits, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.549169,
+                  "lng" : 44.765246
+               },
+               "southwest" : {
+                  "lat" : 43.537973,
+                  "lng" : 44.725756
+               }
+            },
+            "location" : {
+               "lat" : 43.542673,
+               "lng" : 44.75334
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.549169,
+                  "lng" : 44.765246
+               },
+               "southwest" : {
+                  "lat" : 43.537973,
+                  "lng" : 44.725756
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voznesenskaya ulitsa",
+               "short_name" : "Voznesenskaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vladimir",
+               "short_name" : "Vladimir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Vladimir",
+               "short_name" : "g. Vladimir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600000",
+               "short_name" : "600000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voznesenskaya ulitsa, Vladimir, Vladimir Oblast, Russia, 600000",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.1225453,
+               "lng" : 40.397504
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1238942802915,
+                  "lng" : 40.39885298029149
+               },
+               "southwest" : {
+                  "lat" : 56.1211963197085,
+                  "lng" : 40.39615501970849
+               }
+            }
+         },
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

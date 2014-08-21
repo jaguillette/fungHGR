@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kemara",
+               "short_name" : "Kemara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chandrapur",
+               "short_name" : "Chandrapur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kemara, Maharashtra, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.8165399,
+                  "lng" : 79.6264901
+               },
+               "southwest" : {
+                  "lat" : 19.8052999,
+                  "lng" : 79.61588990000001
+               }
+            },
+            "location" : {
+               "lat" : 19.8116016,
+               "lng" : 79.62073289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.8165399,
+                  "lng" : 79.6264901
+               },
+               "southwest" : {
+                  "lat" : 19.8052999,
+                  "lng" : 79.61588990000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

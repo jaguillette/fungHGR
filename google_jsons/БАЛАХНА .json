@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Balakhna",
+               "short_name" : "Balakhna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Balakhninsky District",
+               "short_name" : "Balakhninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Balakhna, Nizhny Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.544863,
+                  "lng" : 43.6367941
+               },
+               "southwest" : {
+                  "lat" : 56.4664811,
+                  "lng" : 43.521034
+               }
+            },
+            "location" : {
+               "lat" : 56.48333299999999,
+               "lng" : 43.616667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.544863,
+                  "lng" : 43.6367941
+               },
+               "southwest" : {
+                  "lat" : 56.4664811,
+                  "lng" : 43.521034
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

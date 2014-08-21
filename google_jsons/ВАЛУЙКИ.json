@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valuyki, Belgorod Oblast",
+               "short_name" : "Valuyki, Belgorod Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valuysky District",
+               "short_name" : "Valuysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valuyki, Belgorod Oblast, Belgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.235682,
+                  "lng" : 38.1650938
+               },
+               "southwest" : {
+                  "lat" : 50.1493859,
+                  "lng" : 38.053677
+               }
+            },
+            "location" : {
+               "lat" : 50.216667,
+               "lng" : 38.1
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.235682,
+                  "lng" : 38.1650938
+               },
+               "southwest" : {
+                  "lat" : 50.1493859,
+                  "lng" : 38.053677
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

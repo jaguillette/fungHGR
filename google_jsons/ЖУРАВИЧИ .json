@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhuravychi",
+               "short_name" : "Zhuravychi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kivertsivs'kyi district",
+               "short_name" : "Kivertsivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Volyns'ka oblast",
+               "short_name" : "Volyns'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhuravychi, Volyns'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9957791,
+                  "lng" : 25.7313891
+               },
+               "southwest" : {
+                  "lat" : 50.972627,
+                  "lng" : 25.6917011
+               }
+            },
+            "location" : {
+               "lat" : 50.984167,
+               "lng" : 25.711667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9957791,
+                  "lng" : 25.7313891
+               },
+               "southwest" : {
+                  "lat" : 50.972627,
+                  "lng" : 25.6917011
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

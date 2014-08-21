@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanovka",
+               "short_name" : "Ivanovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ismailli",
+               "short_name" : "Ismailli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Azerbaijan",
+               "short_name" : "AZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanovka, Azerbaijan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7581153,
+                  "lng" : 48.0425262
+               },
+               "southwest" : {
+                  "lat" : 40.7356165,
+                  "lng" : 48.0193519
+               }
+            },
+            "location" : {
+               "lat" : 40.747222,
+               "lng" : 48.03305599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7581153,
+                  "lng" : 48.0425262
+               },
+               "southwest" : {
+                  "lat" : 40.7356165,
+                  "lng" : 48.0193519
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

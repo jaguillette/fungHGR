@@ -1,0 +1,1503 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Vyborgsky District, Leningrad Oblast",
+               "short_name" : "Vyborgsky District, Leningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188870",
+               "short_name" : "188870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Leningrad Oblast, Russia, 188870",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.591131,
+               "lng" : 29.044737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.59247998029151,
+                  "lng" : 29.0460859802915
+               },
+               "southwest" : {
+                  "lat" : 60.5897820197085,
+                  "lng" : 29.0433880197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vyborgsky District, Leningrad Oblast",
+               "short_name" : "Vyborgsky District, Leningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188870",
+               "short_name" : "188870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Leningrad Oblast, Russia, 188870",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.5958149,
+                  "lng" : 29.0518459
+               },
+               "southwest" : {
+                  "lat" : 60.586538,
+                  "lng" : 29.0253297
+               }
+            },
+            "location" : {
+               "lat" : 60.593056,
+               "lng" : 29.038889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.5958149,
+                  "lng" : 29.0518459
+               },
+               "southwest" : {
+                  "lat" : 60.586538,
+                  "lng" : 29.0253297
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Gavrilova",
+               "short_name" : "ul. Gavrilova",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kazan",
+               "short_name" : "Kazan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kazan'",
+               "short_name" : "g. Kazan'",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Republic of Tatarstan",
+               "short_name" : "Republic of Tatarstan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Gavrilova, Kazan, Republic of Tatarstan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.84471319999999,
+                  "lng" : 49.161767
+               },
+               "southwest" : {
+                  "lat" : 55.82587299999999,
+                  "lng" : 49.134074
+               }
+            },
+            "location" : {
+               "lat" : 55.8347932,
+               "lng" : 49.1593709
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.84471319999999,
+                  "lng" : 49.161767
+               },
+               "southwest" : {
+                  "lat" : 55.82587299999999,
+                  "lng" : 49.134074
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Gavrilova",
+               "short_name" : "ul. Gavrilova",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Irkutsk",
+               "short_name" : "Irkutsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Irkutsk",
+               "short_name" : "g. Irkutsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Irkutskaya",
+               "short_name" : "Irkutskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Gavrilova, Irkutsk, Irkutsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.290253,
+                  "lng" : 104.2725532
+               },
+               "southwest" : {
+                  "lat" : 52.287352,
+                  "lng" : 104.2697092
+               }
+            },
+            "location" : {
+               "lat" : 52.289185,
+               "lng" : 104.270936
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.290253,
+                  "lng" : 104.2725532
+               },
+               "southwest" : {
+                  "lat" : 52.287352,
+                  "lng" : 104.2697092
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ozyorsky District, Kaliningrad Oblast",
+               "short_name" : "Ozyorsky District, Kaliningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningradskaya oblast",
+               "short_name" : "Kaliningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238125",
+               "short_name" : "238125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Kaliningrad Oblast, Russia, 238125",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4014861,
+                  "lng" : 22.2462411
+               },
+               "southwest" : {
+                  "lat" : 54.390607,
+                  "lng" : 22.2283008
+               }
+            },
+            "location" : {
+               "lat" : 54.3963672,
+               "lng" : 22.2386044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4014861,
+                  "lng" : 22.2462411
+               },
+               "southwest" : {
+                  "lat" : 54.390607,
+                  "lng" : 22.2283008
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Gavrilova",
+               "short_name" : "ul. Gavrilova",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Murygino",
+               "short_name" : "Murygino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yuryansky District",
+               "short_name" : "Yuryansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kirovskaya oblast",
+               "short_name" : "Kirovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "613641",
+               "short_name" : "613641",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Gavrilova, Murygino, Kirov Oblast, Russia, 613641",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.743968,
+                  "lng" : 49.45677209999999
+               },
+               "southwest" : {
+                  "lat" : 58.73988360000001,
+                  "lng" : 49.454459
+               }
+            },
+            "location" : {
+               "lat" : 58.7417042,
+               "lng" : 49.4563707
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.743968,
+                  "lng" : 49.4569645302915
+               },
+               "southwest" : {
+                  "lat" : 58.73988360000001,
+                  "lng" : 49.4542665697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Gavrilova",
+               "short_name" : "ul. Gavrilova",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Millerovo, Millerovsky District, Rostov Oblast",
+               "short_name" : "Millerovo, Millerovsky District, Rostov Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Millerovsky District",
+               "short_name" : "Millerovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Gavrilova, Millerovo, Millerovsky District, Rostov Oblast, Rostov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9248212,
+                  "lng" : 40.4002034
+               },
+               "southwest" : {
+                  "lat" : 48.922614,
+                  "lng" : 40.394753
+               }
+            },
+            "location" : {
+               "lat" : 48.9237854,
+               "lng" : 40.3980706
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9250665802915,
+                  "lng" : 40.4002034
+               },
+               "southwest" : {
+                  "lat" : 48.9223686197085,
+                  "lng" : 40.394753
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Gavrilova",
+               "short_name" : "ul. Gavrilova",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Volzhsk",
+               "short_name" : "Volzhsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Volzhsk",
+               "short_name" : "g. Volzhsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mari El Republic",
+               "short_name" : "Mari El Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "425009",
+               "short_name" : "425009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Gavrilova, Volzhsk, Mari El Republic, Russia, 425009",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8793338,
+                  "lng" : 48.3869707
+               },
+               "southwest" : {
+                  "lat" : 55.87657549999999,
+                  "lng" : 48.3785387
+               }
+            },
+            "location" : {
+               "lat" : 55.8778324,
+               "lng" : 48.3834771
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8793338,
+                  "lng" : 48.3869707
+               },
+               "southwest" : {
+                  "lat" : 55.87657549999999,
+                  "lng" : 48.3785387
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Noginsky District",
+               "short_name" : "Noginsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142439",
+               "short_name" : "142439",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Moskovskaya oblast, Russia, 142439",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.95149,
+                  "lng" : 38.6031839
+               },
+               "southwest" : {
+                  "lat" : 55.942834,
+                  "lng" : 38.584347
+               }
+            },
+            "location" : {
+               "lat" : 55.9473831,
+               "lng" : 38.5920299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.95149,
+                  "lng" : 38.6031839
+               },
+               "southwest" : {
+                  "lat" : 55.942834,
+                  "lng" : 38.584347
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnokholmsky District",
+               "short_name" : "Krasnokholmsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171671",
+               "short_name" : "171671",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Tver Oblast, Russia, 171671",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.13997190000001,
+                  "lng" : 37.2501609
+               },
+               "southwest" : {
+                  "lat" : 58.13050399999999,
+                  "lng" : 37.2408209
+               }
+            },
+            "location" : {
+               "lat" : 58.1364658,
+               "lng" : 37.2464006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.13997190000001,
+                  "lng" : 37.2501609
+               },
+               "southwest" : {
+                  "lat" : 58.13050399999999,
+                  "lng" : 37.2408209
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lotoshinsky District",
+               "short_name" : "Lotoshinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143800",
+               "short_name" : "143800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Moskovskaya oblast, Russia, 143800",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.237922,
+                  "lng" : 35.753932
+               },
+               "southwest" : {
+                  "lat" : 56.228387,
+                  "lng" : 35.7381838
+               }
+            },
+            "location" : {
+               "lat" : 56.23341569999999,
+               "lng" : 35.747716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.237922,
+                  "lng" : 35.753932
+               },
+               "southwest" : {
+                  "lat" : 56.228387,
+                  "lng" : 35.7381838
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kholm-Zhirkovsky District",
+               "short_name" : "Kholm-Zhirkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "215656",
+               "short_name" : "215656",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Smolensk Oblast, Russia, 215656",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.62936389999999,
+                  "lng" : 33.5763259
+               },
+               "southwest" : {
+                  "lat" : 55.623814,
+                  "lng" : 33.5668489
+               }
+            },
+            "location" : {
+               "lat" : 55.627778,
+               "lng" : 33.570556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.62936389999999,
+                  "lng" : 33.5763259
+               },
+               "southwest" : {
+                  "lat" : 55.623814,
+                  "lng" : 33.5668489
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shatkovsky District",
+               "short_name" : "Shatkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607714",
+               "short_name" : "607714",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Nizhny Novgorod Oblast, Russia, 607714",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.232021,
+                  "lng" : 43.9427719
+               },
+               "southwest" : {
+                  "lat" : 55.221529,
+                  "lng" : 43.930046
+               }
+            },
+            "location" : {
+               "lat" : 55.2269514,
+               "lng" : 43.93590990000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.232021,
+                  "lng" : 43.9427719
+               },
+               "southwest" : {
+                  "lat" : 55.221529,
+                  "lng" : 43.930046
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilova",
+               "short_name" : "Gavrilova",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Znamensky District, Oryol Oblast",
+               "short_name" : "Znamensky District, Oryol Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303104",
+               "short_name" : "303104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilova, Oryol Oblast, Russia, 303104",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2101581,
+                  "lng" : 35.5405149
+               },
+               "southwest" : {
+                  "lat" : 53.2063391,
+                  "lng" : 35.5299179
+               }
+            },
+            "location" : {
+               "lat" : 53.208602,
+               "lng" : 35.5363949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2101581,
+                  "lng" : 35.5405149
+               },
+               "southwest" : {
+                  "lat" : 53.2063391,
+                  "lng" : 35.5299179
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kineshemsky District",
+               "short_name" : "Kineshemsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "155826",
+               "short_name" : "155826",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Ivanovo Oblast, Russia, 155826",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.340001,
+                  "lng" : 42.4594291
+               },
+               "southwest" : {
+                  "lat" : 57.33705909999999,
+                  "lng" : 42.451628
+               }
+            },
+            "location" : {
+               "lat" : 57.33832890000001,
+               "lng" : 42.4559761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.340001,
+                  "lng" : 42.4594291
+               },
+               "southwest" : {
+                  "lat" : 57.33705909999999,
+                  "lng" : 42.451628
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dukhovshchinsky District",
+               "short_name" : "Dukhovshchinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "216204",
+               "short_name" : "216204",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Smolensk Oblast, Russia, 216204",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.107755,
+                  "lng" : 32.3965481
+               },
+               "southwest" : {
+                  "lat" : 55.10565200000001,
+                  "lng" : 32.3911349
+               }
+            },
+            "location" : {
+               "lat" : 55.1066799,
+               "lng" : 32.395024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1080524802915,
+                  "lng" : 32.3965481
+               },
+               "southwest" : {
+                  "lat" : 55.1053545197085,
+                  "lng" : 32.3911349
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toropetsky District",
+               "short_name" : "Toropetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172862",
+               "short_name" : "172862",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Tver Oblast, Russia, 172862",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.645903,
+                  "lng" : 31.3661731
+               },
+               "southwest" : {
+                  "lat" : 56.63964199999999,
+                  "lng" : 31.3591022
+               }
+            },
+            "location" : {
+               "lat" : 56.6424846,
+               "lng" : 31.3621387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.645903,
+                  "lng" : 31.3661731
+               },
+               "southwest" : {
+                  "lat" : 56.63964199999999,
+                  "lng" : 31.3591022
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilkovo",
+               "short_name" : "Gavrilkovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Likhoslavlsky District",
+               "short_name" : "Likhoslavlsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171226",
+               "short_name" : "171226",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilkovo, Tver Oblast, Russia, 171226",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.49711899999999,
+                  "lng" : 35.7764938
+               },
+               "southwest" : {
+                  "lat" : 57.49225000000001,
+                  "lng" : 35.770054
+               }
+            },
+            "location" : {
+               "lat" : 57.4943871,
+               "lng" : 35.7733039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.49711899999999,
+                  "lng" : 35.7764938
+               },
+               "southwest" : {
+                  "lat" : 57.49225000000001,
+                  "lng" : 35.770054
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vyshnevolotsky District",
+               "short_name" : "Vyshnevolotsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172086",
+               "short_name" : "172086",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Tver Oblast, Russia, 172086",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.239774,
+                  "lng" : 34.5508232
+               },
+               "southwest" : {
+                  "lat" : 57.23505890000001,
+                  "lng" : 34.5448291
+               }
+            },
+            "location" : {
+               "lat" : 57.2377064,
+               "lng" : 34.5471497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.239774,
+                  "lng" : 34.5508232
+               },
+               "southwest" : {
+                  "lat" : 57.23505890000001,
+                  "lng" : 34.5448291
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sandovsky District",
+               "short_name" : "Sandovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171750",
+               "short_name" : "171750",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Tver Oblast, Russia, 171750",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.464417,
+                  "lng" : 36.3808339
+               },
+               "southwest" : {
+                  "lat" : 58.4613689,
+                  "lng" : 36.3771881
+               }
+            },
+            "location" : {
+               "lat" : 58.4630128,
+               "lng" : 36.3791107
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.464417,
+                  "lng" : 36.3808339
+               },
+               "southwest" : {
+                  "lat" : 58.4613689,
+                  "lng" : 36.3771881
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uglichsky District",
+               "short_name" : "Uglichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152642",
+               "short_name" : "152642",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Yaroslavl Oblast, Russia, 152642",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.506185,
+                  "lng" : 37.9532902
+               },
+               "southwest" : {
+                  "lat" : 57.503044,
+                  "lng" : 37.9457887
+               }
+            },
+            "location" : {
+               "lat" : 57.50430919999999,
+               "lng" : 37.9499554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.506185,
+                  "lng" : 37.9532902
+               },
+               "southwest" : {
+                  "lat" : 57.503044,
+                  "lng" : 37.9457887
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lukoyanovsky District",
+               "short_name" : "Lukoyanovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607844",
+               "short_name" : "607844",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Nizhny Novgorod Oblast, Russia, 607844",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.104554,
+                  "lng" : 44.5700631
+               },
+               "southwest" : {
+                  "lat" : 55.0996949,
+                  "lng" : 44.55562010000001
+               }
+            },
+            "location" : {
+               "lat" : 55.1025974,
+               "lng" : 44.5608552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.104554,
+                  "lng" : 44.5700631
+               },
+               "southwest" : {
+                  "lat" : 55.0996949,
+                  "lng" : 44.55562010000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nekouzsky District",
+               "short_name" : "Nekouzsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152710",
+               "short_name" : "152710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Yaroslavl Oblast, Russia, 152710",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.8767589,
+                  "lng" : 37.563337
+               },
+               "southwest" : {
+                  "lat" : 57.8749941,
+                  "lng" : 37.5612669
+               }
+            },
+            "location" : {
+               "lat" : 57.8757643,
+               "lng" : 37.5623094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.87722548029151,
+                  "lng" : 37.56365093029149
+               },
+               "southwest" : {
+                  "lat" : 57.8745275197085,
+                  "lng" : 37.5609529697085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Гаврилово",
+               "short_name" : "Гаврилово",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Braslaw District",
+               "short_name" : "Braslaw District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Гаврилово, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5878653,
+                  "lng" : 27.177397
+               },
+               "southwest" : {
+                  "lat" : 55.5855369,
+                  "lng" : 27.1707773
+               }
+            },
+            "location" : {
+               "lat" : 55.5864448,
+               "lng" : 27.1734111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5880500802915,
+                  "lng" : 27.177397
+               },
+               "southwest" : {
+                  "lat" : 55.5853521197085,
+                  "lng" : 27.1707773
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rybinsky District, Yaroslavl Oblast",
+               "short_name" : "Rybinsky District, Yaroslavl Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152967",
+               "short_name" : "152967",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Yaroslavl Oblast, Russia, 152967",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.04499999999999,
+               "lng" : 39
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.0463489802915,
+                  "lng" : 39.0013489802915
+               },
+               "southwest" : {
+                  "lat" : 58.04365101970848,
+                  "lng" : 38.9986510197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gavrilovo",
+               "short_name" : "Gavrilovo",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Дзержинского ул.",
+               "short_name" : "Дзержинского ул.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "пос. Гаврилово",
+               "short_name" : "пос. Гаврилово",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ozyorsky District, Kaliningrad Oblast",
+               "short_name" : "Ozyorsky District, Kaliningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningradskaya oblast",
+               "short_name" : "Kaliningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238125",
+               "short_name" : "238125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gavrilovo, Дзержинского ул., 31, пос. Гаврилово, Kaliningrad Oblast, Russia, 238125",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.396469,
+               "lng" : 22.238253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.39781798029149,
+                  "lng" : 22.2396019802915
+               },
+               "southwest" : {
+                  "lat" : 54.39512001970849,
+                  "lng" : 22.2369040197085
+               }
+            }
+         },
+         "types" : [ "post_office", "finance", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

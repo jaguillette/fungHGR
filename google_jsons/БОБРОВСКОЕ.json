@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bobrovskoye",
+               "short_name" : "Bobrovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slobodo-Turinskiy rayon",
+               "short_name" : "Slobodo-Turinskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "623934",
+               "short_name" : "623934",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bobrovskoye, Sverdlovsk Oblast, Russia, 623934",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.5137691,
+                  "lng" : 64.1680599
+               },
+               "southwest" : {
+                  "lat" : 57.488691,
+                  "lng" : 64.1443689
+               }
+            },
+            "location" : {
+               "lat" : 57.49613280000001,
+               "lng" : 64.15940789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.5137691,
+                  "lng" : 64.1680599
+               },
+               "southwest" : {
+                  "lat" : 57.488691,
+                  "lng" : 64.1443689
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bobrovskoye",
+               "short_name" : "Bobrovskoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ust-Kubinsky District",
+               "short_name" : "Ust-Kubinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "162124",
+               "short_name" : "162124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bobrovskoye, Vologda Oblast, Russia, 162124",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.806667,
+               "lng" : 39.868056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8080159802915,
+                  "lng" : 39.8694049802915
+               },
+               "southwest" : {
+                  "lat" : 59.80531801970849,
+                  "lng" : 39.8667070197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

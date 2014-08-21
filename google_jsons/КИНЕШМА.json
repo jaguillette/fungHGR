@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kineshma",
+               "short_name" : "Kineshma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kineshma",
+               "short_name" : "g. Kineshma",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kineshma, Ivanovo Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.48104499999999,
+                  "lng" : 42.239831
+               },
+               "southwest" : {
+                  "lat" : 57.40148589999999,
+                  "lng" : 42.0629413
+               }
+            },
+            "location" : {
+               "lat" : 57.433333,
+               "lng" : 42.133333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.48104499999999,
+                  "lng" : 42.239831
+               },
+               "southwest" : {
+                  "lat" : 57.40148589999999,
+                  "lng" : 42.0629413
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

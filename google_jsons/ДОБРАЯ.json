@@ -1,0 +1,658 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobra",
+               "short_name" : "Dobra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Man'kivs'kyi district",
+               "short_name" : "Man'kivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cherkas'ka oblast",
+               "short_name" : "Cherkas'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dobra, Cherkas'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.988256,
+                  "lng" : 30.178138
+               },
+               "southwest" : {
+                  "lat" : 48.937891,
+                  "lng" : 30.0866301
+               }
+            },
+            "location" : {
+               "lat" : 48.96305599999999,
+               "lng" : 30.1325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.988256,
+                  "lng" : 30.178138
+               },
+               "southwest" : {
+                  "lat" : 48.937891,
+                  "lng" : 30.0866301
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya ulitsa",
+               "short_name" : "Dobraya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grushevka",
+               "short_name" : "Grushevka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belokalitvinsky District",
+               "short_name" : "Belokalitvinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "347016",
+               "short_name" : "347016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraya ulitsa, Grushevka, Rostov Oblast, Russia, 347016",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9221741,
+                  "lng" : 40.670177
+               },
+               "southwest" : {
+                  "lat" : 47.9174829,
+                  "lng" : 40.6589775
+               }
+            },
+            "location" : {
+               "lat" : 47.919869,
+               "lng" : 40.6644652
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9221741,
+                  "lng" : 40.670177
+               },
+               "southwest" : {
+                  "lat" : 47.9174829,
+                  "lng" : 40.6589775
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya ulitsa",
+               "short_name" : "Dobraya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rostov-on-Don",
+               "short_name" : "Rostov-on-Don",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Rostov-na-Donu",
+               "short_name" : "g. Rostov-na-Donu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "344064",
+               "short_name" : "344064",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraya ulitsa, Rostov-on-Don, Rostov Oblast, Russia, 344064",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2951444,
+                  "lng" : 39.6890244
+               },
+               "southwest" : {
+                  "lat" : 47.2947154,
+                  "lng" : 39.6818966
+               }
+            },
+            "location" : {
+               "lat" : 47.2948873,
+               "lng" : 39.6854747
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2962788802915,
+                  "lng" : 39.6890244
+               },
+               "southwest" : {
+                  "lat" : 47.2935809197085,
+                  "lng" : 39.6818966
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya ulitsa",
+               "short_name" : "Dobraya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Krasnodar",
+               "short_name" : "Krasnodar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Krasnodar",
+               "short_name" : "g. Krasnodar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "350087",
+               "short_name" : "350087",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraya ulitsa, Krasnodar, Krasnodar Krai, Russia, 350087",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1120074,
+                  "lng" : 39.0051051
+               },
+               "southwest" : {
+                  "lat" : 45.1114371,
+                  "lng" : 38.9985176
+               }
+            },
+            "location" : {
+               "lat" : 45.1116953,
+               "lng" : 39.0011254
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1130712302915,
+                  "lng" : 39.0051051
+               },
+               "southwest" : {
+                  "lat" : 45.1103732697085,
+                  "lng" : 38.9985176
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya ulitsa",
+               "short_name" : "Dobraya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Novosibirsk",
+               "short_name" : "Novosibirsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Novosibirsk",
+               "short_name" : "g. Novosibirsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novosibirskaya oblast",
+               "short_name" : "Novosibirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "630123",
+               "short_name" : "630123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraya ulitsa, Novosibirsk, Novosibirsk Oblast, Russia, 630123",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.07033269999999,
+                  "lng" : 82.8793415
+               },
+               "southwest" : {
+                  "lat" : 55.0685486,
+                  "lng" : 82.87790149999999
+               }
+            },
+            "location" : {
+               "lat" : 55.07033269999999,
+               "lng" : 82.87790149999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.07078963029149,
+                  "lng" : 82.87997048029149
+               },
+               "southwest" : {
+                  "lat" : 55.06809166970849,
+                  "lng" : 82.87727251970848
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya ulitsa",
+               "short_name" : "Dobraya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Novaya Usman'",
+               "short_name" : "Novaya Usman'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novousmansky District",
+               "short_name" : "Novousmansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "396310",
+               "short_name" : "396310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraya ulitsa, Novaya Usman', Voronezh Oblast, Russia, 396310",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6606447,
+                  "lng" : 39.4366523
+               },
+               "southwest" : {
+                  "lat" : 51.660034,
+                  "lng" : 39.434815
+               }
+            },
+            "location" : {
+               "lat" : 51.6602881,
+               "lng" : 39.4358173
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6616883302915,
+                  "lng" : 39.4370826302915
+               },
+               "southwest" : {
+                  "lat" : 51.6589903697085,
+                  "lng" : 39.4343846697085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraia",
+               "short_name" : "Dobraia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cornereva",
+               "short_name" : "Cornereva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Caraș-Severin County",
+               "short_name" : "CS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "327123",
+               "short_name" : "327123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraia 327123, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.00257389999999,
+                  "lng" : 22.4779416
+               },
+               "southwest" : {
+                  "lat" : 44.997051,
+                  "lng" : 22.4736072
+               }
+            },
+            "location" : {
+               "lat" : 44.999492,
+               "lng" : 22.4759535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.00257389999999,
+                  "lng" : 22.4779416
+               },
+               "southwest" : {
+                  "lat" : 44.997051,
+                  "lng" : 22.4736072
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya",
+               "short_name" : "Dobraya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baryatinskiy rayon",
+               "short_name" : "Baryatinskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249652",
+               "short_name" : "249652",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraya, Kaluga Oblast, Russia, 249652",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.43366,
+                  "lng" : 34.5976169
+               },
+               "southwest" : {
+                  "lat" : 54.421466,
+                  "lng" : 34.580037
+               }
+            },
+            "location" : {
+               "lat" : 54.42791099999999,
+               "lng" : 34.587865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.43366,
+                  "lng" : 34.5976169
+               },
+               "southwest" : {
+                  "lat" : 54.421466,
+                  "lng" : 34.580037
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya",
+               "short_name" : "Dobraya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rzhevsky District",
+               "short_name" : "Rzhevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172356",
+               "short_name" : "172356",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dobraya, Tver Oblast, Russia, 172356",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.309317,
+                  "lng" : 34.2407821
+               },
+               "southwest" : {
+                  "lat" : 56.30498499999999,
+                  "lng" : 34.22974
+               }
+            },
+            "location" : {
+               "lat" : 56.30783479999999,
+               "lng" : 34.2360774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.309317,
+                  "lng" : 34.2407821
+               },
+               "southwest" : {
+                  "lat" : 56.30498499999999,
+                  "lng" : 34.22974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Добрая",
+               "short_name" : "Добрая",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horki District",
+               "short_name" : "Horki District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mogilev Province",
+               "short_name" : "Mogilev Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Добрая, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.1999057,
+                  "lng" : 30.9539796
+               },
+               "southwest" : {
+                  "lat" : 54.1767033,
+                  "lng" : 30.9308054
+               }
+            },
+            "location" : {
+               "lat" : 54.19409899999999,
+               "lng" : 30.9444411
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.1999057,
+                  "lng" : 30.9539796
+               },
+               "southwest" : {
+                  "lat" : 54.1767033,
+                  "lng" : 30.9308054
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dobraya",
+               "short_name" : "Dobraya",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "улица 79 Гвардейской Дивизии",
+               "short_name" : "улица 79 Гвардейской Дивизии",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Томск",
+               "short_name" : "Томск",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "город Томск",
+               "short_name" : "город Томск",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Томская область",
+               "short_name" : "Томская область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dobraya, улица 79 Гвардейской Дивизии, 8, Томск, Томская область, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.50891,
+               "lng" : 84.981478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5102589802915,
+                  "lng" : 84.98282698029151
+               },
+               "southwest" : {
+                  "lat" : 56.5075610197085,
+                  "lng" : 84.9801290197085
+               }
+            }
+         },
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okhtyrka",
+               "short_name" : "Okhtyrka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okhtyrs'ka city council",
+               "short_name" : "Okhtyrs'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Sums'ka oblast",
+               "short_name" : "Sums'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okhtyrka, Sums'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3540649,
+                  "lng" : 34.9424862
+               },
+               "southwest" : {
+                  "lat" : 50.272656,
+                  "lng" : 34.85537
+               }
+            },
+            "location" : {
+               "lat" : 50.3,
+               "lng" : 34.9
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3540649,
+                  "lng" : 34.9424862
+               },
+               "southwest" : {
+                  "lat" : 50.272656,
+                  "lng" : 34.85537
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

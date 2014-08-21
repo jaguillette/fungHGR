@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alatyr'",
+               "short_name" : "Alatyr'",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pervomayskiy rayon",
+               "short_name" : "Pervomayskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607760",
+               "short_name" : "607760",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alatyr', Nizhny Novgorod Oblast, Russia, 607760",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8313478,
+                  "lng" : 43.7329583
+               },
+               "southwest" : {
+                  "lat" : 54.827396,
+                  "lng" : 43.7217968
+               }
+            },
+            "location" : {
+               "lat" : 54.8291295,
+               "lng" : 43.7270299
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8313478,
+                  "lng" : 43.7329583
+               },
+               "southwest" : {
+                  "lat" : 54.827396,
+                  "lng" : 43.7217968
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veydelevka",
+               "short_name" : "Veydelevka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veydelevsky District",
+               "short_name" : "Veydelevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Belgorodskaya oblast",
+               "short_name" : "Belgorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "309720",
+               "short_name" : "309720",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Veydelevka, Belgorod Oblast, Russia, 309720",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.17078410000001,
+                  "lng" : 38.4885699
+               },
+               "southwest" : {
+                  "lat" : 50.135269,
+                  "lng" : 38.408317
+               }
+            },
+            "location" : {
+               "lat" : 50.153611,
+               "lng" : 38.45
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.17078410000001,
+                  "lng" : 38.4885699
+               },
+               "southwest" : {
+                  "lat" : 50.135269,
+                  "lng" : 38.408317
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

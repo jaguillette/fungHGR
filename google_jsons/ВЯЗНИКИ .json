@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vyazniki, Vladimir Oblast",
+               "short_name" : "Vyazniki, Vladimir Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Vyazniki",
+               "short_name" : "g. Vyazniki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vyazniki, Vladimir Oblast, Vladimir Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.258555,
+                  "lng" : 42.2112039
+               },
+               "southwest" : {
+                  "lat" : 56.218596,
+                  "lng" : 42.0885409
+               }
+            },
+            "location" : {
+               "lat" : 56.23333299999999,
+               "lng" : 42.166667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.258555,
+                  "lng" : 42.2112039
+               },
+               "southwest" : {
+                  "lat" : 56.218596,
+                  "lng" : 42.0885409
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

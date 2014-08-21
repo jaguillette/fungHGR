@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubroŭna",
+               "short_name" : "Dubroŭna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubrowna District",
+               "short_name" : "Dubrowna District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubroŭna, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5956631,
+                  "lng" : 30.71734439999999
+               },
+               "southwest" : {
+                  "lat" : 54.5606166,
+                  "lng" : 30.652027
+               }
+            },
+            "location" : {
+               "lat" : 54.566667,
+               "lng" : 30.683333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5956631,
+                  "lng" : 30.71734439999999
+               },
+               "southwest" : {
+                  "lat" : 54.5606166,
+                  "lng" : 30.652027
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

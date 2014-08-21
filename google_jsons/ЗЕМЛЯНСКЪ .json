@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zemlyansk",
+               "short_name" : "Zemlyansk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Semiluksky District",
+               "short_name" : "Semiluksky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "396920",
+               "short_name" : "396920",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zemlyansk, Voronezh Oblast, Russia, 396920",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.92038909999999,
+                  "lng" : 38.7657139
+               },
+               "southwest" : {
+                  "lat" : 51.882133,
+                  "lng" : 38.6903629
+               }
+            },
+            "location" : {
+               "lat" : 51.904167,
+               "lng" : 38.733333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.92038909999999,
+                  "lng" : 38.7657139
+               },
+               "southwest" : {
+                  "lat" : 51.882133,
+                  "lng" : 38.6903629
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

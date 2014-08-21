@@ -1,0 +1,429 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kel'menets'kyi district",
+               "short_name" : "Kel'menets'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernivets'ka oblast",
+               "short_name" : "Chernivets'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Chernivets'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4995181,
+                  "lng" : 27.0573691
+               },
+               "southwest" : {
+                  "lat" : 48.46983789999999,
+                  "lng" : 26.9718171
+               }
+            },
+            "location" : {
+               "lat" : 48.484722,
+               "lng" : 27.014722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4995181,
+                  "lng" : 27.0573691
+               },
+               "southwest" : {
+                  "lat" : 48.46983789999999,
+                  "lng" : 27.009709
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mukachivs'kyi district",
+               "short_name" : "Mukachivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zakarpats'ka oblast",
+               "short_name" : "Zakarpats'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Zakarpats'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.478594,
+                  "lng" : 22.6587641
+               },
+               "southwest" : {
+                  "lat" : 48.4645979,
+                  "lng" : 22.6318349
+               }
+            },
+            "location" : {
+               "lat" : 48.471667,
+               "lng" : 22.645278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.478594,
+                  "lng" : 22.6587641
+               },
+               "southwest" : {
+                  "lat" : 48.4645979,
+                  "lng" : 22.6318349
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolomyis'kyi district",
+               "short_name" : "Kolomyis'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivano-Frankivs'ka oblast",
+               "short_name" : "Ivano-Frankivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Ivano-Frankivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.58533509999999,
+                  "lng" : 24.8728599
+               },
+               "southwest" : {
+                  "lat" : 48.566454,
+                  "lng" : 24.812293
+               }
+            },
+            "location" : {
+               "lat" : 48.575833,
+               "lng" : 24.8425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.58533509999999,
+                  "lng" : 24.8728599
+               },
+               "southwest" : {
+                  "lat" : 48.566454,
+                  "lng" : 24.812293
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volochys'kyi district",
+               "short_name" : "Volochys'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khmel'nyts'ka oblast",
+               "short_name" : "Khmel'nyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Khmel'nyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.54804290000001,
+                  "lng" : 26.3289958
+               },
+               "southwest" : {
+                  "lat" : 49.537262,
+                  "lng" : 26.3043449
+               }
+            },
+            "location" : {
+               "lat" : 49.5425,
+               "lng" : 26.316667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.54804290000001,
+                  "lng" : 26.3289958
+               },
+               "southwest" : {
+                  "lat" : 49.537262,
+                  "lng" : 26.3043449
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bars'kyi district",
+               "short_name" : "Bars'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vinnyts'ka oblast",
+               "short_name" : "Vinnyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Vinnyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.112509,
+                  "lng" : 27.7305452
+               },
+               "southwest" : {
+                  "lat" : 49.09528,
+                  "lng" : 27.7039381
+               }
+            },
+            "location" : {
+               "lat" : 49.103889,
+               "lng" : 27.717222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.112509,
+                  "lng" : 27.7305452
+               },
+               "southwest" : {
+                  "lat" : 49.09528,
+                  "lng" : 27.7039381
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lityns'kyi district",
+               "short_name" : "Lityns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vinnyts'ka oblast",
+               "short_name" : "Vinnyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Vinnyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4703641,
+                  "lng" : 27.835193
+               },
+               "southwest" : {
+                  "lat" : 49.456101,
+                  "lng" : 27.8079569
+               }
+            },
+            "location" : {
+               "lat" : 49.463333,
+               "lng" : 27.821667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4703641,
+                  "lng" : 27.835193
+               },
+               "southwest" : {
+                  "lat" : 49.456101,
+                  "lng" : 27.8079569
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novoukrains'kyi district",
+               "short_name" : "Novoukrains'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kirovohrads'ka oblast",
+               "short_name" : "Kirovohrads'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Kirovohrads'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2056139,
+                  "lng" : 31.775499
+               },
+               "southwest" : {
+                  "lat" : 48.172679,
+                  "lng" : 31.7547059
+               }
+            },
+            "location" : {
+               "lat" : 48.189167,
+               "lng" : 31.759722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2056139,
+                  "lng" : 31.775499
+               },
+               "southwest" : {
+                  "lat" : 48.172679,
+                  "lng" : 31.7547059
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ivanivtsi",
+               "short_name" : "Ivanivtsi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhydachivs'kyi district",
+               "short_name" : "Zhydachivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lviv Oblast",
+               "short_name" : "Lviv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ivanivtsi, Lviv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.390144,
+                  "lng" : 24.1094548
+               },
+               "southwest" : {
+                  "lat" : 49.38272509999999,
+                  "lng" : 24.0984819
+               }
+            },
+            "location" : {
+               "lat" : 49.386389,
+               "lng" : 24.103889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.390144,
+                  "lng" : 24.1094548
+               },
+               "southwest" : {
+                  "lat" : 49.38272509999999,
+                  "lng" : 24.0984819
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bakhmach",
+               "short_name" : "Bakhmach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bakhmats'kyi district",
+               "short_name" : "Bakhmats'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bakhmach, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.219324,
+                  "lng" : 32.815741
+               },
+               "southwest" : {
+                  "lat" : 51.175707,
+                  "lng" : 32.73198989999999
+               }
+            },
+            "location" : {
+               "lat" : 51.2014581,
+               "lng" : 32.7737765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.219324,
+                  "lng" : 32.815741
+               },
+               "southwest" : {
+                  "lat" : 51.175707,
+                  "lng" : 32.73198989999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

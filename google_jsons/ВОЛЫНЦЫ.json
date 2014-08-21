@@ -1,0 +1,179 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volyntsy",
+               "short_name" : "Volyntsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vetluzhsky District",
+               "short_name" : "Vetluzhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606860",
+               "short_name" : "606860",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volyntsy, Nizhny Novgorod Oblast, Russia, 606860",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.820057,
+                  "lng" : 45.4922888
+               },
+               "southwest" : {
+                  "lat" : 57.803405,
+                  "lng" : 45.468388
+               }
+            },
+            "location" : {
+               "lat" : 57.81055600000001,
+               "lng" : 45.480278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.820057,
+                  "lng" : 45.4922888
+               },
+               "southwest" : {
+                  "lat" : 57.803405,
+                  "lng" : 45.468388
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volyntsy",
+               "short_name" : "Volyntsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iznoskovsky District",
+               "short_name" : "Iznoskovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249870",
+               "short_name" : "249870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volyntsy, Kaluga Oblast, Russia, 249870",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.029337,
+                  "lng" : 35.4521599
+               },
+               "southwest" : {
+                  "lat" : 55.022343,
+                  "lng" : 35.442177
+               }
+            },
+            "location" : {
+               "lat" : 55.0254108,
+               "lng" : 35.4473538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.029337,
+                  "lng" : 35.4521599
+               },
+               "southwest" : {
+                  "lat" : 55.022343,
+                  "lng" : 35.442177
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volyntsy",
+               "short_name" : "Volyntsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhukovsky District, Kaluga Oblast",
+               "short_name" : "Zhukovsky District, Kaluga Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249180",
+               "short_name" : "249180",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Volyntsy, Kaluga Oblast, Russia, 249180",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.888864,
+                  "lng" : 36.886318
+               },
+               "southwest" : {
+                  "lat" : 54.884212,
+                  "lng" : 36.879942
+               }
+            },
+            "location" : {
+               "lat" : 54.8864582,
+               "lng" : 36.8834565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.888864,
+                  "lng" : 36.886318
+               },
+               "southwest" : {
+                  "lat" : 54.884212,
+                  "lng" : 36.879942
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

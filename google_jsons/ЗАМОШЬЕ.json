@@ -1,0 +1,1582 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pskovsky District",
+               "short_name" : "Pskovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pskovskaya oblast",
+               "short_name" : "Pskovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "180556",
+               "short_name" : "180556",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Pskov Oblast, Russia, 180556",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.04111100000001,
+               "lng" : 28.361667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.2296053,
+                  "lng" : 28.8739046
+               },
+               "southwest" : {
+                  "lat" : 57.8516175,
+                  "lng" : 27.8494294
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye ulitsa",
+               "short_name" : "Zamoshye ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tyomkino, Tyomkinskoye Rural Settlement, Tyomkinsky District, Smolensk Oblast",
+               "short_name" : "Tyomkino, Tyomkinskoye Rural Settlement, Tyomkinsky District, Smolensk Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyomkinsky District",
+               "short_name" : "Tyomkinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "215350",
+               "short_name" : "215350",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye ulitsa, Tyomkino, Tyomkinskoye Rural Settlement, Tyomkinsky District, Smolensk Oblast, Smolensk Oblast, Russia, 215350",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.092211,
+                  "lng" : 35.0025756
+               },
+               "southwest" : {
+                  "lat" : 55.0869835,
+                  "lng" : 34.9982522
+               }
+            },
+            "location" : {
+               "lat" : 55.0897777,
+               "lng" : 35.0007432
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.092211,
+                  "lng" : 35.0025756
+               },
+               "southwest" : {
+                  "lat" : 55.0869835,
+                  "lng" : 34.9982522
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Замошье",
+               "short_name" : "Замошье",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhytkavichy District",
+               "short_name" : "Zhytkavichy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Замошье, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.36569480000001,
+                  "lng" : 28.1006241
+               },
+               "southwest" : {
+                  "lat" : 52.3513846,
+                  "lng" : 28.0842304
+               }
+            },
+            "location" : {
+               "lat" : 52.35853969999999,
+               "lng" : 28.0924272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.36569480000001,
+                  "lng" : 28.1006241
+               },
+               "southwest" : {
+                  "lat" : 52.3513846,
+                  "lng" : 28.0842304
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volkhovsky District",
+               "short_name" : "Volkhovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "187414",
+               "short_name" : "187414",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Leningrad Oblast, Russia, 187414",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.74729499999999,
+                  "lng" : 32.340513
+               },
+               "southwest" : {
+                  "lat" : 59.74111199999999,
+                  "lng" : 32.3302691
+               }
+            },
+            "location" : {
+               "lat" : 59.74417099999999,
+               "lng" : 32.3352191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.74729499999999,
+                  "lng" : 32.340513
+               },
+               "southwest" : {
+                  "lat" : 59.74111199999999,
+                  "lng" : 32.3302691
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Замошье",
+               "short_name" : "Замошье",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minsk Province",
+               "short_name" : "Minsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Замошье, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8889687,
+                  "lng" : 27.7515721
+               },
+               "southwest" : {
+                  "lat" : 52.8661505,
+                  "lng" : 27.719729
+               }
+            },
+            "location" : {
+               "lat" : 52.88080110000001,
+               "lng" : 27.7387623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8889687,
+                  "lng" : 27.7515721
+               },
+               "southwest" : {
+                  "lat" : 52.8661505,
+                  "lng" : 27.719729
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Замошье",
+               "short_name" : "Замошье",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asipovichy District",
+               "short_name" : "Asipovichy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mogilev Province",
+               "short_name" : "Mogilev Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Замошье, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3024157,
+                  "lng" : 28.7124788
+               },
+               "southwest" : {
+                  "lat" : 53.29101439999999,
+                  "lng" : 28.699851
+               }
+            },
+            "location" : {
+               "lat" : 53.2970717,
+               "lng" : 28.706459
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3024157,
+                  "lng" : 28.7124788
+               },
+               "southwest" : {
+                  "lat" : 53.29101439999999,
+                  "lng" : 28.699851
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Замошье",
+               "short_name" : "Замошье",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baranavichy District",
+               "short_name" : "Baranavichy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brest Region",
+               "short_name" : "Brest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Замошье, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0457993,
+                  "lng" : 25.9738148
+               },
+               "southwest" : {
+                  "lat" : 53.0382005,
+                  "lng" : 25.9639336
+               }
+            },
+            "location" : {
+               "lat" : 53.04228029999999,
+               "lng" : 25.9671624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0457993,
+                  "lng" : 25.9738148
+               },
+               "southwest" : {
+                  "lat" : 53.0382005,
+                  "lng" : 25.9639336
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Zapadnodvinsky District",
+               "short_name" : "Zapadnodvinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172600",
+               "short_name" : "172600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Tver Oblast, Russia, 172600",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.26745099999999,
+               "lng" : 32.236279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2687999802915,
+                  "lng" : 32.2376279802915
+               },
+               "southwest" : {
+                  "lat" : 56.2661020197085,
+                  "lng" : 32.2349300197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boksitogorsky District",
+               "short_name" : "Boksitogorsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "187681",
+               "short_name" : "187681",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Leningrad Oblast, Russia, 187681",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.46093399999999,
+                  "lng" : 34.281432
+               },
+               "southwest" : {
+                  "lat" : 59.451756,
+                  "lng" : 34.2746779
+               }
+            },
+            "location" : {
+               "lat" : 59.458611,
+               "lng" : 34.2775
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.46093399999999,
+                  "lng" : 34.281432
+               },
+               "southwest" : {
+                  "lat" : 59.451756,
+                  "lng" : 34.2746779
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshsha",
+               "short_name" : "Zamoshsha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bykhaw District",
+               "short_name" : "Bykhaw District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mogilev Province",
+               "short_name" : "Mogilev Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamoshsha, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4971092,
+                  "lng" : 29.9578715
+               },
+               "southwest" : {
+                  "lat" : 53.49108400000001,
+                  "lng" : 29.9449538
+               }
+            },
+            "location" : {
+               "lat" : 53.49155,
+               "lng" : 29.947731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4971092,
+                  "lng" : 29.9578715
+               },
+               "southwest" : {
+                  "lat" : 53.49108400000001,
+                  "lng" : 29.9449538
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slantsevsky District",
+               "short_name" : "Slantsevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188561",
+               "short_name" : "188561",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Leningrad Oblast, Russia, 188561",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.089381,
+                  "lng" : 28.1936031
+               },
+               "southwest" : {
+                  "lat" : 59.081822,
+                  "lng" : 28.185781
+               }
+            },
+            "location" : {
+               "lat" : 59.0847592,
+               "lng" : 28.1909458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.089381,
+                  "lng" : 28.1936031
+               },
+               "southwest" : {
+                  "lat" : 59.081822,
+                  "lng" : 28.185781
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamošša",
+               "short_name" : "Zamošša",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ivanava District",
+               "short_name" : "Ivanava District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brest Region",
+               "short_name" : "Brest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamošša, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2781098,
+                  "lng" : 25.6014491
+               },
+               "southwest" : {
+                  "lat" : 52.2627732,
+                  "lng" : 25.5740475
+               }
+            },
+            "location" : {
+               "lat" : 52.2703435,
+               "lng" : 25.5907225
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2781098,
+                  "lng" : 25.6014491
+               },
+               "southwest" : {
+                  "lat" : 52.2627732,
+                  "lng" : 25.5740475
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamošša",
+               "short_name" : "Zamošša",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chashniki District",
+               "short_name" : "Chashniki District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamošša, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.6839046,
+                  "lng" : 28.6589527
+               },
+               "southwest" : {
+                  "lat" : 54.67745379999999,
+                  "lng" : 28.6288261
+               }
+            },
+            "location" : {
+               "lat" : 54.6806792,
+               "lng" : 28.6438894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.6839046,
+                  "lng" : 28.6589527
+               },
+               "southwest" : {
+                  "lat" : 54.67745379999999,
+                  "lng" : 28.6288261
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamošša",
+               "short_name" : "Zamošša",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Talachyn District",
+               "short_name" : "Talachyn District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamošša, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.547625,
+                  "lng" : 29.6525288
+               },
+               "southwest" : {
+                  "lat" : 54.54058,
+                  "lng" : 29.6163082
+               }
+            },
+            "location" : {
+               "lat" : 54.54410250000001,
+               "lng" : 29.6344185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.547625,
+                  "lng" : 29.6525288
+               },
+               "southwest" : {
+                  "lat" : 54.54058,
+                  "lng" : 29.6163082
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamošša",
+               "short_name" : "Zamošša",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lepel District",
+               "short_name" : "Lepel District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamošša, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0714633,
+                  "lng" : 28.9553691
+               },
+               "southwest" : {
+                  "lat" : 55.0661801,
+                  "lng" : 28.9424301
+               }
+            },
+            "location" : {
+               "lat" : 55.0689836,
+               "lng" : 28.9510515
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0714633,
+                  "lng" : 28.9553691
+               },
+               "southwest" : {
+                  "lat" : 55.0661801,
+                  "lng" : 28.9424301
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slantsevsky District",
+               "short_name" : "Slantsevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188550",
+               "short_name" : "188550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Leningrad Oblast, Russia, 188550",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.05733409999999,
+                  "lng" : 28.6050241
+               },
+               "southwest" : {
+                  "lat" : 59.0521251,
+                  "lng" : 28.5831719
+               }
+            },
+            "location" : {
+               "lat" : 59.05441740000001,
+               "lng" : 28.5926982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.05733409999999,
+                  "lng" : 28.6050241
+               },
+               "southwest" : {
+                  "lat" : 59.0521251,
+                  "lng" : 28.5831719
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kirovsky District, Leningrad Oblast",
+               "short_name" : "Kirovsky District, Leningrad Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "187310",
+               "short_name" : "187310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Leningrad Oblast, Russia, 187310",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.8510309,
+                  "lng" : 31.5333271
+               },
+               "southwest" : {
+                  "lat" : 59.84534789999999,
+                  "lng" : 31.5248277
+               }
+            },
+            "location" : {
+               "lat" : 59.84815520000001,
+               "lng" : 31.5294633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8510309,
+                  "lng" : 31.5333271
+               },
+               "southwest" : {
+                  "lat" : 59.84534789999999,
+                  "lng" : 31.5248277
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamošša",
+               "short_name" : "Zamošša",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dokshytsy District",
+               "short_name" : "Dokshytsy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamošša, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8737918,
+                  "lng" : 28.1804252
+               },
+               "southwest" : {
+                  "lat" : 54.8673095,
+                  "lng" : 28.1693316
+               }
+            },
+            "location" : {
+               "lat" : 54.87055059999999,
+               "lng" : 28.1748784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8737918,
+                  "lng" : 28.1804252
+               },
+               "southwest" : {
+                  "lat" : 54.8673095,
+                  "lng" : 28.1693316
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luzhsky District",
+               "short_name" : "Luzhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188272",
+               "short_name" : "188272",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Leningrad Oblast, Russia, 188272",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.71105,
+                  "lng" : 30.029266
+               },
+               "southwest" : {
+                  "lat" : 58.70206409999999,
+                  "lng" : 30.0111041
+               }
+            },
+            "location" : {
+               "lat" : 58.7069798,
+               "lng" : 30.0246991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.71105,
+                  "lng" : 30.029266
+               },
+               "southwest" : {
+                  "lat" : 58.70206409999999,
+                  "lng" : 30.0111041
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Замошье",
+               "short_name" : "Замошье",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minsk Province",
+               "short_name" : "Minsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Замошье, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4578156,
+                  "lng" : 28.2246493
+               },
+               "southwest" : {
+                  "lat" : 54.4388017,
+                  "lng" : 28.2095431
+               }
+            },
+            "location" : {
+               "lat" : 54.4493164,
+               "lng" : 28.2173102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4578156,
+                  "lng" : 28.2246493
+               },
+               "southwest" : {
+                  "lat" : 54.4388017,
+                  "lng" : 28.2095431
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mozhaysky District, Moscow Oblast",
+               "short_name" : "Mozhaysky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143724",
+               "short_name" : "143724",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Moskovskaya oblast, Russia, 143724",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7249339,
+                  "lng" : 35.4110949
+               },
+               "southwest" : {
+                  "lat" : 55.717341,
+                  "lng" : 35.390737
+               }
+            },
+            "location" : {
+               "lat" : 55.72039359999999,
+               "lng" : 35.4013627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7249339,
+                  "lng" : 35.4110949
+               },
+               "southwest" : {
+                  "lat" : 55.717341,
+                  "lng" : 35.390737
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamošša",
+               "short_name" : "Zamošša",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verkhniadzvinsk District",
+               "short_name" : "Verkhniadzvinsk District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamošša, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5711512,
+                  "lng" : 28.324642
+               },
+               "southwest" : {
+                  "lat" : 55.5601097,
+                  "lng" : 28.2967042
+               }
+            },
+            "location" : {
+               "lat" : 55.5649329,
+               "lng" : 28.3058233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5711512,
+                  "lng" : 28.324642
+               },
+               "southwest" : {
+                  "lat" : 55.5601097,
+                  "lng" : 28.2967042
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamošša",
+               "short_name" : "Zamošša",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chashniki District",
+               "short_name" : "Chashniki District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamošša, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.83708189999999,
+                  "lng" : 28.9551115
+               },
+               "southwest" : {
+                  "lat" : 54.8239808,
+                  "lng" : 28.9358425
+               }
+            },
+            "location" : {
+               "lat" : 54.8295775,
+               "lng" : 28.9486155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.83708189999999,
+                  "lng" : 28.9551115
+               },
+               "southwest" : {
+                  "lat" : 54.8239808,
+                  "lng" : 28.9358425
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Velizhsky District",
+               "short_name" : "Velizhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "216294",
+               "short_name" : "216294",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Smolensk Oblast, Russia, 216294",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6407611,
+                  "lng" : 30.993783
+               },
+               "southwest" : {
+                  "lat" : 55.634288,
+                  "lng" : 30.97561799999999
+               }
+            },
+            "location" : {
+               "lat" : 55.635278,
+               "lng" : 30.9825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6407611,
+                  "lng" : 30.993783
+               },
+               "southwest" : {
+                  "lat" : 55.634288,
+                  "lng" : 30.97561799999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ostashkovsky District",
+               "short_name" : "Ostashkovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Tver Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.104933,
+                  "lng" : 33.1024877
+               },
+               "southwest" : {
+                  "lat" : 57.096104,
+                  "lng" : 33.087095
+               }
+            },
+            "location" : {
+               "lat" : 57.0985343,
+               "lng" : 33.0950765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.104933,
+                  "lng" : 33.1024877
+               },
+               "southwest" : {
+                  "lat" : 57.096104,
+                  "lng" : 33.087095
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oleninsky District",
+               "short_name" : "Oleninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172424",
+               "short_name" : "172424",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Tver Oblast, Russia, 172424",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.3293171,
+                  "lng" : 33.3495252
+               },
+               "southwest" : {
+                  "lat" : 56.322773,
+                  "lng" : 33.339653
+               }
+            },
+            "location" : {
+               "lat" : 56.3262581,
+               "lng" : 33.3452653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.3293171,
+                  "lng" : 33.3495252
+               },
+               "southwest" : {
+                  "lat" : 56.322773,
+                  "lng" : 33.339653
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuvshinovsky District",
+               "short_name" : "Kuvshinovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172110",
+               "short_name" : "172110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Tver Oblast, Russia, 172110",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.069979,
+                  "lng" : 34.2328817
+               },
+               "southwest" : {
+                  "lat" : 57.0637039,
+                  "lng" : 34.2218081
+               }
+            },
+            "location" : {
+               "lat" : 57.067943,
+               "lng" : 34.229644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.069979,
+                  "lng" : 34.2328817
+               },
+               "southwest" : {
+                  "lat" : 57.0637039,
+                  "lng" : 34.2218081
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Замошье",
+               "short_name" : "Замошье",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Talachyn District",
+               "short_name" : "Talachyn District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Замошье, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.63495210000001,
+                  "lng" : 29.8154783
+               },
+               "southwest" : {
+                  "lat" : 54.6278725,
+                  "lng" : 29.7999428
+               }
+            },
+            "location" : {
+               "lat" : 54.62990780000001,
+               "lng" : 29.8058593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.63495210000001,
+                  "lng" : 29.8154783
+               },
+               "southwest" : {
+                  "lat" : 54.6278725,
+                  "lng" : 29.7999428
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zamoshye",
+               "short_name" : "Zamoshye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Demidovsky District",
+               "short_name" : "Demidovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Smolenskaya oblast",
+               "short_name" : "Smolenskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zamoshye, Smolensk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.341189,
+                  "lng" : 31.4030869
+               },
+               "southwest" : {
+                  "lat" : 55.336266,
+                  "lng" : 31.3902839
+               }
+            },
+            "location" : {
+               "lat" : 55.338333,
+               "lng" : 31.396111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.341189,
+                  "lng" : 31.4030869
+               },
+               "southwest" : {
+                  "lat" : 55.336266,
+                  "lng" : 31.3902839
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irbit",
+               "short_name" : "Irbit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Irbit",
+               "short_name" : "g. Irbit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irbit, Sverdlovsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.697732,
+                  "lng" : 63.1079039
+               },
+               "southwest" : {
+                  "lat" : 57.6470291,
+                  "lng" : 63.00088599999999
+               }
+            },
+            "location" : {
+               "lat" : 57.666667,
+               "lng" : 63.066667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.697732,
+                  "lng" : 63.1079039
+               },
+               "southwest" : {
+                  "lat" : 57.6470291,
+                  "lng" : 63.00088599999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

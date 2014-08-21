@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ploshchad' Bogoyavlenskaya",
+               "short_name" : "pl. Bogoyavlenskaya",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oryol",
+               "short_name" : "Oryol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Orel",
+               "short_name" : "g. Orel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "302001",
+               "short_name" : "302001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ploshchad' Bogoyavlenskaya, Oryol, Oryol Oblast, Russia, 302001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.9663921,
+                  "lng" : 36.0711998
+               },
+               "southwest" : {
+                  "lat" : 52.965334,
+                  "lng" : 36.06939759999999
+               }
+            },
+            "location" : {
+               "lat" : 52.9657558,
+               "lng" : 36.0701454
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9672120302915,
+                  "lng" : 36.07164768029149
+               },
+               "southwest" : {
+                  "lat" : 52.9645140697085,
+                  "lng" : 36.0689497197085
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bogoyavlenskaya",
+               "short_name" : "Bogoyavlenskaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Konstantinovsky District, Rostov Oblast",
+               "short_name" : "Konstantinovsky District, Rostov Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "347271",
+               "short_name" : "347271",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bogoyavlenskaya, Rostov Oblast, Russia, 347271",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.66313410000001,
+                  "lng" : 41.3582942
+               },
+               "southwest" : {
+                  "lat" : 47.640156,
+                  "lng" : 41.31854209999999
+               }
+            },
+            "location" : {
+               "lat" : 47.64753710000001,
+               "lng" : 41.3395903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.66313410000001,
+                  "lng" : 41.3582942
+               },
+               "southwest" : {
+                  "lat" : 47.640156,
+                  "lng" : 41.31854209999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,53 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubki, Pechorsky District, Pskov Oblast",
+               "short_name" : "Dubki, Pechorsky District, Pskov Oblast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Värska Parish",
+               "short_name" : "Värska Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pskovskaya oblast",
+               "short_name" : "Pskovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64034",
+               "short_name" : "64034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubki, Pechorsky District, Pskov Oblast, Pskov Oblast, Russia, 64034",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.00000000000001,
+               "lng" : 27.65
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.00591230000001,
+                  "lng" : 27.6660074
+               },
+               "southwest" : {
+                  "lat" : 57.9940867,
+                  "lng" : 27.6339926
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

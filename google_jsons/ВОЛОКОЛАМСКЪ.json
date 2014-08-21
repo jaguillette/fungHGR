@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Volokolamsk",
+               "short_name" : "Volokolamsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volokolamsky District",
+               "short_name" : "Volokolamsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Volokolamsk, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.081449,
+                  "lng" : 35.9907009
+               },
+               "southwest" : {
+                  "lat" : 55.9792423,
+                  "lng" : 35.9023678
+               }
+            },
+            "location" : {
+               "lat" : 56.0363252,
+               "lng" : 35.9573132
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.081449,
+                  "lng" : 35.9907009
+               },
+               "southwest" : {
+                  "lat" : 55.9792423,
+                  "lng" : 35.9023678
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

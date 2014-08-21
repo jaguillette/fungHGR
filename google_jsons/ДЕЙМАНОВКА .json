@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deimanivka",
+               "short_name" : "Deimanivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sribnyans'kyi district",
+               "short_name" : "Sribnyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Deimanivka, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.654443,
+                  "lng" : 32.8757738
+               },
+               "southwest" : {
+                  "lat" : 50.636136,
+                  "lng" : 32.85703
+               }
+            },
+            "location" : {
+               "lat" : 50.645278,
+               "lng" : 32.866389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.654443,
+                  "lng" : 32.8757738
+               },
+               "southwest" : {
+                  "lat" : 50.636136,
+                  "lng" : 32.85703
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deimanivka",
+               "short_name" : "Deimanivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pyryatyns'kyi district",
+               "short_name" : "Pyryatyns'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poltavs'ka oblast",
+               "short_name" : "Poltavs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Deimanivka, Poltavs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.226417,
+                  "lng" : 32.6473269
+               },
+               "southwest" : {
+                  "lat" : 50.201981,
+                  "lng" : 32.616634
+               }
+            },
+            "location" : {
+               "lat" : 50.216703,
+               "lng" : 32.633824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.226417,
+                  "lng" : 32.6473269
+               },
+               "southwest" : {
+                  "lat" : 50.201981,
+                  "lng" : 32.616634
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

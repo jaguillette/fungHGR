@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borzna",
+               "short_name" : "Borzna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borznyans'kyi district",
+               "short_name" : "Borznyans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Borzna, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.275671,
+                  "lng" : 32.4718431
+               },
+               "southwest" : {
+                  "lat" : 51.230228,
+                  "lng" : 32.3867471
+               }
+            },
+            "location" : {
+               "lat" : 51.252485,
+               "lng" : 32.4227839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.275671,
+                  "lng" : 32.4718431
+               },
+               "southwest" : {
+                  "lat" : 51.230228,
+                  "lng" : 32.3867471
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

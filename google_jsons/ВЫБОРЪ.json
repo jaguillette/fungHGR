@@ -1,0 +1,484 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vybor",
+               "short_name" : "Vybor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Odintsovsky District",
+               "short_name" : "Odintsovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vybor, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.715895,
+                  "lng" : 37.370268
+               },
+               "southwest" : {
+                  "lat" : 55.70920100000001,
+                  "lng" : 37.3519299
+               }
+            },
+            "location" : {
+               "lat" : 55.7132504,
+               "lng" : 37.3567976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.715895,
+                  "lng" : 37.370268
+               },
+               "southwest" : {
+                  "lat" : 55.70920100000001,
+                  "lng" : 37.3519299
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vybor",
+               "short_name" : "Vybor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novorzhevsky District",
+               "short_name" : "Novorzhevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pskovskaya oblast",
+               "short_name" : "Pskovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "182460",
+               "short_name" : "182460",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vybor, Pskov Oblast, Russia, 182460",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.227222,
+               "lng" : 29.161111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.22857098029149,
+                  "lng" : 29.16245998029149
+               },
+               "southwest" : {
+                  "lat" : 57.2258730197085,
+                  "lng" : 29.1597620197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vybor",
+               "short_name" : "Vybor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luzhsky District",
+               "short_name" : "Luzhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188272",
+               "short_name" : "188272",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vybor, Leningrad Oblast, Russia, 188272",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.6993331,
+                  "lng" : 30.1107231
+               },
+               "southwest" : {
+                  "lat" : 58.6938159,
+                  "lng" : 30.098487
+               }
+            },
+            "location" : {
+               "lat" : 58.69593870000001,
+               "lng" : 30.1030081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.6993331,
+                  "lng" : 30.1107231
+               },
+               "southwest" : {
+                  "lat" : 58.6938159,
+                  "lng" : 30.098487
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vybor",
+               "short_name" : "Vybor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vesyegonsky District",
+               "short_name" : "Vesyegonsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171721",
+               "short_name" : "171721",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vybor, Tver Oblast, Russia, 171721",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.6312063,
+                  "lng" : 37.3085931
+               },
+               "southwest" : {
+                  "lat" : 58.62542800000001,
+                  "lng" : 37.29974
+               }
+            },
+            "location" : {
+               "lat" : 58.6280367,
+               "lng" : 37.3043301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.6312063,
+                  "lng" : 37.3085931
+               },
+               "southwest" : {
+                  "lat" : 58.62542800000001,
+                  "lng" : 37.29974
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vybor",
+               "short_name" : "Vybor",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "оф. 106",
+               "short_name" : "оф. 106",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "7-ya Parkovaya ulitsa",
+               "short_name" : "7-ya Parkovaya ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eastern Administrative Okrug",
+               "short_name" : "Eastern Administrative Okrug",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Восточный АО",
+               "short_name" : "Восточный АО",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "105264",
+               "short_name" : "105264",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vybor, 7-ya Parkovaya ulitsa, 24, оф. 106, Moscow, Russia, 105264",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.799844,
+               "lng" : 37.794675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.8011929802915,
+                  "lng" : 37.79602398029149
+               },
+               "southwest" : {
+                  "lat" : 55.7984950197085,
+                  "lng" : 37.79332601970849
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "VYBOR detskiy sad-shkola",
+               "short_name" : "VYBOR detskiy sad-shkola",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Simferopolskiy bulvar",
+               "short_name" : "Simferopolskiy b-r",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Нагорный",
+               "short_name" : "Нагорный",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "117556",
+               "short_name" : "117556",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "VYBOR detskiy sad-shkola, Simferopolskiy bulvar, 9, Moscow, Russia, 117556",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.658184,
+               "lng" : 37.610041
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6595329802915,
+                  "lng" : 37.6113899802915
+               },
+               "southwest" : {
+                  "lat" : 55.6568350197085,
+                  "lng" : 37.6086920197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "school", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vybor, TSZh",
+               "short_name" : "Vybor, TSZh",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8 подъезд",
+               "short_name" : "8 подъезд",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ул. Елизарова",
+               "short_name" : "ул. Елизарова",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Тюмень",
+               "short_name" : "Тюмень",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Тюменская область",
+               "short_name" : "Тюменская область",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Россия",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "625048",
+               "short_name" : "625048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vybor, TSZh, ул. Елизарова, 8, 8 подъезд, Тюмень, Тюменская область, Россия, 625048",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.1550404,
+               "lng" : 65.58136089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.15638938029149,
+                  "lng" : 65.5827098802915
+               },
+               "southwest" : {
+                  "lat" : 57.1536914197085,
+                  "lng" : 65.58001191970848
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Выбор",
+               "short_name" : "Выбор",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "улица Собинова",
+               "short_name" : "улица Собинова",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Уфа",
+               "short_name" : "Уфа",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Республика Башкортостан",
+               "short_name" : "Республика Башкортостан",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "450001",
+               "short_name" : "450001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Выбор, улица Собинова, 22, Уфа, Республика Башкортостан, Russia, 450001",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.7478176,
+               "lng" : 55.9689427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.74916658029149,
+                  "lng" : 55.9702916802915
+               },
+               "southwest" : {
+                  "lat" : 54.7464686197085,
+                  "lng" : 55.9675937197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

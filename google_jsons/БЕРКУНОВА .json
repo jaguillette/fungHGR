@@ -1,0 +1,121 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berkunovo",
+               "short_name" : "Berkunovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shakhovskoy District",
+               "short_name" : "Shakhovskoy District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143715",
+               "short_name" : "143715",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berkunovo, Moskovskaya oblast, Russia, 143715",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.113158,
+                  "lng" : 35.70101510000001
+               },
+               "southwest" : {
+                  "lat" : 56.108766,
+                  "lng" : 35.6865321
+               }
+            },
+            "location" : {
+               "lat" : 56.1107659,
+               "lng" : 35.6959806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.113158,
+                  "lng" : 35.70101510000001
+               },
+               "southwest" : {
+                  "lat" : 56.108766,
+                  "lng" : 35.6865321
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berkunovo",
+               "short_name" : "Berkunovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorokhovetsky District",
+               "short_name" : "Gorokhovetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "601470",
+               "short_name" : "601470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berkunovo, Vladimir Oblast, Russia, 601470",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.110845,
+                  "lng" : 42.554474
+               },
+               "southwest" : {
+                  "lat" : 56.106796,
+                  "lng" : 42.5501348
+               }
+            },
+            "location" : {
+               "lat" : 56.1086707,
+               "lng" : 42.5523812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.110845,
+                  "lng" : 42.554474
+               },
+               "southwest" : {
+                  "lat" : 56.106796,
+                  "lng" : 42.5501348
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

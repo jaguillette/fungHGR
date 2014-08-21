@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izyum",
+               "short_name" : "Izyum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Izyums'ka city council",
+               "short_name" : "Izyums'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Izyum, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.245294,
+                  "lng" : 37.3368599
+               },
+               "southwest" : {
+                  "lat" : 49.146228,
+                  "lng" : 37.223791
+               }
+            },
+            "location" : {
+               "lat" : 49.21277800000001,
+               "lng" : 37.256944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.245294,
+                  "lng" : 37.3368599
+               },
+               "southwest" : {
+                  "lat" : 49.146228,
+                  "lng" : 37.223791
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

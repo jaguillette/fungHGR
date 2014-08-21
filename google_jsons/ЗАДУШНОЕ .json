@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zadushnoye",
+               "short_name" : "Zadushnoye",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novosilsky District",
+               "short_name" : "Novosilsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zadushnoye, Oryol Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.991871,
+                  "lng" : 37.0009129
+               },
+               "southwest" : {
+                  "lat" : 52.9680011,
+                  "lng" : 36.939262
+               }
+            },
+            "location" : {
+               "lat" : 52.9794007,
+               "lng" : 36.96923049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.991871,
+                  "lng" : 37.0009129
+               },
+               "southwest" : {
+                  "lat" : 52.9680011,
+                  "lng" : 36.939262
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

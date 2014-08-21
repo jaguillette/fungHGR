@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borovenka",
+               "short_name" : "Borovenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okulovsky District",
+               "short_name" : "Okulovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "174330",
+               "short_name" : "174330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Borovenka, Novgorod Oblast, Russia, 174330",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.4969969,
+                  "lng" : 33.0939241
+               },
+               "southwest" : {
+                  "lat" : 58.4795241,
+                  "lng" : 33.050566
+               }
+            },
+            "location" : {
+               "lat" : 58.49208409999999,
+               "lng" : 33.0731649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.4969969,
+                  "lng" : 33.0939241
+               },
+               "southwest" : {
+                  "lat" : 58.4795241,
+                  "lng" : 33.050566
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borovyonka",
+               "short_name" : "Borovyonka",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Borovenka",
+               "short_name" : "Borovenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okulovsky District",
+               "short_name" : "Okulovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "174330",
+               "short_name" : "174330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Borovyonka, Borovenka, Novgorod Oblast, Russia, 174330",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.483539,
+               "lng" : 33.077057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.4848879802915,
+                  "lng" : 33.07840598029149
+               },
+               "southwest" : {
+                  "lat" : 58.4821900197085,
+                  "lng" : 33.07570801970849
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borovenka",
+               "short_name" : "Borovenka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mosalsky District",
+               "short_name" : "Mosalsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249933",
+               "short_name" : "249933",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Borovenka, Kaluga Oblast, Russia, 249933",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.482257,
+                  "lng" : 35.15192390000001
+               },
+               "southwest" : {
+                  "lat" : 54.4792961,
+                  "lng" : 35.141701
+               }
+            },
+            "location" : {
+               "lat" : 54.4802915,
+               "lng" : 35.1470446
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.482257,
+                  "lng" : 35.15192390000001
+               },
+               "southwest" : {
+                  "lat" : 54.4792961,
+                  "lng" : 35.141701
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borovenka",
+               "short_name" : "Borovenka",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Soletsky District",
+               "short_name" : "Soletsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Borovenka, Novgorod Oblast, Russia",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.075881,
+               "lng" : 30.212122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.07722998029151,
+                  "lng" : 30.2134709802915
+               },
+               "southwest" : {
+                  "lat" : 58.07453201970849,
+                  "lng" : 30.2107730197085
+               }
+            }
+         },
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

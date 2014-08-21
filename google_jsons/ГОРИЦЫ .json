@@ -1,0 +1,1589 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kirillovsky District",
+               "short_name" : "Kirillovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vologodskaya",
+               "short_name" : "Vologodskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "161107",
+               "short_name" : "161107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Vologda Oblast, Russia, 161107",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.878325,
+                  "lng" : 38.273173
+               },
+               "southwest" : {
+                  "lat" : 59.8611439,
+                  "lng" : 38.247511
+               }
+            },
+            "location" : {
+               "lat" : 59.8711194,
+               "lng" : 38.2588892
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.878325,
+                  "lng" : 38.273173
+               },
+               "southwest" : {
+                  "lat" : 59.8611439,
+                  "lng" : 38.247511
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsa",
+               "short_name" : "Goritsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Popovo",
+               "short_name" : "Popovo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Targoviste",
+               "short_name" : "Targoviste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7854",
+               "short_name" : "7854",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7854 Goritsa, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2692115,
+                  "lng" : 26.1257761
+               },
+               "southwest" : {
+                  "lat" : 43.2599749,
+                  "lng" : 26.1054992
+               }
+            },
+            "location" : {
+               "lat" : 43.2653072,
+               "lng" : 26.1168903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2692115,
+                  "lng" : 26.1257761
+               },
+               "southwest" : {
+                  "lat" : 43.2599749,
+                  "lng" : 26.1054992
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Navashinsky District",
+               "short_name" : "Navashinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "607124",
+               "short_name" : "607124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Nizhny Novgorod Oblast, Russia, 607124",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6302759,
+                  "lng" : 42.45272509999999
+               },
+               "southwest" : {
+                  "lat" : 55.61892599999999,
+                  "lng" : 42.423772
+               }
+            },
+            "location" : {
+               "lat" : 55.624722,
+               "lng" : 42.43861099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6302759,
+                  "lng" : 42.45272509999999
+               },
+               "southwest" : {
+                  "lat" : 55.61892599999999,
+                  "lng" : 42.423772
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsa",
+               "short_name" : "Goritsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General Toshevo",
+               "short_name" : "General Toshevo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dobrich Province",
+               "short_name" : "Dobrich Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9558",
+               "short_name" : "9558",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9558 Goritsa, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6427835,
+                  "lng" : 28.1694625
+               },
+               "southwest" : {
+                  "lat" : 43.6363952,
+                  "lng" : 28.1611666
+               }
+            },
+            "location" : {
+               "lat" : 43.6391561,
+               "lng" : 28.1654946
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6427835,
+                  "lng" : 28.1694625
+               },
+               "southwest" : {
+                  "lat" : 43.6363952,
+                  "lng" : 28.1611666
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsa",
+               "short_name" : "Goritsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pomorie",
+               "short_name" : "Pomorie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burgas",
+               "short_name" : "Burgas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8225",
+               "short_name" : "8225",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "8225 Goritsa, Bulgaria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8000621,
+                  "lng" : 27.5394292
+               },
+               "southwest" : {
+                  "lat" : 42.7891657,
+                  "lng" : 27.5124055
+               }
+            },
+            "location" : {
+               "lat" : 42.7910152,
+               "lng" : 27.5295402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8000621,
+                  "lng" : 27.5394292
+               },
+               "southwest" : {
+                  "lat" : 42.7891657,
+                  "lng" : 27.5124055
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dobrovsky District",
+               "short_name" : "Dobrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Lipetsk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.78041,
+                  "lng" : 39.848948
+               },
+               "southwest" : {
+                  "lat" : 52.75537610000001,
+                  "lng" : 39.7881419
+               }
+            },
+            "location" : {
+               "lat" : 52.7725,
+               "lng" : 39.8125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.78041,
+                  "lng" : 39.848948
+               },
+               "southwest" : {
+                  "lat" : 52.75537610000001,
+                  "lng" : 39.7881419
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shuysky District",
+               "short_name" : "Shuysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "155922",
+               "short_name" : "155922",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Ivanovo Oblast, Russia, 155922",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.007386,
+                  "lng" : 41.4107509
+               },
+               "southwest" : {
+                  "lat" : 56.997379,
+                  "lng" : 41.395742
+               }
+            },
+            "location" : {
+               "lat" : 57.0023632,
+               "lng" : 41.4028597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.007386,
+                  "lng" : 41.4107509
+               },
+               "southwest" : {
+                  "lat" : 56.997379,
+                  "lng" : 41.395742
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horytsya",
+               "short_name" : "Horytsya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slavuts'kyi district",
+               "short_name" : "Slavuts'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Khmel'nyts'ka oblast",
+               "short_name" : "Khmel'nyts'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horytsya, Khmel'nyts'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.433764,
+                  "lng" : 27.1780219
+               },
+               "southwest" : {
+                  "lat" : 50.412353,
+                  "lng" : 27.140137
+               }
+            },
+            "location" : {
+               "lat" : 50.423056,
+               "lng" : 27.159167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.433764,
+                  "lng" : 27.1780219
+               },
+               "southwest" : {
+                  "lat" : 50.412353,
+                  "lng" : 27.140137
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suzdalsky District",
+               "short_name" : "Suzdalsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "601280",
+               "short_name" : "601280",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Vladimir Oblast, Russia, 601280",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2230601,
+                  "lng" : 40.3455821
+               },
+               "southwest" : {
+                  "lat" : 56.2111289,
+                  "lng" : 40.32710609999999
+               }
+            },
+            "location" : {
+               "lat" : 56.2178657,
+               "lng" : 40.3382069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2230601,
+                  "lng" : 40.3455821
+               },
+               "southwest" : {
+                  "lat" : 56.2111289,
+                  "lng" : 40.32710609999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kimrsky District",
+               "short_name" : "Kimrsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171540",
+               "short_name" : "171540",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Tver Oblast, Russia, 171540",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.1601029,
+                  "lng" : 36.7565228
+               },
+               "southwest" : {
+                  "lat" : 57.14125199999999,
+                  "lng" : 36.7209338
+               }
+            },
+            "location" : {
+               "lat" : 57.151667,
+               "lng" : 36.736111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.1601029,
+                  "lng" : 36.7565228
+               },
+               "southwest" : {
+                  "lat" : 57.14125199999999,
+                  "lng" : 36.7209338
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dmitrovsky District, Moscow Oblast",
+               "short_name" : "Dmitrovsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141896",
+               "short_name" : "141896",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Moskovskaya oblast, Russia, 141896",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.40516,
+                  "lng" : 37.2248031
+               },
+               "southwest" : {
+                  "lat" : 56.3995299,
+                  "lng" : 37.2164039
+               }
+            },
+            "location" : {
+               "lat" : 56.4017217,
+               "lng" : 37.2210752
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.40516,
+                  "lng" : 37.2248031
+               },
+               "southwest" : {
+                  "lat" : 56.3995299,
+                  "lng" : 37.2164039
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harycy",
+               "short_name" : "Harycy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drahichyn District",
+               "short_name" : "Drahichyn District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brest Region",
+               "short_name" : "Brest Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harycy, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2010315,
+                  "lng" : 24.8538209
+               },
+               "southwest" : {
+                  "lat" : 52.1948237,
+                  "lng" : 24.8368263
+               }
+            },
+            "location" : {
+               "lat" : 52.1983044,
+               "lng" : 24.8460791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2010315,
+                  "lng" : 24.8538209
+               },
+               "southwest" : {
+                  "lat" : 52.1948237,
+                  "lng" : 24.8368263
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selivanovsky District",
+               "short_name" : "Selivanovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vladimirskaya oblast",
+               "short_name" : "Vladimirskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "602345",
+               "short_name" : "602345",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Vladimir Oblast, Russia, 602345",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9869229,
+                  "lng" : 41.9016186
+               },
+               "southwest" : {
+                  "lat" : 55.9816919,
+                  "lng" : 41.8834889
+               }
+            },
+            "location" : {
+               "lat" : 55.98415199999999,
+               "lng" : 41.8921165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9869229,
+                  "lng" : 41.9016186
+               },
+               "southwest" : {
+                  "lat" : 55.9816919,
+                  "lng" : 41.8834889
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Horytsya",
+               "short_name" : "Horytsya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mens'kyi district",
+               "short_name" : "Mens'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horytsya, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5349941,
+                  "lng" : 31.680949
+               },
+               "southwest" : {
+                  "lat" : 51.519464,
+                  "lng" : 31.6543371
+               }
+            },
+            "location" : {
+               "lat" : 51.52722199999999,
+               "lng" : 31.667778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5349941,
+                  "lng" : 31.680949
+               },
+               "southwest" : {
+                  "lat" : 51.519464,
+                  "lng" : 31.6543371
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pogarsky District",
+               "short_name" : "Pogarsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "243571",
+               "short_name" : "243571",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Bryansk Oblast, Russia, 243571",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4031978,
+                  "lng" : 33.3303478
+               },
+               "southwest" : {
+                  "lat" : 52.3938778,
+                  "lng" : 33.3026884
+               }
+            },
+            "location" : {
+               "lat" : 52.4,
+               "lng" : 33.3175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4031978,
+                  "lng" : 33.3303478
+               },
+               "southwest" : {
+                  "lat" : 52.3938778,
+                  "lng" : 33.3026884
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vygonichsky District",
+               "short_name" : "Vygonichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Bryansk Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.167129,
+                  "lng" : 34.1064772
+               },
+               "southwest" : {
+                  "lat" : 53.159754,
+                  "lng" : 34.096549
+               }
+            },
+            "location" : {
+               "lat" : 53.16249999999999,
+               "lng" : 34.102222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.167129,
+                  "lng" : 34.1064772
+               },
+               "southwest" : {
+                  "lat" : 53.159754,
+                  "lng" : 34.096549
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuvshinovsky District",
+               "short_name" : "Kuvshinovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172121",
+               "short_name" : "172121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Tver Oblast, Russia, 172121",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.039419,
+                  "lng" : 34.4281199
+               },
+               "southwest" : {
+                  "lat" : 57.03418600000001,
+                  "lng" : 34.418042
+               }
+            },
+            "location" : {
+               "lat" : 57.0371444,
+               "lng" : 34.4224349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.039419,
+                  "lng" : 34.4281199
+               },
+               "southwest" : {
+                  "lat" : 57.03418600000001,
+                  "lng" : 34.418042
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Andreapolsky District",
+               "short_name" : "Andreapolsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172821",
+               "short_name" : "172821",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Tver Oblast, Russia, 172821",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.8648389,
+                  "lng" : 31.8791822
+               },
+               "southwest" : {
+                  "lat" : 56.859693,
+                  "lng" : 31.8622698
+               }
+            },
+            "location" : {
+               "lat" : 56.86206379999999,
+               "lng" : 31.8711961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8648389,
+                  "lng" : 31.8791822
+               },
+               "southwest" : {
+                  "lat" : 56.859693,
+                  "lng" : 31.8622698
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selizharovsky District",
+               "short_name" : "Selizharovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172230",
+               "short_name" : "172230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Tver Oblast, Russia, 172230",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.90578199999999,
+                  "lng" : 33.6704711
+               },
+               "southwest" : {
+                  "lat" : 56.900062,
+                  "lng" : 33.662145
+               }
+            },
+            "location" : {
+               "lat" : 56.9025562,
+               "lng" : 33.6656113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.90578199999999,
+                  "lng" : 33.6704711
+               },
+               "southwest" : {
+                  "lat" : 56.900062,
+                  "lng" : 33.662145
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pereslavsky District",
+               "short_name" : "Pereslavsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yaroslavskaya oblast",
+               "short_name" : "Yaroslavskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "152035",
+               "short_name" : "152035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Yaroslavl Oblast, Russia, 152035",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.118481,
+                  "lng" : 38.2549629
+               },
+               "southwest" : {
+                  "lat" : 57.11402099999999,
+                  "lng" : 38.251249
+               }
+            },
+            "location" : {
+               "lat" : 57.1163586,
+               "lng" : 38.2529449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.118481,
+                  "lng" : 38.2549629
+               },
+               "southwest" : {
+                  "lat" : 57.11402099999999,
+                  "lng" : 38.251249
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volotovsky District",
+               "short_name" : "Volotovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "175103",
+               "short_name" : "175103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Novgorod Oblast, Russia, 175103",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.0307481,
+                  "lng" : 30.8376109
+               },
+               "southwest" : {
+                  "lat" : 58.02107789999999,
+                  "lng" : 30.8181561
+               }
+            },
+            "location" : {
+               "lat" : 58.0257917,
+               "lng" : 30.8272658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.0307481,
+                  "lng" : 30.8376109
+               },
+               "southwest" : {
+                  "lat" : 58.02107789999999,
+                  "lng" : 30.8181561
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ulyanovsky District, Kaluga Oblast",
+               "short_name" : "Ulyanovsky District, Kaluga Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249766",
+               "short_name" : "249766",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Kaluga Oblast, Russia, 249766",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.58669,
+                  "lng" : 35.6208271
+               },
+               "southwest" : {
+                  "lat" : 53.5754409,
+                  "lng" : 35.6135721
+               }
+            },
+            "location" : {
+               "lat" : 53.5810018,
+               "lng" : 35.6170176
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.58669,
+                  "lng" : 35.6208271
+               },
+               "southwest" : {
+                  "lat" : 53.5754409,
+                  "lng" : 35.6135721
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torzhoksky District",
+               "short_name" : "Torzhoksky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172077",
+               "short_name" : "172077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Tver Oblast, Russia, 172077",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.72236299999999,
+                  "lng" : 34.708295
+               },
+               "southwest" : {
+                  "lat" : 56.71966,
+                  "lng" : 34.6917901
+               }
+            },
+            "location" : {
+               "lat" : 56.7208957,
+               "lng" : 34.7028182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.72236299999999,
+                  "lng" : 34.708295
+               },
+               "southwest" : {
+                  "lat" : 56.71966,
+                  "lng" : 34.6917901
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spassky District, Ryazan Oblast",
+               "short_name" : "Spassky District, Ryazan Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ryazan Oblast",
+               "short_name" : "Ryazan Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Ryazan Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5281811,
+                  "lng" : 40.5021889
+               },
+               "southwest" : {
+                  "lat" : 54.521774,
+                  "lng" : 40.4900371
+               }
+            },
+            "location" : {
+               "lat" : 54.52655069999999,
+               "lng" : 40.4994605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5281811,
+                  "lng" : 40.5021889
+               },
+               "southwest" : {
+                  "lat" : 54.521774,
+                  "lng" : 40.4900371
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kuvshinovsky District",
+               "short_name" : "Kuvshinovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172131",
+               "short_name" : "172131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Tver Oblast, Russia, 172131",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.8629798,
+                  "lng" : 33.9975146
+               },
+               "southwest" : {
+                  "lat" : 56.860636,
+                  "lng" : 33.9952121
+               }
+            },
+            "location" : {
+               "lat" : 56.86184609999999,
+               "lng" : 33.9966279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.8631568802915,
+                  "lng" : 33.9977123302915
+               },
+               "southwest" : {
+                  "lat" : 56.8604589197085,
+                  "lng" : 33.9950143697085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volosovsky District",
+               "short_name" : "Volosovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188416",
+               "short_name" : "188416",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Leningrad Oblast, Russia, 188416",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.38334589999999,
+                  "lng" : 29.2283899
+               },
+               "southwest" : {
+                  "lat" : 59.3792649,
+                  "lng" : 29.219431
+               }
+            },
+            "location" : {
+               "lat" : 59.3815603,
+               "lng" : 29.22406729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.38334589999999,
+                  "lng" : 29.2283899
+               },
+               "southwest" : {
+                  "lat" : 59.3792649,
+                  "lng" : 29.219431
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhiryatinsky District",
+               "short_name" : "Zhiryatinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "242029",
+               "short_name" : "242029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Bryansk Oblast, Russia, 242029",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.129722,
+               "lng" : 33.636111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1310709802915,
+                  "lng" : 33.6374599802915
+               },
+               "southwest" : {
+                  "lat" : 53.1283730197085,
+                  "lng" : 33.6347620197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goritsy",
+               "short_name" : "Goritsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klinsky District",
+               "short_name" : "Klinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "141656",
+               "short_name" : "141656",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goritsy, Moskovskaya oblast, Russia, 141656",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1553469,
+                  "lng" : 36.36948700000001
+               },
+               "southwest" : {
+                  "lat" : 56.1534029,
+                  "lng" : 36.361978
+               }
+            },
+            "location" : {
+               "lat" : 56.154361,
+               "lng" : 36.365639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1557238802915,
+                  "lng" : 36.36948700000001
+               },
+               "southwest" : {
+                  "lat" : 56.1530259197085,
+                  "lng" : 36.361978
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

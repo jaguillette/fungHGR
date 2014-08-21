@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alexandrovskoye, Stavropol Krai",
+               "short_name" : "Alexandrovskoye, Stavropol Krai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aleksandrovskiy rayon",
+               "short_name" : "Aleksandrovskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Stavropol Krai",
+               "short_name" : "Stavropol Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alexandrovskoye, Stavropol Krai, Stavropol Krai, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.767979,
+                  "lng" : 43.0517531
+               },
+               "southwest" : {
+                  "lat" : 44.68660999999999,
+                  "lng" : 42.868362
+               }
+            },
+            "location" : {
+               "lat" : 44.716667,
+               "lng" : 43
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.767979,
+                  "lng" : 43.0517531
+               },
+               "southwest" : {
+                  "lat" : 44.68660999999999,
+                  "lng" : 42.868362
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

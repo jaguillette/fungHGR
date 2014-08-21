@@ -1,0 +1,116 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bronnitsy",
+               "short_name" : "Bronnitsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Bronnitsy",
+               "short_name" : "g. Bronnitsy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bronnitsy, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.43152,
+                  "lng" : 38.3012278
+               },
+               "southwest" : {
+                  "lat" : 55.4074721,
+                  "lng" : 38.238282
+               }
+            },
+            "location" : {
+               "lat" : 55.4195186,
+               "lng" : 38.2628137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.43152,
+                  "lng" : 38.3012278
+               },
+               "southwest" : {
+                  "lat" : 55.4074721,
+                  "lng" : 38.238282
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "stantsii Bronnitsy",
+               "short_name" : "stantsii Bronnitsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramensky District",
+               "short_name" : "Ramensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "140152",
+               "short_name" : "140152",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "stantsii Bronnitsy, Moskovskaya oblast, Russia, 140152",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.50684,
+                  "lng" : 38.372036
+               },
+               "southwest" : {
+                  "lat" : 55.4974,
+                  "lng" : 38.3540658
+               }
+            },
+            "location" : {
+               "lat" : 55.500998,
+               "lng" : 38.3648097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.50684,
+                  "lng" : 38.372036
+               },
+               "southwest" : {
+                  "lat" : 55.4974,
+                  "lng" : 38.3540658
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

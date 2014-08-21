@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zolotonosha",
+               "short_name" : "Zolotonosha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zolotonis'ka city council",
+               "short_name" : "Zolotonis'ka city council",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cherkas'ka oblast",
+               "short_name" : "Cherkas'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zolotonosha, Cherkas'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.69112699999999,
+                  "lng" : 32.0867581
+               },
+               "southwest" : {
+                  "lat" : 49.6464749,
+                  "lng" : 32.008289
+               }
+            },
+            "location" : {
+               "lat" : 49.666667,
+               "lng" : 32.033333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.69112699999999,
+                  "lng" : 32.0867581
+               },
+               "southwest" : {
+                  "lat" : 49.6464749,
+                  "lng" : 32.008289
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bobrovytsya",
+               "short_name" : "Bobrovytsya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bobrovyts'kyi district",
+               "short_name" : "Bobrovyts'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bobrovytsya, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.77085599999999,
+                  "lng" : 31.43531299999999
+               },
+               "southwest" : {
+                  "lat" : 50.7291421,
+                  "lng" : 31.337221
+               }
+            },
+            "location" : {
+               "lat" : 50.745,
+               "lng" : 31.386944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.77085599999999,
+                  "lng" : 31.43531299999999
+               },
+               "southwest" : {
+                  "lat" : 50.7291421,
+                  "lng" : 31.337221
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

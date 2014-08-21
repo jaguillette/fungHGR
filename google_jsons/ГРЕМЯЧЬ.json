@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hrem'yach",
+               "short_name" : "Hrem'yach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novhorod-Sivers'kyi district",
+               "short_name" : "Novhorod-Sivers'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chernihivs'ka oblast",
+               "short_name" : "Chernihivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hrem'yach, Chernihivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3596935,
+                  "lng" : 33.3283567
+               },
+               "southwest" : {
+                  "lat" : 52.30963320000001,
+                  "lng" : 33.2500361
+               }
+            },
+            "location" : {
+               "lat" : 52.334444,
+               "lng" : 33.288611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3596935,
+                  "lng" : 33.3283567
+               },
+               "southwest" : {
+                  "lat" : 52.30963320000001,
+                  "lng" : 33.2500361
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

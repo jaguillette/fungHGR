@@ -1,0 +1,1463 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "South-Eastern Administrative District",
+               "short_name" : "South-Eastern Administrative District",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Moskva",
+               "short_name" : "g. Moskva",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moscow",
+               "short_name" : "Moscow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115088",
+               "short_name" : "115088",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Moscow, Russia, 115088",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.717828,
+               "lng" : 37.676631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7191769802915,
+                  "lng" : 37.6779799802915
+               },
+               "southwest" : {
+                  "lat" : 55.7164790197085,
+                  "lng" : 37.6752820197085
+               }
+            }
+         },
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maloyaroslavetsky District",
+               "short_name" : "Maloyaroslavetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249087",
+               "short_name" : "249087",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Kaluga Oblast, Russia, 249087",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.733845,
+                  "lng" : 36.3488058
+               },
+               "southwest" : {
+                  "lat" : 54.726242,
+                  "lng" : 36.334614
+               }
+            },
+            "location" : {
+               "lat" : 54.73074159999999,
+               "lng" : 36.3404988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.733845,
+                  "lng" : 36.3488058
+               },
+               "southwest" : {
+                  "lat" : 54.726242,
+                  "lng" : 36.334614
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubrovsky District",
+               "short_name" : "Dubrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "242750",
+               "short_name" : "242750",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Bryansk Oblast, Russia, 242750",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7066989,
+                  "lng" : 33.537297
+               },
+               "southwest" : {
+                  "lat" : 53.6773208,
+                  "lng" : 33.456613
+               }
+            },
+            "location" : {
+               "lat" : 53.691389,
+               "lng" : 33.511667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7066989,
+                  "lng" : 33.537297
+               },
+               "southwest" : {
+                  "lat" : 53.6773208,
+                  "lng" : 33.456613
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vsevolozhsky District",
+               "short_name" : "Vsevolozhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Leningradskaya oblast",
+               "short_name" : "Leningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "188684",
+               "short_name" : "188684",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Leningrad Oblast, Russia, 188684",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.8653719,
+                  "lng" : 30.9455428
+               },
+               "southwest" : {
+                  "lat" : 59.82781309999999,
+                  "lng" : 30.9191923
+               }
+            },
+            "location" : {
+               "lat" : 59.8465856,
+               "lng" : 30.9323256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8653719,
+                  "lng" : 30.9455428
+               },
+               "southwest" : {
+                  "lat" : 59.82781309999999,
+                  "lng" : 30.9191923
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Duminichsky District",
+               "short_name" : "Duminichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Kaluga Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.883725,
+                  "lng" : 35.086412
+               },
+               "southwest" : {
+                  "lat" : 53.870048,
+                  "lng" : 35.0576459
+               }
+            },
+            "location" : {
+               "lat" : 53.8758697,
+               "lng" : 35.0724759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.883725,
+                  "lng" : 35.086412
+               },
+               "southwest" : {
+                  "lat" : 53.870048,
+                  "lng" : 35.0576459
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhukovsky District, Kaluga Oblast",
+               "short_name" : "Zhukovsky District, Kaluga Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaluzhskaya oblast",
+               "short_name" : "Kaluzhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "249192",
+               "short_name" : "249192",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Kaluga Oblast, Russia, 249192",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.009563,
+                  "lng" : 36.6719479
+               },
+               "southwest" : {
+                  "lat" : 55.0043121,
+                  "lng" : 36.6630611
+               }
+            },
+            "location" : {
+               "lat" : 55.0072737,
+               "lng" : 36.6670069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.009563,
+                  "lng" : 36.6719479
+               },
+               "southwest" : {
+                  "lat" : 55.0043121,
+                  "lng" : 36.6630611
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubrovsky District",
+               "short_name" : "Dubrovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "242750",
+               "short_name" : "242750",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Dubrovka, Bryansk Oblast, Russia, 242750",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.6898,
+               "lng" : 33.5017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.69114898029149,
+                  "lng" : 33.5030489802915
+               },
+               "southwest" : {
+                  "lat" : 53.6884510197085,
+                  "lng" : 33.5003510197085
+               }
+            }
+         },
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dedovichsky District",
+               "short_name" : "Dedovichsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pskovskaya oblast",
+               "short_name" : "Pskovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "182714",
+               "short_name" : "182714",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Pskov Oblast, Russia, 182714",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.544722,
+               "lng" : 29.7625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.54607098029151,
+                  "lng" : 29.7638489802915
+               },
+               "southwest" : {
+                  "lat" : 57.5433730197085,
+                  "lng" : 29.7611510197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrivka",
+               "short_name" : "Dubrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baranivs'kyi district",
+               "short_name" : "Baranivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zhytomyrs'ka oblast",
+               "short_name" : "Zhytomyrs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrivka, Zhytomyrs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.363681,
+                  "lng" : 27.4421679
+               },
+               "southwest" : {
+                  "lat" : 50.329184,
+                  "lng" : 27.386614
+               }
+            },
+            "location" : {
+               "lat" : 50.34638899999999,
+               "lng" : 27.414444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.363681,
+                  "lng" : 27.4421679
+               },
+               "southwest" : {
+                  "lat" : 50.329184,
+                  "lng" : 27.386614
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leninsky District, Moscow Oblast",
+               "short_name" : "Leninsky District, Moscow Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "142770",
+               "short_name" : "142770",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Moskovskaya oblast, Russia, 142770",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.577322,
+                  "lng" : 37.454897
+               },
+               "southwest" : {
+                  "lat" : 55.5658881,
+                  "lng" : 37.43668
+               }
+            },
+            "location" : {
+               "lat" : 55.57135719999999,
+               "lng" : 37.4455916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.577322,
+                  "lng" : 37.454897
+               },
+               "southwest" : {
+                  "lat" : 55.5658881,
+                  "lng" : 37.43668
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ulitsa Dubrovka",
+               "short_name" : "ul. Dubrovka",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tuchkovo",
+               "short_name" : "Tuchkovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ruzsky District",
+               "short_name" : "Ruzsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143132",
+               "short_name" : "143132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ulitsa Dubrovka, Tuchkovo, Moskovskaya oblast, Russia, 143132",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.59766519999999,
+                  "lng" : 36.454031
+               },
+               "southwest" : {
+                  "lat" : 55.5929442,
+                  "lng" : 36.4307406
+               }
+            },
+            "location" : {
+               "lat" : 55.5929442,
+               "lng" : 36.4427749
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.59766519999999,
+                  "lng" : 36.454031
+               },
+               "southwest" : {
+                  "lat" : 55.5929442,
+                  "lng" : 36.4307406
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bologovsky District",
+               "short_name" : "Bologovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "171067",
+               "short_name" : "171067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Tver Oblast, Russia, 171067",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.00601400000001,
+                  "lng" : 33.9378
+               },
+               "southwest" : {
+                  "lat" : 57.99655,
+                  "lng" : 33.911145
+               }
+            },
+            "location" : {
+               "lat" : 57.9999036,
+               "lng" : 33.9232414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.00601400000001,
+                  "lng" : 33.9378
+               },
+               "southwest" : {
+                  "lat" : 57.99655,
+                  "lng" : 33.911145
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovki",
+               "short_name" : "Dubrovki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solnechnogorsky District",
+               "short_name" : "Solnechnogorsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Moskovskaya oblast",
+               "short_name" : "МО",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrovki, Moskovskaya oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.986405,
+                  "lng" : 37.3764289
+               },
+               "southwest" : {
+                  "lat" : 55.9806349,
+                  "lng" : 37.367379
+               }
+            },
+            "location" : {
+               "lat" : 55.9832163,
+               "lng" : 37.3722365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.986405,
+                  "lng" : 37.3764289
+               },
+               "southwest" : {
+                  "lat" : 55.9806349,
+                  "lng" : 37.367379
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrivka",
+               "short_name" : "Dubrivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Irshavs'kyi district",
+               "short_name" : "Irshavs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zakarpats'ka oblast",
+               "short_name" : "Zakarpats'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrivka, Zakarpats'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3145159,
+                  "lng" : 23.0916689
+               },
+               "southwest" : {
+                  "lat" : 48.2983771,
+                  "lng" : 23.0750429
+               }
+            },
+            "location" : {
+               "lat" : 48.306389,
+               "lng" : 23.083333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3145159,
+                  "lng" : 23.0916689
+               },
+               "southwest" : {
+                  "lat" : 48.2983771,
+                  "lng" : 23.0750429
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dobrush District",
+               "short_name" : "Dobrush District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Homiel Province",
+               "short_name" : "Homiel Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.17798459999999,
+                  "lng" : 31.5724753
+               },
+               "southwest" : {
+                  "lat" : 52.1672988,
+                  "lng" : 31.5387441
+               }
+            },
+            "location" : {
+               "lat" : 52.175556,
+               "lng" : 31.550278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.17798459999999,
+                  "lng" : 31.5724753
+               },
+               "southwest" : {
+                  "lat" : 52.1672988,
+                  "lng" : 31.5387441
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gordeyevsky District",
+               "short_name" : "Gordeyevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "243674",
+               "short_name" : "243674",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Bryansk Oblast, Russia, 243674",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.966447,
+                  "lng" : 32.109704
+               },
+               "southwest" : {
+                  "lat" : 52.96525,
+                  "lng" : 32.106879
+               }
+            },
+            "location" : {
+               "lat" : 52.9658837,
+               "lng" : 32.1084995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.9671974802915,
+                  "lng" : 32.109704
+               },
+               "southwest" : {
+                  "lat" : 52.9644995197085,
+                  "lng" : 32.106879
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aurgazinsky District",
+               "short_name" : "Aurgazinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bashkortostan",
+               "short_name" : "Bashkortostan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Bashkortostan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.129901,
+                  "lng" : 56.08138899999999
+               },
+               "southwest" : {
+                  "lat" : 54.125152,
+                  "lng" : 56.066855
+               }
+            },
+            "location" : {
+               "lat" : 54.1275,
+               "lng" : 56.074167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.129901,
+                  "lng" : 56.08138899999999
+               },
+               "southwest" : {
+                  "lat" : 54.125152,
+                  "lng" : 56.066855
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karaidelsky District",
+               "short_name" : "Karaidelsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bashkortostan",
+               "short_name" : "Bashkortostan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Bashkortostan, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.652063,
+                  "lng" : 56.62309399999999
+               },
+               "southwest" : {
+                  "lat" : 55.64074,
+                  "lng" : 56.60709499999999
+               }
+            },
+            "location" : {
+               "lat" : 55.647361,
+               "lng" : 56.61644399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.652063,
+                  "lng" : 56.62309399999999
+               },
+               "southwest" : {
+                  "lat" : 55.64074,
+                  "lng" : 56.60709499999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anninsky District",
+               "short_name" : "Anninsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Voronezh Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.405289,
+                  "lng" : 40.820348
+               },
+               "southwest" : {
+                  "lat" : 51.387895,
+                  "lng" : 40.7716861
+               }
+            },
+            "location" : {
+               "lat" : 51.392703,
+               "lng" : 40.797933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.405289,
+                  "lng" : 40.820348
+               },
+               "southwest" : {
+                  "lat" : 51.387895,
+                  "lng" : 40.7716861
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dolzhansky District",
+               "short_name" : "Dolzhansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303776",
+               "short_name" : "303776",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Oryol Oblast, Russia, 303776",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1004689,
+                  "lng" : 37.329716
+               },
+               "southwest" : {
+                  "lat" : 52.090644,
+                  "lng" : 37.3020509
+               }
+            },
+            "location" : {
+               "lat" : 52.0956595,
+               "lng" : 37.3166856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1004689,
+                  "lng" : 37.329716
+               },
+               "southwest" : {
+                  "lat" : 52.090644,
+                  "lng" : 37.3020509
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novgorodsky District",
+               "short_name" : "Novgorodsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "173508",
+               "short_name" : "173508",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Novgorod Oblast, Russia, 173508",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.62325999999999,
+                  "lng" : 31.9552711
+               },
+               "southwest" : {
+                  "lat" : 58.61597,
+                  "lng" : 31.9371211
+               }
+            },
+            "location" : {
+               "lat" : 58.619114,
+               "lng" : 31.948681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.62325999999999,
+                  "lng" : 31.9552711
+               },
+               "southwest" : {
+                  "lat" : 58.61597,
+                  "lng" : 31.9371211
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagrationovsky District",
+               "short_name" : "Bagrationovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningradskaya oblast",
+               "short_name" : "Kaliningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238430",
+               "short_name" : "238430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Kaliningrad Oblast, Russia, 238430",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.418367,
+                  "lng" : 20.556495
+               },
+               "southwest" : {
+                  "lat" : 54.4117551,
+                  "lng" : 20.5453379
+               }
+            },
+            "location" : {
+               "lat" : 54.41485549999999,
+               "lng" : 20.5500256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.418367,
+                  "lng" : 20.556495
+               },
+               "southwest" : {
+                  "lat" : 54.4117551,
+                  "lng" : 20.5453379
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zelenogradsky District",
+               "short_name" : "Zelenogradsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kaliningradskaya oblast",
+               "short_name" : "Kaliningradskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "238552",
+               "short_name" : "238552",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Kaliningrad Oblast, Russia, 238552",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.88832499999999,
+                  "lng" : 20.2163381
+               },
+               "southwest" : {
+                  "lat" : 54.8851161,
+                  "lng" : 20.1988209
+               }
+            },
+            "location" : {
+               "lat" : 54.88722199999999,
+               "lng" : 20.207222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.88832499999999,
+                  "lng" : 20.2163381
+               },
+               "southwest" : {
+                  "lat" : 54.8851161,
+                  "lng" : 20.1988209
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novgorodsky District",
+               "short_name" : "Novgorodsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "173502",
+               "short_name" : "173502",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Novgorod Oblast, Russia, 173502",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.713638,
+                  "lng" : 31.5089512
+               },
+               "southwest" : {
+                  "lat" : 58.69659590000001,
+                  "lng" : 31.5000929
+               }
+            },
+            "location" : {
+               "lat" : 58.703494,
+               "lng" : 31.507081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.713638,
+                  "lng" : 31.5089512
+               },
+               "southwest" : {
+                  "lat" : 58.69659590000001,
+                  "lng" : 31.5000929
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Surazhsky District",
+               "short_name" : "Surazhsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bryanskaya oblast",
+               "short_name" : "Bryanskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "243535",
+               "short_name" : "243535",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Bryansk Oblast, Russia, 243535",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0971409,
+                  "lng" : 32.4669328
+               },
+               "southwest" : {
+                  "lat" : 53.081683,
+                  "lng" : 32.4414488
+               }
+            },
+            "location" : {
+               "lat" : 53.0894272,
+               "lng" : 32.4562635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.0971409,
+                  "lng" : 32.4669328
+               },
+               "southwest" : {
+                  "lat" : 53.081683,
+                  "lng" : 32.4414488
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubrovka",
+               "short_name" : "Dubrovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Livensky District",
+               "short_name" : "Livensky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oryol Oblast",
+               "short_name" : "Oryol Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "303842",
+               "short_name" : "303842",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dubrovka, Oryol Oblast, Russia, 303842",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.27074709999999,
+                  "lng" : 37.5652739
+               },
+               "southwest" : {
+                  "lat" : 52.26061190000001,
+                  "lng" : 37.5484301
+               }
+            },
+            "location" : {
+               "lat" : 52.2663158,
+               "lng" : 37.5570207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.27074709999999,
+                  "lng" : 37.5652739
+               },
+               "southwest" : {
+                  "lat" : 52.26061190000001,
+                  "lng" : 37.5484301
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

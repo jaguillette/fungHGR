@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bor",
+               "short_name" : "Bor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borskiy rayon",
+               "short_name" : "Borskiy r-n",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bor, Nizhny Novgorod Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.38797899999999,
+                  "lng" : 44.144563
+               },
+               "southwest" : {
+                  "lat" : 56.32361299999999,
+                  "lng" : 44.0113409
+               }
+            },
+            "location" : {
+               "lat" : 56.34999999999999,
+               "lng" : 44.083333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.38797899999999,
+                  "lng" : 44.144563
+               },
+               "southwest" : {
+                  "lat" : 56.32361299999999,
+                  "lng" : 44.0113409
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

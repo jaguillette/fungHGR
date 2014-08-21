@@ -1,0 +1,348 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zarubino, Primorsky Krai",
+               "short_name" : "Zarubino, Primorsky Krai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khasansky District",
+               "short_name" : "Khasansky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Primorsky Krai",
+               "short_name" : "Primorsky Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "692725",
+               "short_name" : "692725",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zarubino, Primorsky Krai, Primorsky Krai, Russia, 692725",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.66464,
+                  "lng" : 131.0960259
+               },
+               "southwest" : {
+                  "lat" : 42.626348,
+                  "lng" : 131.052375
+               }
+            },
+            "location" : {
+               "lat" : 42.647737,
+               "lng" : 131.0770297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.66464,
+                  "lng" : 131.0960259
+               },
+               "southwest" : {
+                  "lat" : 42.626348,
+                  "lng" : 131.052375
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zarubino",
+               "short_name" : "Zarubino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lyubytinsky District",
+               "short_name" : "Lyubytinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Novgorod Oblast",
+               "short_name" : "Novgorod Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "174750",
+               "short_name" : "174750",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zarubino, Novgorod Oblast, Russia, 174750",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.745611,
+                  "lng" : 33.4917689
+               },
+               "southwest" : {
+                  "lat" : 58.726634,
+                  "lng" : 33.46202090000001
+               }
+            },
+            "location" : {
+               "lat" : 58.736944,
+               "lng" : 33.474722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.745611,
+                  "lng" : 33.4917689
+               },
+               "southwest" : {
+                  "lat" : 58.726634,
+                  "lng" : 33.46202090000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zarubino",
+               "short_name" : "Zarubino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gorodetsky District",
+               "short_name" : "Gorodetsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nizhegorodskaya oblast",
+               "short_name" : "Nizhegorodskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606516",
+               "short_name" : "606516",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zarubino, Nizhny Novgorod Oblast, Russia, 606516",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.47809299999999,
+                  "lng" : 43.882639
+               },
+               "southwest" : {
+                  "lat" : 56.469682,
+                  "lng" : 43.8681111
+               }
+            },
+            "location" : {
+               "lat" : 56.4739148,
+               "lng" : 43.8770189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.47809299999999,
+                  "lng" : 43.882639
+               },
+               "southwest" : {
+                  "lat" : 56.469682,
+                  "lng" : 43.8681111
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zarubino",
+               "short_name" : "Zarubino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vichugsky District",
+               "short_name" : "Vichugsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ivanovskaya",
+               "short_name" : "Ivanovskaya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "155304",
+               "short_name" : "155304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zarubino, Ivanovo Oblast, Russia, 155304",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.169343,
+                  "lng" : 42.087626
+               },
+               "southwest" : {
+                  "lat" : 57.1600841,
+                  "lng" : 42.0706021
+               }
+            },
+            "location" : {
+               "lat" : 57.1621676,
+               "lng" : 42.0790091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.169343,
+                  "lng" : 42.087626
+               },
+               "southwest" : {
+                  "lat" : 57.1600841,
+                  "lng" : 42.0706021
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zarubino",
+               "short_name" : "Zarubino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rzhevsky District",
+               "short_name" : "Rzhevsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tverskaya oblast",
+               "short_name" : "Tverskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "172366",
+               "short_name" : "172366",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zarubino, Tver Oblast, Russia, 172366",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.2539269,
+                  "lng" : 34.2109038
+               },
+               "southwest" : {
+                  "lat" : 56.248563,
+                  "lng" : 34.19846709999999
+               }
+            },
+            "location" : {
+               "lat" : 56.2509524,
+               "lng" : 34.204649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.2539269,
+                  "lng" : 34.2109038
+               },
+               "southwest" : {
+                  "lat" : 56.248563,
+                  "lng" : 34.19846709999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zarubina",
+               "short_name" : "Zarubina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hlybokae District",
+               "short_name" : "Hlybokae District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vitebsk Province",
+               "short_name" : "Vitebsk Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belarus",
+               "short_name" : "BY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zarubina, Belarus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.1247723,
+                  "lng" : 27.6240492
+               },
+               "southwest" : {
+                  "lat" : 55.1169436,
+                  "lng" : 27.5887298
+               }
+            },
+            "location" : {
+               "lat" : 55.1211487,
+               "lng" : 27.602647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.1247723,
+                  "lng" : 27.6240492
+               },
+               "southwest" : {
+                  "lat" : 55.1169436,
+                  "lng" : 27.5887298
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

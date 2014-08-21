@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gatnitsy",
+               "short_name" : "Gatnitsy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zaoksky District",
+               "short_name" : "Zaoksky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301015",
+               "short_name" : "301015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gatnitsy, Tula Oblast, Russia, 301015",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.603972,
+                  "lng" : 37.400043
+               },
+               "southwest" : {
+                  "lat" : 54.598456,
+                  "lng" : 37.39072300000001
+               }
+            },
+            "location" : {
+               "lat" : 54.6010114,
+               "lng" : 37.3962995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.603972,
+                  "lng" : 37.400043
+               },
+               "southwest" : {
+                  "lat" : 54.598456,
+                  "lng" : 37.39072300000001
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

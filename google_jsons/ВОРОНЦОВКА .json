@@ -1,0 +1,1168 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yekaterinovsky District",
+               "short_name" : "Yekaterinovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saratovskaya oblast",
+               "short_name" : "Saratovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "412122",
+               "short_name" : "412122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Saratov Oblast, Russia, 412122",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3041809,
+                  "lng" : 44.3869863
+               },
+               "southwest" : {
+                  "lat" : 52.2798205,
+                  "lng" : 44.3459921
+               }
+            },
+            "location" : {
+               "lat" : 52.294722,
+               "lng" : 44.371389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3041809,
+                  "lng" : 44.3869863
+               },
+               "southwest" : {
+                  "lat" : 52.2798205,
+                  "lng" : 44.3459921
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yeysky District",
+               "short_name" : "Yeysky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "353664",
+               "short_name" : "353664",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Krasnodar Krai, Russia, 353664",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.669799,
+                  "lng" : 38.099108
+               },
+               "southwest" : {
+                  "lat" : 46.634716,
+                  "lng" : 38.0647651
+               }
+            },
+            "location" : {
+               "lat" : 46.6522807,
+               "lng" : 38.0818377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.669799,
+                  "lng" : 38.099108
+               },
+               "southwest" : {
+                  "lat" : 46.634716,
+                  "lng" : 38.0647651
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kagalnitsky District",
+               "short_name" : "Kagalnitsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "347715",
+               "short_name" : "347715",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Rostov Oblast, Russia, 347715",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9551399,
+                  "lng" : 39.7821322
+               },
+               "southwest" : {
+                  "lat" : 46.94596900000001,
+                  "lng" : 39.7661059
+               }
+            },
+            "location" : {
+               "lat" : 46.947878,
+               "lng" : 39.77552499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9551399,
+                  "lng" : 39.7821322
+               },
+               "southwest" : {
+                  "lat" : 46.94596900000001,
+                  "lng" : 39.7661059
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pavlovsky District, Voronezh Oblast",
+               "short_name" : "Pavlovsky District, Voronezh Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Voronezhskaya oblast",
+               "short_name" : "Voronezhskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "396442",
+               "short_name" : "396442",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Voronezh Oblast, Russia, 396442",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.596958,
+               "lng" : 40.323363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5983069802915,
+                  "lng" : 40.3247119802915
+               },
+               "southwest" : {
+                  "lat" : 50.5956090197085,
+                  "lng" : 40.3220140197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyoplo-Ogaryovsky District",
+               "short_name" : "Tyoplo-Ogaryovsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301900",
+               "short_name" : "301900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Tula Oblast, Russia, 301900",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6174054,
+                  "lng" : 37.6727744
+               },
+               "southwest" : {
+                  "lat" : 53.6101969,
+                  "lng" : 37.6528228
+               }
+            },
+            "location" : {
+               "lat" : 53.61412800000001,
+               "lng" : 37.6650789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6174054,
+                  "lng" : 37.6727744
+               },
+               "southwest" : {
+                  "lat" : 53.6101969,
+                  "lng" : 37.6528228
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sovetsky District, Kursk Oblast",
+               "short_name" : "Sovetsky District, Kursk Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kursk Oblast",
+               "short_name" : "Kursk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "306647",
+               "short_name" : "306647",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Kursk Oblast, Russia, 306647",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.913072,
+                  "lng" : 37.565845
+               },
+               "southwest" : {
+                  "lat" : 51.903391,
+                  "lng" : 37.5325991
+               }
+            },
+            "location" : {
+               "lat" : 51.90873389999999,
+               "lng" : 37.5542696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.913072,
+                  "lng" : 37.565845
+               },
+               "southwest" : {
+                  "lat" : 51.903391,
+                  "lng" : 37.5325991
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Umyotsky District",
+               "short_name" : "Umyotsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tambovskaya oblast",
+               "short_name" : "Tambovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "393147",
+               "short_name" : "393147",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Tambov Oblast, Russia, 393147",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6275496,
+                  "lng" : 43.1119819
+               },
+               "southwest" : {
+                  "lat" : 52.6169196,
+                  "lng" : 43.0962723
+               }
+            },
+            "location" : {
+               "lat" : 52.6215971,
+               "lng" : 43.1032545
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6275496,
+                  "lng" : 43.1119819
+               },
+               "southwest" : {
+                  "lat" : 52.6169196,
+                  "lng" : 43.0962723
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod-kurort Sochi",
+               "short_name" : "gorod-kurort Sochi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnodar Krai",
+               "short_name" : "Krasnodar Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "354391",
+               "short_name" : "354391",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Krasnodar Krai, Russia, 354391",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.62490400000001,
+                  "lng" : 39.9239891
+               },
+               "southwest" : {
+                  "lat" : 43.6133081,
+                  "lng" : 39.9114329
+               }
+            },
+            "location" : {
+               "lat" : 43.618938,
+               "lng" : 39.9174297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62490400000001,
+                  "lng" : 39.9239891
+               },
+               "southwest" : {
+                  "lat" : 43.6133081,
+                  "lng" : 39.9114329
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsivka",
+               "short_name" : "Vorontsivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnoperekops'kyi district",
+               "short_name" : "Krasnoperekops'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Crimea",
+               "short_name" : "Crimea",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Vorontsivka",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8476071,
+                  "lng" : 33.802303
+               },
+               "southwest" : {
+                  "lat" : 45.84282,
+                  "lng" : 33.7829291
+               }
+            },
+            "location" : {
+               "lat" : 45.8451791,
+               "lng" : 33.7992596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8476071,
+                  "lng" : 33.802303
+               },
+               "southwest" : {
+                  "lat" : 45.84282,
+                  "lng" : 33.7829291
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsivka",
+               "short_name" : "Vorontsivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novhorodkivs'kyi district",
+               "short_name" : "Novhorodkivs'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kirovohrads'ka oblast",
+               "short_name" : "Kirovohrads'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vorontsivka, Kirovohrads'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.391514,
+                  "lng" : 32.7045399
+               },
+               "southwest" : {
+                  "lat" : 48.381899,
+                  "lng" : 32.696893
+               }
+            },
+            "location" : {
+               "lat" : 48.386667,
+               "lng" : 32.698611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.391514,
+                  "lng" : 32.7045399
+               },
+               "southwest" : {
+                  "lat" : 48.381899,
+                  "lng" : 32.696893
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsivka",
+               "short_name" : "Vorontsivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novoodes'kyi district",
+               "short_name" : "Novoodes'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mykolaivs'ka oblast",
+               "short_name" : "Mykolaivs'ka oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vorontsivka, Mykolaivs'ka oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.28541300000001,
+                  "lng" : 32.0834609
+               },
+               "southwest" : {
+                  "lat" : 47.277168,
+                  "lng" : 32.066074
+               }
+            },
+            "location" : {
+               "lat" : 47.280827,
+               "lng" : 32.079674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.28541300000001,
+                  "lng" : 32.0834609
+               },
+               "southwest" : {
+                  "lat" : 47.277168,
+                  "lng" : 32.066074
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volovsky District, Lipetsk Oblast",
+               "short_name" : "Volovsky District, Lipetsk Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lipetskaya oblast",
+               "short_name" : "Lipetskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "399586",
+               "short_name" : "399586",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Lipetsk Oblast, Russia, 399586",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0789704,
+                  "lng" : 37.7812402
+               },
+               "southwest" : {
+                  "lat" : 52.0720964,
+                  "lng" : 37.7650167
+               }
+            },
+            "location" : {
+               "lat" : 52.0748101,
+               "lng" : 37.7729279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0789704,
+                  "lng" : 37.7812402
+               },
+               "southwest" : {
+                  "lat" : 52.0720964,
+                  "lng" : 37.7650167
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kashyr District",
+               "short_name" : "Kashyr District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pavlodar Province",
+               "short_name" : "Pavlodar Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "140000",
+               "short_name" : "140000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka 140000, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3649711,
+                  "lng" : 76.2620258
+               },
+               "southwest" : {
+                  "lat" : 53.35334349999999,
+                  "lng" : 76.23571869999999
+               }
+            },
+            "location" : {
+               "lat" : 53.3582594,
+               "lng" : 76.2473559
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3649711,
+                  "lng" : 76.2620258
+               },
+               "southwest" : {
+                  "lat" : 53.35334349999999,
+                  "lng" : 76.23571869999999
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanashsky District",
+               "short_name" : "Kanashsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chuvash Republic",
+               "short_name" : "Chuvash Republic",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "429324",
+               "short_name" : "429324",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Chuvash Republic, Russia, 429324",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3991901,
+                  "lng" : 47.5165869
+               },
+               "southwest" : {
+                  "lat" : 55.392733,
+                  "lng" : 47.5113278
+               }
+            },
+            "location" : {
+               "lat" : 55.3956951,
+               "lng" : 47.5134655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3991901,
+                  "lng" : 47.5165869
+               },
+               "southwest" : {
+                  "lat" : 55.392733,
+                  "lng" : 47.5113278
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsivka",
+               "short_name" : "Vorontsivka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kup'yans'kyi district",
+               "short_name" : "Kup'yans'kyi district",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kharkiv Oblast",
+               "short_name" : "Kharkiv Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ukraine",
+               "short_name" : "UA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vorontsivka, Kharkiv Oblast, Ukraine",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.532262,
+                  "lng" : 37.5322569
+               },
+               "southwest" : {
+                  "lat" : 49.525205,
+                  "lng" : 37.511587
+               }
+            },
+            "location" : {
+               "lat" : 49.5275,
+               "lng" : 37.526111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.532262,
+                  "lng" : 37.5322569
+               },
+               "southwest" : {
+                  "lat" : 49.525205,
+                  "lng" : 37.511587
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Znamensky District, Tambov Oblast",
+               "short_name" : "Znamensky District, Tambov Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tambovskaya oblast",
+               "short_name" : "Tambovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Tambov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.47055169999999,
+                  "lng" : 41.4258234
+               },
+               "southwest" : {
+                  "lat" : 52.4391024,
+                  "lng" : 41.4056702
+               }
+            },
+            "location" : {
+               "lat" : 52.4558218,
+               "lng" : 41.4138706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.47055169999999,
+                  "lng" : 41.4258234
+               },
+               "southwest" : {
+                  "lat" : 52.4391024,
+                  "lng" : 41.4056702
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Воронцовка",
+               "short_name" : "Воронцовка",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kerbulak District",
+               "short_name" : "Kerbulak District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Almaty Province",
+               "short_name" : "Almaty Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Kazakhstan",
+               "short_name" : "KZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Воронцовка, Kazakhstan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4177431,
+                  "lng" : 78.49550139999999
+               },
+               "southwest" : {
+                  "lat" : 44.4168925,
+                  "lng" : 78.4939028
+               }
+            },
+            "location" : {
+               "lat" : 44.4172901,
+               "lng" : 78.4946398
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4186667802915,
+                  "lng" : 78.49605108029149
+               },
+               "southwest" : {
+                  "lat" : 44.4159688197085,
+                  "lng" : 78.49335311970849
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Krasnoturyinsk",
+               "short_name" : "g. Krasnoturyinsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sverdlovsk Oblast",
+               "short_name" : "Sverdlovsk Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "624467",
+               "short_name" : "624467",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Sverdlovsk Oblast, Russia, 624467",
+         "geometry" : {
+            "location" : {
+               "lat" : 59.65861100000001,
+               "lng" : 60.236389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.65995998029151,
+                  "lng" : 60.23773798029151
+               },
+               "southwest" : {
+                  "lat" : 59.6572620197085,
+                  "lng" : 60.2350400197085
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rzhaksinsky District",
+               "short_name" : "Rzhaksinsky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tambovskaya oblast",
+               "short_name" : "Tambovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "393500",
+               "short_name" : "393500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Tambov Oblast, Russia, 393500",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2571551,
+                  "lng" : 41.9827936
+               },
+               "southwest" : {
+                  "lat" : 52.2501831,
+                  "lng" : 41.9781068
+               }
+            },
+            "location" : {
+               "lat" : 52.2534007,
+               "lng" : 41.9803132
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2571551,
+                  "lng" : 41.9827936
+               },
+               "southwest" : {
+                  "lat" : 52.2501831,
+                  "lng" : 41.9781068
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Novoburassky District",
+               "short_name" : "Novoburassky District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saratovskaya oblast",
+               "short_name" : "Saratovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "412584",
+               "short_name" : "412584",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Saratov Oblast, Russia, 412584",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.970234,
+                  "lng" : 46.163276
+               },
+               "southwest" : {
+                  "lat" : 51.9596329,
+                  "lng" : 46.1549451
+               }
+            },
+            "location" : {
+               "lat" : 51.9657432,
+               "lng" : 46.15815449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.970234,
+                  "lng" : 46.163276
+               },
+               "southwest" : {
+                  "lat" : 51.9596329,
+                  "lng" : 46.1549451
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vorontsovka",
+               "short_name" : "Vorontsovka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamensky District, Tula Oblast",
+               "short_name" : "Kamensky District, Tula Oblast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tul'skaya oblast",
+               "short_name" : "Tul'skaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "301994",
+               "short_name" : "301994",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vorontsovka, Tula Oblast, Russia, 301994",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3123099,
+                  "lng" : 37.6329821
+               },
+               "southwest" : {
+                  "lat" : 53.306252,
+                  "lng" : 37.6232811
+               }
+            },
+            "location" : {
+               "lat" : 53.30986100000001,
+               "lng" : 37.6274448
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3123099,
+                  "lng" : 37.6329821
+               },
+               "southwest" : {
+                  "lat" : 53.306252,
+                  "lng" : 37.6232811
+               }
+            }
+         },
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
