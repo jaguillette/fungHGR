@@ -1,0 +1,136 @@
+,uniq_id,ru_old_orth,alt_name,partof_id,x_coord,y_coord,ru_featuretype,SOURCE,description,ru_new_orth,lc_trans,pres_loc,country,country_code
+0,1,Московская,,,37.617778,55.751667000000005,Губернія,,,Московская,Moskovskaia,"Moscow, Moscow",Russia,RU
+1,2,Архангельское,,,40.533333,64.533333,Намѣстничество,,,Архангельское,Arkhangel'skoe,"Arkhangelsk, Arkhangelsk Oblast",Russia,RU
+2,3,Владимерское,,,40.416667,56.13333299999999,Намѣстничество,,,Владимерское,Vladimerskoe,"Vladimir, Vladimir Oblast",Russia,RU
+3,4,Вологодское,,,39.883333,59.2,Намѣстничество,,,Вологодское,Vologodskoe,"Vologda, Vologda Oblast",Russia,RU
+4,5,Воронежское,,,39.210556,51.671667,Намѣстничество,,,Воронежское,Voronezhskoe,"Voronezh, Voronezh Oblast",Russia,RU
+5,6,Выборгское,,,28.744166999999997,60.709167,Намѣстничество,,,Выборгское,Vyborgskoe,"Vyborg, Leningrad Oblast",Russia,RU
+6,7,Вятское,,,49.65,58.6,Намѣстничество,,,Вятское,Viatskoe,"Kirov, Kirov Oblast",Russia,RU
+7,8,Екатеринославское,,,35.018155,48.466601000000004,Намѣстничество,,,Екатеринославское,Ekaterinoslavskoe,"Dnepropetrovsk, Dnipropetrovsk Oblast",Ukraine,UA
+8,9,Иркутское,,,104.3,52.283333,Намѣстничество,,,Иркутское,Irkutskoe,"Irkutsk, Irkutsk Oblast",Russia,RU
+9,10,Кавказское,,,48.036667,46.323611,Намѣстничество,,,Кавказское,Kavkazskoe,"Astrakhan, Astrakhan Oblast",Russia,RU
+10,11,Казанское,,,49.114444,55.790833,Намѣстничество,,,Казанское,Kazanskoe,"Kazan, Tatarstan",Russia,RU
+11,12,Калужское,,,36.266667,54.533333,Намѣстничество,,,Калужское,Kaluzhskoe,"Kaluga, Kaluga Oblast",Russia,RU
+12,13,Кіевское,,,30.523333,50.45,Намѣстничество,,,Киевское,Kіevskoe,"Kiev, Kyiv city",Ukraine,UA
+13,14,Костромское,,,40.933333000000005,57.766667000000005,Намѣстничество,,,Костромское,Kostromskoe,"Kostroma, Kostroma Oblast",Russia,RU
+14,15,Курское,,,36.183333000000005,51.716667,Намѣстничество,,,Курское,Kurskoe,"Kursk, Kursk Oblast",Russia,RU
+15,16,Могилевское,,,30.35,53.916667000000004,Намѣстничество,,,Могилевское,Mogilevskoe,"Mahilyow, Mogilev Province",Belarus,BY
+16,17,Нижегородское,,,44.00205,56.328669999999995,Намѣстничество,,,Нижегородское,Nizhegorodskoe,"Nizhny Novgorod, Nizhny Novgorod Oblast",Russia,RU
+17,18,Новогородское,,,31.283333000000002,58.55,Намѣстничество,,,Новогородское,Novogorodskoe,"Veliky Novgorod, Novgorod Oblast",Russia,RU
+18,19,Новогород - Сѣверское,,,33.266667,51.983333,Намѣстничество,,,Новогород - Северское,Novogorod - Severskoe,"Novhorod-Sivers'kyi, Chernihivs'ka oblast",Ukraine,UA
+19,20,Олонецкое,,,34.35,61.783333,Намѣстничество,,,Олонецкое,Olonetskoe,"Petrozavodsk, Republic of Karelia",Russia,RU
+20,21,Орловское,,,36.066666999999995,52.966667,Намѣстничество,,,Орловское,Orlovskoe,"Oryol, Oryol Oblast",Russia,RU
+21,22,Пензенское,,,45.0,53.2,Намѣстничество,,,Пензенское,Penzenskoe,"Penza, Penza Oblast",Russia,RU
+22,23,Пермское,,,56.248889,58.013889,Намѣстничество,,,Пермское,Permskoe,"Perm, Perm Krai",Russia,RU
+23,24,Полотское,,,28.8,55.483332999999995,Намѣстничество,,,Полотское,Polotskoe,"Polatsk, Vitebsk Region",Belarus,BY
+24,25,Псковское,,,28.333333000000003,57.816667,Намѣстничество,,,Псковское,Pskovskoe,"Pskov, Pskov Oblast",Russia,RU
+25,26,Ревельское,,,24.745278,59.437222,Намѣстничество,,,Ревельское,Revel'skoe,"Tallinn, Harju County",Estonia,EE
+26,27,Рижское,,,24.106944,56.9475,Намѣстничество,,,Рижское,Rizhskoe,"Rīga, Rīgas pilsēta",Latvia,LV
+27,28,Рязанское,,,39.716667,54.61666700000001,Намѣстничество,,,Рязанское,Riazanskoe,"Ryazan, Ryazan Oblast",Russia,RU
+28,29,Саратовское,,,46.0,51.533333,Намѣстничество,,,Саратовское,Saratovskoe,"Saratov, Saratov Oblast",Russia,RU
+29,30,Синбирское,,,48.366667,54.316667,Намѣстничество,,,Синбирское,Sinbirskoe,"Ulyanovsk, Ulyanovsk Oblast",Russia,RU
+30,31,Смоленское,,,32.045278,54.782778,Намѣстничество,,,Смоленское,Smolenskoe,"Smolensk, Smolensk Oblast",Russia,RU
+31,32,Тамбовское,,,41.433333000000005,52.716667,Намѣстничество,,,Тамбовское,Tambovskoe,"Tambov, Tambov Oblast",Russia,RU
+32,33,Тверское,,,35.921928,56.857828000000005,Намѣстничество,,,Тверское,Tverskoe,"Tver, Tver Oblast",Russia,RU
+33,34,Тобольское,,,68.25805600000001,58.195278,Намѣстничество,,,Тобольское,Tobol'skoe,"Tobolsk, Tyumen Oblast",Russia,RU
+34,35,Тульское,,,37.616667,54.2,Намѣстничество,,,Тульское,Tul'skoe,"Tula, Tula Oblast",Russia,RU
+35,36,Уфимское,,,55.966667,54.733332999999995,Намѣстничество,,,Уфимское,Ufimskoe,"Ufa, Bashkortostan",Russia,RU
+36,37,Харьковское,,,36.229167,50.0,Намѣстничество,,,Харьковское,Khar'kovskoe,"Kharkiv, Kharkiv Oblast",Ukraine,UA
+37,38,Черниговское,,,31.3,51.5,Намѣстничество,,,Черниговское,Chernigovskoe,"Chernihiv, Chernihivs'ka oblast",Ukraine,UA
+38,39,Ярославское,,,39.85,57.61666700000001,Намѣстничество,,,Ярославское,Iaroslavskoe,"Yaroslavl, Yaroslavl Oblast",Russia,RU
+39,40,Алатырьский,,30.0,46.5813,54.8421,уезд,,,Алатырьский,Alatyr'skii,"Alatyr', Chuvashia Republic",Russia,RU
+40,41,Алексина,,35.0,37.0674,54.505030000000005,уезд,,,Алексина,Aleksina,"Aleksin, Tula Oblast",Russia,RU
+41,42,Арзамаский,,17.0,43.83992,55.39485,уезд,,,Арзамаский,Arzamaskii,"Arzamas, Nizhny Novgorod Oblast",Russia,RU
+42,43,Ахтырский,,37.0,34.898790000000005,50.310359999999996,уезд,,,Ахтырский,Akhtyrskii,"Okhtyrka, Sums'ka oblast",Ukraine,UA
+43,44,Бабиновецкий,,16.0,30.5725,54.8351,уезд,,,Бабиновецкий,Babinovetskii,"Babinavichy, Vitebsk Region",Belarus,BY
+44,45,Бѣжецкий,,33.0,36.696509999999996,57.785059999999994,уезд,,,Бежецкий,Bezhetskii,"Bezhetsk, Tver Oblast",Russia,RU
+45,46,Бѣлевский,,35.0,36.13194,53.81194,уезд,,,Белевский,Belevskii,"Belyov, Tula Oblast",Russia,RU
+46,47,Бѣлицкий,,16.0,30.4122,52.9395,уезд,,,Белицкий,Belitskii,"Белицк, Homiel Province",Belarus,BY
+47,48,Бѣлогородский,,15.0,38.51663,54.37445,уезд,,,Белогородский,Belogorodskii,"Belgorodskiy, Tula Oblast",Russia,RU
+48,49,Бѣлозерский,,18.0,37.8084,60.0288,уезд,,,Белозерский,Belozerskii,"Belozersk, Vologda Oblast",Russia,RU
+49,50,Валуеский,,5.0,38.1067,50.2035,уезд,,,Валуеский,Valueskii,"Valuyki, Belgorod Oblast",Russia,RU
+50,51,Великолуцкий,,25.0,30.545170000000002,56.34,уезд,,,Великолуцкий,Velikolutskii,"Velikiye Luki, Pskov Oblast",Russia,RU
+51,52,Веневский,,35.0,38.26843,54.35533,уезд,,,Веневский,Venevskii,"Venyov, Tula Oblast",Russia,RU
+52,53,Верейский,,1.0,36.17194,55.344719999999995,уезд,,,Верейский,Vereiskii,"Vereya, Moscow Oblast",Russia,RU
+53,54,Верхнеудивский,,9.0,107.6,51.833333,уезд,,,Верхнеудивский,Verkhneudivskii,"Ulan-Ude, Buryatia",Russia,RU
+54,55,Вологодский,,4.0,39.88398,59.2239,уезд,,,Вологодский,Vologodskii,"Vologda, Vologda Oblast",Russia,RU
+55,56,Волоколамский,,1.0,35.969440000000006,56.033609999999996,уезд,,,Волоколамский,Volokolamskii,"Volokolamsk, Moscow Oblast",Russia,RU
+56,57,Выборгский,,6.0,28.75283,60.70763,уезд,,,Выборгский,Vyborgskii,"Vyborg, Leningrad Oblast",Russia,RU
+57,58,Гадяцкий,,38.0,33.990990000000004,50.37112,уезд,,,Гадяцкий,Gadiatskii,"Hadyach, Poltavs'ka oblast",Ukraine,UA
+58,59,Гороховецкий,,3.0,42.693509999999996,56.201519999999995,уезд,,,Гороховецкий,Gorokhovetskii,"Gorokhovets, Vladimir Oblast",Russia,RU
+59,60,Динабургский,,24.0,26.53333,55.88333000000001,уезд,,,Динабургский,Dinaburgskii,"Daugavpils, Daugavpils pilsēta",Latvia,LV
+60,61,Дмитровский,,1.0,37.52041,56.34485,уезд,,,Дмитровский,Dmitrovskii,"Dmitrov, Moscow Oblast",Russia,RU
+61,62,Донковский,,28.0,39.15553,53.25155,уезд,,,Донковский,Donkovskii,"Dankov, Lipetsk Oblast",Russia,RU
+62,63,Екатеринославский,,8.0,34.98333,48.45,уезд,,,Екатеринославский,Ekaterinoslavskii,"Dnepropetrovsk, Dnipropetrovsk Oblast",Ukraine,UA
+63,64,Елецкий,,21.0,38.50169,52.62366,уезд,,,Елецкий,Eletskii,"Yelets, Lipetsk Oblast",Russia,RU
+64,65,Епифанский,,35.0,38.551809999999996,53.82526,уезд,,,Епифанский,Epifanskii,"Yepifan, Tula Oblast",Russia,RU
+65,66,Зарайский,,28.0,38.878409999999995,54.7605,уезд,,,Зарайский,Zaraiskii,"Zaraysk, Moscow Oblast",Russia,RU
+66,67,Звенигородский,,1.0,36.85918,55.734019999999994,уезд,,,Звенигородский,Zvenigorodskii,"Zvenigorod, Moscow Oblast",Russia,RU
+67,68,Зубцовский,,33.0,34.58935,56.175340000000006,уезд,,,Зубцовский,Zubtsovskii,"Zubtsov, Tver Oblast",Russia,RU
+68,69,Изюмский,,37.0,37.24848,49.20875,уезд,,,Изюмский,Iziumskii,"Izyum, Kharkiv Oblast",Ukraine,UA
+69,71,Касимовский,,28.0,41.39528,54.941109999999995,уезд,,,Касимовский,Kasimovskii,"Kasimov, Ryazan Oblast",Russia,RU
+70,72,Кашинский,,33.0,37.608059999999995,57.35917,уезд,,,Кашинский,Kashinskii,"Kashin, Tver Oblast",Russia,RU
+71,73,Каширский,,35.0,38.166940000000004,54.844440000000006,уезд,,,Каширский,Kashirskii,"Kashira, Moscow Oblast",Russia,RU
+72,74,Керенский,,22.0,43.05744,53.69157,уезд,,,Керенский,Kerenskii,"Vadinsk, Penza Oblast",Russia,RU
+73,75,Кинешемский,,14.0,42.12894,57.43914,уезд,,,Кинешемский,Kineshemskii,"Kineshma, Ivanovo Oblast",Russia,RU
+74,76,Киренский,,9.0,108.11193999999999,57.78528000000001,уезд,,,Киренский,Kirenskii,"Kirensky District, Irkutsk Oblast",Russia,RU
+75,77,Кіевский,,13.0,30.5238,50.45466,уезд,,,Киевский,Kіevskii,"Kiev, Kyiv city",Ukraine,UA
+76,78,Климовицкий,,16.0,31.9586,53.6079,уезд,,,Климовицкий,Klimovitskii,"Klimavichy, Mogilev Province",Belarus,BY
+77,79,Козельский,,12.0,35.77159,54.037459999999996,уезд,,,Козельский,Kozel'skii,"Kozelsk, Kaluga Oblast",Russia,RU
+78,80,Козловский,,32.0,40.4907,52.8978,уезд,,,Козловский,Kozlovskii,"Michurinsk, Tambov Oblast",Russia,RU
+79,81,Коломенский,,1.0,38.77833,55.079440000000005,уезд,,,Коломенский,Kolomenskii,"Kolomna, Moscow Oblast",Russia,RU
+80,82,Короченский,,15.0,37.18598,50.8132,уезд,,,Короченский,Korochenskii,"Korocha, Belgorod Oblast",Russia,RU
+81,83,Костромский,,14.0,40.92686,57.76647,уезд,,,Костромский,Kostromskii,"Kostroma, Kostroma Oblast",Russia,RU
+82,84,Краснослободский,,22.0,43.789629999999995,54.4253,уезд,,,Краснослободский,Krasnoslobodskii,"Krasnoslobodsk, Mordovia",Russia,RU
+83,85,Курский,,15.0,36.18735,51.73733,уезд,,,Курский,Kurskii,"Kursk, Kursk Oblast",Russia,RU
+84,86,Лебедянский,,32.0,39.16639,53.01942,уезд,,,Лебедянский,Lebedianskii,"Lebedyan, Lipetsk Oblast",Russia,RU
+85,87,Ливенский,,21.0,37.60689,52.425340000000006,уезд,,,Ливенский,Livenskii,"Livny, Oryol Oblast",Russia,RU
+86,88,Лубенский,,13.0,32.99694,50.01625,уезд,,,Лубенский,Lubenskii,"Lubny, Poltavs'ka oblast",Ukraine,UA
+87,89,Любимский,,39.0,40.684329999999996,58.3625,уезд,,,Любимский,Liubimskii,"Lyubim, Yaroslavl Oblast",Russia,RU
+88,90,Мезенский,,2.0,44.2542,65.8401,уезд,,,Мезенский,Mezenskii,"Mezen, Arkhangelsk Oblast",Russia,RU
+89,91,Миргородский,,13.0,33.60886,49.968540000000004,уезд,,,Миргородский,Mirgorodskii,"Myrhorod, Poltavs'ka oblast",Ukraine,UA
+90,92,Миропольский,,37.0,35.26233,51.023,уезд,,,Миропольский,Miropol'skii,"Myropillya, Sums'ka oblast",Ukraine,UA
+91,93,Можайский,,1.0,36.02722,55.501940000000005,уезд,,,Можайский,Mozhaiskii,"Mozhaysk, Moscow Oblast",Russia,RU
+92,94,Мстиславский,,16.0,31.7217,54.0185,уезд,,,Мстиславский,Mstislavskii,"Mstsislaw, Mogilev Province",Belarus,BY
+93,95,Наровчатовский,,22.0,43.69458,53.876540000000006,уезд,,,Наровчатовский,Narovchatovskii,"Narovchat, Penza Oblast",Russia,RU
+94,96,Нижеломовский,,22.0,43.676629999999996,53.530409999999996,уезд,,,Нижеломовский,Nizhelomovskii,"Nizhny Lomov, Penza Oblast",Russia,RU
+95,97,Новгородский,,,31.271040000000003,58.52131,уезд,,,Новгородский,Novgorodskii,"Veliky Novgorod, Novgorod Oblast",Russia,RU
+96,98,Новогородский,,18.0,31.271040000000003,58.52131,уезд,,,Новогородский,Novogorodskii,"Veliky Novgorod, Novgorod Oblast",Russia,RU
+97,99,Новогород - Сѣверский,,19.0,33.266667,51.983333,уезд,,,Новогород - Северский,Novogorod - Severskii,"Novhorod-Sivers'kyi, Chernihivs'ka oblast",Ukraine,UA
+98,100,Новосильский,,35.0,37.04048,52.97387,уезд,,,Новосильский,Novosil'skii,"Novosil, Oryol Oblast",Russia,RU
+99,101,Нѣжинский,,38.0,31.886879999999998,51.04801,уезд,,,Нежинский,Nezhinskii,"Nizhyn, Chernihivs'ka oblast",Ukraine,UA
+100,102,Нѣжинский,,19.0,31.886879999999998,51.04801,уезд,,,Нежинский,Nezhinskii,"Nizhyn, Chernihivs'ka oblast",Ukraine,UA
+101,103,Оршанский,,16.0,30.4172,54.5081,уезд,,,Оршанский,Orshanskii,"Orsha, Vitebsk Region",Belarus,BY
+102,104,Островский,,25.0,28.353679999999997,57.34395,уезд,,,Островский,Ostrovskii,"Ostrov, Pskov Oblast",Russia,RU
+103,105,Переяславский,,13.0,31.4795,50.08768,уезд,,,Переяславский,Pereiaslavskii,"Pereyaslav-Khmel'nyts'kyi, Kyivs'ka oblast",Ukraine,UA
+104,106,Петровский,,39.0,39.26928,57.01039,уезд,,,Петровский,Petrovskii,"Petrovskoye, Yaroslavl Oblast",Russia,RU
+105,107,Пирятинский,,38.0,32.506209999999996,50.24242,уезд,,,Пирятинский,Piriatinskii,"Pyryatyn, Poltavs'ka oblast",Ukraine,UA
+106,108,Полотавский,,8.0,34.540729999999996,49.59373,уезд,,,Полотавский,Polotavskii,"Poltava, Poltavs'ka oblast",Ukraine,UA
+107,109,Полотский,,24.0,28.7856,55.4879,уезд,,,Полотский,Polotskii,"Polatsk, Vitebsk Region",Belarus,BY
+108,110,Пошехонский,,39.0,39.13531,58.499280000000006,уезд,,,Пошехонский,Poshekhonskii,"Poshekhonye, Yaroslavl Oblast",Russia,RU
+109,111,Прилуцкий,,38.0,32.387609999999995,50.59323,уезд,,,Прилуцкий,Prilutskii,"Pryluky, Chernihivs'ka oblast",Ukraine,UA
+110,112,Псковский,,25.0,28.3496,57.8136,уезд,,,Псковский,Pskovskii,"Pskov, Pskov Oblast",Russia,RU
+111,113,Рогачевский,,16.0,30.0495,53.0934,уезд,,,Рогачевский,Rogachevskii,"Rahačoŭ, Homiel Province",Belarus,BY
+112,114,Ростовский,,39.0,39.413940000000004,57.1914,уезд,,,Ростовский,Rostovskii,"Rostov, Yaroslavl Oblast",Russia,RU
+113,115,Рузский,,1.0,36.19522,55.698980000000006,уезд,,,Рузский,Ruzskii,"Ruza, Moscow Oblast",Russia,RU
+114,116,Рязанский,,28.0,44.7329,53.1783,уезд,,,Рязанский,Riazanskii,"Penzenskiy rayon, Penza Oblast",Russia,RU
+115,117,Саранский,,22.0,45.1749,54.1838,уезд,,,Саранский,Saranskii,"Saransk, Mordovia",Russia,RU
+116,118,Саратовский,,29.0,46.00861,51.54056,уезд,,,Саратовский,Saratovskii,"Saratov, Saratov Oblast",Russia,RU
+117,119,Свіажский,,11.0,48.660509999999995,55.77329,уезд,,,Свиажский,Svіazhskii,"Sviyazhsk, Tatarstan",Russia,RU
+118,120,Синбирский,,30.0,48.38657,54.32824,уезд,,,Синбирский,Sinbirskii,"Ulyanovsk, Ulyanovsk Oblast",Russia,RU
+119,121,Сосницкий,,19.0,32.49985,51.52387,уезд,,,Сосницкий,Sosnitskii,"Sosnytsya, Chernihivs'ka oblast",Ukraine,UA
+120,122,Старобыховский,,16.0,30.2454,53.521,уезд,,,Старобыховский,Starobykhovskii,"Bykhaw, Mogilev Province",Belarus,BY
+121,123,Стародубовский,,19.0,33.67942,52.2405,уезд,,,Стародубовский,Starodubovskii,"Seredyno-Buds'kyi district, Sums'ka oblast",Ukraine,UA
+122,124,Суздальский,,3.0,40.44668,56.422740000000005,уезд,,,Суздальский,Suzdal'skii,"Suzdal, Vladimir Oblast",Russia,RU
+123,125,Тверский,,33.0,35.90057,56.85836,уезд,,,Тверский,Tverskii,"Tver, Tver Oblast",Russia,RU
+124,126,Темниковский,,32.0,43.21483,54.630230000000005,уезд,,,Темниковский,Temnikovskii,"Temnikov, Mordovia",Russia,RU
+125,127,Тульский,,35.0,37.616667,54.2,уезд,,,Тульский,Tul'skii,"Tula, Tula Oblast",Russia,RU
+126,128,Харьковский,,37.0,36.252720000000004,49.98081,уезд,,,Харьковский,Khar'kovskii,"Kharkiv, Kharkiv Oblast",Ukraine,UA
+127,129,Челябинский,,36.0,61.42915,55.154019999999996,уезд,,,Челябинский,Cheliabinskii,"Chelyabinsk, Chelyabinsk Oblast",Russia,RU
+128,130,Чериковский,,16.0,31.3831,53.5689,уезд,,,Чериковский,Cherikovskii,"Čerykaŭ, Mogilev Province",Belarus,BY
+129,131,Черниговский,,38.0,31.284879999999998,51.50551,уезд,,,Черниговский,Chernigovskii,"Chernihiv, Chernihivs'ka oblast",Ukraine,UA
+130,132,Чухломский,,14.0,42.68318,58.75375,уезд,,,Чухломский,Chukhlomskii,"Chukhloma, Kostroma Oblast",Russia,RU
+131,133,Шатский,,32.0,41.711909999999996,54.02576,уезд,,,Шатский,Shatskii,"Shatsk, Ryazan Oblast",Russia,RU
+132,134,Юрьевцкий,,14.0,43.1041,57.320069999999994,уезд,,,Юрьевцкий,Iur'evtskii,"Yuryevets, Ivanovo Oblast",Russia,RU
+133,135,Яренский,,4.0,49.09162,62.16755,уезд,,,Яренский,Iarenskii,"Lenskiy rayon, Arkhangelsk Oblast",Russia,RU
+134,136,Ярославский,,39.0,39.87368,57.62987,уезд,,,Ярославский,Iaroslavskii,"Yaroslavl, Yaroslavl Oblast",Russia,RU
