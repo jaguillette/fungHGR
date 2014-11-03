@@ -92,7 +92,10 @@ for v in geojson_dict['features']:
 		datum['en_featuretype'][ind_to_add] = ""
 		datum['xy_type'][ind_to_add] = "POINT"
 		datum['partof_prov'][ind_to_add] = v['properties']['hgr_admin1_partof']
-		datum['partof_uezd'][ind_to_add] = v['properties']['hgr_admin2_partof']
+		if v['properties']['hgr_type'] == "городъ":
+			datum['partof_uezd'][ind_to_add] = ind_to_add
+		else:
+			datum['partof_uezd'][ind_to_add] = v['properties']['hgr_admin2_partof']
 		datum['partof_prov_name'][ind_to_add] = partof_prov_lookup_dict['partof_prov_name'][v['properties']['hgr_admin1_partof']]
 		if v['properties']['hgr_admin2_partof'] is not None:
 			datum['partof_uezd_name'][ind_to_add] = partof_uezd_lookup_dict['partof_uezd_name'][v['properties']['hgr_admin2_partof']]
