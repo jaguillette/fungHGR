@@ -64,7 +64,7 @@ file_to_append = "output/hgr_test_set_5.csv"
 dataset = pd.DataFrame.from_csv(file_to_append)
 ind_to_add = max(dataset.index)+1
 
-datum = {'ru_old_orth':{},'alt_name':{},'partof_id':{},'x_coord':{},'y_coord':{},'ru_featuretype':{},'SOURCE':{},'description':{},'ru_new_orth':{},'lc_trans':{},'pres_loc':{},'pres_country':{},'country_code':{},'beg_yr':{},'end_yr':{},'lc_featuretype':{},'id_featuretype':{},'en_featuretype':{},'xy_type':{},'partof_prov':{},'partof_uezd':{},'partof_prov_name':{},'partof_uezd_name':{}}
+datum = {'geonameId':{},'ru_old_orth':{},'alt_name':{},'partof_id':{},'x_coord':{},'y_coord':{},'ru_featuretype':{},'SOURCE':{},'description':{},'ru_new_orth':{},'lc_trans':{},'pres_loc':{},'pres_country':{},'country_code':{},'beg_yr':{},'end_yr':{},'lc_featuretype':{},'id_featuretype':{},'en_featuretype':{},'xy_type':{},'partof_prov':{},'partof_uezd':{},'partof_prov_name':{},'partof_uezd_name':{}}
 
 with open("geonames_jsons/geojson/{}".format(geojson), "r") as fp:
 	geojson_dict = json.load(fp)
