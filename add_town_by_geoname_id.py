@@ -111,7 +111,7 @@ datum['pres_loc'][ind_to_add], datum['pres_country'][ind_to_add], datum['country
 
 #SETTING UP DATAFRAME FOR EXPORT. APPEND DATA, ORDER COLUMNS, AND NAME INDEX.
 dataset = dataset.append(pd.DataFrame(datum))
-dataset = dataset[["ru_old_orth","alt_name","partof_id","x_coord","y_coord","ru_featuretype","SOURCE","description","ru_new_orth","lc_trans","pres_loc","pres_country","country_code","beg_yr","end_yr","lc_featuretype","id_featuretype","en_featuretype","xy_type","partof_prov","partof_uezd","partof_prov_name","partof_uezd_name"]]
+dataset = dataset[["ru_old_orth","alt_name","partof_id","x_coord","y_coord","ru_featuretype","SOURCE","description","ru_new_orth","lc_trans","pres_loc","pres_country","country_code","beg_yr","end_yr","lc_featuretype","id_featuretype","en_featuretype","xy_type","partof_prov","partof_uezd","partof_prov_name","partof_uezd_name",'geonameId']]
 dataset.index.name = 'uniq_id'
 
 dataset.to_csv(file_to_append,encoding='utf=8')
