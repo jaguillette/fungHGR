@@ -75,7 +75,7 @@ partof_uezd_lookup_dict = dataset[dataset.partof_uezd == dataset.index][['partof
 #GETTING DATA FROM GEOJSON DICT.
 for v in geojson_dict['features']:
 	if v['properties']['geonameId'] == geonameId:
-		datum['geonameId'][ind_to_add] = v['properties']['geonameId']
+		datum['geonameId'][ind_to_add] = "http://www.geonames.org/{}".format(v['properties']['geonameId'])
 		datum['ru_old_orth'][ind_to_add] = v['properties']['hgr_name']
 		datum['alt_name'][ind_to_add] = v['properties']['hgr_alt_name']
 		datum['partof_id'][ind_to_add] = v['properties']['hgr_partof_id']
