@@ -67,7 +67,7 @@
 66,"Псковский уѣздѣ","Псковский уезд","Pskovskii uiezdie","Pskovskii uezd",,,,,1785,1796,"POINT",28.333333,57.816667,"Pskov, Pskov Oblast","Russia","RU","уезд",,,,"adminL2",,,,25
 67,"Ревельский уѣздѣ","Ревельский уезд","Revel'skii uiezdie","Revel'skii uezd",,,,,1785,1796,"POINT",24.745278,59.437222,"Tallinn, Harju County","Estonia","EE","уезд",,,,"adminL2",,,,26
 68,"Рижский уѣздѣ","Рижский уезд","Rizhskii uiezdie","Rizhskii uezd",,,,,1785,1796,"POINT",24.106944,56.9475,"Rīga, Rīgas pilsēta","Latvia","LV","уезд",,,,"adminL2",,,,27
-69,"Риазанский уѣздѣ","Риазанский уезд","Riazanskii uiezdie","Riazanskii uezd",,,,,1785,1796,"POINT",39.716667,54.616667,"Ryazan, Ryazan Oblast","Russia","RU","уезд",,,,"adminL2",,,,28
+69,"Рязанский уѣздѣ","Рязанский уезд","Riazanskii uiezdie","Riazanskii uezd",,,,,1785,1796,"POINT",39.716667,54.616667,"Ryazan, Ryazan Oblast","Russia","RU","уезд",,,,"adminL2",,,,28
 70,"Саратовский уѣздѣ","Саратовский уезд","Saratovskii uiezdie","Saratovskii uezd",,,,,1785,1796,"POINT",46,51.533333,"Saratov, Saratov Oblast","Russia","RU","уезд",,,,"adminL2",,,,29
 71,"Синбирский уѣздѣ","Синбирский уезд","Sinbirskii uiezdie","Sinbirskii uezd",,,,,1785,1796,"POINT",48.366667,54.316667,"Ulyanovsk, Ulyanovsk Oblast","Russia","RU","уезд",,,,"adminL2",,,,30
 72,"Смоленский уѣздѣ","Смоленский уезд","Smolenskii uiezdie","Smolenskii uezd",,,,,1785,1796,"POINT",32.045278,54.782778,"Smolensk, Smolensk Oblast","Russia","RU","уезд",,,,"adminL2",,,,31
@@ -92,7 +92,7 @@
 91,"Валуйский уѣздѣ","Валуйский уезд","Valuiskii uiezdie","Valuiskii uezd",,,,,1785,1796,"POINT",38.1067,50.2035,"Valuyki, Belgorod Oblast","Russia","RU","уезд",,,,"adminL2",,,,5
 92,"Великолуцкий уѣздѣ","Великолуцкий уезд","Velikolutskii uiezdie","Velikolutskii uezd",,,,,1785,1796,"POINT",30.54517,56.34,"Velikiye Luki, Pskov Oblast","Russia","RU","уезд",,,,"adminL2",,,,25
 93,"Веневский уѣздѣ","Веневский уезд","Venevskii uiezdie","Venevskii uezd",,,,,1785,1796,"POINT",38.26843,54.35533,"Venyov, Tula Oblast","Russia","RU","уезд",,,,"adminL2",,,,35
-94,"Вереиский уѣздѣ","Вереиский уезд","Vereiskii uiezdie","Vereiskii uezd",,,,,1785,1796,"POINT",36.17194,55.34472,"Vereya, Moscow Oblast","Russia","RU","уезд",,,,"adminL2",,,,1
+94,"Верейский уѣздѣ","Верейский уезд","Vereiskii uiezdie","Vereiskii uezd",,,,,1785,1796,"POINT",36.17194,55.34472,"Vereya, Moscow Oblast","Russia","RU","уезд",,,,"adminL2",,,,1
 95,"Верхнеудинский уѣздѣ","Верхнеудинский уезд","Verkhneudinskii uiezdie","Verkhneudinskii uezd",,,,,1785,1796,"POINT",107.6,51.833333,"Ulan-Ude, Buryatia","Russia","RU","уезд",,,,"adminL2",,,,9
 96,"Волоколамский уѣздѣ","Волоколамский уезд","Volokolamskii uiezdie","Volokolamskii uezd",,,,,1785,1796,"POINT",35.96944,56.03361,"Volokolamsk, Moscow Oblast","Russia","RU","уезд",,,,"adminL2",,,,1
 97,"Гадятский уѣздѣ","Гадятский уезд","Gadiatskii uiezdie","Gadiatskii uezd",,,,,1785,1796,"POINT",33.99099,50.37112,"Hadyach, Poltavs'ka oblast","Ukraine","UA","уезд",,,,"adminL2",,,,38
@@ -207,7 +207,7 @@
 208,"Воскресенский уѣздѣ","Воскресенский уезд","Voskresenskii uiezdie","Voskresenskii uezd",,,,,1785,1796,"POINT",36.86867,55.91997,"Istra, Moscow Oblast","Russia","RU","уезд",,,,"adminL2",,,,1
 209,"Ефремовский уѣздѣ","Ефремовский уезд","Efremovskii uiezdie","Efremovskii uezd",,,,,1785,1796,"POINT",38.09924,53.14806,"Yefremov, Tula Oblast","Russia","RU","уезд",,,,"adminL2",,,,35
 210,"Боровский уѣздѣ","Боровский уезд","Borovskii uiezdie","Borovskii uezd",,,,,1785,1796,"POINT",36.48611,55.20639,"Borovsk, Kaluga Oblast","Russia","RU","уезд",,,,"adminL2",,,,12
-211,"Опочетский уѣздѣ","Опочетский уезд","Opochetskii uiezdie","Opochetskii uezd",,,,,1785,1796,"POINT",28.66174,56.71048,"Opochka, Pskov Oblast","Russia","RU","уезд",,,,"adminL2",,,,25
+211,"Опочецкий уѣздѣ","Опочецкий уезд","Opochetskii uiezdie","Opochetskii uezd",,,,,1785,1796,"POINT",28.66174,56.71048,"Opochka, Pskov Oblast","Russia","RU","уезд",,,,"adminL2",,,,25
 212,"Царевококшайский уѣздѣ","Царевококшайский уезд","Tsarevokokshaiskii uiezdie","Tsarevokokshaiskii uezd",,,,,1785,1796,"POINT",47.89078,56.63877,"Yoshkar-Ola, Mari El","Russia","RU","уезд",,,,"adminL2",,,,11
 213,"Юрьева-Польский уѣздѣ","Юрьева-Польский уезд","Iur'eva-Pol'skii uiezdie","Iur'eva-Pol'skii uezd",,,,,1785,1796,"POINT",39.67911,56.50339,"Yuryev-Polsky, Vladimir Oblast","Russia","RU","уезд",,,,"adminL2",,,,3
 214,"Порховский уѣздѣ","Порховский уезд","Porkhovskii uiezdie","Porkhovskii uezd",,,,,1785,1796,"POINT",29.55612,57.76502,"Porkhov, Pskov Oblast","Russia","RU","уезд",,,,"adminL2",,,,25
@@ -277,7 +277,6 @@
 278,"Валковский уѣздѣ","Валковский уезд","Valkovskii uiezdie","Valkovskii uezd",,,,,1785,1796,"POINT",35.61223,49.83597,"Valky, Kharkiv Oblast","Ukraine","UA","уезд",,,,"adminL2",,,,37
 279,"Пореченский уѣздѣ","Пореченский уезд","Porechenskii uiezdie","Porechenskii uezd",,,,,1785,1796,"POINT",31.27662,55.31192,"Porechye, Smolensk Oblast","Russia","RU","уезд",,,,"adminL2",,,,31
 280,"Вильманстрандский уѣздѣ","Вильманстрандский уезд","Vil'manstrandskii uiezdie","Vil'manstrandskii uezd",,,,,1785,1796,"POINT",28.231957,61.048829,"Lappeenranta","Finland","FI","уезд",,,,"adminL2",,,,6
-281,"Роменский уѣздѣ","Роменский уезд","Romenskii uiezdie","Romenskii uezd",,,,,1785,1796,"POINT",33.198877,50.94679,"Konotops'kyi district, Sums'ka oblast","Ukraine","UA","уезд",,,,"adminL2",,,,38
 282,"Городнянский уѣздѣ","Городнянский уезд","Gorodnianskii uiezdie","Gorodnianskii uezd","Городницкий уѣздѣ","Городницкий уезд","Gorodnitskii uiezdie","Gorodnitskii uezd",1785,1796,"POINT",31.59741,51.89085,"Horodnya, Chernihivs'ka oblast","Ukraine","UA","уезд",,,,"adminL2",,,,38
 283,"Мологский уѣздѣ","Мологский уезд","Mologskii uiezdie","Mologskii uezd",,,,,1785,1796,"POINT",38.57269,58.172519,"Rybinsk, Yaroslavl Oblast","Russia","RU","уезд",,,,"adminL2",,,,39
 284,"Борисоглебский уѣздѣ","Борисоглебский уезд","Borisoglebskii uiezdie","Borisoglebskii uezd",,,,,1785,1796,"POINT",39.525119,57.866991,"Tutayev, Yaroslavl Oblast","Russia","RU","уезд",,,,"adminL2",,,,39
