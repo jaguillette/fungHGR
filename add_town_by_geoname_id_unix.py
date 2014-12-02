@@ -10,13 +10,16 @@ def transliterate(word, translit_table):
 	Transliterates 'word' based on the key/value pairs in 'translit_table'
 	"""
 	converted_word = ''
-	for char in word:
-		transchar = ''
-		if char in translit_table:
-			transchar = translit_table[char]
-		else:
-			transchar = char
-		converted_word += transchar
+	try:
+		for char in word:
+			transchar = ''
+			if char in translit_table:
+				transchar = translit_table[char]
+			else:
+				transchar = char
+			converted_word += transchar
+	except TypeError:
+		pass
 	return converted_word
 
 with open("resources/special_cases.json",'r',encoding='utf-8') as fp:
@@ -102,17 +105,13 @@ except IndexError:
 	sys.exit()
 
 #FILE TO BE MODIFIED, CHANGE IF PRIMARY CSV CHANGES
-file_to_append = "output/hgr_test_set_5.csv"
+file_to_append = "output/hgr_dataset.csv"
 
 #DATA SETUP
 dataset = pd.DataFrame.from_csv(file_to_append)
 ind_to_add = max(dataset.index)+1
 
-datum = {"ru_old_orth":{},"ru_new_orth":{},"lc_translit_old":{},"lc_translit_new":{},"alt_name_old_orth":{},"alt_name_new_orth":{},
-"alt_name_old_trans":{},"alt_name_new_trans":{},"beg_yr":{},"end_yr":{},"xy_type":{},"x_coord":{},"y_coord":{},"pres_loc":{},"pres_country":{},
-"country_code":{},"ru_old_featuretype":{},"ru_new_featuretype":{},"ru_translit_old_featuretype":{},"ru_translit_new_featuretype":{},
-"en_featuretype":{},"id_featuretype":{},"lc_featuretype":{},"admin_level":{},"SOURCE":{},"description":{},"geonameId":{},"partof_id":{},
-"hgr_id":{},"txt_id":{}}
+datum = {"ru_old_orth":{},"ru_new_orth":{},"lc_translit_old":{},"lc_translit_new":{},"alt_name_old_orth":{},"alt_name_new_orth":{},"alt_name_old_trans":{},"alt_name_new_trans":{},"beg_yr":{},"end_yr":{},"xy_type":{},"x_coord":{},"y_coord":{},"pres_loc":{},"pres_country":{},"country_code":{},"ru_old_featuretype":{},"ru_new_featuretype":{},"ru_translit_old_featuretype":{},"ru_translit_new_featuretype":{},"en_featuretype":{},"id_featuretype":{},"lc_featuretype":{},"admin_level":{},"SOURCE":{},"description":{},"geonameId":{},"partof_id":{},"hgr_id":{},"txt_id":{}}
 
 with open("geonames_jsons/geojson/{}".format(geojson), "r") as fp:
 	geojson_dict = json.load(fp)
@@ -120,8 +119,8 @@ with open("geonames_jsons/geojson/{}".format(geojson), "r") as fp:
 with open("resources/translate_types.json","r", encoding="utf-8") as fp:
 	translate_types = json.load(fp)
 
-partof_prov_lookup_dict = dataset[dataset.partof_prov == dataset.index][['partof_prov_name']].to_dict()
-partof_uezd_lookup_dict = dataset[dataset.partof_uezd == dataset.index][['partof_uezd_name']].to_dict()
+#partof_prov_lookup_dict = dataset[dataset.partof_prov == dataset.index][['partof_prov_name']].to_dict()
+#partof_uezd_lookup_dict = dataset[dataset.partof_uezd == dataset.index][['partof_uezd_name']].to_dict()
 
 #GETTING DATA FROM GEOJSON DICT.
 for v in geojson_dict['features']:
@@ -164,11 +163,11 @@ datum['pres_loc'][ind_to_add], datum['pres_country'][ind_to_add], datum['country
 
 #SETTING UP DATAFRAME FOR EXPORT. APPEND DATA, ORDER COLUMNS, AND NAME INDEX.
 dataset = dataset.append(pd.DataFrame(datum))
-dataset = dataset[["ru_old_orth","alt_name","partof_id","x_coord","y_coord","ru_featuretype","SOURCE","description","ru_new_orth","lc_trans","pres_loc","pres_country","country_code","beg_yr","end_yr","lc_featuretype","id_featuretype","en_featuretype","xy_type","partof_prov","partof_uezd","partof_prov_name","partof_uezd_name"]]
+dataset = dataset[["ru_old_orth","ru_new_orth","lc_translit_old","lc_translit_new","alt_name_old_orth","alt_name_new_orth","alt_name_old_trans","alt_name_new_trans","beg_yr","end_yr","xy_type","x_coord","y_coord","pres_loc","pres_country","country_code","ru_old_featuretype","ru_new_featuretype","ru_translit_old_featuretype","ru_translit_new_featuretype","en_featuretype","id_featuretype","lc_featuretype","admin_level","SOURCE","description","geonameId","partof_id","hgr_id","txt_id"]]
 dataset.index.name = 'uniq_id'
 
 dataset.to_csv(file_to_append,encoding='utf=8')
 
 git = sh.git.bake(_cwd='/home/jeremy/Documents/pro/fung_library/gazetteer/fungHGR/')
 print(git.add(file_to_append))
-print(git.commit(m="Added {} to dataset after confirming it corresponds to GeoNames ID {}".format(datum['lc_trans'][ind_to_adddri],geonameId)))
+print(git.commit(m="Added {} to dataset after confirming it corresponds to GeoNames ID {}".format(datum['lc_translit_new'][ind_to_add],geonameId)))
