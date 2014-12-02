@@ -1,4 +1,4 @@
-import sys, json, requests, time, sh, re
+import sys, json, requests, time, re
 import pandas as pd
 from lxml import html
 
@@ -168,7 +168,3 @@ dataset = dataset[["ru_old_orth","alt_name","partof_id","x_coord","y_coord","ru_
 dataset.index.name = 'uniq_id'
 
 dataset.to_csv(file_to_append,encoding='utf=8')
-
-git = sh.git.bake(_cwd='/home/jeremy/Documents/pro/fung_library/gazetteer/fungHGR/')
-print(git.add(file_to_append))
-print(git.commit(m="Added {} to dataset after confirming it corresponds to GeoNames ID {}".format(datum['lc_trans'][ind_to_adddri],geonameId)))
