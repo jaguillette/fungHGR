@@ -133,8 +133,8 @@ for v in geojson_dict['features']:
 		datum['alt_name_new_orth'][ind_to_add] = ortho_rules(v['properties']['hgr_alt_name_old_orth'],lookup_dict)
 		datum['alt_name_old_trans'][ind_to_add] = transliterate(v['properties']['hgr_alt_name_old_orth'],cyrillic_translit)
 		datum['alt_name_new_trans'][ind_to_add] = transliterate(datum['alt_name_new_orth'][ind_to_add],cyrillic_translit)
-		datum['beg_yr'][ind_to_add] = ""
-		datum['end_yr'][ind_to_add] = ""
+		datum['beg_yr'][ind_to_add] = 1785
+		datum['end_yr'][ind_to_add] = 1796
 		datum['xy_type'][ind_to_add] = "POINT"
 		datum['x_coord'][ind_to_add] = v['geometry']['coordinates'][0]
 		datum['y_coord'][ind_to_add] = v['geometry']['coordinates'][1]
