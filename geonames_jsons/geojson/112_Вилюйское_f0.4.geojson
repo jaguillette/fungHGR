@@ -1,0 +1,101 @@
+{
+ "features": [
+  {
+   "geometry": {
+    "coordinates": [
+     121.63339,
+     63.74683
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "UPDATE_SCRIPT": "python add_town_by_geoname_id.py geonames_jsons/geojson/112_\u0412\u0438\u043b\u044e\u0439\u0441\u043a\u043e\u0435_f0.4.geojson 2013392",
+    "adminCode1": "63",
+    "adminName1": "Sakha",
+    "countryCode": "RU",
+    "countryId": "2017370",
+    "countryName": "Russia",
+    "fcl": "P",
+    "fclName": "city, village,...",
+    "fcode": "PPL",
+    "fcodeName": "populated place",
+    "geonameId": 2013392,
+    "hgr_SOURCE": "http://babel.hathitrust.org/cgi/pt?id=uc1.b4583201;view=1up;seq=27",
+    "hgr_admin1_partofID": "9",
+    "hgr_admin2_partofID": null,
+    "hgr_admin_hierarchy": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a|not_in_text",
+    "hgr_alt_name_new_orth": null,
+    "hgr_alt_name_old_orth": null,
+    "hgr_description": "\u0412\u0418\u041b\u042e\u0419\u0421\u041a\u041e\u0415 \u0412\u0415\u0420\u0425\u041d\u0415\u0415 \u0438 \u0421\u0420\u0415\u0414\u041d\u0415\u0415 , \u0437\u0438\u043c\u043e\u0432\u044c\u0435 \u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u0433\u043e \u041d\u0430\u043c\u0463\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430. \u0412\u044a \u043e\u043d\u044b\u0445\u044a \u0431\u044b\u0432\u0430\u044e\u0442\u044a \u044f\u0440\u043c\u0430\u0440\u043a\u0438 \u0432\u044a \u0421\u0435\u043d\u0442\u044f\u0431\u0440\u0463 , \u041e\u043a\u0442\u044f\u0431\u0440\u0463 \u0438 \u041d\u043e\u044f\u0431\u0440\u0463 \u043c\u0463\u0441\u044f\u0446\u0430\u0445\u044a,",
+    "hgr_html_text": "\u0412\u0418\u041b\u042e\u0419\u0421\u041a\u041e\u0415 \u0412\u0415\u0420\u0425\u041d\u0415\u0415 \u0438 \u0421\u0420\u0415\u0414\u041d\u0415\u0415 , </span><span class=\"font0\" style=\"font-style:italic;\">\u0437\u0438\u043c\u043e\u0432\u044c\u0435</span><span class=\"font0\"> \u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u0433\u043e \u041d\u0430\u043c\u0463\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430. \u0412\u044a \u043e\u043d\u044b\u0445\u044a \u0431\u044b\u0432\u0430\u044e\u0442\u044a \u044f\u0440\u043c\u0430\u0440\u043a\u0438 \u0432\u044a \u0421\u0435\u043d\u0442\u044f\u0431\u0440\u0463 </span><span class=\"font0\" style=\"font-style:italic;\">,</span><span class=\"font0\"> \u041e\u043a\u0442\u044f\u0431\u0440\u0463 \u0438 \u041d\u043e\u044f\u0431\u0440\u0463 \u043c\u0463\u0441\u044f\u0446\u0430\u0445\u044a,</span>",
+    "hgr_page": 28,
+    "hgr_partof_id": "9",
+    "hgr_prov_modern_sp": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u043e\u0433\u043e \u041d\u0430\u043c\u0435\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430",
+    "hgr_prov_stem": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a",
+    "hgr_ru_new_orth": "\u0412\u0438\u043b\u044e\u0439\u0441\u043a\u043e\u0435 \u0412\u0435\u0440\u0445\u043d\u0435\u0435",
+    "hgr_ru_old_featuretype": "\u0437\u0438\u043c\u043e\u0432\u044c\u0435",
+    "hgr_ru_old_orth": "\u0412\u0438\u043b\u044e\u0439\u0441\u043a\u043e\u0435 \u0412\u0435\u0440\u0445\u043d\u0435\u0435",
+    "hgr_ru_prov": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u0433\u043e \u041d\u0430\u043c\u0463\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430",
+    "hgr_ru_uezd": null,
+    "hgr_txt_id": 112,
+    "hgr_uezd_modern_sp": null,
+    "hgr_uezd_stem": "not_in_text",
+    "lat": "63.74683",
+    "lng": "121.63339",
+    "name": "Vilyuysk",
+    "population": 9948,
+    "toponymName": "Vilyuysk"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     106.86472,
+     52.00639
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "UPDATE_SCRIPT": "python add_town_by_geoname_id.py geonames_jsons/geojson/112_\u0412\u0438\u043b\u044e\u0439\u0441\u043a\u043e\u0435_f0.4.geojson 2017059",
+    "adminCode1": "11",
+    "adminName1": "Respublika Buryatiya",
+    "countryCode": "RU",
+    "countryId": "2017370",
+    "countryName": "Russia",
+    "fcl": "P",
+    "fclName": "city, village,...",
+    "fcode": "PPL",
+    "fcodeName": "populated place",
+    "geonameId": 2017059,
+    "hgr_SOURCE": "http://babel.hathitrust.org/cgi/pt?id=uc1.b4583201;view=1up;seq=27",
+    "hgr_admin1_partofID": "9",
+    "hgr_admin2_partofID": null,
+    "hgr_admin_hierarchy": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a|not_in_text",
+    "hgr_alt_name_new_orth": null,
+    "hgr_alt_name_old_orth": null,
+    "hgr_description": "\u0412\u0418\u041b\u042e\u0419\u0421\u041a\u041e\u0415 \u0412\u0415\u0420\u0425\u041d\u0415\u0415 \u0438 \u0421\u0420\u0415\u0414\u041d\u0415\u0415 , \u0437\u0438\u043c\u043e\u0432\u044c\u0435 \u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u0433\u043e \u041d\u0430\u043c\u0463\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430. \u0412\u044a \u043e\u043d\u044b\u0445\u044a \u0431\u044b\u0432\u0430\u044e\u0442\u044a \u044f\u0440\u043c\u0430\u0440\u043a\u0438 \u0432\u044a \u0421\u0435\u043d\u0442\u044f\u0431\u0440\u0463 , \u041e\u043a\u0442\u044f\u0431\u0440\u0463 \u0438 \u041d\u043e\u044f\u0431\u0440\u0463 \u043c\u0463\u0441\u044f\u0446\u0430\u0445\u044a,",
+    "hgr_html_text": "\u0412\u0418\u041b\u042e\u0419\u0421\u041a\u041e\u0415 \u0412\u0415\u0420\u0425\u041d\u0415\u0415 \u0438 \u0421\u0420\u0415\u0414\u041d\u0415\u0415 , </span><span class=\"font0\" style=\"font-style:italic;\">\u0437\u0438\u043c\u043e\u0432\u044c\u0435</span><span class=\"font0\"> \u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u0433\u043e \u041d\u0430\u043c\u0463\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430. \u0412\u044a \u043e\u043d\u044b\u0445\u044a \u0431\u044b\u0432\u0430\u044e\u0442\u044a \u044f\u0440\u043c\u0430\u0440\u043a\u0438 \u0432\u044a \u0421\u0435\u043d\u0442\u044f\u0431\u0440\u0463 </span><span class=\"font0\" style=\"font-style:italic;\">,</span><span class=\"font0\"> \u041e\u043a\u0442\u044f\u0431\u0440\u0463 \u0438 \u041d\u043e\u044f\u0431\u0440\u0463 \u043c\u0463\u0441\u044f\u0446\u0430\u0445\u044a,</span>",
+    "hgr_page": 28,
+    "hgr_partof_id": "9",
+    "hgr_prov_modern_sp": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u043e\u0433\u043e \u041d\u0430\u043c\u0435\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430",
+    "hgr_prov_stem": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a",
+    "hgr_ru_new_orth": "\u0412\u0438\u043b\u044e\u0439\u0441\u043a\u043e\u0435 \u0412\u0435\u0440\u0445\u043d\u0435\u0435",
+    "hgr_ru_old_featuretype": "\u0437\u0438\u043c\u043e\u0432\u044c\u0435",
+    "hgr_ru_old_orth": "\u0412\u0438\u043b\u044e\u0439\u0441\u043a\u043e\u0435 \u0412\u0435\u0440\u0445\u043d\u0435\u0435",
+    "hgr_ru_prov": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u0433\u043e \u041d\u0430\u043c\u0463\u0441\u0442\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0430",
+    "hgr_ru_uezd": null,
+    "hgr_txt_id": 112,
+    "hgr_uezd_modern_sp": null,
+    "hgr_uezd_stem": "not_in_text",
+    "lat": "52.00639",
+    "lng": "106.86472",
+    "name": "Selenginsk",
+    "population": 0,
+    "toponymName": "Selenginsk"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}
