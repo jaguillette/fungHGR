@@ -1,0 +1,463 @@
+{
+  "N": [
+    [
+      "MAIN_TYPE",
+      {
+        "N": "Noun"
+      }
+    ],
+    [
+      "Type",
+      {
+        "c": "common",
+        "p": "proper"
+      }
+    ],
+    [
+      "Gender",
+      {
+        "m": "masculine",
+        "f": "feminine",
+        "n": "neuter",
+        "c": "common"
+      }
+    ],
+    [
+      "Number",
+      {
+        "s": "singular",
+        "p": "plural"
+      }
+    ],
+    [
+      "Case",
+      {
+        "n": "nominative",
+        "g": "genitive",
+        "d": "dative",
+        "a": "accusative",
+        "v": "vocative",
+        "l": "locative",
+        "i": "instrumental"
+      }
+    ],
+    [
+      "Animate",
+      {
+        "n": "no",
+        "y": "yes"
+      }
+    ],
+    [
+      "Case2",
+      {
+        "p": "partitive",
+        "l": "locative"
+      }
+    ]
+  ],
+  "V": [
+    [
+      "MAIN_TYPE",
+      {
+        "V": "Verb"
+      }
+    ],
+    [
+      "Type",
+      {
+        "m": "main",
+        "a": "auxiliary"
+      }
+    ],
+    [
+      "VForm",
+      {
+        "i": "indicative",
+        "m": "imperative",
+        "c": "conditional",
+        "n": "infinitive",
+        "p": "participle",
+        "g": "gerund"
+      }
+    ],
+    [
+      "Tense",
+      {
+        "p": "present",
+        "f": "future",
+        "s": "past"
+      }
+    ],
+    [
+      "Person",
+      {
+        "1": "first",
+        "2": "second",
+        "3": "third"
+      }
+    ],
+    [
+      "Number",
+      {
+        "s": "singular",
+        "p": "plural"
+      }
+    ],
+    [
+      "Gender",
+      {
+        "m": "masculine",
+        "f": "feminine",
+        "n": "neuter"
+      }
+    ],
+    [
+      "Voice",
+      {
+        "a": "active",
+        "p": "passive",
+        "m": "medial"
+      }
+    ],
+    [
+      "Definiteness",
+      {
+        "s": "short-art",
+        "f": "full-art"
+      }
+    ],
+    [
+      "Aspect",
+      {
+        "p": "progressive",
+        "e": "perfective",
+        "b": "biaspectual"
+      }
+    ],
+    [
+      "Case",
+      {
+        "n": "nominative",
+        "g": "genitive",
+        "d": "dative",
+        "a": "accusative",
+        "l": "locative",
+        "i": "instrumental"
+      }
+    ]
+  ],
+  "A": [
+    [
+      "MAIN_TYPE",
+      {
+        "A": "Adjective"
+      }
+    ],
+    [
+      "Type",
+      {
+        "f": "qualificative",
+        "s": "possessive"
+      }
+    ],
+    [
+      "Degree",
+      {
+        "p": "positive",
+        "c": "comparative",
+        "s": "superlative"
+      }
+    ],
+    [
+      "Gender",
+      {
+        "m": "masculine",
+        "f": "feminine",
+        "n": "neuter"
+      }
+    ],
+    [
+      "Number",
+      {
+        "s": "singular",
+        "p": "plural"
+      }
+    ],
+    [
+      "Case",
+      {
+        "n": "nominative",
+        "g": "genitive",
+        "d": "dative",
+        "a": "accusative",
+        "l": "locative",
+        "i": "instrumental"
+      }
+    ],
+    [
+      "Definiteness",
+      {
+        "s": "short-art",
+        "f": "full-art"
+      }
+    ]
+  ],
+  "P": [
+    [
+      "MAIN_TYPE",
+      {
+        "P": "Pronoun"
+      }
+    ],
+    [
+      "Type",
+      {
+        "p": "personal",
+        "d": "demonstrative",
+        "i": "indefinite",
+        "s": "possessive",
+        "q": "interrogative",
+        "r": "relative",
+        "x": "reflexive",
+        "z": "negative",
+        "n": "nonspecific"
+      }
+    ],
+    [
+      "Person",
+      {
+        "1": "first",
+        "2": "second",
+        "3": "third"
+      }
+    ],
+    [
+      "Gender",
+      {
+        "m": "masculine",
+        "f": "feminine",
+        "n": "neuter"
+      }
+    ],
+    [
+      "Number",
+      {
+        "s": "singular",
+        "p": "plural"
+      }
+    ],
+    [
+      "Case",
+      {
+        "n": "nominative",
+        "g": "genitive",
+        "d": "dative",
+        "a": "accusative",
+        "v": "vocative",
+        "l": "locative",
+        "i": "instrumental"
+      }
+    ],
+    [
+      "Syntactic_Type",
+      {
+        "n": "nominal",
+        "a": "adjectival",
+        "r": "adverbial"
+      }
+    ],
+    [
+      "Animate",
+      {
+        "n": "no",
+        "y": "yes"
+      }
+    ]
+  ],
+  "R": [
+    [
+      "MAIN_TYPE",
+      {
+        "R": "Adverb"
+      }
+    ],
+    [
+      "Degree",
+      {
+        "p": "positive",
+        "c": "comparative",
+        "s": "superlative"
+      }
+    ]
+  ],
+  "S": [
+    [
+      "MAIN_TYPE",
+      {
+        "S": "Adposition"
+      }
+    ],
+    [
+      "Type",
+      {
+        "p": "preposition"
+      }
+    ],
+    [
+      "Formation",
+      {
+        "s": "simple",
+        "c": "compound"
+      }
+    ],
+    [
+      "Case",
+      {
+        "g": "genitive",
+        "d": "dative",
+        "a": "accusative",
+        "l": "locative",
+        "i": "instrumental"
+      }
+    ]
+  ],
+  "M": [
+    [
+      "MAIN_TYPE",
+      {
+        "M": "Numeral"
+      }
+    ],
+    [
+      "Type",
+      {
+        "c": "cardinal",
+        "o": "ordinal",
+        "m": "multiple",
+        "l": "collect"
+      }
+    ],
+    [
+      "Gender",
+      {
+        "m": "masculine",
+        "f": "feminine",
+        "n": "neuter"
+      }
+    ],
+    [
+      "Number",
+      {
+        "s": "singular",
+        "p": "plural"
+      }
+    ],
+    [
+      "Case",
+      {
+        "n": "nominative",
+        "g": "genitive",
+        "d": "dative",
+        "a": "accusative",
+        "l": "locative",
+        "i": "instrumental"
+      }
+    ],
+    [
+      "Form",
+      {
+        "d": "digit",
+        "r": "roman",
+        "l": "letter"
+      }
+    ],
+    [
+      "Animate",
+      {
+        "n": "no",
+        "y": "yes"
+      }
+    ]
+  ],
+  "Q": [
+    [
+      "MAIN_TYPE",
+      {
+        "Q": "Particle"
+      }
+    ],
+    [
+      "Formation",
+      {
+        "s": "simple",
+        "c": "compound"
+      }
+    ]
+  ],
+  "I": [
+    [
+      "MAIN_TYPE",
+      {
+        "I": "Interjection"
+      }
+    ],
+    [
+      "Formation",
+      {
+        "s": "simple",
+        "c": "compound"
+      }
+    ]
+  ],
+  "Y": [
+    [
+      "MAIN_TYPE",
+      {
+        "Y": "Abbreviation"
+      }
+    ],
+    [
+      "Syntactic_Type",
+      {
+        "n": "nominal",
+        "r": "adverbial"
+      }
+    ],
+    [
+      "Gender",
+      {
+        "m": "masculine",
+        "f": "feminine",
+        "n": "neuter"
+      }
+    ],
+    [
+      "Number",
+      {
+        "s": "singular",
+        "p": "plural",
+        "c": "paucal"
+      }
+    ],
+    [
+      "Case",
+      {
+        "n": "nominative",
+        "g": "genitive",
+        "d": "dative",
+        "a": "accusative",
+        "l": "locative",
+        "i": "instrumental"
+      }
+    ]
+  ],
+  "X": [
+    [
+      "MAIN_TYPE",
+      {
+        "X": "Residual"
+      }
+    ]
+  ]
+}
