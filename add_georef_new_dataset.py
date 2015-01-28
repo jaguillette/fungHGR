@@ -7,10 +7,13 @@ except:
 
 try:
 	HGR_ID = sys.argv[1]
+except IndexError:
+	HGR_ID = input("HGR ID: ")
+
+try:
 	GEO_ID = int(sys.argv[2])
 except IndexError:
-	print("This script takes two arguments, the id of an entry in the HGR dataset and the geonames ID of the place that you wish to assert it is in the same place as.")
-	sys.exit()
+	GEO_ID = int(input("Geonames ID: "))
 
 dataset_file = "output/enhanced_dataset_tagged_1.json"
 with open(dataset_file,'r',encoding='utf-8') as fp:
