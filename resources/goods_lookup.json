@@ -1,0 +1,442 @@
+{
+  "Крымскую соль": {
+    "display": "Крымскую соль",
+    "eng": "Crimean salt",
+    "kind": "specific"
+  },
+  "бечевами": {
+    "display": "бечева",
+    "eng": "tow rope",
+    "kind": "specific"
+  },
+  "брусья": {
+    "display": "брусья",
+    "eng": "beams/boards",
+    "kind": "specific"
+  },
+  "бумажный": {
+    "display": "бумажный товар",
+    "eng": "paper goods",
+    "kind": "general"
+  },
+  "веревка": {
+    "display": "веревка",
+    "eng": "rope",
+    "kind": "specific"
+  },
+  "вино": {
+    "display": "вино",
+    "eng": "wine/alcohol",
+    "kind": "specific"
+  },
+  "внутренний": {
+    "display": "внутренний товар",
+    "eng": "domestic goods",
+    "kind": "general"
+  },
+  "воск": {
+    "display": "воск",
+    "eng": "wax",
+    "kind": "specific"
+  },
+  "выбойка": {
+    "display": "выбойка",
+    "eng": "printed linen",
+    "kind": "specific"
+  },
+  "галантерейный": {
+    "display": "галантерейный товар",
+    "eng": "dry goods",
+    "kind": "general"
+  },
+  "гарусный": {
+    "display": "гарусный товар",
+    "eng": "worsted",
+    "kind": "specific"
+  },
+  "гвоздь": {
+    "display": "гвоздь",
+    "eng": "nail",
+    "kind": "specific"
+  },
+  "говяжий": {
+    "display": "говяжий",
+    "eng": "beef",
+    "kind": "specific"
+  },
+  "горшками": {
+    "display": "горшок",
+    "eng": "pots",
+    "kind": "specific"
+  },
+  "гумми": {
+    "display": "гумми",
+    "eng": "gum",
+    "kind": "specific"
+  },
+  "деревенский": {
+    "display": "деревенский товар",
+    "eng": "country goods",
+    "kind": "general"
+  },
+  "деревянный": {
+    "display": "деревянный товар",
+    "eng": "wooden goods",
+    "kind": "general"
+  },
+  "домовными": {
+    "display": "домовыми товар",
+    "eng": "household goods",
+    "kind": "general"
+  },
+  "дуга": {
+    "display": "дуга",
+    "eng": "arc or harness",
+    "kind": "specific"
+  },
+  "железный": {
+    "display": "железный товар",
+    "eng": "iron",
+    "kind": "general"
+  },
+  "железо": {
+    "display": "железо",
+    "eng": "iron",
+    "kind": "specific"
+  },
+  "замками": [
+    "locks"
+  ],
+  "заморский": {
+    "display": "заморский товар",
+    "eng": "overseas goods",
+    "kind": "general"
+  },
+  "китайка": {
+    "display": "китайка",
+    "eng": "Nankeen cloth, pale yellowish, orig. made at Nanjing",
+    "kind": "specific"
+  },
+  "кожа": {
+    "display": "кожа",
+    "eng": "leather",
+    "kind": "specific"
+  },
+  "колеса": [
+    "wheel"
+  ],
+  "конский": {
+    "display": "конский",
+    "eng": "horse",
+    "kind": "specific"
+  },
+  "коса": {
+    "display": "коса",
+    "eng": "scythe",
+    "kind": "specific"
+  },
+  "котлами": {
+    "display": "котел",
+    "eng": "boilers",
+    "kind": "specific"
+  },
+  "крамными": {
+    "display": "крамными товар",
+    "eng": "Kramnoy goods",
+    "kind": "general"
+  },
+  "красным товаром": {
+    "display": "красным товаром",
+    "eng": "'red' goods",
+    "kind": "general"
+  },
+  "крестьянский": {
+    "display": "крестьянский товар",
+    "eng": "peasant goods",
+    "kind": "general"
+  },
+  "купецкими товарами": {
+    "display": "купецкими товарами",
+    "eng": "merchant goods",
+    "kind": "general"
+  },
+  "лавочный": {
+    "display": "лавочный товар",
+    "eng": "Lavochne goods",
+    "kind": "general"
+  },
+  "ладоном": {
+    "display": "ладан",
+    "eng": "incense (archaic)",
+    "kind": "specific"
+  },
+  "лес": {
+    "display": "лес",
+    "eng": "wood",
+    "kind": "specific"
+  },
+  "лошадьми": {
+    "display": "лошадьми",
+    "eng": "horses",
+    "kind": "specific"
+  },
+  "лыками": {
+    "display": "лыко",
+    "eng": "bast wood fibers",
+    "kind": "specific"
+  },
+  "льном": {
+    "display": "лен",
+    "eng": "flax",
+    "kind": "specific"
+  },
+  "масло": {
+    "display": "масло",
+    "eng": "oil",
+    "kind": "specific"
+  },
+  "мед": {
+    "display": "мед",
+    "eng": "honey",
+    "kind": "specific"
+  },
+  "медный": {
+    "display": "медный товар",
+    "eng": "copper goods",
+    "kind": "general"
+  },
+  "мелкий": {
+    "display": "мелкий товар",
+    "eng": "fine goods",
+    "kind": "general"
+  },
+  "мелочный": {
+    "display": "мелочный товар",
+    "eng": "petty goods",
+    "kind": "general"
+  },
+  "мелочь": {
+    "display": "мелочь",
+    "eng": "trifle",
+    "kind": "general"
+  },
+  "меховой": {
+    "display": "меховой товар",
+    "eng": "fur goods",
+    "kind": "general"
+  },
+  "москотильными": {
+    "display": "москательные товарами",
+    "eng": "chandlery goods (paints, adhesives, industrial oils, etc.)",
+    "kind": "general"
+  },
+  "мясами": {
+    "display": "мясо",
+    "eng": "meats",
+    "kind": "general"
+  },
+  "набойчатыми": {
+    "display": "набойчатый товар",
+    "eng": "printed cloth goods",
+    "kind": "general"
+  },
+  "надлежащими": {
+    "display": "надлежащий товар",
+    "eng": "appropriate goods",
+    "kind": "general"
+  },
+  "небогатый": {
+    "display": "небогатый товар",
+    "eng": "poor quality goods",
+    "kind": "general"
+  },
+  "недорогой": {
+    "display": "недорогой товар",
+    "eng": "inexpensive goods",
+    "kind": "general"
+  },
+  "нитка": {
+    "display": "нитка",
+    "eng": "thread",
+    "kind": "specific"
+  },
+  "нужный": {
+    "display": "нужный товар",
+    "eng": "necessary goods",
+    "kind": "general"
+  },
+  "ободами": {
+    "display": "обод",
+    "eng": "rims",
+    "kind": "specific"
+  },
+  "овца": [
+    "sheep"
+  ],
+  "овчина": {
+    "display": "овчина",
+    "eng": "sheepskin",
+    "kind": "specific"
+  },
+  "оловянный": {
+    "display": "оловянный товар",
+    "eng": "tin goods",
+    "kind": "general"
+  },
+  "особливый": {
+    "display": "особливый товар",
+    "eng": "special little goods",
+    "kind": "general"
+  },
+  "парчами": {
+    "display": "парчами",
+    "eng": "brocade",
+    "kind": "specific"
+  },
+  "пиво": {
+    "display": "пиво",
+    "eng": "beer",
+    "kind": "specific"
+  },
+  "питейный": {
+    "display": "питейный припасы",
+    "eng": "drinking supplies",
+    "kind": "general"
+  },
+  "платками": {
+    "display": "платок",
+    "eng": "handkerchiefs",
+    "kind": "specific"
+  },
+  "позумент": {
+    "display": "позумент",
+    "eng": "galloon/woven trim",
+    "kind": "specific"
+  },
+  "покроми": {
+    "display": "покроми",
+    "eng": "homespun cloth",
+    "kind": "specific"
+  },
+  "полотно": {
+    "display": "полотно",
+    "eng": "cloth",
+    "kind": "specific"
+  },
+  "привозный": {
+    "display": "привозный товар",
+    "eng": "imported goods",
+    "kind": "general"
+  },
+
+
+
+
+
+
+
+
+
+
+  "саньми": {
+    "display": "сани",
+    "eng": "sledges",
+    "kind": "specific"
+  },
+  "сукно": {
+    "display": "сукно",
+    "eng": "cloth",
+    "kind": "specific"
+  },
+  "роза": {
+    "display": "роза",
+    "eng": "roses",
+    "kind": "specific"
+  },
+  "произрастание": {
+    "display": "произрастание",
+    "eng": "growth, vegetation",
+    "kind": "general"
+  },
+  "скот": {
+    "display": "скот",
+    "eng": "cattle",
+    "kind": "specific"
+  },
+  "рогожами": {
+    "display": "рогожа",
+    "eng": "matting",
+    "kind": "specific"
+  },
+  "сахар": {
+    "display": "сахар",
+    "eng": "sugar",
+    "kind": "specific"
+  },
+  "серебряный": {
+    "eng": "silver goods"
+  },
+  "сапог": [
+    "boot"
+  ],
+  "сковорода": [
+    "pan"
+  ],
+  "ром": [
+    "rum"
+  ],
+  "шелк": [
+    "silk"
+  ],
+  "сено": [
+    "hay"
+  ],
+  "хлеб": [
+    "bread"
+  ],
+  "пушной": [
+    "fur"
+  ],
+  "холст": [
+    "canvas"
+  ],
+  "сало": [
+    "fat"
+  ],
+  "чулками": [
+    "stockings"
+  ],
+  "шелковый": [
+    "silk"
+  ],
+  "серебреный": [
+    "silvering"
+  ],
+  "табак": [
+    "tobacco"
+  ],
+  "рукодельный": [
+    "handicrafts/handmade"
+  ],
+  "рукоделие": [
+    "needlework"
+  ],
+  "хлебный": [
+    "cereal"
+  ],
+  "суконный": [
+    "cloth"
+  ],
+  "хомут": [
+    "clamp"
+  ],
+  "сосуд": [
+    "vessel"
+  ],
+  "шерстяной": [
+    "woolen"
+  ],
+  "сани": [
+    "sledge"
+  ]
+}
