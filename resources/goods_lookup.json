@@ -51,8 +51,8 @@
   },
   "гарусный": {
     "display": "гарусный товар",
-    "eng": "worsted",
-    "kind": "specific"
+    "eng": "worsted goods",
+    "kind": "general"
   },
   "гвоздь": {
     "display": "гвоздь",
@@ -60,7 +60,7 @@
     "kind": "specific"
   },
   "говяжий": {
-    "display": "говяжий",
+    "display": "говядина",
     "eng": "beef",
     "kind": "specific"
   },
@@ -85,7 +85,7 @@
     "kind": "general"
   },
   "домовными": {
-    "display": "домовыми товар",
+    "display": "домовый товар",
     "eng": "household goods",
     "kind": "general"
   },
@@ -104,9 +104,11 @@
     "eng": "iron",
     "kind": "specific"
   },
-  "замками": [
-    "locks"
-  ],
+  "замками": {
+    "display": "замок",
+    "eng": "locks",
+    "kind": "specific"
+  },
   "заморский": {
     "display": "заморский товар",
     "eng": "overseas goods",
@@ -122,11 +124,13 @@
     "eng": "leather",
     "kind": "specific"
   },
-  "колеса": [
-    "wheel"
-  ],
+  "колеса": {
+    "display": "колеса",
+    "eng": "wheel",
+    "kind": "specific"
+  },
   "конский": {
-    "display": "конский",
+    "display": "конь",
     "eng": "horse",
     "kind": "specific"
   },
@@ -146,7 +150,7 @@
     "kind": "general"
   },
   "красным товаром": {
-    "display": "красным товаром",
+    "display": "красный товар",
     "eng": "'red' goods",
     "kind": "general"
   },
@@ -156,7 +160,7 @@
     "kind": "general"
   },
   "купецкими товарами": {
-    "display": "купецкими товарами",
+    "display": "купецкий товар",
     "eng": "merchant goods",
     "kind": "general"
   },
@@ -176,7 +180,7 @@
     "kind": "specific"
   },
   "лошадьми": {
-    "display": "лошадьми",
+    "display": "лошадь",
     "eng": "horses",
     "kind": "specific"
   },
@@ -226,7 +230,7 @@
     "kind": "general"
   },
   "москотильными": {
-    "display": "москательные товарами",
+    "display": "москательный товар",
     "eng": "chandlery goods (paints, adhesives, industrial oils, etc.)",
     "kind": "general"
   },
@@ -270,9 +274,11 @@
     "eng": "rims",
     "kind": "specific"
   },
-  "овца": [
-    "sheep"
-  ],
+  "овца": {
+    "display": "овца",
+    "eng": "sheep",
+    "kind": "specific"
+  },
   "овчина": {
     "display": "овчина",
     "eng": "sheepskin",
@@ -289,7 +295,7 @@
     "kind": "general"
   },
   "парчами": {
-    "display": "парчами",
+    "display": "парча",
     "eng": "brocade",
     "kind": "specific"
   },
@@ -328,24 +334,24 @@
     "eng": "imported goods",
     "kind": "general"
   },
-
-
-
-
-
-
-
-
-
-
-  "саньми": {
-    "display": "сани",
-    "eng": "sledges",
-    "kind": "specific"
+  "приуготовлениями": {
+    "display": "приуготовлять",
+    "eng": "preparations",
+    "kind": "general"
   },
-  "сукно": {
-    "display": "сукно",
-    "eng": "cloth",
+  "произрастание": {
+    "display": "произрастание",
+    "eng": "growth, vegetation",
+    "kind": "general"
+  },
+  "пушной": {
+    "display": "пушной товар",
+    "eng": "fur goods",
+    "kind": "general"
+  },
+  "рогожами": {
+    "display": "рогожа",
+    "eng": "matting",
     "kind": "specific"
   },
   "роза": {
@@ -353,19 +359,34 @@
     "eng": "roses",
     "kind": "specific"
   },
-  "произрастание": {
-    "display": "произрастание",
-    "eng": "growth, vegetation",
-    "kind": "general"
-  },
-  "скот": {
-    "display": "скот",
-    "eng": "cattle",
+  "ром": {
+    "display": "ром",
+    "eng": "rum",
     "kind": "specific"
   },
-  "рогожами": {
-    "display": "рогожа",
-    "eng": "matting",
+  "рукоделие": {
+    "display": "рукоделие",
+    "eng": "needlework",
+    "kind": "general"
+  },
+  "рукодельный": {
+    "display": "рукодельный товар",
+    "eng": "handicrafts/handmade goods",
+    "kind": "general"
+  },
+  "сало": {
+    "display": "сало",
+    "eng": "fat",
+    "kind": "specific"
+  },
+  "саньми": {
+    "display": "сани",
+    "eng": "sledges",
+    "kind": "specific"
+  },
+  "сапог": {
+    "display": "сапог",
+    "eng": "boot",
     "kind": "specific"
   },
   "сахар": {
@@ -373,70 +394,114 @@
     "eng": "sugar",
     "kind": "specific"
   },
-  "серебряный": {
-    "eng": "silver goods"
+  "сено": {
+    "display": "сено",
+    "eng": "hay",
+    "kind": "specific"
   },
-  "сапог": [
-    "boot"
-  ],
-  "сковорода": [
-    "pan"
-  ],
-  "ром": [
-    "rum"
-  ],
-  "шелк": [
-    "silk"
-  ],
-  "сено": [
-    "hay"
-  ],
-  "хлеб": [
-    "bread"
-  ],
-  "пушной": [
-    "fur"
-  ],
-  "холст": [
-    "canvas"
-  ],
-  "сало": [
-    "fat"
-  ],
-  "чулками": [
-    "stockings"
-  ],
-  "шелковый": [
-    "silk"
-  ],
-  "серебреный": [
-    "silvering"
-  ],
-  "табак": [
-    "tobacco"
-  ],
-  "рукодельный": [
-    "handicrafts/handmade"
-  ],
-  "рукоделие": [
-    "needlework"
-  ],
-  "хлебный": [
-    "cereal"
-  ],
-  "суконный": [
-    "cloth"
-  ],
-  "хомут": [
-    "clamp"
-  ],
-  "сосуд": [
-    "vessel"
-  ],
-  "шерстяной": [
-    "woolen"
-  ],
-  "сани": [
-    "sledge"
-  ]
+  "серебреный": {
+    "display": "серебреный товар",
+    "eng": "silver goods",
+    "kind": "general"
+  },
+  "серебряный": {
+    "display": "серебреный товар",
+    "eng": "silver goods",
+    "kind": "general"
+  },
+  "сковорода": {
+    "display": "сковорода",
+    "eng": "pan",
+    "kind": "specific"
+  },
+  "скот": {
+    "display": "скот",
+    "eng": "cattle",
+    "kind": "specific"
+  },
+  "скотский": {
+    "display": "скотский кожа",
+    "eng": "animal hides",
+    "kind": "specific"
+  },
+  "сосуд": {
+    "display": "сосуд",
+    "eng": "vessel",
+    "kind": "specific"
+  },
+  "сукно": {
+    "display": "сукно",
+    "eng": "cloth",
+    "kind": "specific"
+  },
+  "суконный": {
+    "display": "сукно",
+    "eng": "cloth",
+    "kind": "specific"
+  },
+  "суровскими":{
+  	"display":"суровский товар",
+  	"eng":"workshop goods, especially silk, wool, or cotton products",
+  	"kind":"general"
+  },
+  "съестной":{
+  	"display":"съестной припасы",
+  	"eng":"edible goods / eating supplies",
+  	"kind":"general"
+  },
+  "табак": {
+    "display": "табак",
+    "eng": "tobacco",
+    "kind": "specific"
+  },
+  "харчевыми": {
+    "display": "харчевой припасы",
+    "eng": "tavern supplies",
+    "kind": "general"
+  },
+  "хлеб": {
+    "display": "хлеб",
+    "eng": "bread",
+    "kind": "specific"
+  },
+  "хлебный": {
+    "display": "хлеб",
+    "eng": "bread",
+    "kind": "specific"
+  },
+  "холст": {
+    "display": "холст",
+    "eng": "canvas",
+    "kind": "specific"
+  },
+  "хомут": {
+    "display": "хомут",
+    "eng": "clamp",
+    "kind": "specific"
+  },
+  "чулками": {
+    "display": "чулок",
+    "eng": "stockings",
+    "kind": "specific"
+  },
+  "шелк": {
+    "display": "шелк",
+    "eng": "silk",
+    "kind": "specific"
+  },
+  "шелковый": {
+    "display": "шелковый товар",
+    "eng": "silk goods",
+    "kind": "general"
+  },
+  "шерстяной": {
+    "display": "шерстяной товар",
+    "eng": "woolen goods",
+    "kind": "general"
+  },
+  "щепетильный": {
+    "display": "щепетильный товар",
+    "eng": "scrupulous goods",
+    "kind": "general"
+  }  
 }
