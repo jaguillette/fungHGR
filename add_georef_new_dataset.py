@@ -15,7 +15,7 @@ try:
 except IndexError:
 	GEO_ID = int(input("Geonames ID: "))
 
-dataset_file = "output/enhanced_dataset_tagged_1.json"
+dataset_file = "output/enhanced_dataset.json"
 with open(dataset_file,'r',encoding='utf-8') as fp:
 	dataset = json.load(fp)
 
