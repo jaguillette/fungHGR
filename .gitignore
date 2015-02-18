@@ -4,3 +4,5 @@ imperiia/
 .git.bfg-report/
 shapefiles/
 local/
+_site/
+Gemfile*
