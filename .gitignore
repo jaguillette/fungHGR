@@ -6,3 +6,4 @@ shapefiles/
 local/
 _site/
 Gemfile*
+offline/
