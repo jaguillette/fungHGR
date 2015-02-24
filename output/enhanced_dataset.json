@@ -1402,7 +1402,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "BY",
-      "geonameId": "http://geonames.org/620010.0",
+      "geonameId": "http://geonames.org/620010",
       "pres_country": "Belarus",
       "pres_loc": "Volyntsy, Vitebsk, Belarus",
       "x_coord": 28.1864,
@@ -1881,7 +1881,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/713556.0",
+      "geonameId": "http://geonames.org/713556",
       "pres_country": "Ukraine",
       "pres_loc": "Alekseyevka, Dnipropetrovsk, Ukraine",
       "x_coord": 35.92866,
@@ -2195,7 +2195,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/470298.0",
+      "geonameId": "http://geonames.org/470298",
       "pres_country": "Russia",
       "pres_loc": "Vyshegorod, Pskov, Russia",
       "x_coord": 29.62476,
@@ -2576,7 +2576,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/561837.0",
+      "geonameId": "http://geonames.org/561837",
       "pres_country": "Russia",
       "pres_loc": "Gavrilovo, Moskovskaya, Russia",
       "x_coord": 38.58917,
@@ -2758,7 +2758,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "LV",
-      "geonameId": "http://geonames.org/459900.0",
+      "geonameId": "http://geonames.org/459900",
       "pres_country": "Latvia",
       "pres_loc": "Gaļāni, Preiļu Rajons, Latvia",
       "x_coord": 26.83943,
@@ -3327,7 +3327,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/561002.0",
+      "geonameId": "http://geonames.org/561002",
       "pres_country": "Russia",
       "pres_loc": "Glushitskiy, Samara, Russia",
       "x_coord": 50.42343,
@@ -4415,7 +4415,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/708146.0",
+      "geonameId": "http://geonames.org/708146",
       "pres_country": "Ukraine",
       "pres_loc": "Gremyach, Chernihiv, Ukraine",
       "x_coord": 33.28758,
@@ -5750,7 +5750,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "LV",
-      "geonameId": "http://geonames.org/460257.0",
+      "geonameId": "http://geonames.org/460257",
       "pres_country": "Latvia",
       "pres_loc": "Dricēni, Rēzeknes Rajons, Latvia",
       "x_coord": 27.18335,
@@ -7019,7 +7019,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/467445.0",
+      "geonameId": "http://geonames.org/467445",
       "pres_country": "Russia",
       "pres_loc": "Yerakhtur, Rjazan, Russia",
       "x_coord": 41.135,
@@ -7416,7 +7416,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/687092.0",
+      "geonameId": "http://geonames.org/687092",
       "pres_country": "Ukraine",
       "pres_loc": "Zhovnino, Cherkasy, Ukraine",
       "x_coord": 32.68108,
@@ -8260,7 +8260,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/686895.0",
+      "geonameId": "http://geonames.org/686895",
       "pres_country": "Ukraine",
       "pres_loc": "Zolochiv, Kharkiv, Ukraine",
       "x_coord": 35.98178,
@@ -8906,7 +8906,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/707482.0",
+      "geonameId": "http://geonames.org/707482",
       "pres_country": "Ukraine",
       "pres_loc": "Ivankovtsy, Kirovohrad, Ukraine",
       "x_coord": 32.71541,
@@ -9605,7 +9605,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "LV",
-      "geonameId": "http://geonames.org/459517.0",
+      "geonameId": "http://geonames.org/459517",
       "pres_country": "Latvia",
       "pres_loc": "Istalsna, Ludzas Rajons, Latvia",
       "x_coord": 27.85,
@@ -10256,7 +10256,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/712587.0",
+      "geonameId": "http://geonames.org/712587",
       "pres_country": "Ukraine",
       "pres_loc": "Bilohirs’k, Crimea, Ukraine",
       "x_coord": 34.60185,
@@ -11422,7 +11422,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/705771.0",
+      "geonameId": "http://geonames.org/705771",
       "pres_country": "Ukraine",
       "pres_loc": "Kishenka, Poltava, Ukraine",
       "x_coord": 34.10604,
@@ -11834,7 +11834,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/705524.0",
+      "geonameId": "http://geonames.org/705524",
       "pres_country": "Ukraine",
       "pres_loc": "Kobyzhcha, Chernihiv, Ukraine",
       "x_coord": 31.50439,
@@ -11981,7 +11981,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/2124393.0",
+      "geonameId": "http://geonames.org/2124393",
       "pres_country": "Russia",
       "pres_loc": "Kolymskaya, Sakha, Russia",
       "x_coord": 158.70193,
@@ -12394,7 +12394,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/521876.0",
+      "geonameId": "http://geonames.org/521876",
       "pres_country": "Russia",
       "pres_loc": "Nikolayevo-Kozlovskiy, Rostov, Russia",
       "x_coord": 38.35979,
@@ -12447,7 +12447,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/818952.0",
+      "geonameId": "http://geonames.org/818952",
       "pres_country": "Russia",
       "pres_loc": "Kokovino, Moskovskaya, Russia",
       "x_coord": 36.30506,
@@ -12938,7 +12938,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/8409306.0",
+      "geonameId": "http://geonames.org/8409306",
       "pres_country": "Ukraine",
       "pres_loc": "Kostyantyniv, Sumy, Ukraine",
       "x_coord": 33.7971,
@@ -13136,7 +13136,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/704879.0",
+      "geonameId": "http://geonames.org/704879",
       "pres_country": "Ukraine",
       "pres_loc": "Korovayi, Poltava, Ukraine",
       "x_coord": 32.34731,
@@ -16021,7 +16021,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/535366.0",
+      "geonameId": "http://geonames.org/535366",
       "pres_country": "Russia",
       "pres_loc": "Lezhnevo, Ivanovo, Russia",
       "x_coord": 40.89174,
@@ -16503,7 +16503,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/7095250.0",
+      "geonameId": "http://geonames.org/7095250",
       "pres_country": "Russia",
       "pres_loc": "Lopotovo, Kirov, Russia",
       "x_coord": 48.1412,
@@ -16550,7 +16550,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/533975.0",
+      "geonameId": "http://geonames.org/533975",
       "pres_country": "Russia",
       "pres_loc": "Lotoshino, Moskovskaya, Russia",
       "x_coord": 35.64273,
@@ -17564,7 +17564,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/532017.0",
+      "geonameId": "http://geonames.org/532017",
       "pres_country": "Russia",
       "pres_loc": "Makolovo, Mordoviya, Russia",
       "x_coord": 45.55009,
@@ -18298,7 +18298,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/702369.0",
+      "geonameId": "http://geonames.org/702369",
       "pres_country": "Ukraine",
       "pres_loc": "Machekhi, Poltava, Ukraine",
       "x_coord": 34.42964,
@@ -18342,7 +18342,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/701635.0",
+      "geonameId": "http://geonames.org/701635",
       "pres_country": "Ukraine",
       "pres_loc": "Mashevo, Chernihiv, Ukraine",
       "x_coord": 32.79984,
@@ -18565,7 +18565,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/857333.0",
+      "geonameId": "http://geonames.org/857333",
       "pres_country": "Russia",
       "pres_loc": "Berkunovo, Moskovskaya, Russia",
       "x_coord": 35.69445,
@@ -20004,7 +20004,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/700773.0",
+      "geonameId": "http://geonames.org/700773",
       "pres_country": "Ukraine",
       "pres_loc": "Morovsk, Chernihiv, Ukraine",
       "x_coord": 30.87838,
@@ -20244,7 +20244,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "BY",
-      "geonameId": "http://geonames.org/624988.0",
+      "geonameId": "http://geonames.org/624988",
       "pres_country": "Belarus",
       "pres_loc": "Morino, Grodnenskaya, Belarus",
       "x_coord": 25.6957,
@@ -21087,7 +21087,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/6714864.0",
+      "geonameId": "http://geonames.org/6714864",
       "pres_country": "Russia",
       "pres_loc": "Naspishchi, Tula, Russia",
       "x_coord": 37.39369,
@@ -21531,7 +21531,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/699453.0",
+      "geonameId": "http://geonames.org/699453",
       "pres_country": "Ukraine",
       "pres_loc": "Novomyrhorod, Kirovohrad, Ukraine",
       "x_coord": 31.64204,
@@ -21575,7 +21575,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/516931.0",
+      "geonameId": "http://geonames.org/516931",
       "pres_country": "Russia",
       "pres_loc": "Novyy Oskol, Belgorod, Russia",
       "x_coord": 37.86402,
@@ -22039,7 +22039,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "EE",
-      "geonameId": "http://geonames.org/589379.0",
+      "geonameId": "http://geonames.org/589379",
       "pres_country": "Estonia",
       "pres_loc": "Põltsamaa, Jõgevamaa, Estonia",
       "x_coord": 25.97056,
@@ -22852,7 +22852,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/515200.0",
+      "geonameId": "http://geonames.org/515200",
       "pres_country": "Russia",
       "pres_loc": "Onufriyevo, Moskovskaya, Russia",
       "x_coord": 36.51055,
@@ -23512,7 +23512,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/819250.0",
+      "geonameId": "http://geonames.org/819250",
       "pres_country": "Russia",
       "pres_loc": "Astram’yevo, Moskovskaya, Russia",
       "x_coord": 39.13893,
@@ -25688,7 +25688,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/507875.0",
+      "geonameId": "http://geonames.org/507875",
       "pres_country": "Russia",
       "pres_loc": "Pogar, Brjansk, Russia",
       "x_coord": 33.25907,
@@ -27188,7 +27188,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/504127.0",
+      "geonameId": "http://geonames.org/504127",
       "pres_country": "Russia",
       "pres_loc": "Pupki, Ivanovo, Russia",
       "x_coord": 41.35,
@@ -28153,7 +28153,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/7495540.0",
+      "geonameId": "http://geonames.org/7495540",
       "pres_country": "Russia",
       "pres_loc": "Roslovskoye, Vologda, Russia",
       "x_coord": 39.097,
@@ -28705,7 +28705,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "LV",
-      "geonameId": "http://geonames.org/455957.0",
+      "geonameId": "http://geonames.org/455957",
       "pres_country": "Latvia",
       "pres_loc": "Rušona, Riebiņu, Latvia",
       "x_coord": 26.88333,
@@ -29603,7 +29603,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/498698.0",
+      "geonameId": "http://geonames.org/498698",
       "pres_country": "Russia",
       "pres_loc": "Saransk, Mordoviya, Russia",
       "x_coord": 45.1749,
@@ -29885,7 +29885,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "BY",
-      "geonameId": "http://geonames.org/621081.0",
+      "geonameId": "http://geonames.org/621081",
       "pres_country": "Belarus",
       "pres_loc": "Sverzhen’, Gomel, Belarus",
       "x_coord": 30.3222,
@@ -30240,7 +30240,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/694715.0",
+      "geonameId": "http://geonames.org/694715",
       "pres_country": "Ukraine",
       "pres_loc": "Sednëv, Chernihiv, Ukraine",
       "x_coord": 31.56496,
@@ -30762,7 +30762,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/496875.0",
+      "geonameId": "http://geonames.org/496875",
       "pres_country": "Russia",
       "pres_loc": "Sereda, Moskovskaya, Russia",
       "x_coord": 35.50263,
@@ -32916,7 +32916,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/487481.0",
+      "geonameId": "http://geonames.org/487481",
       "pres_country": "Russia",
       "pres_loc": "Stëzhki, Tambov, Russia",
       "x_coord": 41.2188,
@@ -34055,7 +34055,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/483642.0",
+      "geonameId": "http://geonames.org/483642",
       "pres_country": "Russia",
       "pres_loc": "Ten'gushevo, Mordoviya, Russia",
       "x_coord": 42.71889,
@@ -34889,7 +34889,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/478757.0",
+      "geonameId": "http://geonames.org/478757",
       "pres_country": "Russia",
       "pres_loc": "Uren', Nizjnij Novgorod, Russia",
       "x_coord": 45.78522,
@@ -35779,7 +35779,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/711629.0",
+      "geonameId": "http://geonames.org/711629",
       "pres_country": "Ukraine",
       "pres_loc": "Boromlya, Sumy, Ukraine",
       "x_coord": 34.97042,
@@ -36133,7 +36133,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/478982.0",
+      "geonameId": "http://geonames.org/478982",
       "pres_country": "Russia",
       "pres_loc": "Unkosovo, Rjazan, Russia",
       "x_coord": 41.55542,
@@ -37295,7 +37295,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/706483.0",
+      "geonameId": "http://geonames.org/706483",
       "pres_country": "Ukraine",
       "pres_loc": "Kharkiv, Kharkiv, Ukraine",
       "x_coord": 36.25272,
@@ -38046,7 +38046,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/691155.0",
+      "geonameId": "http://geonames.org/691155",
       "pres_country": "Ukraine",
       "pres_loc": "Tsarychanka, Dnipropetrovsk, Ukraine",
       "x_coord": 34.4786,
@@ -38749,7 +38749,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/569138.0",
+      "geonameId": "http://geonames.org/569138",
       "pres_country": "Russia",
       "pres_loc": "Cherlenkovo, Moskovskaya, Russia",
       "x_coord": 35.48094,
@@ -39290,7 +39290,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "UA",
-      "geonameId": "http://geonames.org/710472.0",
+      "geonameId": "http://geonames.org/710472",
       "pres_country": "Ukraine",
       "pres_loc": "Chigirin-Dubrava, Poltava, Ukraine",
       "x_coord": 32.91667,
@@ -40741,7 +40741,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/2013159.0",
+      "geonameId": "http://geonames.org/2013159",
       "pres_country": "Russia",
       "pres_loc": "Yakutsk, Sakha, Russia",
       "x_coord": 129.73306,
@@ -41809,7 +41809,7 @@
     "geo": {
       "coded": "automated",
       "country_code": "RU",
-      "geonameId": "http://geonames.org/7587354.0",
+      "geonameId": "http://geonames.org/7587354",
       "pres_country": "Russia",
       "pres_loc": "Aleksandrovka Pustyn’, Jaroslavl, Russia",
       "x_coord": 38.9948,
