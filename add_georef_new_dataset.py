@@ -38,6 +38,6 @@ with open(dataset_file,'w',encoding='utf-8') as fp:
 if shell:
 	git = sh.git.bake(_cwd='/home/jeremy/Documents/pro/fung_library/gazetteer/fungHGR/')
 	print(git.add(dataset_file))
-	print(git.commit(m="Added {} to dataset after confirming it corresponds to GeoNames ID {}".format(dataset[HGR_ID]['ru_old_orth'],GEO_ID)))
+	print(git.commit(m="Added {} to dataset after confirming it corresponds to GeoNames ID {}".format(dataset[HGR_ID]['name_old_orth'],GEO_ID)))
 
 #print("Georeferencing successfully added for {}.\nLocation currently corresponds to modern location {}, {}.".format(dataset[HGR_ID]['ru_old_orth'],dataset[HGR_ID]['geo']['pres_loc'],dataset[HGR_ID]['geo']['pres_country']))
